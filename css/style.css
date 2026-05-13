@@ -417,9 +417,11 @@ body {
     box-shadow: 0 6px 18px rgba(240, 133, 66, 0.45);
 }
 
-/* Footer (mekteb.net stil — svijetla pozadina, tirkiz/narandža akcenti) */
+/* Footer (mekteb.net minimalistički stil) */
 .footer {
     background: hsl(40, 33%, 97%);
+    background-image: radial-gradient(circle, hsl(40, 30%, 85%) 1px, transparent 1px);
+    background-size: 22px 22px;
     color: var(--text-dark);
     padding: 0 0 var(--spacing-xl) 0;
     margin-top: var(--spacing-xxl);
@@ -454,65 +456,69 @@ body {
     opacity: 0.85;
 }
 
-/* Support section */
-.support-section {
+/* Footer minimalistički blok — pčela + brand + copyright + coffee link */
+.footer-minimal {
     text-align: center;
-    max-width: 700px;
+    padding: var(--spacing-xl) var(--spacing-md) var(--spacing-md);
+    max-width: 600px;
     margin: 0 auto;
 }
 
-.support-section p {
-    margin-bottom: var(--spacing-sm);
-    font-size: 0.95rem;
-    color: var(--text-dark);
-    line-height: 1.6;
+.footer-brand {
+    display: inline-flex;
+    align-items: center;
+    gap: 12px;
+    text-decoration: none;
+    margin-bottom: var(--spacing-md);
 }
 
-.coffee-text {
-    margin: var(--spacing-md) 0;
-    font-style: italic;
-    color: var(--text-light);
-}
-
-.qr-code {
-    width: 120px;
-    height: auto;
-    margin: var(--spacing-md) auto;
+.footer-bee {
+    width: 42px;
+    height: 42px;
+    object-fit: contain;
     display: block;
-    border-radius: 8px;
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
 }
 
-.support-link {
-    color: var(--primary);
-    text-decoration: underline;
-    text-decoration-color: var(--secondary);
+.footer-brand-name {
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.65rem;
     font-weight: 700;
-    display: inline-block;
-    margin-bottom: var(--spacing-sm);
+    color: var(--primary);
+    letter-spacing: -0.5px;
+}
+
+.footer-brand-accent {
+    color: var(--secondary);
+    font-weight: 700;
+}
+
+.footer-copyright {
+    font-size: 0.95rem;
+    color: var(--text-light);
+    margin: var(--spacing-sm) 0 var(--spacing-lg);
+    font-weight: 400;
+}
+
+.footer-coffee-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    color: var(--secondary);
+    text-decoration: none;
+    font-size: 1rem;
+    font-weight: 600;
+    padding: 8px 16px;
+    border-radius: 12px;
     transition: all 0.2s ease;
 }
 
-.support-link:hover {
-    color: var(--primary-dark);
-    text-decoration-color: var(--primary);
+.footer-coffee-link:hover {
+    background: hsl(25, 85%, 95%);
+    color: hsl(20, 90%, 45%);
 }
 
-.copyright {
-    margin-top: var(--spacing-md) !important;
-    padding-top: var(--spacing-md);
-    border-top: 1px solid hsl(40, 20%, 90%);
-    font-size: 0.85rem !important;
-    color: var(--text-light) !important;
-}
-
-.copyright a, .support-section a[href^="mailto"] {
-    color: var(--primary);
-    text-decoration: none;
-}
-
-.copyright a:hover, .support-section a[href^="mailto"]:hover {
-    text-decoration: underline;
+.footer-coffee-link .coffee-icon {
+    font-size: 1.2rem;
 }
 
 /* Responsive */
