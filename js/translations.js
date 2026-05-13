@@ -115,14 +115,14 @@ const translations = {
         selectCategory: "Odaberite kviz",
         
         // Site title
-        siteTitle: "Poslanikova sira",
+        siteTitle: "Mekteb · Sira",
         // Footer information
         totalQuizzesInfo: "📖 Ukupno 10 kvizova • 1000 pitanja",
         coffeeText: "☕ Budi dio dobra koje širimo dalje. Dok će mnogi samo proći pored ovog poziva, ti možeš biti onaj ko će podržati naš rad jednom kahvom. Klikni na QR kod i podrži nas!",
         basedOnWorks: "Kvizovi su zasnovani na knjigama \"Das Leben des Propheten Muhammad ﷺ – Der versiegelte Nektar (Ar-Raheeq Al-Makhtum)\" i \"Die Prophetische Biografie Von Ibn Hisham\".",
         contactInfo: "Kontakt: info@mekteb.net",
         allRightsReserved: "Sva prava zadržana.",
-        siteTitleFooter: "Poslanikova sira",
+        siteTitleFooter: "Mekteb · Sira",
         // Quiz titles and descriptions
         quiz1Title: "Kviz 1: Predislamska Arabija",
         quiz1Desc: "Društveni, ekonomski i vjerski život prije islama i rodoslovlje Poslanika ﷺ",
@@ -260,14 +260,14 @@ const translations = {
         selectCategory: "Wählen Sie ein Quiz",
         
         // Site title
-        siteTitle: "Sīra des Propheten",
+        siteTitle: "Mekteb · Sīra",
         // Footer information
         totalQuizzesInfo: "📖 Insgesamt 10 Quizze • 1000 Fragen",
         coffeeText: "☕ Sei Teil des Guten, das wir verbreiten. Während viele diesen Aufruf übersehen werden, kannst du derjenige sein, der unsere Arbeit mit einem Kaffee unterstützt. Klicke auf den QR-Code und unterstütze uns!",
         basedOnWorks: "Die Quizze basieren auf den Büchern \"Das Leben des Propheten Muhammad ﷺ – Der versiegelte Nektar (Ar-Raheeq Al-Makhtum)\" und \"Die Prophetische Biografie von Ibn Hisham\".",
         contactInfo: "Kontakt: info@mekteb.net",
         allRightsReserved: "Alle Rechte vorbehalten.",
-        siteTitleFooter: "Sīra des Propheten",
+        siteTitleFooter: "Mekteb · Sīra",
         // Quiz titles and descriptions
         quiz1Title: "Quiz 1: Vorislamisches Arabien",
         quiz1Desc: "Das vorislamische Arabien und der Stammbaum des Propheten ﷺ",

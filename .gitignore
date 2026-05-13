@@ -1,9 +1,0 @@
-.DS_Store
-._*
-__MACOSX/
-node_modules/
-*.log
-.env
-.env.local
-.idea/
-.vscode/
