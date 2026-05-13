@@ -505,9 +505,7 @@ body {
 
 .header {
     position: relative;
-    background: linear-gradient(rgba(15, 61, 62, 0.85), rgba(20, 92, 95, 0.85)), url('../images/header_bg.jpg');
-    background-size: cover;
-    background-position: center;
+    background: linear-gradient(135deg, hsl(180, 65%, 22%) 0%, hsl(180, 60%, 32%) 50%, hsl(25, 75%, 45%) 100%);
     color: #ffffff;
     padding: 32px 0 36px;
     box-shadow: 0 8px 30px rgba(0, 0, 0, 0.25);
@@ -550,8 +548,24 @@ body {
     font-weight: 700;
     margin: 0;
     letter-spacing: 0.5px;
-    color: #ffffff;
-    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.5), 0 0 20px rgba(212, 175, 55, 0.3);
+    color: #ffffff !important;
+    text-shadow: 0 2px 6px rgba(0, 0, 0, 0.55), 0 0 24px rgba(255, 200, 80, 0.35);
+}
+
+/* Forsiramo bijelu boju za sve span-ove unutar logo h1 (HTML ima inline style="color: var(--primary)" što bi inače bilo nevidljivo na tamnom header-u) */
+.logo-text h1 span {
+    color: #ffffff !important;
+    text-shadow: inherit;
+}
+
+.logo-text h1 span:nth-child(1) {
+    color: #ffe9a8 !important;
+    font-weight: 800 !important;
+}
+
+.logo-text h1 span:nth-child(2) {
+    color: rgba(255, 255, 255, 0.7) !important;
+    font-weight: 400 !important;
 }
 
 /* PODNASLOV */
