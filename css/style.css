@@ -399,19 +399,22 @@ body {
 .start-quiz-btn {
     width: 100%;
     padding: var(--spacing-md);
-    background: var(--primary);
-    color: white;
+    background: linear-gradient(135deg, hsl(25, 90%, 58%), hsl(20, 85%, 50%));
+    color: #ffffff;
     border: none;
     border-radius: var(--border-radius);
-    font-size: 1rem;
-    font-weight: 600;
+    font-size: 1.05rem;
+    font-weight: 700;
     cursor: pointer;
-    transition: all 0.3s ease;
+    transition: all 0.25s ease;
+    box-shadow: 0 4px 12px rgba(240, 133, 66, 0.3);
+    letter-spacing: 0.3px;
 }
 
 .start-quiz-btn:hover {
-    background: var(--primary-dark);
-    transform: translateX(5px);
+    background: linear-gradient(135deg, hsl(25, 95%, 55%), hsl(18, 90%, 45%));
+    transform: translateY(-2px);
+    box-shadow: 0 6px 18px rgba(240, 133, 66, 0.45);
 }
 
 /* Footer */
@@ -503,96 +506,98 @@ body {
    SVEČANO ZAGLAVLJE
 ========================= */
 
+/* BIJELI HEADER (mekteb.net stil) */
 .header {
     position: relative;
-    background: linear-gradient(135deg, hsl(180, 65%, 22%) 0%, hsl(180, 60%, 32%) 50%, hsl(25, 75%, 45%) 100%);
-    color: #ffffff;
-    padding: 32px 0 36px;
-    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.25);
+    background: #ffffff;
+    color: var(--text-dark);
+    padding: 20px 0 22px;
+    box-shadow: 0 2px 12px rgba(0, 0, 0, 0.06);
+    border-bottom: 3px solid transparent;
+    border-image: linear-gradient(90deg, hsl(180, 60%, 35%), hsl(40, 95%, 55%), hsl(25, 85%, 60%)) 1;
     overflow: hidden;
 }
 
-/* suptilni ornament / svjetlo */
-.header::after {
-    content: "";
-    position: absolute;
-    top: -40%;
-    right: -20%;
-    width: 400px;
-    height: 400px;
-    background: radial-gradient(
-        circle,
-        rgba(212, 175, 55, 0.18),
-        transparent 70%
-    );
-    pointer-events: none;
-}
+.header::after { content: none; }
 
 /* LOGO BLOK */
 .logo {
     display: flex;
     align-items: center;
-    gap: 18px;
+    gap: 14px;
 }
 
+/* Override tamnog gradient kruga oko logo-icon — bijela pozadina sa suptilnim border-om */
+.header .logo-icon {
+    background: #ffffff !important;
+    box-shadow: 0 2px 8px rgba(35, 122, 122, 0.15) !important;
+    border: 2px solid hsl(40, 60%, 90%);
+    width: 56px !important;
+    height: 56px !important;
+}
+
+.header .logo-icon img,
 .logo-img {
-    width: 64px;
-    height: auto;
-    filter: drop-shadow(0 4px 8px rgba(0,0,0,0.35));
+    width: 48px !important;
+    height: 48px !important;
+    object-fit: contain;
+    border-radius: 50%;
+    filter: none;
+    display: block;
 }
 
-/* NASLOV */
+/* NASLOV — tamna mekteb tirkiz boja na bijeloj pozadini */
 .logo-text h1 {
     font-family: "Amiri", serif;
-    font-size: 3rem;
+    font-size: 2.2rem;
     font-weight: 700;
     margin: 0;
-    letter-spacing: 0.5px;
-    color: #ffffff !important;
-    text-shadow: 0 2px 6px rgba(0, 0, 0, 0.55), 0 0 24px rgba(255, 200, 80, 0.35);
+    letter-spacing: 0.3px;
+    color: var(--primary) !important;
+    text-shadow: none;
+    line-height: 1.1;
 }
 
-/* Forsiramo bijelu boju za sve span-ove unutar logo h1 (HTML ima inline style="color: var(--primary)" što bi inače bilo nevidljivo na tamnom header-u) */
-.logo-text h1 span {
-    color: #ffffff !important;
-    text-shadow: inherit;
-}
-
+/* Span boje — Mekteb tirkiz, separator narandžast, Sira tamniji tirkiz */
 .logo-text h1 span:nth-child(1) {
-    color: #ffe9a8 !important;
+    color: var(--primary) !important;
     font-weight: 800 !important;
 }
 
 .logo-text h1 span:nth-child(2) {
-    color: rgba(255, 255, 255, 0.7) !important;
+    color: var(--secondary) !important;
     font-weight: 400 !important;
 }
 
 /* PODNASLOV */
 .logo-text .subtitle {
     font-family: "Inter", sans-serif;
-    font-size: 0.95rem;
+    font-size: 0.88rem;
     font-weight: 500;
-    margin-top: 4px;
-    color: rgba(255, 255, 255, 0.85);
+    margin-top: 2px;
+    color: var(--text-light);
 }
 
-/* NAV DUGMAD U HEADERU */
+/* NAV DUGMAD — tirkiz outline na bijeloj pozadini */
 .nav-btn {
-    background: rgba(255, 255, 255, 0.12);
-    border: 1px solid rgba(255, 255, 255, 0.25);
-    color: #fff;
-    backdrop-filter: blur(6px);
+    background: #ffffff;
+    border: 1.5px solid hsl(180, 30%, 85%);
+    color: var(--text-dark);
+    backdrop-filter: none;
+    transition: all 0.2s ease;
 }
 
 .nav-btn:hover {
-    background: rgba(212, 175, 55, 0.25);
-    border-color: rgba(212, 175, 55, 0.6);
+    background: var(--primary);
+    border-color: var(--primary);
+    color: #ffffff;
 }
 
 /* USER INFO */
 .user-info {
-    color: rgba(255,255,255,0.9);
+    color: var(--text-dark);
+    background: hsl(40, 33%, 96%);
+    border: 1px solid hsl(40, 30%, 88%);
 }
 /* Centered welcome text – elegant version */
 .welcome-section {
