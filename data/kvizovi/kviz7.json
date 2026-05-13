@@ -1,0 +1,2690 @@
+[
+  {
+    "quiz_id": 7,
+    "question_id": 1,
+    "type": "true_false",
+    "difficulty": "easy",
+    "source_section": "Bitka na Bedru",
+    "question": {
+      "bs": "Bitka na Bedru odigrala se 17. ramazana 2. godine po Hidžri.",
+      "de": "Die Schlacht von Badr fand am 17. Ramadan im 2. Jahr nach der Hidschra statt."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Bitka na Bedru, prva velika bitka u islamu, odigrala se u petak 17. ramazana 2. godine po Hidžri. Ovaj datum se i danas obilježava kao jedan od najznačajnijih datuma u islamskoj historiji.",
+      "de": "Richtig! Die Schlacht von Badr, die erste grosse Schlacht im Islam, fand am Freitag, dem 17. Ramadan im 2. Jahr nach der Hidschra statt. Dieses Datum wird noch heute als einer der bedeutendsten Tage in der islamischen Geschichte begangen."
+    }
+  },
+  {
+    "quiz_id": 7,
+    "question_id": 2,
+    "type": "true_false",
+    "difficulty": "easy",
+    "source_section": "Bitka na Bedru",
+    "question": {
+      "bs": "Muslimanska vojska na Bedru brojala je oko 313 boraca.",
+      "de": "Die muslimische Armee bei Badr zählte etwa 313 Kämpfer."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Muslimanska vojska na Bedru imala je oko 313 boraca, naspram kurejšijske vojske koja je brojala između 900 i 1000 vojnika. Uprkos brojčanoj inferiornosti, muslimani su uz Allahovu pomoć ostvarili pobjedu.",
+      "de": "Richtig! Die muslimische Armee bei Badr hatte etwa 313 Kämpfer, gegenüber der quraischitischen Armee mit 900 bis 1000 Soldaten. Trotz der zahlenmässigen Unterlegenheit errangen die Muslime mit Allahs Hilfe den Sieg."
+    }
+  },
+  {
+    "quiz_id": 7,
+    "question_id": 3,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Izvidnice prije Bedra",
+    "question": {
+      "bs": "Hamzina zastava u izvidnici na Sejful-bahru bila je prva zastava koju je Poslanik ﷺ poslao u islamu.",
+      "de": "Hamzas Flagge bei der Erkundung von Saif al-Bahr war die erste Flagge, die der Prophet ﷺ im Islam entsandte."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Izvidnica na području Sejful-bahri u ramazanu 1. godine Hidžre bila je prva izvidnička misija u islamu. Hamza bin Abdul-Muttalib je predvodio 30 muhadžira, a zastava je bila bijele boje i nosio ju je Ebu Mersed.",
+      "de": "Richtig! Die Erkundungsmission im Gebiet von Saif al-Bahr im Ramadan des 1. Jahres der Hidschra war die erste Erkundungsmission im Islam. Hamza ibn Abdul-Muttalib führte 30 Muhadschirun an, und die Fahne war weiss und wurde von Abu Marsad getragen."
+    }
+  },
+  {
+    "quiz_id": 7,
+    "question_id": 4,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Bitka na Bedru",
+    "question": {
+      "bs": "Ko je predvodio kurejšijski karavan koji je bio povod za Bitku na Bedru?",
+      "de": "Wer führte die quraischitische Karawane an, die der Anlass für die Schlacht von Badr war?"
+    },
+    "options": {
+      "bs": [
+        "Ebu Džehl",
+        "Ebu Sufjan",
+        "Utbe bin Rebia",
+        "Umejje bin Halef"
+      ],
+      "de": [
+        "Abu Dschahl",
+        "Abu Sufyan",
+        "Utba ibn Rabi'a",
+        "Umayya ibn Chalaf"
+      ]
+    },
+    "correct": {
+      "bs": "Ebu Sufjan",
+      "de": "Abu Sufyan"
+    },
+    "explanation": {
+      "bs": "Ebu Sufjan je predvodio veliki trgovački karavan koji se vraćao iz Šama. Kada je saznao da ga muslimani čekaju, promijenio je pravac i poslao poruku u Meku tražeći pomoć, što je dovelo do izlaska kurejšijske vojske.",
+      "de": "Abu Sufyan führte eine grosse Handelskarawane an, die aus Syrien zurückkehrte. Als er erfuhr, dass die Muslime auf ihn warteten, änderte er die Route und sandte eine Nachricht nach Mekka und bat um Hilfe, was zum Ausmarsch der quraischitischen Armee führte."
+    }
+  },
+  {
+    "quiz_id": 7,
+    "question_id": 5,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Bitka na Bedru",
+    "question": {
+      "bs": "Ko je predložio muslimanima da zauzmu strateški položaj kod bunara na Bedru?",
+      "de": "Wer schlug den Muslimen vor, die strategische Position bei den Brunnen von Badr einzunehmen?"
+    },
+    "options": {
+      "bs": [
+        "Ebu Bekr",
+        "Sa'd bin Muaz",
+        "Hubab bin Munzir",
+        "Omer bin Hattab"
+      ],
+      "de": [
+        "Abu Bakr",
+        "Sa'd ibn Mu'adh",
+        "Hubab ibn Mundhir",
+        "Umar ibn al-Chattab"
+      ]
+    },
+    "correct": {
+      "bs": "Hubab bin Munzir",
+      "de": "Hubab ibn Mundhir"
+    },
+    "explanation": {
+      "bs": "Hubab bin Munzir, vojni ekspert, predložio je Poslaniku ﷺ da se pomjere do najbližeg bunara kod Kurejšija, da ga zatrpaju i iskopaju kanal za sebe. Poslanik ﷺ je prihvatio ovaj prijedlog rekavši: 'Tvoj plan je dobar.'",
+      "de": "Hubab ibn Mundhir, ein Militärexperte, schlug dem Propheten ﷺ vor, zum nächsten Brunnen bei den Quraisch vorzurücken, ihn zuzuschütten und einen Kanal für sich zu graben. Der Prophet ﷺ akzeptierte diesen Vorschlag und sagte: 'Dein Plan ist gut.'"
+    }
+  },
+  {
+    "quiz_id": 7,
+    "question_id": 6,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Bitka na Bedru",
+    "question": {
+      "bs": "Sa'd bin Muaz je predložio Poslaniku ﷺ da se za njega izgradi posebno sklonište na Bedru.",
+      "de": "Sa'd ibn Mu'adh schlug dem Propheten ﷺ vor, für ihn eine besondere Unterkunft bei Badr zu errichten."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Sa'd bin Muaz je predložio da se izgradi zapovjedno mjesto na uzvisini, odakle će Poslanik ﷺ moći kontrolirati bitku. Također je organizirao grupu mladića da čuvaju Poslanika ﷺ tokom bitke.",
+      "de": "Richtig! Sa'd ibn Mu'adh schlug vor, einen Kommandoposten auf einer Anhöhe zu errichten, von wo aus der Prophet ﷺ die Schlacht überblicken konnte. Er organisierte auch eine Gruppe junger Männer, die den Propheten ﷺ während der Schlacht bewachen sollten."
+    }
+  },
+  {
+    "quiz_id": 7,
+    "question_id": 7,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Bitka na Bedru",
+    "question": {
+      "bs": "Koliko mušrika je poginulo na Bedru, a koliko zarobljeno?",
+      "de": "Wie viele Götzendiener starben bei Badr und wie viele wurden gefangen genommen?"
+    },
+    "options": {
+      "bs": [
+        "70 poginulih, 70 zarobljenih",
+        "50 poginulih, 50 zarobljenih",
+        "60 poginulih, 80 zarobljenih",
+        "100 poginulih, 50 zarobljenih"
+      ],
+      "de": [
+        "70 Tote, 70 Gefangene",
+        "50 Tote, 50 Gefangene",
+        "60 Tote, 80 Gefangene",
+        "100 Tote, 50 Gefangene"
+      ]
+    },
+    "correct": {
+      "bs": "70 poginulih, 70 zarobljenih",
+      "de": "70 Tote, 70 Gefangene"
+    },
+    "explanation": {
+      "bs": "Na Bedru je poginulo 70 kurejšijskih mušrika, uglavnom vojskovođa i prvaka, a još 70 ih je zarobljeno. Muslimani su imali 14 šehida - šest muhadžira i osam ensarija.",
+      "de": "Bei Badr starben 70 quraischitische Götzendiener, hauptsächlich Befehlshaber und Anführer, und weitere 70 wurden gefangen genommen. Die Muslime hatten 14 Märtyrer - sechs Muhadschirun und acht Ansar."
+    }
+  },
+  {
+    "quiz_id": 7,
+    "question_id": 8,
+    "type": "ordering",
+    "difficulty": "hard",
+    "source_section": "Dvoboj na Bedru",
+    "question": {
+      "bs": "Poredajte učesnike dvoboja na Bedru prema redoslijedu njihovih protivnika (Utbe, Šejbe, El-Velid):",
+      "de": "Ordnen Sie die Teilnehmer des Duells bei Badr nach der Reihenfolge ihrer Gegner (Utba, Schaiba, al-Walid):"
+    },
+    "options": {
+      "bs": [
+        "Alija",
+        "Hamza",
+        "Ebu Ubejde bin Haris"
+      ],
+      "de": [
+        "Ali",
+        "Hamza",
+        "Abu Ubayda ibn al-Harith"
+      ]
+    },
+    "correct": {
+      "bs": [
+        "Ebu Ubejde bin Haris",
+        "Hamza",
+        "Alija"
+      ],
+      "de": [
+        "Abu Ubayda ibn al-Harith",
+        "Hamza",
+        "Ali"
+      ]
+    },
+    "explanation": {
+      "bs": "U dvoboju na Bedru, Ebu Ubejde bin Haris se borio protiv Utbe bin Rebie, Hamza protiv Šejbe, a Alija protiv El-Velida. Hamza i Alija su brzo ubili svoje protivnike, dok je Ebu Ubejde ranjen u dvoboju s Utbeom, koji su zatim ubili Hamza i Alija.",
+      "de": "Im Duell bei Badr kämpfte Abu Ubayda ibn al-Harith gegen Utba ibn Rabi'a, Hamza gegen Schaiba und Ali gegen al-Walid. Hamza und Ali töteten ihre Gegner schnell, während Abu Ubayda im Duell mit Utba verwundet wurde, den dann Hamza und Ali töteten."
+    }
+  },
+  {
+    "quiz_id": 7,
+    "question_id": 9,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Bitka na Bedru",
+    "question": {
+      "bs": "Allah ﷻ je poslao hiljadu meleka u pomoć muslimanima na Bedru.",
+      "de": "Allah ﷻ sandte tausend Engel zur Hilfe der Muslime bei Badr."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Allah ﷻ je objavio: 'Poslat ću vam hiljadu meleka koji će jedni za drugim dolaziti.' (El-Enfal, 9) Meleki su pomagali muslimanima u borbi, a mnogi ashabi su svjedočili neobičnim događajima tokom bitke.",
+      "de": "Richtig! Allah ﷻ offenbarte: 'Ich werde euch tausend Engel senden, die nacheinander kommen werden.' (Al-Anfal, 9) Die Engel halfen den Muslimen im Kampf, und viele Gefährten bezeugten ungewöhnliche Ereignisse während der Schlacht."
+    }
+  },
+  {
+    "quiz_id": 7,
+    "question_id": 10,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Bitka na Bedru",
+    "question": {
+      "bs": "Koji ajet je objavljen kada je Poslanik ﷺ bacio šaku prašine na mušrike?",
+      "de": "Welcher Vers wurde offenbart, als der Prophet ﷺ eine Handvoll Staub auf die Götzendiener warf?"
+    },
+    "options": {
+      "bs": [
+        "'I nisi ti bacio kad si bacio, nego je to Allah bacio.' (El-Enfal, 17)",
+        "'Skup će sigurno poražen biti.' (El-Kamer, 45)",
+        "'Poslat ću vam hiljadu meleka.' (El-Enfal, 9)",
+        "'Allah je na strani vjernika.' (El-Enfal, 19)"
+      ],
+      "de": [
+        "'Und du hast nicht geworfen, als du geworfen hast, sondern Allah hat geworfen.' (Al-Anfal, 17)",
+        "'Die Schar wird gewiss besiegt werden.' (Al-Qamar, 45)",
+        "'Ich werde euch tausend Engel senden.' (Al-Anfal, 9)",
+        "'Allah ist auf der Seite der Gläubigen.' (Al-Anfal, 19)"
+      ]
+    },
+    "correct": {
+      "bs": "'I nisi ti bacio kad si bacio, nego je to Allah bacio.' (El-Enfal, 17)",
+      "de": "'Und du hast nicht geworfen, als du geworfen hast, sondern Allah hat geworfen.' (Al-Anfal, 17)"
+    },
+    "explanation": {
+      "bs": "Poslanik ﷺ je uzeo šaku prašine i bacio je na Kurejšije rekavši: 'Lica vam se unakazila!' Nijedan mušrik nije ostao a da ga pijesak nije pogodio u oko, nos ili usta. Povodom toga je objavljen ajet El-Enfal, 17.",
+      "de": "Der Prophet ﷺ nahm eine Handvoll Staub und warf sie auf die Quraisch und sagte: 'Mögen eure Gesichter entstellt werden!' Kein Götzendiener blieb verschont, den der Sand nicht in Auge, Nase oder Mund traf. Daraufhin wurde Vers Al-Anfal, 17 offenbart."
+    }
+  },
+  {
+    "quiz_id": 7,
+    "question_id": 11,
+    "type": "true_false",
+    "difficulty": "easy",
+    "source_section": "Bitka na Bedru",
+    "question": {
+      "bs": "Ebu Džehl je poginuo u Bitki na Bedru.",
+      "de": "Abu Dschahl starb in der Schlacht von Badr."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Ebu Džehl, jedan od najvećih neprijatelja islama, poginuo je na Bedru. Ubila su ga dvojica mladića ensarija, Muaz bin Amr i Muaz bin Afra, a glavu mu je odsjekao Abdullah bin Mesud.",
+      "de": "Richtig! Abu Dschahl, einer der grössten Feinde des Islam, starb bei Badr. Er wurde von zwei jungen Ansar, Mu'adh ibn Amr und Mu'adh ibn Afra, getötet, und Abdullah ibn Mas'ud trennte ihm den Kopf ab."
+    }
+  },
+  {
+    "quiz_id": 7,
+    "question_id": 12,
+    "type": "multiple_choice",
+    "difficulty": "hard",
+    "source_section": "Bitka na Bedru",
+    "question": {
+      "bs": "Koji od navedenih kurejšijskih prvaka su poginuli na Bedru? (Odaberite sve tačne)",
+      "de": "Welche der folgenden quraischitischen Anführer starben bei Badr? (Wählen Sie alle richtigen)"
+    },
+    "options": {
+      "bs": [
+        "Ebu Džehl",
+        "Ebu Sufjan",
+        "Utbe bin Rebia",
+        "Halid bin Velid",
+        "Umejje bin Halef"
+      ],
+      "de": [
+        "Abu Dschahl",
+        "Abu Sufyan",
+        "Utba ibn Rabi'a",
+        "Chalid ibn al-Walid",
+        "Umayya ibn Chalaf"
+      ]
+    },
+    "correct": {
+      "bs": [
+        "Ebu Džehl",
+        "Utbe bin Rebia",
+        "Umejje bin Halef"
+      ],
+      "de": [
+        "Abu Dschahl",
+        "Utba ibn Rabi'a",
+        "Umayya ibn Chalaf"
+      ]
+    },
+    "explanation": {
+      "bs": "Na Bedru su poginuli brojni kurejšijski prvaci, uključujući Ebu Džehla, Utbe bin Rebiu, Šejbe bin Rebiu i Umejju bin Halefa. Ebu Sufjan nije učestvovao u bitki jer je skrenuo karavan, a Halid bin Velid je primio islam tek kasnije.",
+      "de": "Bei Badr starben zahlreiche quraischitische Anführer, darunter Abu Dschahl, Utba ibn Rabi'a, Schaiba ibn Rabi'a und Umayya ibn Chalaf. Abu Sufyan nahm nicht an der Schlacht teil, da er die Karawane umgeleitet hatte, und Chalid ibn al-Walid nahm den Islam erst später an."
+    }
+  },
+  {
+    "quiz_id": 7,
+    "question_id": 13,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Bitka na Bedru",
+    "question": {
+      "bs": "Utbe bin Rebia je savjetovao Kurejšije da se vrate u Meku bez borbe, ali ga Ebu Džehl nije poslušao.",
+      "de": "Utba ibn Rabi'a riet den Quraisch, ohne Kampf nach Mekka zurückzukehren, aber Abu Dschahl hörte nicht auf ihn."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Utbe bin Rebia je mudro savjetovao povratak, upozoravajući da će se Kurejšije boriti protiv svoje rodbine. Međutim, Ebu Džehl ga je optužio za kukavičluk i raspalio strast za osvetom zbog ubijenog Amra bin Hadremija.",
+      "de": "Richtig! Utba ibn Rabi'a riet weise zur Rückkehr und warnte, dass die Quraisch gegen ihre eigenen Verwandten kämpfen würden. Abu Dschahl beschuldigte ihn jedoch der Feigheit und entfachte die Rachsucht wegen des getöteten Amr ibn al-Hadrami."
+    }
+  },
+  {
+    "quiz_id": 7,
+    "question_id": 14,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Bitka na Bedru",
+    "question": {
+      "bs": "Ko je bio prvi glasnik koji je donio vijest o porazu Kurejšija u Meku?",
+      "de": "Wer war der erste Bote, der die Nachricht von der Niederlage der Quraisch nach Mekka brachte?"
+    },
+    "options": {
+      "bs": [
+        "Amr bin El-As",
+        "El-Hajsuman bin Abdullah el-Huzai",
+        "Hakim bin Hizam",
+        "Ebu Sufjan"
+      ],
+      "de": [
+        "Amr ibn al-As",
+        "Al-Haysuman ibn Abdullah al-Chuza'i",
+        "Hakim ibn Hizam",
+        "Abu Sufyan"
+      ]
+    },
+    "correct": {
+      "bs": "El-Hajsuman bin Abdullah el-Huzai",
+      "de": "Al-Haysuman ibn Abdullah al-Chuza'i"
+    },
+    "explanation": {
+      "bs": "El-Hajsuman bin Abdullah el-Huzai je bio prvi koji je donio tužnu vijest Kurejšijama u Meku. Nabrojao im je sve poginule prvake, što je izazvalo šok i nevjericu među stanovnicima Meke.",
+      "de": "Al-Haysuman ibn Abdullah al-Chuza'i war der erste, der den Quraisch die traurige Nachricht nach Mekka brachte. Er zählte ihnen alle gefallenen Anführer auf, was Schock und Ungläubigkeit unter den Bewohnern Mekkas auslöste."
+    }
+  },
+  {
+    "quiz_id": 7,
+    "question_id": 15,
+    "type": "true_false",
+    "difficulty": "hard",
+    "source_section": "Bitka na Bedru",
+    "question": {
+      "bs": "Ebu Leheb je umro od zaraze nekoliko dana nakon Bedra, a sinovi ga nisu smjeli zakopati zbog straha od zaraze.",
+      "de": "Abu Lahab starb wenige Tage nach Badr an einer Seuche, und seine Söhne wagten es nicht, ihn wegen der Ansteckungsgefahr zu begraben."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Ebu Leheb nije išao na Bedr, ali kad je čuo vijesti o porazu, razbolio se. Umro je od zaraze oko sedam dana nakon Bedra. Sinovi su se bojali prići mu tri dana, a zatim su ga štapovima ugurali u raku i zatrpali kamenjem.",
+      "de": "Richtig! Abu Lahab ging nicht nach Badr, aber als er die Nachricht von der Niederlage hörte, wurde er krank. Er starb etwa sieben Tage nach Badr an einer Seuche. Seine Söhne wagten es drei Tage lang nicht, sich ihm zu nähern, und schoben ihn dann mit Stöcken ins Grab und bedeckten ihn mit Steinen."
+    }
+  },
+  {
+    "quiz_id": 7,
+    "question_id": 16,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "source_section": "Bitka na Uhudu",
+    "question": {
+      "bs": "Kada se odigrala Bitka na Uhudu?",
+      "de": "Wann fand die Schlacht von Uhud statt?"
+    },
+    "options": {
+      "bs": [
+        "4. godine po Hidžri",
+        "3. godine po Hidžri",
+        "2. godine po Hidžri",
+        "5. godine po Hidžri"
+      ],
+      "de": [
+        "Im 4. Jahr nach der Hidschra",
+        "Im 3. Jahr nach der Hidschra",
+        "Im 2. Jahr nach der Hidschra",
+        "Im 5. Jahr nach der Hidschra"
+      ]
+    },
+    "correct": {
+      "bs": "3. godine po Hidžri",
+      "de": "Im 3. Jahr nach der Hidschra"
+    },
+    "explanation": {
+      "bs": "Bitka na Uhudu odigrala se u ševalu 3. godine po Hidžri. Kurejšije su organizirale ovu bitku kao osvetu za poraz na Bedru, sakupivši vojsku od 3000 boraca.",
+      "de": "Die Schlacht von Uhud fand im Schawwal des 3. Jahres nach der Hidschra statt. Die Quraisch organisierten diese Schlacht als Rache für die Niederlage bei Badr und versammelten eine Armee von 3000 Kämpfern."
+    }
+  },
+  {
+    "quiz_id": 7,
+    "question_id": 17,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Bitka na Uhudu",
+    "question": {
+      "bs": "Koliko je boraca imala kurejšijska vojska na Uhudu?",
+      "de": "Wie viele Kämpfer hatte die quraischitische Armee bei Uhud?"
+    },
+    "options": {
+      "bs": [
+        "1000 boraca",
+        "3000 boraca",
+        "10000 boraca",
+        "5000 boraca"
+      ],
+      "de": [
+        "1000 Kämpfer",
+        "3000 Kämpfer",
+        "10000 Kämpfer",
+        "5000 Kämpfer"
+      ]
+    },
+    "correct": {
+      "bs": "3000 boraca",
+      "de": "3000 Kämpfer"
+    },
+    "explanation": {
+      "bs": "Kurejšijska vojska na Uhudu brojala je 3000 boraca, 200 konjanika i 700 oklopnika. Komandu je držao Ebu Sufjan, konjicu je vodio Halid bin Velid, a zastavu su nosili Benu Abdud-Dar.",
+      "de": "Die quraischitische Armee bei Uhud zählte 3000 Kämpfer, 200 Reiter und 700 Gepanzerte. Das Kommando hatte Abu Sufyan, die Kavallerie führte Chalid ibn al-Walid, und die Flagge trugen die Banu Abd ad-Dar."
+    }
+  },
+  {
+    "quiz_id": 7,
+    "question_id": 18,
+    "type": "true_false",
+    "difficulty": "easy",
+    "source_section": "Bitka na Uhudu",
+    "question": {
+      "bs": "Poslanik ﷺ je na Uhudu nosio dva oklopa.",
+      "de": "Der Prophet ﷺ trug bei Uhud zwei Rüstungen."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Poslanik ﷺ je na Uhudu nosio dva oklopa kao dodatnu zaštitu. Uprkos tome, bio je ranjen na više mjesta tokom bitke, uključujući lice i rame.",
+      "de": "Richtig! Der Prophet ﷺ trug bei Uhud zwei Rüstungen als zusätzlichen Schutz. Trotzdem wurde er während der Schlacht an mehreren Stellen verwundet, einschliesslich Gesicht und Schulter."
+    }
+  },
+  {
+    "quiz_id": 7,
+    "question_id": 19,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Bitka na Uhudu",
+    "question": {
+      "bs": "Koliko je strijelaca Poslanik ﷺ postavio na brdu Ajnejn da čuvaju zaleđe muslimanske vojske?",
+      "de": "Wie viele Bogenschützen stellte der Prophet ﷺ auf dem Berg Aynain auf, um den Rücken der muslimischen Armee zu schützen?"
+    },
+    "options": {
+      "bs": [
+        "70 strijelaca",
+        "30 strijelaca",
+        "50 strijelaca",
+        "100 strijelaca"
+      ],
+      "de": [
+        "70 Bogenschützen",
+        "30 Bogenschützen",
+        "50 Bogenschützen",
+        "100 Bogenschützen"
+      ]
+    },
+    "correct": {
+      "bs": "50 strijelaca",
+      "de": "50 Bogenschützen"
+    },
+    "explanation": {
+      "bs": "Poslanik ﷺ je postavio 50 strijelaca na brdo Ajnejn pod komandom Abdullaha bin Džubejra. Striktno im je naredio da ne napuštaju položaj bez obzira na ishod bitke, ali većina ih nije poslušala.",
+      "de": "Der Prophet ﷺ positionierte 50 Bogenschützen auf dem Berg Aynain unter dem Kommando von Abdullah ibn Dschubair. Er befahl ihnen strikt, ihre Position nicht zu verlassen, unabhängig vom Ausgang der Schlacht, aber die meisten gehorchten nicht."
+    }
+  },
+  {
+    "quiz_id": 7,
+    "question_id": 20,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Bitka na Uhudu",
+    "question": {
+      "bs": "Abdullah bin Ubejj, vođa munafika, napustio je muslimansku vojsku pred bitku na Uhudu s oko 300 ljudi.",
+      "de": "Abdullah ibn Ubayy, der Anführer der Heuchler, verliess die muslimische Armee vor der Schlacht von Uhud mit etwa 300 Männern."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Abdullah bin Ubejj se povukao s trećinom muslimanske vojske neposredno pred bitku, pravdajući se nezadovoljstvom Poslanikovom ﷺ odlukom. Njegov cilj je bio stvoriti razdor i oslabiti muslimane.",
+      "de": "Richtig! Abdullah ibn Ubayy zog sich mit einem Drittel der muslimischen Armee kurz vor der Schlacht zurück und rechtfertigte sich mit Unzufriedenheit über die Entscheidung des Propheten ﷺ. Sein Ziel war es, Zwietracht zu säen und die Muslime zu schwächen."
+    }
+  },
+  {
+    "quiz_id": 7,
+    "question_id": 21,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Bitka na Uhudu",
+    "question": {
+      "bs": "Ko je predvodio kurejšijsku konjicu na Uhudu?",
+      "de": "Wer führte die quraischitische Kavallerie bei Uhud an?"
+    },
+    "options": {
+      "bs": [
+        "Ikrime bin Ebi Džehl",
+        "Ebu Sufjan",
+        "Safvan bin Umejje",
+        "Halid bin Velid"
+      ],
+      "de": [
+        "Ikrima ibn Abi Dschahl",
+        "Abu Sufyan",
+        "Safwan ibn Umayya",
+        "Chalid ibn al-Walid"
+      ]
+    },
+    "correct": {
+      "bs": "Halid bin Velid",
+      "de": "Chalid ibn al-Walid"
+    },
+    "explanation": {
+      "bs": "Halid bin Velid je predvodio kurejšijsku konjicu na Uhudu. U to vrijeme još nije bio musliman i upravo je on iskoristio grešku strijelaca da opkoli muslimane i preokrene tok bitke.",
+      "de": "Chalid ibn al-Walid führte die quraischitische Kavallerie bei Uhud an. Zu dieser Zeit war er noch kein Muslim, und er nutzte den Fehler der Bogenschützen aus, um die Muslime einzukreisen und den Verlauf der Schlacht zu wenden."
+    }
+  },
+  {
+    "quiz_id": 7,
+    "question_id": 22,
+    "type": "ordering",
+    "difficulty": "hard",
+    "source_section": "Bitka na Uhudu",
+    "question": {
+      "bs": "Poredajte nosioce kurejšijske zastave na Uhudu po redoslijedu pogibije:",
+      "de": "Ordnen Sie die Träger der quraischitischen Flagge bei Uhud nach der Reihenfolge ihres Todes:"
+    },
+    "options": {
+      "bs": [
+        "Ebu Sa'd bin Ebi Talha",
+        "Mesafi bin Talha",
+        "Ebu Šejbe Osman",
+        "Talha bin Ebi Talha"
+      ],
+      "de": [
+        "Abu Sa'd ibn Abi Talha",
+        "Musafi ibn Talha",
+        "Abu Schayba Uthman",
+        "Talha ibn Abi Talha"
+      ]
+    },
+    "correct": {
+      "bs": [
+        "Talha bin Ebi Talha",
+        "Ebu Šejbe Osman",
+        "Ebu Sa'd bin Ebi Talha",
+        "Mesafi bin Talha"
+      ],
+      "de": [
+        "Talha ibn Abi Talha",
+        "Abu Schayba Uthman",
+        "Abu Sa'd ibn Abi Talha",
+        "Musafi ibn Talha"
+      ]
+    },
+    "explanation": {
+      "bs": "Kurejšijska zastava je prolazila kroz ruke porodice Benu Abdud-Dar. Prvo je poginuo Talha bin Ebi Talha (ubio ga Zubeir), zatim njegov brat Osman (ubio ga Hamza), pa Ebu Sa'd (ubio ga Sa'd bin Ebi Vekkas ili Alija), i tako redom. Ukupno je deset članova ove porodice poginulo braneći zastavu.",
+      "de": "Die quraischitische Flagge ging durch die Hände der Familie Banu Abd ad-Dar. Zuerst starb Talha ibn Abi Talha (getötet von Zubair), dann sein Bruder Uthman (getötet von Hamza), dann Abu Sa'd (getötet von Sa'd ibn Abi Waqqas oder Ali), und so weiter. Insgesamt starben zehn Mitglieder dieser Familie bei der Verteidigung der Flagge."
+    }
+  },
+  {
+    "quiz_id": 7,
+    "question_id": 23,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Pogibija Hamze",
+    "question": {
+      "bs": "Ko je ubio Hamzu bin Abdul-Muttaliba na Uhudu?",
+      "de": "Wer tötete Hamza ibn Abdul-Muttalib bei Uhud?"
+    },
+    "options": {
+      "bs": [
+        "Ebu Sufjan",
+        "Šeddad bin El-Esved",
+        "Vahši bin Harb",
+        "Halid bin Velid"
+      ],
+      "de": [
+        "Abu Sufyan",
+        "Schaddad ibn al-Aswad",
+        "Wahschi ibn Harb",
+        "Chalid ibn al-Walid"
+      ]
+    },
+    "correct": {
+      "bs": "Vahši bin Harb",
+      "de": "Wahschi ibn Harb"
+    },
+    "explanation": {
+      "bs": "Vahši bin Harb, abesinski rob, ubio je Hamzu kopljem iz zasjede. Bio je obučen za bacanje koplja i obećana mu je sloboda ako ubije Hamzu kao osvetu za Džubejrovog amidžu Tu'ajmu koji je poginuo na Bedru.",
+      "de": "Wahschi ibn Harb, ein abessinischer Sklave, tötete Hamza mit einem Speer aus dem Hinterhalt. Er war im Speerwurf ausgebildet, und ihm wurde die Freiheit versprochen, wenn er Hamza als Rache für Dschubairs Onkel Tu'ayma tötet, der bei Badr gefallen war."
+    }
+  },
+  {
+    "quiz_id": 7,
+    "question_id": 24,
+    "type": "true_false",
+    "difficulty": "hard",
+    "source_section": "Pogibija Hamze",
+    "question": {
+      "bs": "Hind bint Utbe je nakon Uhuda rasporrila Hamzinu utrobu i žvakala njegovu džigericu iz osvete.",
+      "de": "Hind bint Utba hat nach Uhud Hamzas Eingeweide aufgeschlitzt und seine Leber aus Rache gekaut."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Hind bint Utbe, žena Ebu Sufjana, bila je gorka neprijateljica muslimana jer joj je na Bedru poginuo otac Utbe. Nakon Uhuda je rasporrila Hamzinu utrobu, izvadila džigericu i žvakala je, ali nije mogla progutati pa ju je ispljunula.",
+      "de": "Richtig! Hind bint Utba, die Frau von Abu Sufyan, war eine erbitterte Feindin der Muslime, weil ihr Vater Utba bei Badr gefallen war. Nach Uhud schlitzte sie Hamzas Eingeweide auf, entnahm seine Leber und kaute daran, konnte sie aber nicht schlucken und spuckte sie aus."
+    }
+  },
+  {
+    "quiz_id": 7,
+    "question_id": 25,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Bitka na Uhudu",
+    "question": {
+      "bs": "Kome je Poslanik ﷺ dao posebnu sablju na Uhudu uz uvjet da je koristi kako treba?",
+      "de": "Wem gab der Prophet ﷺ bei Uhud ein besonderes Schwert unter der Bedingung, es richtig zu benutzen?"
+    },
+    "options": {
+      "bs": [
+        "Hamzi bin Abdul-Muttalibu",
+        "Sa'du bin Ebi Vekasu",
+        "Aliji bin Ebi Talibu",
+        "Ebu Dudžanetu"
+      ],
+      "de": [
+        "Hamza ibn Abdul-Muttalib",
+        "Sa'd ibn Abi Waqqas",
+        "Ali ibn Abi Talib",
+        "Abu Dudschana"
+      ]
+    },
+    "correct": {
+      "bs": "Ebu Dudžanetu",
+      "de": "Abu Dudschana"
+    },
+    "explanation": {
+      "bs": "Ebu Dudžane je uzeo sablju od Poslanika ﷺ i borio se izuzetnom hrabrošću. Bio je prepoznatljiv po crvenom povezu na glavi koji su ensarije zvali 'povezom smrti'. Ubio je svakog s kim se sukobio tog dana.",
+      "de": "Abu Dudschana nahm das Schwert vom Propheten ﷺ und kämpfte mit aussergewöhnlicher Tapferkeit. Er war erkennbar an seinem roten Kopfband, das die Ansar das 'Todesband' nannten. Er tötete jeden, mit dem er an diesem Tag kämpfte."
+    }
+  },
+  {
+    "quiz_id": 7,
+    "question_id": 26,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Bitka na Uhudu",
+    "question": {
+      "bs": "Mus'ab bin Umejr, nositelj muslimanske zastave, poginuo je na Uhudu braneći Poslanika ﷺ.",
+      "de": "Mus'ab ibn Umair, der Träger der muslimischen Flagge, starb bei Uhud bei der Verteidigung des Propheten ﷺ."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Mus'ab bin Umejr se hrabro borio braneći Poslanika ﷺ. Kada mu je odsječena desna ruka, uzeo je zastavu u lijevu. Kada je i nju izgubio, pritisnuo je zastavu na prsa bradom dok nije poginuo. Ubio ga je Ibn Kum'et koji je mislio da je ubio Poslanika ﷺ.",
+      "de": "Richtig! Mus'ab ibn Umair kämpfte tapfer bei der Verteidigung des Propheten ﷺ. Als seine rechte Hand abgeschlagen wurde, nahm er die Flagge in die linke. Als er auch diese verlor, presste er die Flagge mit dem Kinn an die Brust, bis er starb. Er wurde von Ibn Qam'a getötet, der dachte, er hätte den Propheten ﷺ getötet."
+    }
+  },
+  {
+    "quiz_id": 7,
+    "question_id": 27,
+    "type": "multiple_choice",
+    "difficulty": "hard",
+    "source_section": "Ranjavanja Poslanika ﷺ",
+    "question": {
+      "bs": "Na koje načine je Poslanik ﷺ ranjen na Uhudu? (Odaberite sve tačne)",
+      "de": "Auf welche Weise wurde der Prophet ﷺ bei Uhud verwundet? (Wählen Sie alle richtigen)"
+    },
+    "options": {
+      "bs": [
+        "Izbijeni prednji zubi",
+        "Strijela u nogu",
+        "Pogođen kamenom u lice",
+        "Ranjen sabljom u rame",
+        "Obruč šljema zabijen u jagodicu"
+      ],
+      "de": [
+        "Vorderzähne ausgeschlagen",
+        "Pfeil im Bein",
+        "Von einem Stein im Gesicht getroffen",
+        "Mit dem Schwert an der Schulter verwundet",
+        "Helmring in die Wange eingedrungen"
+      ]
+    },
+    "correct": {
+      "bs": [
+        "Pogođen kamenom u lice",
+        "Izbijeni prednji zubi",
+        "Ranjen sabljom u rame",
+        "Obruč šljema zabijen u jagodicu"
+      ],
+      "de": [
+        "Von einem Stein im Gesicht getroffen",
+        "Vorderzähne ausgeschlagen",
+        "Mit dem Schwert an der Schulter verwundet",
+        "Helmring in die Wange eingedrungen"
+      ]
+    },
+    "explanation": {
+      "bs": "Poslanik ﷺ je na Uhudu zadobio teške rane: Utbe bin Vekas ga je pogodio kamenom i rasjekao mu gornju usnu i izbio prednji zub, Abdullah bin Šihab ga je ranio u čelo, Abdullah bin Kum'et ga je udario sabljom u rame, a obruč šljema mu se zabio u jagodicu.",
+      "de": "Der Prophet ﷺ erlitt bei Uhud schwere Verletzungen: Utba ibn Waqqas traf ihn mit einem Stein und schlitzte ihm die Oberlippe auf und schlug ihm einen Vorderzahn aus, Abdullah ibn Schihab verwundete ihn an der Stirn, Abdullah ibn Qam'a schlug ihn mit dem Schwert an der Schulter, und der Helmring drang in seine Wange ein."
+    }
+  },
+  {
+    "quiz_id": 7,
+    "question_id": 28,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Ranjavanja Poslanika ﷺ",
+    "question": {
+      "bs": "Ko je izvukao obruč šljema iz Poslanikovog ﷺ lica koristeći svoje zube?",
+      "de": "Wer zog den Helmring aus dem Gesicht des Propheten ﷺ mit seinen Zähnen heraus?"
+    },
+    "options": {
+      "bs": [
+        "Sa'd bin Ebi Vekkas",
+        "Ebu Ubejde bin Džerrah",
+        "Ebu Bekr",
+        "Talha bin Ubejdullah"
+      ],
+      "de": [
+        "Sa'd ibn Abi Waqqas",
+        "Abu Ubayda ibn al-Dscharrah",
+        "Abu Bakr",
+        "Talha ibn Ubaidullah"
+      ]
+    },
+    "correct": {
+      "bs": "Ebu Ubejde bin Džerrah",
+      "de": "Abu Ubayda ibn al-Dscharrah"
+    },
+    "explanation": {
+      "bs": "Ebu Ubejde bin Džerrah je ustima izvukao obruč šljema iz Poslanikovog ﷺ lica, pri čemu mu je ispao jedan zub. Zatim je izvukao i drugi kraj, pri čemu mu je ispao i drugi zub. Zbog toga je bio poznat po tome što mu nedostaju dva prednja zuba.",
+      "de": "Abu Ubayda ibn al-Dscharrah zog den Helmring mit dem Mund aus dem Gesicht des Propheten ﷺ, wobei ihm ein Zahn ausfiel. Dann zog er das andere Ende heraus, wobei ihm auch der andere Zahn ausfiel. Deshalb war er dafür bekannt, dass ihm zwei Vorderzähne fehlten."
+    }
+  },
+  {
+    "quiz_id": 7,
+    "question_id": 29,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Bitka na Uhudu",
+    "question": {
+      "bs": "Talha bin Ubejdullah je na Uhudu zadobio preko 30 rana braneći Poslanika ﷺ.",
+      "de": "Talha ibn Ubaidullah erlitt bei Uhud über 30 Wunden bei der Verteidigung des Propheten ﷺ."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Talha bin Ubejdullah se hrabro borio braneći Poslanika ﷺ. Zadobio je između 35 i 39 rana, a prsti su mu odsječeni dok je štitom branio Poslanika ﷺ. Poslanik ﷺ je za njega rekao: 'Ko hoće gledati šehida kako hodi zemljom, neka gleda Talhu.'",
+      "de": "Richtig! Talha ibn Ubaidullah kämpfte tapfer bei der Verteidigung des Propheten ﷺ. Er erlitt zwischen 35 und 39 Wunden, und seine Finger wurden abgeschlagen, während er den Propheten ﷺ mit seinem Schild beschützte. Der Prophet ﷺ sagte über ihn: 'Wer einen Märtyrer sehen will, der auf der Erde wandelt, soll Talha ansehen.'"
+    }
+  },
+  {
+    "quiz_id": 7,
+    "question_id": 30,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Bitka na Uhudu",
+    "question": {
+      "bs": "Koja žena je učestvovala u bitki na Uhudu braneći Poslanika ﷺ i zadobila 12 rana?",
+      "de": "Welche Frau nahm an der Schlacht von Uhud teil und verteidigte den Propheten ﷺ und erlitt 12 Wunden?"
+    },
+    "options": {
+      "bs": [
+        "Hind bint Utbe",
+        "Nesiba bint Ka'b (Ummu Ammare)",
+        "Safijja bint Abdul-Muttalib",
+        "Fatima bint Muhammed"
+      ],
+      "de": [
+        "Hind bint Utba",
+        "Nusayba bint Ka'b (Umm Ammara)",
+        "Safiyya bint Abdul-Muttalib",
+        "Fatima bint Muhammad"
+      ]
+    },
+    "correct": {
+      "bs": "Nesiba bint Ka'b (Ummu Ammare)",
+      "de": "Nusayba bint Ka'b (Umm Ammara)"
+    },
+    "explanation": {
+      "bs": "Nesiba bint Ka'b, poznata kao Ummu Ammare, direktno je učestvovala u borbi na Uhudu. Navalila je na Ibn Kum'eta koji je napadao grupu muslimana. Zadobila je 12 rana braneći Poslanika ﷺ.",
+      "de": "Nusayba bint Ka'b, bekannt als Umm Ammara, nahm direkt am Kampf bei Uhud teil. Sie griff Ibn Qam'a an, der eine Gruppe von Muslimen angriff. Sie erlitt 12 Wunden bei der Verteidigung des Propheten ﷺ."
+    }
+  },
+  {
+    "quiz_id": 7,
+    "question_id": 31,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Bitka na Uhudu",
+    "question": {
+      "bs": "Hanzala bin Ebi Amir je poginuo na Uhudu dan nakon svoje svadbe.",
+      "de": "Hanzala ibn Abi Amir starb bei Uhud einen Tag nach seiner Hochzeit."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Hanzala se oženio neposredno pred Uhud i bio je u zagrljaju svoje žene kad je čuo poziv na džihad. Skočio je iz postelje i odmah krenuo na Uhud, gdje je poginuo. Nazvan je 'el-Gasil' jer su ga meleki okupali.",
+      "de": "Richtig! Hanzala hatte kurz vor Uhud geheiratet und war in den Armen seiner Frau, als er den Ruf zum Dschihad hörte. Er sprang aus dem Bett und ging sofort nach Uhud, wo er starb. Er wurde 'al-Ghasil' genannt, weil ihn die Engel wuschen."
+    }
+  },
+  {
+    "quiz_id": 7,
+    "question_id": 32,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Bitka na Uhudu",
+    "question": {
+      "bs": "Ko je ubio Ubejja bin Halefa na Uhudu?",
+      "de": "Wer tötete Ubayy ibn Chalaf bei Uhud?"
+    },
+    "options": {
+      "bs": [
+        "Alija bin Ebi Talib",
+        "Poslanik ﷺ lično",
+        "Sa'd bin Ebi Vekkas",
+        "Hamza bin Abdul-Muttalib"
+      ],
+      "de": [
+        "Ali ibn Abi Talib",
+        "Der Prophet ﷺ persönlich",
+        "Sa'd ibn Abi Waqqas",
+        "Hamza ibn Abdul-Muttalib"
+      ]
+    },
+    "correct": {
+      "bs": "Poslanik ﷺ lično",
+      "de": "Der Prophet ﷺ persönlich"
+    },
+    "explanation": {
+      "bs": "Poslanik ﷺ je lično ubio Ubejja bin Halefa na Uhudu. Ubej je u Meki prijetio da će ubiti Poslanika ﷺ, a Poslanik ﷺ mu je rekao: 'Ja ću te ubiti.' Pogodio ga je kopljem u vrat, a Ubej je umro na putu za Meku.",
+      "de": "Der Prophet ﷺ tötete Ubayy ibn Chalaf persönlich bei Uhud. Ubayy hatte in Mekka gedroht, den Propheten ﷺ zu töten, und der Prophet ﷺ sagte ihm: 'Ich werde dich töten.' Er traf ihn mit einem Speer am Hals, und Ubayy starb auf dem Weg nach Mekka."
+    }
+  },
+  {
+    "quiz_id": 7,
+    "question_id": 33,
+    "type": "true_false",
+    "difficulty": "easy",
+    "source_section": "Bitka na Uhudu",
+    "question": {
+      "bs": "Muslimani su pobijedili u Bitki na Uhudu.",
+      "de": "Die Muslime gewannen die Schlacht von Uhud."
+    },
+    "correct": false,
+    "explanation": {
+      "bs": "Netačno! Bitka na Uhudu nije završila pobjedom muslimana. Iako su muslimani na početku imali prednost, greška strijelaca koji su napustili položaje omogućila je Halidu bin Velidu da ih opkoli. Muslimani su pretrpjeli značajne gubitke, uključujući 70 šehida.",
+      "de": "Falsch! Die Schlacht von Uhud endete nicht mit einem Sieg der Muslime. Obwohl die Muslime anfangs im Vorteil waren, ermöglichte der Fehler der Bogenschützen, die ihre Positionen verliessen, Chalid ibn al-Walid, sie einzukreisen. Die Muslime erlitten erhebliche Verluste, darunter 70 Märtyrer."
+    }
+  },
+  {
+    "quiz_id": 7,
+    "question_id": 34,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Bitka na Uhudu",
+    "question": {
+      "bs": "Koliko je muslimana poginulo na Uhudu?",
+      "de": "Wie viele Muslime starben bei Uhud?"
+    },
+    "options": {
+      "bs": [
+        "14 šehida",
+        "50 šehida",
+        "70 šehida",
+        "100 šehida"
+      ],
+      "de": [
+        "14 Märtyrer",
+        "50 Märtyrer",
+        "70 Märtyrer",
+        "100 Märtyrer"
+      ]
+    },
+    "correct": {
+      "bs": "70 šehida",
+      "de": "70 Märtyrer"
+    },
+    "explanation": {
+      "bs": "Na Uhudu je poginulo 70 muslimana, među kojima su bili istaknuti ashabi poput Hamze bin Abdul-Muttaliba, Mus'aba bin Umejra i Abdullaha bin Džahša. Kurejšije su imale 22 poginula.",
+      "de": "Bei Uhud starben 70 Muslime, darunter bedeutende Gefährten wie Hamza ibn Abdul-Muttalib, Mus'ab ibn Umair und Abdullah ibn Dschahsch. Die Quraisch hatten 22 Tote."
+    }
+  },
+  {
+    "quiz_id": 7,
+    "question_id": 35,
+    "type": "true_false",
+    "difficulty": "easy",
+    "source_section": "Bitka na Hendeku",
+    "question": {
+      "bs": "Bitka na Hendeku je poznata i kao Bitka saveznika (El-Ahzab).",
+      "de": "Die Schlacht am Graben ist auch als Schlacht der Verbündeten (Al-Ahzab) bekannt."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Bitka na Hendeku ima dva naziva: Hendek (rov) zbog rova koji su muslimani iskopali, i El-Ahzab (saveznici) jer su se ujedinila različita arapska plemena i Jevreji protiv muslimana.",
+      "de": "Richtig! Die Schlacht am Graben hat zwei Namen: Chandaq (Graben) wegen des Grabens, den die Muslime aushoben, und Al-Ahzab (die Verbündeten), weil sich verschiedene arabische Stämme und die Juden gegen die Muslime verbündeten."
+    }
+  },
+  {
+    "quiz_id": 7,
+    "question_id": 36,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "source_section": "Bitka na Hendeku",
+    "question": {
+      "bs": "Kada se odigrala Bitka na Hendeku?",
+      "de": "Wann fand die Schlacht am Graben statt?"
+    },
+    "options": {
+      "bs": [
+        "3. godine po Hidžri",
+        "5. godine po Hidžri",
+        "4. godine po Hidžri",
+        "6. godine po Hidžri"
+      ],
+      "de": [
+        "Im 3. Jahr nach der Hidschra",
+        "Im 5. Jahr nach der Hidschra",
+        "Im 4. Jahr nach der Hidschra",
+        "Im 6. Jahr nach der Hidschra"
+      ]
+    },
+    "correct": {
+      "bs": "5. godine po Hidžri",
+      "de": "Im 5. Jahr nach der Hidschra"
+    },
+    "explanation": {
+      "bs": "Bitka na Hendeku odigrala se u ševalu 5. godine po Hidžri. Opsada je trajala oko mjesec dana i završila se pobjedom muslimana bez direktnog sukoba, zahvaljujući Allahovoj pomoći.",
+      "de": "Die Schlacht am Graben fand im Schawwal des 5. Jahres nach der Hidschra statt. Die Belagerung dauerte etwa einen Monat und endete mit dem Sieg der Muslime ohne direkten Kampf, dank Allahs Hilfe."
+    }
+  },
+  {
+    "quiz_id": 7,
+    "question_id": 37,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "source_section": "Bitka na Hendeku",
+    "question": {
+      "bs": "Ko je predložio kopanje hendeka (rova) oko Medine?",
+      "de": "Wer schlug das Graben des Grabens um Medina vor?"
+    },
+    "options": {
+      "bs": [
+        "Sa'd bin Muaz",
+        "Selman Farisi",
+        "Ebu Bekr",
+        "Alija bin Ebi Talib"
+      ],
+      "de": [
+        "Sa'd ibn Mu'adh",
+        "Salman al-Farisi",
+        "Abu Bakr",
+        "Ali ibn Abi Talib"
+      ]
+    },
+    "correct": {
+      "bs": "Selman Farisi",
+      "de": "Salman al-Farisi"
+    },
+    "explanation": {
+      "bs": "Selman Farisi r.a., porijeklom Perzijanac, predložio je Poslaniku ﷺ kopanje hendeka. U Perziji su ovakvu taktiku koristili za odbranu gradova, a Arapi je do tada nisu poznavali.",
+      "de": "Salman al-Farisi r.a., ursprünglich Perser, schlug dem Propheten ﷺ das Graben des Grabens vor. In Persien wurde diese Taktik zur Verteidigung von Städten verwendet, und die Araber kannten sie bis dahin nicht."
+    }
+  },
+  {
+    "quiz_id": 7,
+    "question_id": 38,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Bitka na Hendeku",
+    "question": {
+      "bs": "Koliko je vojnika imala neprijateljska koalicija na Hendeku?",
+      "de": "Wie viele Soldaten hatte die feindliche Koalition am Graben?"
+    },
+    "options": {
+      "bs": [
+        "Oko 3.000 vojnika",
+        "Oko 10.000 vojnika",
+        "Oko 15.000 vojnika",
+        "Oko 5.000 vojnika"
+      ],
+      "de": [
+        "Etwa 3.000 Soldaten",
+        "Etwa 10.000 Soldaten",
+        "Etwa 15.000 Soldaten",
+        "Etwa 5.000 Soldaten"
+      ]
+    },
+    "correct": {
+      "bs": "Oko 10.000 vojnika",
+      "de": "Etwa 10.000 Soldaten"
+    },
+    "explanation": {
+      "bs": "Neprijateljska koalicija na Hendeku brojala je oko 10.000 vojnika. Kurejšije su imale 4.000 boraca pod vodstvom Ebu Sufjana, a ostatak su činila plemena Gatafan, Benu Esed i druga plemena koja su ujedinili Jevreji iz Benu Nadira.",
+      "de": "Die feindliche Koalition am Graben zählte etwa 10.000 Soldaten. Die Quraisch hatten 4.000 Kämpfer unter der Führung von Abu Sufyan, und der Rest bestand aus den Stämmen Ghatafan, Banu Asad und anderen Stämmen, die von den Juden der Banu Nadir vereint wurden."
+    }
+  },
+  {
+    "quiz_id": 7,
+    "question_id": 39,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Bitka na Hendeku",
+    "question": {
+      "bs": "Jevreji Benu Nadir su organizirali koaliciju protiv muslimana na Hendeku.",
+      "de": "Die Juden der Banu Nadir organisierten die Koalition gegen die Muslime am Graben."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Dvadeset jevrejskih prvaka iz plemena Benu Nadir otputovalo je u Meku i Gatafan da podstaknu Kurejšije i arapska plemena na rat protiv muslimana. Obećali su im pomoć i uspjeli ujediniti neprijatelje islama.",
+      "de": "Richtig! Zwanzig jüdische Anführer vom Stamm der Banu Nadir reisten nach Mekka und Ghatafan, um die Quraisch und die arabischen Stämme zum Krieg gegen die Muslime anzustiften. Sie versprachen ihnen Hilfe und schafften es, die Feinde des Islam zu vereinen."
+    }
+  },
+  {
+    "quiz_id": 7,
+    "question_id": 40,
+    "type": "multiple_choice",
+    "difficulty": "hard",
+    "source_section": "Bitka na Hendeku",
+    "question": {
+      "bs": "Koja arapska plemena su učestvovala u koaliciji protiv muslimana na Hendeku? (Odaberite sve tačne)",
+      "de": "Welche arabischen Stämme nahmen an der Koalition gegen die Muslime am Graben teil? (Wählen Sie alle richtigen)"
+    },
+    "options": {
+      "bs": [
+        "Benu Fezzare",
+        "Kurejšije",
+        "Gatafan",
+        "Benu Mure",
+        "Benu Seleme"
+      ],
+      "de": [
+        "Banu Fazara",
+        "Quraisch",
+        "Ghatafan",
+        "Banu Murra",
+        "Banu Salama"
+      ]
+    },
+    "correct": {
+      "bs": [
+        "Kurejšije",
+        "Gatafan",
+        "Benu Fezzare",
+        "Benu Mure"
+      ],
+      "de": [
+        "Quraisch",
+        "Ghatafan",
+        "Banu Fazara",
+        "Banu Murra"
+      ]
+    },
+    "explanation": {
+      "bs": "Na Hendeku su protiv muslimana učestvovale Kurejšije (4.000 boraca pod vodstvom Ebu Sufjana), Gatafan, Benu Fezzare (pod vodstvom Ujejne bin Hisna), Benu Mure (pod vodstvom El-Harisa bin Avfa), Benu Ešdžea i Benu Esed. Benu Seleme su bili ensarijsko pleme koje je bilo na strani muslimana.",
+      "de": "Am Graben kämpften gegen die Muslime die Quraisch (4.000 Kämpfer unter Abu Sufyan), Ghatafan, Banu Fazara (unter Uyayna ibn Hisn), Banu Murra (unter al-Harith ibn Auf), Banu Aschdscha' und Banu Asad. Banu Salama waren ein ansarischer Stamm auf der Seite der Muslime."
+    }
+  },
+  {
+    "quiz_id": 7,
+    "question_id": 41,
+    "type": "true_false",
+    "difficulty": "hard",
+    "source_section": "Bitka na Hendeku",
+    "question": {
+      "bs": "Poslanik ﷺ je lično učestvovao u kopanju hendeka zajedno s ashabima.",
+      "de": "Der Prophet ﷺ beteiligte sich persönlich am Graben des Grabens zusammen mit den Gefährten."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Poslanik ﷺ je lično kopao hendek i nosio zemlju na leđima. Ashabi su ga vidjeli kako radi iako je bio umoran i gladan. Poslanik ﷺ je bodrio ashabe stihovima i dovama tokom kopanja.",
+      "de": "Richtig! Der Prophet ﷺ grub persönlich am Graben und trug Erde auf seinem Rücken. Die Gefährten sahen ihn arbeiten, obwohl er müde und hungrig war. Der Prophet ﷺ ermutigte die Gefährten mit Versen und Bittgebeten während des Grabens."
+    }
+  },
+  {
+    "quiz_id": 7,
+    "question_id": 42,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Bitka na Hendeku",
+    "question": {
+      "bs": "Koliko je kamena Poslanik ﷺ vezao na stomak od gladi tokom kopanja hendeka?",
+      "de": "Wie viele Steine band sich der Prophet ﷺ vor Hunger während des Grabens des Grabens um den Bauch?"
+    },
+    "options": {
+      "bs": [
+        "Tri kamena",
+        "Jedan kamen",
+        "Dva kamena",
+        "Nije vezao kamenje"
+      ],
+      "de": [
+        "Drei Steine",
+        "Einen Stein",
+        "Zwei Steine",
+        "Er band keine Steine"
+      ]
+    },
+    "correct": {
+      "bs": "Dva kamena",
+      "de": "Zwei Steine"
+    },
+    "explanation": {
+      "bs": "Ashabi su se požalili Poslaniku ﷺ na glad i pokazali da svako ima privezan po jedan kamen na stomak. Tada je Poslanik ﷺ otkrio svoj stomak i pokazao da ima privezana dva kamena, što pokazuje da je on trpio više od ostalih.",
+      "de": "Die Gefährten beklagten sich beim Propheten ﷺ über den Hunger und zeigten, dass jeder einen Stein um den Bauch gebunden hatte. Da enthüllte der Prophet ﷺ seinen Bauch und zeigte, dass er zwei Steine gebunden hatte, was zeigt, dass er mehr litt als die anderen."
+    }
+  },
+  {
+    "quiz_id": 7,
+    "question_id": 43,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Izdaja Benu Kurejze",
+    "question": {
+      "bs": "Jevreji Benu Kurejza su prekršili ugovor s muslimanima tokom Bitke na Hendeku.",
+      "de": "Die Juden der Banu Quraiza brachen ihren Vertrag mit den Muslimen während der Schlacht am Graben."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Benu Kurejza su, na nagovor Hujejja bin Ahtaba iz Benu Nadira, prekršili ugovor s Poslanikom ﷺ i pristali pomoći koaliciji. Njihova izdaja je stavila muslimane u opasnost jer su ugrozili zaleđe Medine.",
+      "de": "Richtig! Die Banu Quraiza brachen auf Drängen von Huyayy ibn Akhtab von den Banu Nadir ihren Vertrag mit dem Propheten ﷺ und stimmten zu, der Koalition zu helfen. Ihr Verrat brachte die Muslime in Gefahr, da sie das Hinterland Medinas bedrohten."
+    }
+  },
+  {
+    "quiz_id": 7,
+    "question_id": 44,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Bitka na Hendeku",
+    "question": {
+      "bs": "Ko je bio Nuajm bin Mesud i kakvu ulogu je odigrao u Bitki na Hendeku?",
+      "de": "Wer war Nu'aym ibn Mas'ud und welche Rolle spielte er in der Schlacht am Graben?"
+    },
+    "options": {
+      "bs": [
+        "Zapovjednik konjice",
+        "Tajni musliman koji je unio razdor među neprijatelje",
+        "Pregovarač za muslimane",
+        "Vođa koalicije"
+      ],
+      "de": [
+        "Der Befehlshaber der Kavallerie",
+        "Ein heimlicher Muslim, der Zwietracht unter den Feinden säte",
+        "Ein Verhandlungsführer für die Muslime",
+        "Der Anführer der Koalition"
+      ]
+    },
+    "correct": {
+      "bs": "Tajni musliman koji je unio razdor među neprijatelje",
+      "de": "Ein heimlicher Muslim, der Zwietracht unter den Feinden säte"
+    },
+    "explanation": {
+      "bs": "Nuajm bin Mesud iz plemena Gatafan je tajno primio islam. Poslanik ﷺ mu je rekao: 'Ti si samo jedan čovjek, pomozi nam koliko možeš. Rat je vještina i varka.' Nuajm je uspio zavaditi Benu Kurejzu i Kurejšije, što je doprinijelo raspadu koalicije.",
+      "de": "Nu'aym ibn Mas'ud vom Stamm Ghatafan nahm heimlich den Islam an. Der Prophet ﷺ sagte ihm: 'Du bist nur ein Mann, hilf uns so gut du kannst. Krieg ist Kunst und List.' Nu'aym schaffte es, die Banu Quraiza und die Quraisch zu entzweien, was zum Zerfall der Koalition beitrug."
+    }
+  },
+  {
+    "quiz_id": 7,
+    "question_id": 45,
+    "type": "ordering",
+    "difficulty": "hard",
+    "source_section": "Bitka na Hendeku",
+    "question": {
+      "bs": "Poredajte događaje Bitke na Hendeku hronološki:",
+      "de": "Ordnen Sie die Ereignisse der Schlacht am Graben chronologisch:"
+    },
+    "options": {
+      "bs": [
+        "Dolazak saveznika pred Medinu",
+        "Izdaja Benu Kurejze",
+        "Kopanje hendeka",
+        "Allah šalje vjetar i meleke"
+      ],
+      "de": [
+        "Ankunft der Verbündeten vor Medina",
+        "Verrat der Banu Quraiza",
+        "Graben des Grabens",
+        "Allah sendet Wind und Engel"
+      ]
+    },
+    "correct": {
+      "bs": [
+        "Kopanje hendeka",
+        "Dolazak saveznika pred Medinu",
+        "Izdaja Benu Kurejze",
+        "Allah šalje vjetar i meleke"
+      ],
+      "de": [
+        "Graben des Grabens",
+        "Ankunft der Verbündeten vor Medina",
+        "Verrat der Banu Quraiza",
+        "Allah sendet Wind und Engel"
+      ]
+    },
+    "explanation": {
+      "bs": "Redoslijed događaja: 1) Muslimani su kopali hendek na prijedlog Selmana Farisija. 2) Saveznici su stigli pred Medinu i opkolili je. 3) Benu Kurejza su, nagovoreni od Hujejja bin Ahtaba, prekršili ugovor. 4) Allah je poslao jak vjetar i meleke koji su razbili koaliciju i natjerali ih na povlačenje.",
+      "de": "Reihenfolge der Ereignisse: 1) Die Muslime gruben den Graben auf Vorschlag von Salman al-Farisi. 2) Die Verbündeten kamen vor Medina an und belagerten es. 3) Die Banu Quraiza brachen, von Huyayy ibn Akhtab überredet, den Vertrag. 4) Allah sandte einen starken Wind und Engel, die die Koalition zerstreuten und zum Rückzug zwangen."
+    }
+  },
+  {
+    "quiz_id": 7,
+    "question_id": 46,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Bitka na Hendeku",
+    "question": {
+      "bs": "Allah ﷻ je poslao jak vjetar koji je uništio šatore i opremu neprijatelja na Hendeku.",
+      "de": "Allah ﷻ sandte einen starken Wind, der die Zelte und die Ausrüstung der Feinde am Graben zerstörte."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Allah ﷻ je usliašao dove muslimana i poslao strašan vjetar koji je rušio šatore, gasio vatre i unosio strah u srca neprijatelja. Uz to je poslao meleke. Saveznici su se povukli bez direktnog sukoba s muslimanima.",
+      "de": "Richtig! Allah ﷻ erhörte die Bittgebete der Muslime und sandte einen schrecklichen Wind, der Zelte umwarf, Feuer löschte und Furcht in die Herzen der Feinde säte. Zusätzlich sandte er Engel. Die Verbündeten zogen sich ohne direkten Kampf mit den Muslimen zurück."
+    }
+  },
+  {
+    "quiz_id": 7,
+    "question_id": 47,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Bitka na Hendeku",
+    "question": {
+      "bs": "Koliko je trajala opsada Medine tokom Bitke na Hendeku?",
+      "de": "Wie lange dauerte die Belagerung Medinas während der Schlacht am Graben?"
+    },
+    "options": {
+      "bs": [
+        "Tri mjeseca",
+        "Dvije sedmice",
+        "Oko mjesec dana",
+        "Tri dana"
+      ],
+      "de": [
+        "Drei Monate",
+        "Zwei Wochen",
+        "Etwa einen Monat",
+        "Drei Tage"
+      ]
+    },
+    "correct": {
+      "bs": "Oko mjesec dana",
+      "de": "Etwa einen Monat"
+    },
+    "explanation": {
+      "bs": "Opsada Medine trajala je oko mjesec dana. Saveznici su držali muslimane u opsadi u teškim uvjetima - bila je zima, hrana je bila oskudna, a muslimani su strahovali od izdaje Benu Kurejze. Na kraju je Allah poslao vjetar i meleke koji su razbili neprijatelja.",
+      "de": "Die Belagerung Medinas dauerte etwa einen Monat. Die Verbündeten hielten die Muslime unter schwierigen Bedingungen in Belagerung - es war Winter, Nahrung war knapp, und die Muslime fürchteten den Verrat der Banu Quraiza. Am Ende sandte Allah Wind und Engel, die den Feind zerstreuten."
+    }
+  },
+  {
+    "quiz_id": 7,
+    "question_id": 48,
+    "type": "true_false",
+    "difficulty": "hard",
+    "source_section": "Pohod na Benu Kurejza",
+    "question": {
+      "bs": "Džibril a.s. je naredio Poslaniku ﷺ da odmah nakon Hendeka krene na Benu Kurejzu.",
+      "de": "Dschibril a.s. befahl dem Propheten ﷺ, sofort nach dem Graben gegen die Banu Quraiza zu ziehen."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Čim se Poslanik ﷺ vratio u Medinu i okupao, došao mu je Džibril a.s. i rekao: 'Jesi li ti odložio oružje? Znaj da meleki nisu odložili svoje. Ja se ne vraćam dok ti ne pozoveš narod da krene na Benu Kurejzu.'",
+      "de": "Richtig! Sobald der Prophet ﷺ nach Medina zurückkehrte und sich wusch, kam Dschibril a.s. zu ihm und sagte: 'Hast du deine Waffen abgelegt? Wisse, dass die Engel ihre nicht abgelegt haben. Ich kehre nicht zurück, bis du das Volk rufst, gegen die Banu Quraiza zu ziehen.'"
+    }
+  },
+  {
+    "quiz_id": 7,
+    "question_id": 49,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Pohod na Benu Kurejza",
+    "question": {
+      "bs": "Ko je izrekao presudu nad Benu Kurejzom?",
+      "de": "Wer sprach das Urteil über die Banu Quraiza?"
+    },
+    "options": {
+      "bs": [
+        "Alija bin Ebi Talib",
+        "Ebu Bekr",
+        "Sa'd bin Muaz",
+        "Poslanik ﷺ"
+      ],
+      "de": [
+        "Ali ibn Abi Talib",
+        "Abu Bakr",
+        "Sa'd ibn Mu'adh",
+        "Der Prophet ﷺ"
+      ]
+    },
+    "correct": {
+      "bs": "Sa'd bin Muaz",
+      "de": "Sa'd ibn Mu'adh"
+    },
+    "explanation": {
+      "bs": "Sa'd bin Muaz, vođa plemena Evs koji su bili saveznici Benu Kurejze, izrekao je presudu po zahtjevu obje strane. Presudio je da se muškarci pobiju, a žene i djeca zarobe. Poslanik ﷺ je rekao: 'Sudio si prema Allahovom zakonu koji je iznad sedam nebesa.'",
+      "de": "Sa'd ibn Mu'adh, der Anführer des Stammes Aws, die Verbündete der Banu Quraiza waren, sprach das Urteil auf Verlangen beider Seiten. Er urteilte, dass die Männer getötet und die Frauen und Kinder gefangen genommen werden sollten. Der Prophet ﷺ sagte: 'Du hast nach Allahs Gesetz geurteilt, das über den sieben Himmeln steht.'"
+    }
+  },
+  {
+    "quiz_id": 7,
+    "question_id": 50,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Bitka na Hendeku",
+    "question": {
+      "bs": "Nakon Bitke na Hendeku, Poslanik ﷺ je rekao: 'Od sada ćemo mi njih napadati, a ne oni nas.'",
+      "de": "Nach der Schlacht am Graben sagte der Prophet ﷺ: 'Von nun an werden wir sie angreifen, nicht sie uns.'"
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Ova izjava označava prekretnicu u islamskoj historiji. Nakon neuspjele opsade, Arapi više nisu mogli sakupiti veću silu protiv muslimana. Inicijativa je prešla na muslimansku stranu, što se pokazalo u narednim godinama.",
+      "de": "Richtig! Diese Aussage markiert einen Wendepunkt in der islamischen Geschichte. Nach der gescheiterten Belagerung konnten die Araber keine grössere Streitmacht mehr gegen die Muslime aufstellen. Die Initiative ging auf die muslimische Seite über, was sich in den folgenden Jahren zeigte."
+    }
+  },
+  {
+    "quiz_id": 7,
+    "question_id": 51,
+    "type": "ordering",
+    "difficulty": "medium",
+    "source_section": "Hronologija bitaka",
+    "question": {
+      "bs": "Poredajte tri velike bitke hronološki:",
+      "de": "Ordnen Sie die drei grossen Schlachten chronologisch:"
+    },
+    "options": {
+      "bs": [
+        "Bitka na Bedru",
+        "Bitka na Hendeku",
+        "Bitka na Uhudu"
+      ],
+      "de": [
+        "Schlacht von Badr",
+        "Schlacht am Graben",
+        "Schlacht von Uhud"
+      ]
+    },
+    "correct": {
+      "bs": [
+        "Bitka na Bedru",
+        "Bitka na Uhudu",
+        "Bitka na Hendeku"
+      ],
+      "de": [
+        "Schlacht von Badr",
+        "Schlacht von Uhud",
+        "Schlacht am Graben"
+      ]
+    },
+    "explanation": {
+      "bs": "Tri velike bitke su se odigrale sljedećim redoslijedom: Bedr (17. ramazan, 2. godina po Hidžri), Uhud (ševal, 3. godina po Hidžri), i Hendek (ševal, 5. godina po Hidžri).",
+      "de": "Die drei grossen Schlachten fanden in folgender Reihenfolge statt: Badr (17. Ramadan, 2. Jahr nach der Hidschra), Uhud (Schawwal, 3. Jahr nach der Hidschra) und Chandaq (Schawwal, 5. Jahr nach der Hidschra)."
+    }
+  },
+  {
+    "quiz_id": 7,
+    "question_id": 52,
+    "type": "true_false",
+    "difficulty": "easy",
+    "source_section": "Izvidnica na Nahli",
+    "question": {
+      "bs": "Izvidnica na Nahli bila je prva akcija u kojoj je zarobljen ratni plijen u islamu.",
+      "de": "Die Erkundung von Nachla war die erste Aktion, bei der im Islam Kriegsbeute gemacht wurde."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Na izvidnici na Nahli, koju je predvodio Abdullah bin Džahš, zarobljena je prva petina ratnog plijena u islamu. Također su zarobljena prva dva zarobljenika i pala je prva žrtva neprijatelja.",
+      "de": "Richtig! Bei der Erkundung von Nachla, angeführt von Abdullah ibn Dschahsch, wurde das erste Fünftel der Kriegsbeute im Islam genommen. Auch die ersten beiden Gefangenen wurden gemacht und das erste feindliche Opfer fiel."
+    }
+  },
+  {
+    "quiz_id": 7,
+    "question_id": 53,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Izvidnice prije Bedra",
+    "question": {
+      "bs": "Koliko izvidnica i pohoda je bilo prije Bitke na Bedru?",
+      "de": "Wie viele Erkundungen und Feldzüge gab es vor der Schlacht von Badr?"
+    },
+    "options": {
+      "bs": [
+        "5 izvidnica/pohoda",
+        "12 izvidnica/pohoda",
+        "3 izvidnice/pohoda",
+        "8 izvidnica/pohoda"
+      ],
+      "de": [
+        "5 Erkundungen/Feldzüge",
+        "12 Erkundungen/Feldzüge",
+        "3 Erkundungen/Feldzüge",
+        "8 Erkundungen/Feldzüge"
+      ]
+    },
+    "correct": {
+      "bs": "8 izvidnica/pohoda",
+      "de": "8 Erkundungen/Feldzüge"
+    },
+    "explanation": {
+      "bs": "Prije Bedra bilo je 8 izvidnica/pohoda: Sejful-bahri (Hamza), Rabig (Ubejd), El-Harrar (Sa'd), El-Ebva/Veddan, Bevat, Safvan (Prvi Bedr), Zil-Ušejret i Nahla. Sve ove akcije imale su za cilj presretanje kurejšijskih karavana.",
+      "de": "Vor Badr gab es 8 Erkundungen/Feldzüge: Saif al-Bahr (Hamza), Rabigh (Ubaid), al-Harrar (Sa'd), al-Abwa'/Waddan, Buwat, Safwan (Erster Badr), Dhul-'Uschayra und Nachla. Alle diese Aktionen zielten darauf ab, die quraischitischen Karawanen abzufangen."
+    }
+  },
+  {
+    "quiz_id": 7,
+    "question_id": 54,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Bitka na Bedru",
+    "question": {
+      "bs": "Noć uoči Bitke na Bedru, Allah ﷻ je spustio kišu koja je bila milost za muslimane.",
+      "de": "In der Nacht vor der Schlacht von Badr liess Allah ﷻ Regen fallen, der für die Muslime eine Gnade war."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Allah ﷻ je te noći poslao kišu koja je mušricima otežavala kretanje, a muslimanima je bila milost - oprala ih je, rashladila, učvrstila pijesak i unijela mir u njihova srca.",
+      "de": "Richtig! Allah ﷻ sandte in jener Nacht Regen, der den Götzendienern das Vorankommen erschwerte, für die Muslime aber eine Gnade war - er wusch sie, kühlte sie ab, festigte den Sand und brachte Frieden in ihre Herzen."
+    }
+  },
+  {
+    "quiz_id": 7,
+    "question_id": 55,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Bitka na Bedru",
+    "question": {
+      "bs": "Ko je bio zapovjednik straže koja je čuvala Poslanika ﷺ na Bedru?",
+      "de": "Wer war der Befehlshaber der Wache, die den Propheten ﷺ bei Badr beschützte?"
+    },
+    "options": {
+      "bs": [
+        "Alija bin Ebi Talib",
+        "Sa'd bin Muaz",
+        "Omer bin Hattab",
+        "Ebu Bekr"
+      ],
+      "de": [
+        "Ali ibn Abi Talib",
+        "Sa'd ibn Mu'adh",
+        "Umar ibn al-Chattab",
+        "Abu Bakr"
+      ]
+    },
+    "correct": {
+      "bs": "Sa'd bin Muaz",
+      "de": "Sa'd ibn Mu'adh"
+    },
+    "explanation": {
+      "bs": "Sa'd bin Muaz je organizirao grupu mladića koji su čuvali Poslanika ﷺ na zapovjednom mjestu tokom Bitke na Bedru. On je također predložio da se za Poslanika ﷺ izgradi posebno sklonište.",
+      "de": "Sa'd ibn Mu'adh organisierte eine Gruppe junger Männer, die den Propheten ﷺ am Kommandoposten während der Schlacht von Badr bewachten. Er schlug auch vor, für den Propheten ﷺ eine besondere Unterkunft zu errichten."
+    }
+  },
+  {
+    "quiz_id": 7,
+    "question_id": 56,
+    "type": "multiple_choice",
+    "difficulty": "hard",
+    "source_section": "Bitka na Bedru",
+    "question": {
+      "bs": "Koji su bili poklici muslimana tokom Bitke na Bedru? (Odaberite sve tačne)",
+      "de": "Was waren die Schlachtrufe der Muslime während der Schlacht von Badr? (Wählen Sie alle richtigen)"
+    },
+    "options": {
+      "bs": [
+        "Allahu Ekber! (Allah je najveći!)",
+        "Jasin!",
+        "Emut, emut! (Hoću da umrem!)",
+        "La ilahe illallah!",
+        "Ehad, Ehad! (Allah je Jedan!)"
+      ],
+      "de": [
+        "Allahu Akbar! (Allah ist der Grösste!)",
+        "Yasin!",
+        "Amut, Amut! (Ich will sterben!)",
+        "La ilaha illallah!",
+        "Ahad, Ahad! (Allah ist Einer!)"
+      ]
+    },
+    "correct": {
+      "bs": [
+        "Ehad, Ehad! (Allah je Jedan!)",
+        "Allahu Ekber! (Allah je najveći!)"
+      ],
+      "de": [
+        "Ahad, Ahad! (Allah ist Einer!)",
+        "Allahu Akbar! (Allah ist der Grösste!)"
+      ]
+    },
+    "explanation": {
+      "bs": "Na Bedru su muslimani koristili poklike 'Ehad, Ehad!' (Allah je Jedan) i 'Allahu Ekber!' (Allah je najveći). Poklik 'Emut, emut!' je korišten na Uhudu, a ne na Bedru.",
+      "de": "Bei Badr verwendeten die Muslime die Rufe 'Ahad, Ahad!' (Allah ist Einer) und 'Allahu Akbar!' (Allah ist der Grösste). Der Ruf 'Amut, Amut!' wurde bei Uhud verwendet, nicht bei Badr."
+    }
+  },
+  {
+    "quiz_id": 7,
+    "question_id": 57,
+    "type": "true_false",
+    "difficulty": "hard",
+    "source_section": "Bitka na Bedru",
+    "question": {
+      "bs": "Iblis (šejtan) se pojavio na Bedru u liku Surake bin Malika, a zatim je pobjegao kad je vidio meleke.",
+      "de": "Iblis (der Teufel) erschien bei Badr in der Gestalt von Suraqa ibn Malik und floh dann, als er die Engel sah."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Iblis se pojavio u liku Surake bin Malika i bodrio je mušrike. Međutim, kada je ugledao meleke kako navaljuju, pobjegao je glavom bez obzira. Kada su ga pitali zašto bježi, rekao je: 'Ja vidim ono što vi ne vidite. Bojim se Allaha.'",
+      "de": "Richtig! Iblis erschien in der Gestalt von Suraqa ibn Malik und ermutigte die Götzendiener. Als er jedoch die Engel angreifen sah, floh er kopfüber. Als sie ihn fragten, warum er flieht, sagte er: 'Ich sehe, was ihr nicht seht. Ich fürchte Allah.'"
+    }
+  },
+  {
+    "quiz_id": 7,
+    "question_id": 58,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Bitka na Bedru",
+    "question": {
+      "bs": "Šta je Poslanik ﷺ uradio s leševima kurejšijskih prvaka nakon Bedra?",
+      "de": "Was machte der Prophet ﷺ mit den Leichen der quraischitischen Anführer nach Badr?"
+    },
+    "options": {
+      "bs": [
+        "Ostavio ih na bojištu",
+        "Pokopao ih je s počastima",
+        "Predao ih je Kurejšijama",
+        "Bacio ih je u stari bunar"
+      ],
+      "de": [
+        "Er liess sie auf dem Schlachtfeld",
+        "Er begrub sie mit Ehren",
+        "Er übergab sie den Quraisch",
+        "Er warf sie in einen alten Brunnen"
+      ]
+    },
+    "correct": {
+      "bs": "Bacio ih je u stari bunar",
+      "de": "Er warf sie in einen alten Brunnen"
+    },
+    "explanation": {
+      "bs": "Poslanik ﷺ je naredio da se 24 kurejšijska prvaka bace u stari bunar na Bedru. Trećeg dana ih je prozvao po imenu i rekao: 'Mi smo dobili ono što nam je Allah obećao. A da li ste vi dobili ono što vam je obećano?'",
+      "de": "Der Prophet ﷺ befahl, 24 quraischitische Anführer in einen alten Brunnen bei Badr zu werfen. Am dritten Tag rief er sie bei Namen und sagte: 'Wir haben erhalten, was Allah uns versprochen hat. Habt ihr erhalten, was euch versprochen wurde?'"
+    }
+  },
+  {
+    "quiz_id": 7,
+    "question_id": 59,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Bitka na Bedru",
+    "question": {
+      "bs": "Poslanik ﷺ je lično dodavao strijele Sa'du bin Ebi Vekasu tokom bitke na Bedru.",
+      "de": "Der Prophet ﷺ reichte Sa'd ibn Abi Waqqas persönlich Pfeile während der Schlacht von Badr."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Sa'd bin Ebi Vekkas je bio jedan od najboljih strijelaca. Poslanik ﷺ mu je lično dodavao strijele iz tobolca, govoreći: 'Baci, iskupili te moj otac i majka!' To je bila velika čast koju je Poslanik ﷺ prvi put ukazao nekom.",
+      "de": "Richtig! Sa'd ibn Abi Waqqas war einer der besten Bogenschützen. Der Prophet ﷺ reichte ihm persönlich Pfeile aus dem Köcher und sagte: 'Schiess, mögen mein Vater und meine Mutter für dich eingelöst werden!' Dies war eine grosse Ehre, die der Prophet ﷺ zum ersten Mal jemandem erwies."
+    }
+  },
+  {
+    "quiz_id": 7,
+    "question_id": 60,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Zarobljenici Bedra",
+    "question": {
+      "bs": "Koliki je bio otkup za zarobljenike Bedra koji su znali pisati i čitati?",
+      "de": "Wie hoch war das Lösegeld für die Gefangenen von Badr, die lesen und schreiben konnten?"
+    },
+    "options": {
+      "bs": [
+        "Podučavanje 10 muslimanske djece pismenosti",
+        "4000 dirhema",
+        "Nisu bili otkupljivani",
+        "1000 dirhema"
+      ],
+      "de": [
+        "Das Unterrichten von 10 muslimischen Kindern im Lesen und Schreiben",
+        "4000 Dirham",
+        "Sie wurden nicht freigekauft",
+        "1000 Dirham"
+      ]
+    },
+    "correct": {
+      "bs": "Podučavanje 10 muslimanske djece pismenosti",
+      "de": "Das Unterrichten von 10 muslimischen Kindern im Lesen und Schreiben"
+    },
+    "explanation": {
+      "bs": "Zarobljenici koji nisu imali novca za otkup, a znali su pisati i čitati, mogli su svoju slobodu zaraditi podučavanjem po deset muslimanske djece pismenosti. Ovo pokazuje koliko je Poslanik ﷺ cijenio obrazovanje.",
+      "de": "Gefangene, die kein Geld für das Lösegeld hatten, aber lesen und schreiben konnten, konnten ihre Freiheit verdienen, indem sie je zehn muslimische Kinder das Lesen und Schreiben lehrten. Dies zeigt, wie sehr der Prophet ﷺ Bildung schätzte."
+    }
+  },
+  {
+    "quiz_id": 7,
+    "question_id": 61,
+    "type": "true_false",
+    "difficulty": "easy",
+    "source_section": "Bitka na Uhudu",
+    "question": {
+      "bs": "Kurejšije su organizirale Bitku na Uhudu kao osvetu za poraz na Bedru.",
+      "de": "Die Quraisch organisierten die Schlacht von Uhud als Rache für die Niederlage bei Badr."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Nakon poraza na Bedru, Kurejšije su cijelu godinu pripremale osvetu. Prodali su robu iz karavana koji je spasio Ebu Sufjan i dobili sredstva za opremu vojsku od 3000 boraca.",
+      "de": "Richtig! Nach der Niederlage bei Badr bereiteten die Quraisch ein ganzes Jahr lang ihre Rache vor. Sie verkauften die Waren aus der Karawane, die Abu Sufyan gerettet hatte, und erhielten Mittel für die Ausrüstung einer Armee von 3000 Kämpfern."
+    }
+  },
+  {
+    "quiz_id": 7,
+    "question_id": 62,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Bitka na Uhudu",
+    "question": {
+      "bs": "Ko je bio zapovjednik odreda strijelaca na Uhudu?",
+      "de": "Wer war der Befehlshaber der Bogenschützen bei Uhud?"
+    },
+    "options": {
+      "bs": [
+        "Mus'ab bin Umejr",
+        "Bilal bin Rebah",
+        "Sa'd bin Ebi Vekkas",
+        "Abdullah bin Džubeir"
+      ],
+      "de": [
+        "Mus'ab ibn Umair",
+        "Bilal ibn Rabah",
+        "Sa'd ibn Abi Waqqas",
+        "Abdullah ibn Dschubair"
+      ]
+    },
+    "correct": {
+      "bs": "Abdullah bin Džubeir",
+      "de": "Abdullah ibn Dschubair"
+    },
+    "explanation": {
+      "bs": "Abdullah bin Džubeir je bio zapovjednik odreda od 50 strijelaca postavljenih na brdu Ajnejn. Ostao je na položaju s devet drugova, poštujući Poslanikovu ﷺ naredbu, dok su ostali otišli po plijen. Svi su poginuli braneći položaj.",
+      "de": "Abdullah ibn Dschubair war der Befehlshaber der 50 Bogenschützen auf dem Berg Aynain. Er blieb mit neun Gefährten auf seiner Position und befolgte den Befehl des Propheten ﷺ, während die anderen auf Beute aus waren. Alle starben bei der Verteidigung der Position."
+    }
+  },
+  {
+    "quiz_id": 7,
+    "question_id": 63,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Bitka na Uhudu",
+    "question": {
+      "bs": "Na početku Bitke na Uhudu, muslimani su imali prednost i mušrici su počeli bježati.",
+      "de": "Zu Beginn der Schlacht von Uhud hatten die Muslime die Oberhand und die Götzendiener begannen zu fliehen."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Muslimani su dominirali na početku bitke. Kurejšijska zastava je pala, vojskovođe su poginuli, a mušrici su bježali tako da su se vidjele potkoljenice njihovih žena. Međutim, greška strijelaca je preokrenula tok bitke.",
+      "de": "Richtig! Die Muslime dominierten zu Beginn der Schlacht. Die quraischitische Flagge fiel, die Befehlshaber starben, und die Götzendiener flohen so, dass man die Unterschenkel ihrer Frauen sehen konnte. Der Fehler der Bogenschützen wendete jedoch den Verlauf der Schlacht."
+    }
+  },
+  {
+    "quiz_id": 7,
+    "question_id": 64,
+    "type": "ordering",
+    "difficulty": "hard",
+    "source_section": "Bitka na Uhudu",
+    "question": {
+      "bs": "Poredajte događaje na Uhudu hronološki:",
+      "de": "Ordnen Sie die Ereignisse von Uhud chronologisch:"
+    },
+    "options": {
+      "bs": [
+        "Muslimani pobjeđuju na početku",
+        "Strijelci napuštaju položaje",
+        "Povlačenje munafika",
+        "Halid opkoljava muslimane"
+      ],
+      "de": [
+        "Die Muslime siegen am Anfang",
+        "Die Bogenschützen verlassen ihre Positionen",
+        "Rückzug der Heuchler",
+        "Chalid umzingelt die Muslime"
+      ]
+    },
+    "correct": {
+      "bs": [
+        "Povlačenje munafika",
+        "Muslimani pobjeđuju na početku",
+        "Strijelci napuštaju položaje",
+        "Halid opkoljava muslimane"
+      ],
+      "de": [
+        "Rückzug der Heuchler",
+        "Die Muslime siegen am Anfang",
+        "Die Bogenschützen verlassen ihre Positionen",
+        "Chalid umzingelt die Muslime"
+      ]
+    },
+    "explanation": {
+      "bs": "Redoslijed događaja: 1) Abdullah bin Ubejj se povlači s 300 munafika prije bitke. 2) Muslimani dominiraju i mušrici počinju bježati. 3) Strijelci vide da mušrici bježe i napuštaju položaje da sakupe plijen. 4) Halid bin Velid koristi priliku da opkoli muslimane i preokrene tok bitke.",
+      "de": "Reihenfolge der Ereignisse: 1) Abdullah ibn Ubayy zieht sich mit 300 Heuchlern vor der Schlacht zurück. 2) Die Muslime dominieren und die Götzendiener beginnen zu fliehen. 3) Die Bogenschützen sehen, dass die Götzendiener fliehen und verlassen ihre Positionen, um Beute zu sammeln. 4) Chalid ibn al-Walid nutzt die Gelegenheit, um die Muslime einzukreisen und den Verlauf der Schlacht zu wenden."
+    }
+  },
+  {
+    "quiz_id": 7,
+    "question_id": 65,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Bitka na Uhudu",
+    "question": {
+      "bs": "Koja je bila poznata parola muslimana na Uhudu?",
+      "de": "Was war das bekannte Motto der Muslime bei Uhud?"
+    },
+    "options": {
+      "bs": [
+        "Ehad, Ehad!",
+        "Emut, emut! (Hoću da umrem!)",
+        "Allahu Ekber!",
+        "La hawle we la kuvvete illa billah!"
+      ],
+      "de": [
+        "Ahad, Ahad!",
+        "Amut, Amut! (Ich will sterben!)",
+        "Allahu Akbar!",
+        "La hawla wa la quwwata illa billah!"
+      ]
+    },
+    "correct": {
+      "bs": "Emut, emut! (Hoću da umrem!)",
+      "de": "Amut, Amut! (Ich will sterben!)"
+    },
+    "explanation": {
+      "bs": "Na Uhudu su muslimani koristili parolu 'Emut, emut!' što znači 'Hoću da umrem!' Ova parola je izražavala njihovu spremnost na šehadet i želju za Džennetom više nego za dunjalučkim životom.",
+      "de": "Bei Uhud verwendeten die Muslime das Motto 'Amut, Amut!', was bedeutet 'Ich will sterben!' Dieses Motto drückte ihre Bereitschaft zum Martyrium und ihren Wunsch nach dem Paradies mehr als nach dem irdischen Leben aus."
+    }
+  },
+  {
+    "quiz_id": 7,
+    "question_id": 66,
+    "type": "true_false",
+    "difficulty": "hard",
+    "source_section": "Bitka na Uhudu",
+    "question": {
+      "bs": "Ebu Dudžane je poštedio život Hind bint Utbe na Uhudu jer nije htio uprljati Poslanikovu ﷺ sablju ženskom krvlju.",
+      "de": "Abu Dudschana verschonte Hind bint Utba bei Uhud, weil er das Schwert des Propheten ﷺ nicht mit Frauenblut beschmutzen wollte."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Ebu Dudžane je stigao do žene koja je bodrila vojnike i podigao sablju da je ubije. Kada je shvatio da je žena, povukao se rekavši: 'Neću uprljati Poslanikovu ﷺ sablju ženskom krvlju.' To je bila Hind, žena Ebu Sufjana.",
+      "de": "Richtig! Abu Dudschana kam zu einer Frau, die die Soldaten anfeuerte, und erhob sein Schwert, um sie zu töten. Als er erkannte, dass es eine Frau war, zog er sich zurück und sagte: 'Ich werde das Schwert des Propheten ﷺ nicht mit Frauenblut beschmutzen.' Das war Hind, die Frau von Abu Sufyan."
+    }
+  },
+  {
+    "quiz_id": 7,
+    "question_id": 67,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Bitka na Uhudu",
+    "question": {
+      "bs": "Ko je razglasio lažnu vijest da je Poslanik ﷺ ubijen na Uhudu?",
+      "de": "Wer verbreitete die falsche Nachricht, dass der Prophet ﷺ bei Uhud getötet wurde?"
+    },
+    "options": {
+      "bs": [
+        "Ibn Kum'et",
+        "Vahši bin Harb",
+        "Halid bin Velid",
+        "Ebu Sufjan"
+      ],
+      "de": [
+        "Ibn Qam'a",
+        "Wahschi ibn Harb",
+        "Chalid ibn al-Walid",
+        "Abu Sufyan"
+      ]
+    },
+    "correct": {
+      "bs": "Ibn Kum'et",
+      "de": "Ibn Qam'a"
+    },
+    "explanation": {
+      "bs": "Abdullah bin Kum'et je ubio Mus'aba bin Umejra, nositelja muslimanske zastave, misleći da je ubio Poslanika ﷺ jer su mnogo ličili. Tada je povikao: 'Muhammed je ubijen!' što je izazvalo pometnju među muslimanima.",
+      "de": "Abdullah ibn Qam'a tötete Mus'ab ibn Umair, den Träger der muslimischen Flagge, im Glauben, er hätte den Propheten ﷺ getötet, da sie sich sehr ähnlich sahen. Er rief dann: 'Muhammad ist getötet!' was unter den Muslimen Verwirrung stiftete."
+    }
+  },
+  {
+    "quiz_id": 7,
+    "question_id": 68,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Bitka na Uhudu",
+    "question": {
+      "bs": "Ka'b bin Malik je prvi prepoznao Poslanika ﷺ nakon lažne vijesti o njegovoj smrti.",
+      "de": "Ka'b ibn Malik erkannte den Propheten ﷺ als Erster nach der falschen Nachricht von seinem Tod."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Ka'b bin Malik je prepoznao Poslanika ﷺ po očima koje su blistale ispod šljema i povikao: 'O muslimani, radujte se, evo Resulullaha!' Poslanik ﷺ mu je dao znak da šuti da ga mušrici ne bi otkrili.",
+      "de": "Richtig! Ka'b ibn Malik erkannte den Propheten ﷺ an seinen Augen, die unter dem Helm leuchteten, und rief: 'O Muslime, freut euch, hier ist der Gesandte Allahs!' Der Prophet ﷺ gab ihm ein Zeichen zu schweigen, damit die Götzendiener ihn nicht entdecken."
+    }
+  },
+  {
+    "quiz_id": 7,
+    "question_id": 69,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Bitka na Uhudu",
+    "question": {
+      "bs": "Koji ensarija je na Uhudu odbio pomoć streljcom i više puta kopljem pogodio iste mušrike?",
+      "de": "Welcher Ansar verweigerte bei Uhud Hilfe mit Pfeilen und traf dieselben Götzendiener mehrmals mit seinem Speer?"
+    },
+    "options": {
+      "bs": [
+        "Ka'b bin Malik",
+        "Abdullah bin Džahš",
+        "Sa'd bin Ebi Vekkas",
+        "Asim bin Sabit"
+      ],
+      "de": [
+        "Ka'b ibn Malik",
+        "Abdullah ibn Dschahsch",
+        "Sa'd ibn Abi Waqqas",
+        "Asim ibn Thabit"
+      ]
+    },
+    "correct": {
+      "bs": "Sa'd bin Ebi Vekkas",
+      "de": "Sa'd ibn Abi Waqqas"
+    },
+    "explanation": {
+      "bs": "Sa'd bin Ebi Vekkas je sam natjerao mušrike s vrha Uhuda. Koristio je jednu strijelu koju je dobro poznavao - ubio bi mušrika, uzeo strijelu i ponovo je upotrijebio. Ubio je troje s tom istom strijelom koju je čuvao do smrti.",
+      "de": "Sa'd ibn Abi Waqqas trieb die Götzendiener allein vom Gipfel des Uhud. Er verwendete einen Pfeil, den er gut kannte - er tötete einen Götzendiener, nahm den Pfeil zurück und verwendete ihn wieder. Er tötete drei mit demselben Pfeil, den er bis zu seinem Tod aufbewahrte."
+    }
+  },
+  {
+    "quiz_id": 7,
+    "question_id": 70,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Bitka na Uhudu",
+    "question": {
+      "bs": "Talha bin Ubejdullah je na svojim leđima podigao Poslanika ﷺ da prijeđe preko stijene na Uhudu.",
+      "de": "Talha ibn Ubaidullah hob den Propheten ﷺ auf seinem Rücken hoch, um ihm zu helfen, einen Felsen bei Uhud zu überwinden."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Kada se Poslanik ﷺ povlačio u planinu, ispriječila se stijena koju nije mogao preći zbog rana. Talha je podmetnuo svoja leđa da se Poslanik ﷺ popne. Poslanik ﷺ je tada rekao: 'Talha je zaradio Džennet.'",
+      "de": "Richtig! Als sich der Prophet ﷺ in die Berge zurückzog, versperrte ein Felsen den Weg, den er wegen seiner Wunden nicht überwinden konnte. Talha bückte sich, damit der Prophet ﷺ auf seinen Rücken steigen konnte. Der Prophet ﷺ sagte dann: 'Talha hat das Paradies verdient.'"
+    }
+  },
+  {
+    "quiz_id": 7,
+    "question_id": 71,
+    "type": "multiple_choice",
+    "difficulty": "hard",
+    "source_section": "Bitka na Uhudu",
+    "question": {
+      "bs": "Ko je sve branio Poslanika ﷺ u najtežem trenutku na Uhudu? (Odaberite sve tačne)",
+      "de": "Wer verteidigte den Propheten ﷺ im schwersten Moment bei Uhud? (Wählen Sie alle richtigen)"
+    },
+    "options": {
+      "bs": [
+        "Abdullah bin Džubeir",
+        "Sa'd bin Ebi Vekkas",
+        "Nesiba bint Ka'b",
+        "Ebu Dudžane",
+        "Talha bin Ubejdullah"
+      ],
+      "de": [
+        "Abdullah ibn Dschubair",
+        "Sa'd ibn Abi Waqqas",
+        "Nusayba bint Ka'b",
+        "Abu Dudschana",
+        "Talha ibn Ubaidullah"
+      ]
+    },
+    "correct": {
+      "bs": [
+        "Talha bin Ubejdullah",
+        "Sa'd bin Ebi Vekkas",
+        "Ebu Dudžane",
+        "Nesiba bint Ka'b"
+      ],
+      "de": [
+        "Talha ibn Ubaidullah",
+        "Sa'd ibn Abi Waqqas",
+        "Abu Dudschana",
+        "Nusayba bint Ka'b"
+      ]
+    },
+    "explanation": {
+      "bs": "Kada je Poslanik ﷺ bio okružen, branili su ga Talha, Sa'd, Ebu Dudžane i Nesiba bint Ka'b. Abdullah bin Džubeir je poginuo na brdu Ajnejn braneći položaj strijelaca, a ne pored Poslanika ﷺ.",
+      "de": "Als der Prophet ﷺ umzingelt war, verteidigten ihn Talha, Sa'd, Abu Dudschana und Nusayba bint Ka'b. Abdullah ibn Dschubair starb auf dem Berg Aynain bei der Verteidigung der Bogenschützenposition, nicht neben dem Propheten ﷺ."
+    }
+  },
+  {
+    "quiz_id": 7,
+    "question_id": 72,
+    "type": "true_false",
+    "difficulty": "easy",
+    "source_section": "Bitka na Hendeku",
+    "question": {
+      "bs": "Hendek je bio rov iskopan s sjeverne strane Medine.",
+      "de": "Der Graben war ein Graben, der auf der Nordseite Medinas ausgehoben wurde."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Hendek je kopan na sjevernoj strani Medine jer su istočna i zapadna strana bile zaštićene palmovicima i lava poljima, a južna strana kućama i utvrđenjima. Jedini otvoren prostor bio je na sjeveru.",
+      "de": "Richtig! Der Graben wurde auf der Nordseite Medinas gegraben, da die Ost- und Westseite durch Palmenplantagen und Lavafelder geschützt waren und die Südseite durch Häuser und Befestigungen. Der einzige offene Bereich war im Norden."
+    }
+  },
+  {
+    "quiz_id": 7,
+    "question_id": 73,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Bitka na Hendeku",
+    "question": {
+      "bs": "Koliko je aršïna hendeka svaka grupa od 10 muslimana trebala iskopati?",
+      "de": "Wie viele Ellen Graben sollte jede Gruppe von 10 Muslimen graben?"
+    },
+    "options": {
+      "bs": [
+        "100 aršina",
+        "20 aršina",
+        "40 aršina",
+        "60 aršina"
+      ],
+      "de": [
+        "100 Ellen",
+        "20 Ellen",
+        "40 Ellen",
+        "60 Ellen"
+      ]
+    },
+    "correct": {
+      "bs": "40 aršina",
+      "de": "40 Ellen"
+    },
+    "explanation": {
+      "bs": "Poslanik ﷺ je organizirao kopanje tako da svaka grupa od deset ljudi iskopa po 40 aršina hendeka. Muslimani su kopali u teškim uvjetima - bila je zima, hrane je bilo malo, ali radili su s velikim elanom.",
+      "de": "Der Prophet ﷺ organisierte das Graben so, dass jede Gruppe von zehn Leuten 40 Ellen Graben aushob. Die Muslime gruben unter schwierigen Bedingungen - es war Winter, Nahrung war knapp, aber sie arbeiteten mit grossem Eifer."
+    }
+  },
+  {
+    "quiz_id": 7,
+    "question_id": 74,
+    "type": "true_false",
+    "difficulty": "hard",
+    "source_section": "Bitka na Hendeku",
+    "question": {
+      "bs": "Tokom kopanja hendeka, Džabir bin Abdullah je pripremio skromnu gozbu, a Poslanik ﷺ je čudesno umnoži za cijelu vojsku.",
+      "de": "Während des Grabens lud Dschabir ibn Abdullah zu einem bescheidenen Mahl ein, und der Prophet ﷺ vermehrte es wunderbar für die gesamte Armee."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Džabir je vidio koliko je Poslanik ﷺ gladan i zaklao bravče, a njegova žena je isamljela malo pšenice. Poslanik ﷺ je doveo sve kopače i hrana se čudesno umnožila tako da su svi jeli i još je preostalo.",
+      "de": "Richtig! Dschabir sah, wie hungrig der Prophet ﷺ war, und schlachtete ein Schaf, und seine Frau mahlte etwas Weizen. Der Prophet ﷺ brachte alle Arbeiter mit, und das Essen vermehrte sich wunderbar, so dass alle assen und noch übrig blieb."
+    }
+  },
+  {
+    "quiz_id": 7,
+    "question_id": 75,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Bitka na Hendeku",
+    "question": {
+      "bs": "Ko je bio vođa Benu Kurejze koji je pristao prekršiti ugovor s muslimanima?",
+      "de": "Wer war der Anführer der Banu Quraiza, der zustimmte, den Vertrag mit den Muslimen zu brechen?"
+    },
+    "options": {
+      "bs": [
+        "Selem bin Ebi el-Halik",
+        "Hujejj bin Ahtab",
+        "Kinane bin er-Rebi",
+        "Ka'b bin Esed"
+      ],
+      "de": [
+        "Sallam ibn Abi al-Huqayq",
+        "Huyayy ibn Akhtab",
+        "Kinana ibn ar-Rabi",
+        "Ka'b ibn Asad"
+      ]
+    },
+    "correct": {
+      "bs": "Ka'b bin Esed",
+      "de": "Ka'b ibn Asad"
+    },
+    "explanation": {
+      "bs": "Ka'b bin Esed je bio vođa Benu Kurejze. Na nagovor Hujejja bin Ahtaba iz Benu Nadira, pristao je prekršiti ugovor s Poslanikom ﷺ i pridružiti se koaliciji. Ova izdaja je stavila muslimane u veliku opasnost.",
+      "de": "Ka'b ibn Asad war der Anführer der Banu Quraiza. Auf Drängen von Huyayy ibn Akhtab von den Banu Nadir stimmte er zu, den Vertrag mit dem Propheten ﷺ zu brechen und sich der Koalition anzuschliessen. Dieser Verrat brachte die Muslime in grosse Gefahr."
+    }
+  },
+  {
+    "quiz_id": 7,
+    "question_id": 76,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Bitka na Hendeku",
+    "question": {
+      "bs": "Poslanik ﷺ je pokušao sklopiti mir s plemenom Gatafan nudeći im trećinu medinskih hurmi, ali ensarije su to odbili.",
+      "de": "Der Prophet ﷺ versuchte, mit dem Stamm Ghatafan Frieden zu schliessen, indem er ihnen ein Drittel der medinischen Datteln anbot, aber die Ansar lehnten ab."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! U teškom trenutku opsade, Poslanik ﷺ je razmatrao mir s Gatafanom. Međutim, Sa'd bin Muaz i Sa'd bin Ubade su rekli: 'Mi nikada nismo davali hurme kao danak, zar ćemo to raditi sada kad nas je Allah počastio islamom?' Poslanik ﷺ je prihvatio njihovo mišljenje.",
+      "de": "Richtig! In der schweren Zeit der Belagerung erwog der Prophet ﷺ Frieden mit Ghatafan. Aber Sa'd ibn Mu'adh und Sa'd ibn Ubada sagten: 'Wir haben nie Datteln als Tribut gegeben, sollen wir das jetzt tun, nachdem Allah uns mit dem Islam geehrt hat?' Der Prophet ﷺ akzeptierte ihre Meinung."
+    }
+  },
+  {
+    "quiz_id": 7,
+    "question_id": 77,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Bitka na Hendeku",
+    "question": {
+      "bs": "Koga je Poslanik ﷺ poslao u izvidnicu da vidi stanje neprijatelja tokom strašne noći na Hendeku?",
+      "de": "Wen sandte der Prophet ﷺ zur Erkundung, um den Zustand des Feindes während der schrecklichen Nacht am Graben zu sehen?"
+    },
+    "options": {
+      "bs": [
+        "Huzejfe bin el-Jemana",
+        "Sa'da bin Ebi Vekkasa",
+        "Aliju bin Ebi Taliba",
+        "Zubejra bin el-Avvama"
+      ],
+      "de": [
+        "Hudhayfa ibn al-Yaman",
+        "Sa'd ibn Abi Waqqas",
+        "Ali ibn Abi Talib",
+        "Zubayr ibn al-Awwam"
+      ]
+    },
+    "correct": {
+      "bs": "Huzejfe bin el-Jemana",
+      "de": "Hudhayfa ibn al-Yaman"
+    },
+    "explanation": {
+      "bs": "Poslanik ﷺ je poslao Huzejfu bin el-Jemana da vidi stanje neprijatelja. Huzejfe je zatekao savezničku vojsku u rasulu - vjetar je rušio šatore, gasio vatre, a vojnici su bježali na sve strane. Vratio se i javio Poslaniku ﷺ radosne vijesti.",
+      "de": "Der Prophet ﷺ sandte Hudhayfa ibn al-Yaman, um den Zustand des Feindes zu sehen. Hudhayfa fand die verbündete Armee in Auflösung - der Wind warf Zelte um, löschte Feuer, und die Soldaten flohen in alle Richtungen. Er kehrte zurück und überbrachte dem Propheten ﷺ die gute Nachricht."
+    }
+  },
+  {
+    "quiz_id": 7,
+    "question_id": 78,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Bitka na Hendeku",
+    "question": {
+      "bs": "Na Hendeku nije bilo direktnog oružanog sukoba između muslimana i saveznika.",
+      "de": "Am Graben gab es keinen direkten bewaffneten Konflikt zwischen den Muslimen und den Verbündeten."
+    },
+    "correct": false,
+    "explanation": {
+      "bs": "Netačno! Bilo je pojedinačnih sukoba. Poznati mušrik Amr bin Abdi Vedd je preskočio hendek i izazvao na dvoboj. Alija r.a. ga je ubio. Također je bilo razmjene strijela. Međutim, nije bilo masovne bitke.",
+      "de": "Falsch! Es gab einzelne Zusammenstösse. Der berühmte Götzendiener Amr ibn Abd Wudd überquerte den Graben und forderte zum Duell heraus. Ali r.a. tötete ihn. Es gab auch Pfeilwechsel. Es gab jedoch keine Massenschlacht."
+    }
+  },
+  {
+    "quiz_id": 7,
+    "question_id": 79,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Bitka na Hendeku",
+    "question": {
+      "bs": "Ko je ubio Amra bin Abdi Vedda, mušrika koji je preskočio hendek?",
+      "de": "Wer tötete Amr ibn Abd Wudd, den Götzendiener, der den Graben überquerte?"
+    },
+    "options": {
+      "bs": [
+        "Zubeir bin el-Avvam",
+        "Alija bin Ebi Talib",
+        "Sa'd bin Muaz",
+        "Hamza bin Abdul-Muttalib"
+      ],
+      "de": [
+        "Zubayr ibn al-Awwam",
+        "Ali ibn Abi Talib",
+        "Sa'd ibn Mu'adh",
+        "Hamza ibn Abdul-Muttalib"
+      ]
+    },
+    "correct": {
+      "bs": "Alija bin Ebi Talib",
+      "de": "Ali ibn Abi Talib"
+    },
+    "explanation": {
+      "bs": "Amr bin Abdi Vedd, poznati kurejšijski junak, preskočio je hendek s grupom konjanika i izazvao muslimane na dvoboj. Alija bin Ebi Talib r.a. je izašao i ubio ga u dvoboju.",
+      "de": "Amr ibn Abd Wudd, ein berühmter quraischitischer Held, überquerte den Graben mit einer Gruppe von Reitern und forderte die Muslime zum Duell. Ali ibn Abi Talib r.a. trat vor und tötete ihn im Duell."
+    }
+  },
+  {
+    "quiz_id": 7,
+    "question_id": 80,
+    "type": "multiple_choice",
+    "difficulty": "hard",
+    "source_section": "Pohod na Benu Kurejza",
+    "question": {
+      "bs": "Šta je pronađeno u kućama Benu Kurejze kao dokaz njihovih namjera? (Odaberite sve tačne)",
+      "de": "Was wurde in den Häusern der Banu Quraiza als Beweis ihrer Absichten gefunden? (Wählen Sie alle richtigen)"
+    },
+    "options": {
+      "bs": [
+        "300 oklopa",
+        "2000 strijela i kopalja",
+        "1000 konja",
+        "1500 sablji",
+        "500 štitova"
+      ],
+      "de": [
+        "300 Rüstungen",
+        "2000 Pfeile und Speere",
+        "1000 Pferde",
+        "1500 Schwerter",
+        "500 Schilde"
+      ]
+    },
+    "correct": {
+      "bs": [
+        "1500 sablji",
+        "300 oklopa",
+        "2000 strijela i kopalja",
+        "500 štitova"
+      ],
+      "de": [
+        "1500 Schwerter",
+        "300 Rüstungen",
+        "2000 Pfeile und Speere",
+        "500 Schilde"
+      ]
+    },
+    "explanation": {
+      "bs": "U kućama Benu Kurejze pronađeno je: 1500 sablji, 2000 strijela i kopalja, 300 oklopa i 500 štitova. Ovo je bio dokaz da su se pripremali za oružani sukob s muslimanima.",
+      "de": "In den Häusern der Banu Quraiza wurden gefunden: 1500 Schwerter, 2000 Pfeile und Speere, 300 Rüstungen und 500 Schilde. Dies war ein Beweis dafür, dass sie sich auf einen bewaffneten Konflikt mit den Muslimen vorbereiteten."
+    }
+  },
+  {
+    "quiz_id": 7,
+    "question_id": 81,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Pohod na Benu Kurejza",
+    "question": {
+      "bs": "Poslanik ﷺ je naredio ashabima da klanjaju ikindiju tek kod Benu Kurejze.",
+      "de": "Der Prophet ﷺ befahl den Gefährten, das Nachmittagsgebet erst bei den Banu Quraiza zu beten."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Poslanik ﷺ je naredio: 'Ko je poslušan i pokoran, neka ne klanja ikindiju na drugom mjestu nego kod Benu Kurejze.' Neki su klanjali na putu, a neki tek po dolasku - Poslanik ﷺ nije ukorio nijednu skupinu.",
+      "de": "Richtig! Der Prophet ﷺ befahl: 'Wer gehorsam ist, soll das Nachmittagsgebet nirgendwo anders beten als bei den Banu Quraiza.' Einige beteten unterwegs, andere erst bei der Ankunft - der Prophet ﷺ tadelte keine Gruppe."
+    }
+  },
+  {
+    "quiz_id": 7,
+    "question_id": 82,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Pohod na Benu Kurejza",
+    "question": {
+      "bs": "Koliko je muslimana učestvovalo u opsadi Benu Kurejze?",
+      "de": "Wie viele Muslime nahmen an der Belagerung der Banu Quraiza teil?"
+    },
+    "options": {
+      "bs": [
+        "Oko 5000 boraca",
+        "Oko 3000 boraca",
+        "Oko 500 boraca",
+        "Oko 1000 boraca"
+      ],
+      "de": [
+        "Etwa 5000 Kämpfer",
+        "Etwa 3000 Kämpfer",
+        "Etwa 500 Kämpfer",
+        "Etwa 1000 Kämpfer"
+      ]
+    },
+    "correct": {
+      "bs": "Oko 3000 boraca",
+      "de": "Etwa 3000 Kämpfer"
+    },
+    "explanation": {
+      "bs": "U opsadi Benu Kurejze učestvovalo je oko 3000 muslimana i 30 konja. Opsada je trajala oko 25 dana dok se Benu Kurejza nisu predali i prihvatili presudu Sa'da bin Muaza.",
+      "de": "An der Belagerung der Banu Quraiza nahmen etwa 3000 Muslime und 30 Pferde teil. Die Belagerung dauerte etwa 25 Tage, bis sich die Banu Quraiza ergaben und das Urteil von Sa'd ibn Mu'adh akzeptierten."
+    }
+  },
+  {
+    "quiz_id": 7,
+    "question_id": 83,
+    "type": "true_false",
+    "difficulty": "hard",
+    "source_section": "Pohod na Benu Kurejza",
+    "question": {
+      "bs": "Hujejj bin Ahtab, koji je nagovorio Benu Kurejzu na izdaju, pogubljen je zajedno s njima.",
+      "de": "Huyayy ibn Akhtab, der die Banu Quraiza zum Verrat überredet hatte, wurde zusammen mit ihnen hingerichtet."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Hujejj bin Ahtab iz Benu Nadira, koji je organizirao koaliciju i nagovorio Benu Kurejzu na izdaju, sklonio se kod njih kada je koalicija propala. Pogubljen je zajedno s njima. Bio je otac Safije, majke vjernika.",
+      "de": "Richtig! Huyayy ibn Akhtab von den Banu Nadir, der die Koalition organisiert und die Banu Quraiza zum Verrat überredet hatte, flüchtete zu ihnen, als die Koalition zusammenbrach. Er wurde zusammen mit ihnen hingerichtet. Er war der Vater von Safiyya, der Mutter der Gläubigen."
+    }
+  },
+  {
+    "quiz_id": 7,
+    "question_id": 84,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Pohod na Benu Kurejza",
+    "question": {
+      "bs": "Šta se desilo sa Sa'dom bin Muazom nakon presude nad Benu Kurejzom?",
+      "de": "Was geschah mit Sa'd ibn Mu'adh nach dem Urteil über die Banu Quraiza?"
+    },
+    "options": {
+      "bs": [
+        "Preselio se u Meku",
+        "Postao je namjesnik Medine",
+        "Umro je od rane zadobijene na Hendeku",
+        "Poginuo je u bitki na Hajberu"
+      ],
+      "de": [
+        "Er zog nach Mekka",
+        "Er wurde Gouverneur von Medina",
+        "Er starb an der Wunde, die er am Graben erlitten hatte",
+        "Er starb in der Schlacht von Chaibar"
+      ]
+    },
+    "correct": {
+      "bs": "Umro je od rane zadobijene na Hendeku",
+      "de": "Er starb an der Wunde, die er am Graben erlitten hatte"
+    },
+    "explanation": {
+      "bs": "Sa'd bin Muaz r.a. je umro ubrzo nakon presude nad Benu Kurejzom. Na Hendeku je bio ranjen strijelom, a rana se raspade nakon presude. Poslanik ﷺ je rekao da se Allahov Arš zatresao od njegove smrti.",
+      "de": "Sa'd ibn Mu'adh r.a. starb kurz nach dem Urteil über die Banu Quraiza. Am Graben war er von einem Pfeil verwundet worden, und die Wunde brach nach dem Urteil wieder auf. Der Prophet ﷺ sagte, dass Allahs Thron bei seinem Tod erbebte."
+    }
+  },
+  {
+    "quiz_id": 7,
+    "question_id": 85,
+    "type": "ordering",
+    "difficulty": "hard",
+    "source_section": "Hronologija događaja",
+    "question": {
+      "bs": "Poredajte pohode na jevrejska plemena hronološki:",
+      "de": "Ordnen Sie die Feldzüge gegen die jüdischen Stämme chronologisch:"
+    },
+    "options": {
+      "bs": [
+        "Pohod na Benu Nadira",
+        "Pohod na Benu Kajnuka",
+        "Pohod na Benu Kurejzu"
+      ],
+      "de": [
+        "Feldzug gegen die Banu Nadir",
+        "Feldzug gegen die Banu Qainuqa",
+        "Feldzug gegen die Banu Quraiza"
+      ]
+    },
+    "correct": {
+      "bs": [
+        "Pohod na Benu Kajnuka",
+        "Pohod na Benu Nadira",
+        "Pohod na Benu Kurejzu"
+      ],
+      "de": [
+        "Feldzug gegen die Banu Qainuqa",
+        "Feldzug gegen die Banu Nadir",
+        "Feldzug gegen die Banu Quraiza"
+      ]
+    },
+    "explanation": {
+      "bs": "Pohodi su bili: 1) Benu Kajnuka (ševal, 2. god. H.) - protjerani nakon Bedra. 2) Benu Nadira (rebiul-evvel, 4. god. H.) - protjerani u Hajber. 3) Benu Kurejza (zul-ka'de, 5. god. H.) - nakon Hendeka.",
+      "de": "Die Feldzüge waren: 1) Banu Qainuqa (Schawwal, 2. Jahr H.) - nach Badr vertrieben. 2) Banu Nadir (Rabi' al-Awwal, 4. Jahr H.) - nach Chaibar vertrieben. 3) Banu Quraiza (Dhu al-Qa'da, 5. Jahr H.) - nach dem Graben."
+    }
+  },
+  {
+    "quiz_id": 7,
+    "question_id": 86,
+    "type": "true_false",
+    "difficulty": "easy",
+    "source_section": "Bitka na Bedru",
+    "question": {
+      "bs": "Poslanik ﷺ je bio sa ashabima u prvim borbenim redovima na Bedru.",
+      "de": "Der Prophet ﷺ war mit den Gefährten in den vordersten Kampfreihen bei Badr."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Poslanik ﷺ je izašao iz svog skloni na osmatračnici i pridružio se ashabima u borbi. Udarao je u oklop i vikao: 'Skup će sigurno poražen biti, a oni će se u bijeg dati.' (El-Kamer, 45)",
+      "de": "Richtig! Der Prophet ﷺ verliess sein Quartier am Beobachtungsposten und schloss sich den Gefährten im Kampf an. Er schlug auf seinen Schild und rief: 'Die Schar wird gewiss besiegt werden und sie werden fliehen.' (Al-Qamar, 45)"
+    }
+  },
+  {
+    "quiz_id": 7,
+    "question_id": 87,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Bitka na Bedru",
+    "question": {
+      "bs": "Ko je bio prvi muslimanski šehid na Bedru?",
+      "de": "Wer war der erste muslimische Märtyrer bei Badr?"
+    },
+    "options": {
+      "bs": [
+        "Muavez bin el-Haris",
+        "Mihrdža bin Amir",
+        "Umejr bin el-Hamam",
+        "Avf bin el-Haris"
+      ],
+      "de": [
+        "Mu'awwidh ibn al-Harith",
+        "Mihrdscha ibn Amir",
+        "Umayr ibn al-Humam",
+        "Auf ibn al-Harith"
+      ]
+    },
+    "correct": {
+      "bs": "Umejr bin el-Hamam",
+      "de": "Umayr ibn al-Humam"
+    },
+    "explanation": {
+      "bs": "Umejr bin el-Hamam je upitao Poslanika ﷺ: 'Šta nas dijeli od Dženneta?' Poslanik ﷺ je rekao: 'Borba.' Umejr je tada bacio hurme koje je jeo i rekao: 'Ako budem živ dok pojedem ove hurme, dugo ću čekati!' Bacio je hurme i borio se dok nije poginuo.",
+      "de": "Umayr ibn al-Humam fragte den Propheten ﷺ: 'Was trennt uns vom Paradies?' Der Prophet ﷺ sagte: 'Der Kampf.' Umayr warf dann die Datteln weg, die er ass, und sagte: 'Wenn ich lebe, bis ich diese Datteln aufgegessen habe, warte ich zu lange!' Er warf die Datteln weg und kämpfte, bis er starb."
+    }
+  },
+  {
+    "quiz_id": 7,
+    "question_id": 88,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Bitka na Bedru",
+    "question": {
+      "bs": "Abdurrahman bin Avf je bio jedan od zarobljenika na Bedru.",
+      "de": "Abdurrahman ibn Auf war einer der Gefangenen bei Badr."
+    },
+    "correct": false,
+    "explanation": {
+      "bs": "Netačno! Abdurrahman bin Avf je bio jedan od istaknutih ashaba koji su se borili na strani muslimana na Bedru. Abbas bin Abdul-Muttalib, amidža Poslanika ﷺ, bio je zarobljenik jer je tada još uvijek bio mušrik, iako je tajno pomagao muslimane.",
+      "de": "Falsch! Abdurrahman ibn Auf war einer der herausragenden Gefährten, die auf der Seite der Muslime bei Badr kämpften. Abbas ibn Abdul-Muttalib, der Onkel des Propheten ﷺ, war ein Gefangener, da er zu dieser Zeit noch ein Götzendiener war, obwohl er den Muslimen heimlich half."
+    }
+  },
+  {
+    "quiz_id": 7,
+    "question_id": 89,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Bitka na Uhudu",
+    "question": {
+      "bs": "Ko je nosio muslimanski bajrak na Uhudu?",
+      "de": "Wer trug die muslimische Flagge bei Uhud?"
+    },
+    "options": {
+      "bs": [
+        "Alija bin Ebi Talib",
+        "Usejd bin Hudajr",
+        "Sa'd bin Muaz",
+        "Mus'ab bin Umejr"
+      ],
+      "de": [
+        "Ali ibn Abi Talib",
+        "Usaid ibn Hudair",
+        "Sa'd ibn Mu'adh",
+        "Mus'ab ibn Umair"
+      ]
+    },
+    "correct": {
+      "bs": "Mus'ab bin Umejr",
+      "de": "Mus'ab ibn Umair"
+    },
+    "explanation": {
+      "bs": "Mus'ab bin Umejr je nosio muslimanski bajrak na Uhudu. Borio se hrabro i poginuo braneći Poslanika ﷺ. Nakon njegove pogibije, bajrak je preuzeo Alija bin Ebi Talib.",
+      "de": "Mus'ab ibn Umair trug die muslimische Flagge bei Uhud. Er kämpfte tapfer und starb bei der Verteidigung des Propheten ﷺ. Nach seinem Tod übernahm Ali ibn Abi Talib die Flagge."
+    }
+  },
+  {
+    "quiz_id": 7,
+    "question_id": 90,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Bitka na Uhudu",
+    "question": {
+      "bs": "Poslanik ﷺ je proklinjao Kurejšije koji su ga ranili na Uhudu.",
+      "de": "Der Prophet ﷺ verfluchte die Quraisch, die ihn bei Uhud verwundet hatten."
+    },
+    "correct": false,
+    "explanation": {
+      "bs": "Netačno! Umjesto da prokune, Poslanik ﷺ je rekao: 'Moj Allahu, oprosti mom narodu, jer oni nisu upućeni.' Čak i dok mu je krv tekla s lica, molio je za njihovu uputu, a ne za osvetu.",
+      "de": "Falsch! Anstatt zu verfluchen, sagte der Prophet ﷺ: 'Mein Allah, vergib meinem Volk, denn sie sind nicht rechtgeleitet.' Selbst als ihm Blut über das Gesicht lief, betete er für ihre Rechtleitung, nicht für Rache."
+    }
+  },
+  {
+    "quiz_id": 7,
+    "question_id": 91,
+    "type": "multiple_choice",
+    "difficulty": "hard",
+    "source_section": "Bitka na Uhudu",
+    "question": {
+      "bs": "Koje su bile tri grupe muslimanske vojske na Uhudu? (Odaberite sve tačne)",
+      "de": "Was waren die drei Gruppen der muslimischen Armee bei Uhud? (Wählen Sie alle richtigen)"
+    },
+    "options": {
+      "bs": [
+        "Grupa muhadžira",
+        "Grupa konjanika",
+        "Grupa ensarija El-Hazredž",
+        "Grupa strijelaca",
+        "Grupa ensarija El-Evs"
+      ],
+      "de": [
+        "Gruppe der Muhadschirun",
+        "Gruppe der Reiter",
+        "Gruppe der Ansar al-Chasradsch",
+        "Gruppe der Bogenschützen",
+        "Gruppe der Ansar al-Aws"
+      ]
+    },
+    "correct": {
+      "bs": [
+        "Grupa muhadžira",
+        "Grupa ensarija El-Evs",
+        "Grupa ensarija El-Hazredž"
+      ],
+      "de": [
+        "Gruppe der Muhadschirun",
+        "Gruppe der Ansar al-Aws",
+        "Gruppe der Ansar al-Chasradsch"
+      ]
+    },
+    "explanation": {
+      "bs": "Poslanik ﷺ je podijelio vojsku na tri grupe: muhadžiri sa zastavnikom Mus'abom bin Umejrom, ensarije El-Evs sa zastavnikom Usejdom bin Hudajrom, i ensarije El-Hazredž sa zastavnikom El-Hababom bin el-Munzirom.",
+      "de": "Der Prophet ﷺ teilte die Armee in drei Gruppen: Muhadschirun mit dem Fahnenträger Mus'ab ibn Umair, Ansar al-Aws mit dem Fahnenträger Usaid ibn Hudair und Ansar al-Chasradsch mit dem Fahnenträger al-Hubab ibn al-Mundhir."
+    }
+  },
+  {
+    "quiz_id": 7,
+    "question_id": 92,
+    "type": "true_false",
+    "difficulty": "easy",
+    "source_section": "Bitka na Hendeku",
+    "question": {
+      "bs": "Bitka na Hendeku bila je psiholški rat jer nije bilo masovne bitke.",
+      "de": "Die Schlacht am Graben war ein psychologischer Krieg, da es keine Massenschlacht gab."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Hendek je bio 'rat živaca' jer nije bilo direktnog velikog sukoba. Neprijatelji nisu mogli prijeći hendek, a Allah je poslao vjetar i meleke koji su ih razbili. Iako nije bilo mnogo žrtava, bio je to najteži test za muslimane.",
+      "de": "Richtig! Der Graben war ein 'Nervenkrieg', da es keinen direkten grossen Kampf gab. Die Feinde konnten den Graben nicht überqueren, und Allah sandte Wind und Engel, die sie zerstreuten. Obwohl es nicht viele Opfer gab, war es die härteste Prüfung für die Muslime."
+    }
+  },
+  {
+    "quiz_id": 7,
+    "question_id": 93,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Bitka na Hendeku",
+    "question": {
+      "bs": "Koja je bila dova Poslanika ﷺ protiv saveznika na Hendeku?",
+      "de": "Was war das Bittgebet des Propheten ﷺ gegen die Verbündeten am Graben?"
+    },
+    "options": {
+      "bs": [
+        "'Gospodaru, Ti Koji si spustio Knjigu, pokori i porazi ujedinjenog neprijatelja!'",
+        "'Gospodaru, potopi ih!'",
+        "'Gospodaru, pošalji na njih vatru!'",
+        "'Gospodaru, uništi ih sve!'"
+      ],
+      "de": [
+        "'Herr, Du, der das Buch herabgesandt hat, unterwirf und besiege den vereinten Feind!'",
+        "'Herr, ertränke sie!'",
+        "'Herr, sende Feuer auf sie!'",
+        "'Herr, vernichte sie alle!'"
+      ]
+    },
+    "correct": {
+      "bs": "'Gospodaru, Ti Koji si spustio Knjigu, pokori i porazi ujedinjenog neprijatelja!'",
+      "de": "'Herr, Du, der das Buch herabgesandt hat, unterwirf und besiege den vereinten Feind!'"
+    },
+    "explanation": {
+      "bs": "Poslanik ﷺ je molio: 'Gospodaru moj, Ti Koji si spustio Knjigu i Koji brzo račune svodiš, pokori i porazi (Ahzabe) ujedinjenog neprijatelja, Gospodaru moj, porazi ih i rasturi ih.' Allah je uslišao dovu i poslao vjetar i meleke.",
+      "de": "Der Prophet ﷺ betete: 'Mein Herr, Du, der das Buch herabgesandt hat und schnell die Rechnung begleicht, unterwirf und besiege (al-Ahzab) den vereinten Feind, mein Herr, besiege sie und zerstreue sie.' Allah erhörte das Bittgebet und sandte Wind und Engel."
+    }
+  },
+  {
+    "quiz_id": 7,
+    "question_id": 94,
+    "type": "true_false",
+    "difficulty": "hard",
+    "source_section": "Bitka na Hendeku",
+    "question": {
+      "bs": "Poslanik ﷺ je tokom kopanja hendeka vidio bljeskove svjetlosti koji su mu najavili osvajanje Perzije, Bizantije i Jemena.",
+      "de": "Der Prophet ﷺ sah während des Grabens Lichtblitze, die ihm die Eroberung von Persien, Byzanz und Jemen ankündigten."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Tokom kopanja, naišli su na tvrdu stijenu. Poslanik ﷺ ju je tri puta udario i svaki put vidio bljeskove. Rekao je: 'U prvom sam vidio palate Perzije, u drugom palate Bizantije, u trećem palate Jemena.' Allah mu je najavio buduća osvajanja.",
+      "de": "Richtig! Während des Grabens stiessen sie auf einen harten Felsen. Der Prophet ﷺ schlug ihn dreimal, und jedes Mal sah er Blitze. Er sagte: 'Im ersten sah ich die Paläste Persiens, im zweiten die Paläste von Byzanz, im dritten die Paläste des Jemen.' Allah kündigte ihm die zukünftigen Eroberungen an."
+    }
+  },
+  {
+    "quiz_id": 7,
+    "question_id": 95,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Pouke iz bitaka",
+    "question": {
+      "bs": "Koja sura je objavljena povodom Bitke na Hendeku?",
+      "de": "Welche Sure wurde anlässlich der Schlacht am Graben offenbart?"
+    },
+    "options": {
+      "bs": [
+        "Sura Et-Tevbe",
+        "Sura Ali Imran",
+        "Sura El-Enfal",
+        "Sura El-Ahzab"
+      ],
+      "de": [
+        "Sure At-Tawba",
+        "Sure Ali Imran",
+        "Sure Al-Anfal",
+        "Sure Al-Ahzab"
+      ]
+    },
+    "correct": {
+      "bs": "Sura El-Ahzab",
+      "de": "Sure Al-Ahzab"
+    },
+    "explanation": {
+      "bs": "Sura El-Ahzab (Saveznici) je objavljena povodom Bitke na Hendeku. U njoj Allah opisuje stanje muslimana tokom opsade, izdaju munafika i Benu Kurejze, te Allahovu pomoć kroz vjetar i meleke.",
+      "de": "Sure Al-Ahzab (Die Verbündeten) wurde anlässlich der Schlacht am Graben offenbart. Darin beschreibt Allah den Zustand der Muslime während der Belagerung, den Verrat der Heuchler und der Banu Quraiza sowie Allahs Hilfe durch Wind und Engel."
+    }
+  },
+  {
+    "quiz_id": 7,
+    "question_id": 96,
+    "type": "multiple_choice",
+    "difficulty": "medium",
+    "source_section": "Pouke iz bitaka",
+    "question": {
+      "bs": "Koje sure su objavljene povodom Bitke na Bedru? (Odaberite sve tačne)",
+      "de": "Welche Suren wurden anlässlich der Schlacht von Badr offenbart? (Wählen Sie alle richtigen)"
+    },
+    "options": {
+      "bs": [
+        "Sura El-Enfal",
+        "Sura El-Ahzab",
+        "Sura Ali Imran",
+        "Dijelovi sure El-Kamer"
+      ],
+      "de": [
+        "Sure Al-Anfal",
+        "Sure Al-Ahzab",
+        "Sure Ali Imran",
+        "Teile der Sure Al-Qamar"
+      ]
+    },
+    "correct": {
+      "bs": [
+        "Sura El-Enfal",
+        "Dijelovi sure El-Kamer"
+      ],
+      "de": [
+        "Sure Al-Anfal",
+        "Teile der Sure Al-Qamar"
+      ]
+    },
+    "explanation": {
+      "bs": "Sura El-Enfal (Ratni plijen) je objavljena povodom Bedra. Također, ajet iz sure El-Kamer (54:45): 'Skup će sigurno poražen biti, a oni će se u bijeg dati' - Poslanik ﷺ je citirao ovaj ajet tokom bitke. Sura Ali Imran govori o Uhudu.",
+      "de": "Sure Al-Anfal (Die Kriegsbeute) wurde anlässlich Badrs offenbart. Auch der Vers aus Sure Al-Qamar (54:45): 'Die Schar wird gewiss besiegt werden und sie werden fliehen' - der Prophet ﷺ zitierte diesen Vers während der Schlacht. Sure Ali Imran handelt von Uhud."
+    }
+  },
+  {
+    "quiz_id": 7,
+    "question_id": 97,
+    "type": "true_false",
+    "difficulty": "easy",
+    "source_section": "Pouke iz bitaka",
+    "question": {
+      "bs": "Bitka na Bedru se naziva i 'Jevmul-Furkan' (Dan razlikovanja istine od neistine).",
+      "de": "Die Schlacht von Badr wird auch 'Yawm al-Furqan' (Tag der Unterscheidung zwischen Wahrheit und Falschheit) genannt."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Allah ﷻ je u Kur'anu nazvao dan Bedra 'Jevmul-Furkan' - Dan razlikovanja, jer je na taj dan jasno razlučena istina od neistine, vjernici od nevjernika, i islam od širka.",
+      "de": "Richtig! Allah ﷻ nannte im Koran den Tag von Badr 'Yawm al-Furqan' - Tag der Unterscheidung, denn an diesem Tag wurde klar zwischen Wahrheit und Falschheit, Gläubigen und Ungläubigen, Islam und Götzendienst unterschieden."
+    }
+  },
+  {
+    "quiz_id": 7,
+    "question_id": 98,
+    "type": "ordering",
+    "difficulty": "medium",
+    "source_section": "Komandna struktura",
+    "question": {
+      "bs": "Poredajte komandante kurejšijske konjice na tri bitke hronološki:",
+      "de": "Ordnen Sie die Befehlshaber der quraischitischen Kavallerie bei den drei Schlachten chronologisch:"
+    },
+    "options": {
+      "bs": [
+        "Halid bin Velid (konjica na Hendeku)",
+        "Nije bilo konjice (Bedr)",
+        "Halid bin Velid (konjica na Uhudu)"
+      ],
+      "de": [
+        "Chalid ibn al-Walid (Kavallerie am Graben)",
+        "Keine Kavallerie (Badr)",
+        "Chalid ibn al-Walid (Kavallerie bei Uhud)"
+      ]
+    },
+    "correct": {
+      "bs": [
+        "Nije bilo konjice (Bedr)",
+        "Halid bin Velid (konjica na Uhudu)",
+        "Halid bin Velid (konjica na Hendeku)"
+      ],
+      "de": [
+        "Keine Kavallerie (Badr)",
+        "Chalid ibn al-Walid (Kavallerie bei Uhud)",
+        "Chalid ibn al-Walid (Kavallerie am Graben)"
+      ]
+    },
+    "explanation": {
+      "bs": "Na Bedru kurejšijska konjica nije odigrala značajnu ulogu. Na Uhudu je Halid bin Velid vodio konjicu i iskoristio grešku strijelaca. Na Hendeku konjica nije mogla preći rov, osim pojedinaca poput Amra bin Abdi Vedda.",
+      "de": "Bei Badr spielte die quraischitische Kavallerie keine bedeutende Rolle. Bei Uhud führte Chalid ibn al-Walid die Kavallerie an und nutzte den Fehler der Bogenschützen aus. Am Graben konnte die Kavallerie den Graben nicht überqueren, ausser Einzelpersonen wie Amr ibn Abd Wudd."
+    }
+  },
+  {
+    "quiz_id": 7,
+    "question_id": 99,
+    "type": "true_false",
+    "difficulty": "hard",
+    "source_section": "Posljedice bitaka",
+    "question": {
+      "bs": "Nakon Hendeka, Kurejšije više nikada nisu napale Medinu.",
+      "de": "Nach dem Graben griffen die Quraisch Medina nie wieder an."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Hendek je označio prekretnicu. Poslanik ﷺ je rekao: 'Od sada ćemo mi njih napadati, a ne oni nas.' Kurejšije su izgubile inicijativu, a muslimani su preuzeli ofanzivnu poziciju koja je kulminirala oslobađanjem Meke 8. godine po Hidžri.",
+      "de": "Richtig! Der Graben markierte einen Wendepunkt. Der Prophet ﷺ sagte: 'Von nun an werden wir sie angreifen, nicht sie uns.' Die Quraisch verloren die Initiative, und die Muslime übernahmen die Offensive, die in der Befreiung Mekkas im 8. Jahr nach der Hidschra gipfelte."
+    }
+  },
+  {
+    "quiz_id": 7,
+    "question_id": 100,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Pouke iz bitaka",
+    "question": {
+      "bs": "Šta je glavna pouka iz greške strijelaca na Uhudu?",
+      "de": "Was ist die Hauptlektion aus dem Fehler der Bogenschützen bei Uhud?"
+    },
+    "options": {
+      "bs": [
+        "Važnost poslušnosti Poslaniku ﷺ i ustrajnosti na Allahovom putu",
+        "Neophodnost saveznika",
+        "Važnost brojčane nadmoći",
+        "Potreba za boljim oružjem"
+      ],
+      "de": [
+        "Die Wichtigkeit des Gehorsams gegenüber dem Propheten ﷺ und der Standhaftigkeit auf Allahs Weg",
+        "Die Notwendigkeit von Verbündeten",
+        "Die Wichtigkeit der zahlenmässigen Überlegenheit",
+        "Die Notwendigkeit besserer Waffen"
+      ]
+    },
+    "correct": {
+      "bs": "Važnost poslušnosti Poslaniku ﷺ i ustrajnosti na Allahovom putu",
+      "de": "Die Wichtigkeit des Gehorsams gegenüber dem Propheten ﷺ und der Standhaftigkeit auf Allahs Weg"
+    },
+    "explanation": {
+      "bs": "Glavna pouka Uhuda je da pobjeda dolazi s poslušnošću Allahu i Poslaniku ﷺ, a ne samo s vojnom snagom. Strijelci su napustili položaje zbog dunjalučke želje za plijenom i time izazvali katastrofu. Ustrajnost i sabur na Allahovom putu su ključ uspjeha.",
+      "de": "Die Hauptlektion von Uhud ist, dass der Sieg durch Gehorsam gegenüber Allah und dem Propheten ﷺ kommt, nicht nur durch militärische Stärke. Die Bogenschützen verliessen ihre Positionen wegen des weltlichen Wunsches nach Beute und verursachten damit eine Katastrophe. Standhaftigkeit und Geduld auf Allahs Weg sind der Schlüssel zum Erfolg."
+    }
+  }
+]

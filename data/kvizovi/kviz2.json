@@ -1,0 +1,2839 @@
+[
+  {
+    "question_id": 1,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "source_section": "Rođenje Poslanika",
+    "question": {
+      "bs": "Kako se zvala majka Poslanika ﷺ?",
+      "de": "Wie hiess die Mutter des Propheten ﷺ?"
+    },
+    "options": {
+      "bs": [
+        "Amina bint Vehb",
+        "Hatidža bint Huvejlid",
+        "Fatima bint Esed",
+        "Halima es-Sa'dijja"
+      ],
+      "de": [
+        "Amina bint Wahb",
+        "Khadidscha bint Chuwailid",
+        "Fatima bint Asad",
+        "Halima as-Sa'dijja"
+      ]
+    },
+    "correct": {
+      "bs": "Amina bint Vehb",
+      "de": "Amina bint Wahb"
+    },
+    "explanation": {
+      "bs": "Majka Poslanika ﷺ bila je Amina bint Vehb iz plemena Benu Zehra. Smatrala se najljepšom i najčestitijom djevojkom među Kurejšijama.",
+      "de": "Die Mutter des Propheten ﷺ war Amina bint Wahb vom Stamm Banu Zuhra. Sie galt als die schönste und tugendhafteste Frau unter den Quraisch."
+    },
+    "quiz_id": 2
+  },
+  {
+    "question_id": 2,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "source_section": "Rođenje Poslanika",
+    "question": {
+      "bs": "Kako se zvao otac Poslanika ﷺ?",
+      "de": "Wie hiess der Vater des Propheten ﷺ?"
+    },
+    "options": {
+      "bs": [
+        "Abdullah ibn Abdul-Muttalib",
+        "Abdul-Muttalib ibn Hašim",
+        "Ebu Talib ibn Abdul-Muttalib",
+        "Hamza ibn Abdul-Muttalib"
+      ],
+      "de": [
+        "Abdullah ibn Abdulmuttalib",
+        "Abdulmuttalib ibn Haschim",
+        "Abu Talib ibn Abdulmuttalib",
+        "Hamza ibn Abdulmuttalib"
+      ]
+    },
+    "correct": {
+      "bs": "Abdullah ibn Abdul-Muttalib",
+      "de": "Abdullah ibn Abdulmuttalib"
+    },
+    "explanation": {
+      "bs": "Otac Poslanika ﷺ bio je Abdullah ibn Abdul-Muttalib. Bio je najdraži sin Abdul-Muttalibu i umro je prije rođenja svog sina Muhammeda ﷺ.",
+      "de": "Der Vater des Propheten ﷺ war Abdullah ibn Abdulmuttalib. Er war der Lieblingssohn Abdulmuttalibs und starb vor der Geburt seines Sohnes Muhammad ﷺ."
+    },
+    "quiz_id": 2
+  },
+  {
+    "question_id": 3,
+    "type": "true_false",
+    "difficulty": "easy",
+    "source_section": "Rođenje Poslanika",
+    "question": {
+      "bs": "Poslanik ﷺ je rođen u ponedjeljak.",
+      "de": "Der Prophet ﷺ wurde an einem Montag geboren."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Poslanik ﷺ je zaista rođen u ponedjeljak, 9. rebiul-evvela, prve godine od događaja sa slonom, što odgovara 20. ili 22. aprilu 571. godine.",
+      "de": "Der Prophet ﷺ wurde tatsächlich an einem Montag, dem 9. Rabi al-Awwal, im Jahr des Elefanten geboren, was dem 20. oder 22. April 571 entspricht."
+    },
+    "quiz_id": 2
+  },
+  {
+    "question_id": 4,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Rođenje Poslanika",
+    "question": {
+      "bs": "U kojem mjesecu je rođen Poslanik ﷺ?",
+      "de": "In welchem Monat wurde der Prophet ﷺ geboren?"
+    },
+    "options": {
+      "bs": [
+        "Rebiul-evvel",
+        "Ramazan",
+        "Muharrem",
+        "Zul-hidždže"
+      ],
+      "de": [
+        "Rabi al-Awwal",
+        "Ramadan",
+        "Muharram",
+        "Dhul-Hiddscha"
+      ]
+    },
+    "correct": {
+      "bs": "Rebiul-evvel",
+      "de": "Rabi al-Awwal"
+    },
+    "explanation": {
+      "bs": "Poslanik ﷺ je rođen 9. rebiul-evvela. To je treći mjesec islamskog kalendara.",
+      "de": "Der Prophet ﷺ wurde am 9. Rabi al-Awwal geboren. Dies ist der dritte Monat des islamischen Kalenders."
+    },
+    "quiz_id": 2
+  },
+  {
+    "question_id": 5,
+    "type": "true_false",
+    "difficulty": "easy",
+    "source_section": "Smrt Abdullaha",
+    "question": {
+      "bs": "Otac Poslanika ﷺ, Abdullah, umro je prije njegovog rođenja.",
+      "de": "Der Vater des Propheten ﷺ, Abdullah, starb vor seiner Geburt."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Abdullah je umro u Medini dok se vraćao sa trgovačkog putovanja, prije rođenja Poslanika ﷺ. Imao je 25 godina.",
+      "de": "Abdullah starb in Medina auf dem Rückweg von einer Handelsreise, vor der Geburt des Propheten ﷺ. Er war 25 Jahre alt."
+    },
+    "quiz_id": 2
+  },
+  {
+    "question_id": 6,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Smrt Abdullaha",
+    "question": {
+      "bs": "U kojem gradu je umro Abdullah, otac Poslanika ﷺ?",
+      "de": "In welcher Stadt starb Abdullah, der Vater des Propheten ﷺ?"
+    },
+    "options": {
+      "bs": [
+        "Medina",
+        "Mekka",
+        "Taif",
+        "Šam"
+      ],
+      "de": [
+        "Medina",
+        "Mekka",
+        "Taif",
+        "Damaskus"
+      ]
+    },
+    "correct": {
+      "bs": "Medina",
+      "de": "Medina"
+    },
+    "explanation": {
+      "bs": "Abdullah je umro u Medini (tada Jesrib) gdje je odsjedao bolestan tokom trgovačkog putovanja. Zakopan je na groblju Nebige el-Džadija.",
+      "de": "Abdullah starb in Medina (damals Jathrib), wo er während einer Handelsreise krank wurde. Er wurde auf dem Friedhof Nabiga al-Dschadijja begraben."
+    },
+    "quiz_id": 2
+  },
+  {
+    "question_id": 7,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Nasljedstvo Abdullaha",
+    "question": {
+      "bs": "Koliko deva je Abdullah ostavio u nasljedstvo?",
+      "de": "Wie viele Kamele hinterliess Abdullah als Erbe?"
+    },
+    "options": {
+      "bs": [
+        "Pet deva",
+        "Deset deva",
+        "Sto deva",
+        "Pedeset deva"
+      ],
+      "de": [
+        "Fünf Kamele",
+        "Zehn Kamele",
+        "Hundert Kamele",
+        "Fünfzig Kamele"
+      ]
+    },
+    "correct": {
+      "bs": "Pet deva",
+      "de": "Fünf Kamele"
+    },
+    "explanation": {
+      "bs": "Abdullah je iza sebe ostavio samo pet deva, manje stado ovaca i abesinsku robinju Bereket, poznatu kao Ummu Ejmen, koja je odgojila Poslanika ﷺ.",
+      "de": "Abdullah hinterliess nur fünf Kamele, eine kleine Schafherde und die abessinische Sklavin Baraka, bekannt als Umm Aiman, die den Propheten ﷺ aufzog."
+    },
+    "quiz_id": 2
+  },
+  {
+    "question_id": 8,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "source_section": "Nasljedstvo Abdullaha",
+    "question": {
+      "bs": "Kako se zvala robinja koja je odgojila Poslanika ﷺ?",
+      "de": "Wie hiess die Sklavin, die den Propheten ﷺ aufzog?"
+    },
+    "options": {
+      "bs": [
+        "Ummu Ejmen (Bereket)",
+        "Marija Koptkinja",
+        "Sirin",
+        "Sumejja"
+      ],
+      "de": [
+        "Umm Aiman (Baraka)",
+        "Maria die Koptin",
+        "Sirin",
+        "Sumaija"
+      ]
+    },
+    "correct": {
+      "bs": "Ummu Ejmen (Bereket)",
+      "de": "Umm Aiman (Baraka)"
+    },
+    "explanation": {
+      "bs": "Ummu Ejmen, čije je pravo ime bilo Bereket, bila je abesinska robinja koju je Abdullah ostavio i koja je odgojila Poslanika ﷺ.",
+      "de": "Umm Aiman, deren richtiger Name Baraka war, war eine abessinische Sklavin, die Abdullah hinterliess und die den Propheten ﷺ aufzog."
+    },
+    "quiz_id": 2
+  },
+  {
+    "question_id": 9,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Rođenje Poslanika",
+    "question": {
+      "bs": "Amina je prilikom porođaja vidjela veliku svjetlost od koje su zablistali dvorci Šama.",
+      "de": "Amina sah bei der Geburt ein grosses Licht, von dem die Paläste Syriens erstrahlten."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Prema predanjima, Amina je rekla: 'Kad sam ga rađala, porađala sam uz njega ogromnu svjetlost, od koje su zablistali dvori Šama.'",
+      "de": "Laut Überlieferungen sagte Amina: 'Als ich ihn gebar, kam mit ihm ein gewaltiges Licht hervor, von dem die Paläste Syriens erstrahlten.'"
+    },
+    "quiz_id": 2
+  },
+  {
+    "question_id": 10,
+    "type": "multiple_choice",
+    "difficulty": "hard",
+    "source_section": "Znakovi pri rođenju",
+    "question": {
+      "bs": "Koji čudni događaji su se, prema predanjima, desili pri rođenju Poslanika ﷺ?",
+      "de": "Welche wundersamen Ereignisse sollen laut Überlieferungen bei der Geburt des Propheten ﷺ geschehen sein?"
+    },
+    "options": {
+      "bs": [
+        "Srušilo se četrnaest tornjeva sa Kserkosovog dvorca",
+        "Ugasila se vatra koju su obožavali vatropoklonici",
+        "Srušile se crkve oko jezera Savit",
+        "Zemlja se zatresla u Mekki"
+      ],
+      "de": [
+        "Vierzehn Türme des Xerxes-Palastes stürzten ein",
+        "Das Feuer, das die Feueranbeter verehrten, erlosch",
+        "Die Kirchen um den See Sawit stürzten ein",
+        "Die Erde bebte in Mekka"
+      ]
+    },
+    "correct": {
+      "bs": [
+        "Srušilo se četrnaest tornjeva sa Kserkosovog dvorca",
+        "Ugasila se vatra koju su obožavali vatropoklonici",
+        "Srušile se crkve oko jezera Savit"
+      ],
+      "de": [
+        "Vierzehn Türme des Xerxes-Palastes stürzten ein",
+        "Das Feuer, das die Feueranbeter verehrten, erlosch",
+        "Die Kirchen um den See Sawit stürzten ein"
+      ]
+    },
+    "explanation": {
+      "bs": "Prema Bejhekijinom predanju, pri rođenju Poslanika ﷺ srušilo se 14 tornjeva Kserkosovog dvorca u Perziji, ugasila se vatra koju su vijekovima obožavali i srušile su se crkve oko jezera Savit nakon što je ono presušilo.",
+      "de": "Laut Baihaqi stürzten bei der Geburt des Propheten ﷺ 14 Türme des Xerxes-Palastes in Persien ein, das jahrhundertelang verehrte Feuer erlosch und die Kirchen um den See Sawit stürzten ein, nachdem er ausgetrocknet war."
+    },
+    "quiz_id": 2
+  },
+  {
+    "question_id": 11,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "source_section": "Imenovanje Poslanika",
+    "question": {
+      "bs": "Ko je dao ime Muhammedu ﷺ?",
+      "de": "Wer gab Muhammad ﷺ seinen Namen?"
+    },
+    "options": {
+      "bs": [
+        "Njegov djed Abdul-Muttalib",
+        "Njegova majka Amina",
+        "Njegov amidža Ebu Talib",
+        "Halima es-Sa'dijja"
+      ],
+      "de": [
+        "Sein Grossvater Abdulmuttalib",
+        "Seine Mutter Amina",
+        "Sein Onkel Abu Talib",
+        "Halima as-Sa'dijja"
+      ]
+    },
+    "correct": {
+      "bs": "Njegov djed Abdul-Muttalib",
+      "de": "Sein Grossvater Abdulmuttalib"
+    },
+    "explanation": {
+      "bs": "Abdul-Muttalib je svog unuka odnio u Kabu, tu se pomolio Allahu i zahvalio Mu, te mu dao ime Muhammed, koje do tada nije bilo poznato kod Arapa.",
+      "de": "Abdulmuttalib brachte seinen Enkel zur Kaaba, betete dort zu Allah und dankte Ihm, und gab ihm den Namen Muhammad, der bei den Arabern bis dahin unbekannt war."
+    },
+    "quiz_id": 2
+  },
+  {
+    "question_id": 12,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Imenovanje Poslanika",
+    "question": {
+      "bs": "Ime Muhammed je bilo uobičajeno među Arapima prije rođenja Poslanika ﷺ.",
+      "de": "Der Name Muhammad war unter den Arabern vor der Geburt des Propheten ﷺ üblich."
+    },
+    "correct": false,
+    "explanation": {
+      "bs": "Ime Muhammed nije bilo poznato kod Arapa prije rođenja Poslanika ﷺ. Abdul-Muttalib mu je dao to ime po posebnom nadahnuću.",
+      "de": "Der Name Muhammad war bei den Arabern vor der Geburt des Propheten ﷺ nicht bekannt. Abdulmuttalib gab ihm diesen Namen durch besondere Eingebung."
+    },
+    "quiz_id": 2
+  },
+  {
+    "question_id": 13,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "source_section": "Obrezivanje Poslanika",
+    "question": {
+      "bs": "Kada je obavljeno obrezivanje Poslanika ﷺ?",
+      "de": "Wann wurde die Beschneidung des Propheten ﷺ durchgeführt?"
+    },
+    "options": {
+      "bs": [
+        "Sedmi dan po rođenju",
+        "Četrdeseti dan po rođenju",
+        "Prvi dan po rođenju",
+        "Godinu dana nakon rođenja"
+      ],
+      "de": [
+        "Am siebten Tag nach der Geburt",
+        "Am vierzigsten Tag nach der Geburt",
+        "Am ersten Tag nach der Geburt",
+        "Ein Jahr nach der Geburt"
+      ]
+    },
+    "correct": {
+      "bs": "Sedmi dan po rođenju",
+      "de": "Am siebten Tag nach der Geburt"
+    },
+    "explanation": {
+      "bs": "Obrezivanje Poslanika ﷺ urađeno je sedmog dana po rođenju, kako je bio običaj kod Arapa.",
+      "de": "Die Beschneidung des Propheten ﷺ wurde am siebten Tag nach der Geburt durchgeführt, wie es bei den Arabern Brauch war."
+    },
+    "quiz_id": 2
+  },
+  {
+    "question_id": 14,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Prvo dojenje",
+    "question": {
+      "bs": "Koja žena je prva dojila Poslanika ﷺ nakon njegove majke?",
+      "de": "Welche Frau stillte den Propheten ﷺ zuerst nach seiner Mutter?"
+    },
+    "options": {
+      "bs": [
+        "Suvejba, štićenica Ebu Leheba",
+        "Halima es-Sa'dijja",
+        "Ummu Ejmen",
+        "Fatima bint Esed"
+      ],
+      "de": [
+        "Suwaiba, die Sklavin Abu Lahabs",
+        "Halima as-Sa'dijja",
+        "Umm Aiman",
+        "Fatima bint Asad"
+      ]
+    },
+    "correct": {
+      "bs": "Suvejba, štićenica Ebu Leheba",
+      "de": "Suwaiba, die Sklavin Abu Lahabs"
+    },
+    "explanation": {
+      "bs": "Prva žena koja je dojila Poslanika ﷺ nakon majke bila je Suvejba, štićenica Ebu Leheba, koja je imala muško dojenče po imenu Mesruh.",
+      "de": "Die erste Frau, die den Propheten ﷺ nach seiner Mutter stillte, war Suwaiba, die Sklavin Abu Lahabs, die einen Sohn namens Masruh hatte."
+    },
+    "quiz_id": 2
+  },
+  {
+    "question_id": 15,
+    "type": "multiple_choice",
+    "difficulty": "hard",
+    "source_section": "Dojenje kod Suvejbe",
+    "question": {
+      "bs": "Koga je još Suvejba dojila osim Poslanika ﷺ?",
+      "de": "Wen stillte Suwaiba noch ausser dem Propheten ﷺ?"
+    },
+    "options": {
+      "bs": [
+        "Hamzu ibn Abdul-Muttaliba",
+        "Ebu Selemu ibn Abdil-Eseda",
+        "Aliju ibn Ebi Taliba",
+        "Abbasa ibn Abdul-Muttaliba"
+      ],
+      "de": [
+        "Hamza ibn Abdulmuttalib",
+        "Abu Salama ibn Abdil-Asad",
+        "Ali ibn Abi Talib",
+        "Abbas ibn Abdulmuttalib"
+      ]
+    },
+    "correct": {
+      "bs": [
+        "Hamzu ibn Abdul-Muttaliba",
+        "Ebu Selemu ibn Abdil-Eseda"
+      ],
+      "de": [
+        "Hamza ibn Abdulmuttalib",
+        "Abu Salama ibn Abdil-Asad"
+      ]
+    },
+    "explanation": {
+      "bs": "Suvejba je prije Poslanika ﷺ dojila Hamzu ibn Abdul-Muttaliba, a poslije njega dojila je Ebu Selemu ibn Abdil-Esed el-Mahzumiju.",
+      "de": "Suwaiba stillte vor dem Propheten ﷺ Hamza ibn Abdulmuttalib und nach ihm Abu Salama ibn Abdil-Asad al-Machzumi."
+    },
+    "quiz_id": 2
+  },
+  {
+    "question_id": 16,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "source_section": "Dojenje u pustinji",
+    "question": {
+      "bs": "Iz kojeg plemena je bila Halima, dojilja Poslanika ﷺ?",
+      "de": "Aus welchem Stamm stammte Halima, die Amme des Propheten ﷺ?"
+    },
+    "options": {
+      "bs": [
+        "Benu Sa'd ibn Bekr",
+        "Kurejš",
+        "Benu Hašim",
+        "Benu Temim"
+      ],
+      "de": [
+        "Banu Sa'd ibn Bakr",
+        "Quraisch",
+        "Banu Haschim",
+        "Banu Tamim"
+      ]
+    },
+    "correct": {
+      "bs": "Benu Sa'd ibn Bekr",
+      "de": "Banu Sa'd ibn Bakr"
+    },
+    "explanation": {
+      "bs": "Halima es-Sa'dijja bila je iz plemena Benu Sa'd ibn Bekr. Arapi su davali djecu dojiljama iz pustinjskih plemena radi čistog zraka i čistog arapskog jezika.",
+      "de": "Halima as-Sa'dijja war vom Stamm Banu Sa'd ibn Bakr. Die Araber gaben ihre Kinder zu Ammen aus Wüstenstämmen für reine Luft und reines Arabisch."
+    },
+    "quiz_id": 2
+  },
+  {
+    "question_id": 17,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Dojenje u pustinji",
+    "question": {
+      "bs": "Kako se zvao muž Halime es-Sa'dijje?",
+      "de": "Wie hiess der Ehemann von Halima as-Sa'dijja?"
+    },
+    "options": {
+      "bs": [
+        "Haris ibn Abdil-Uzza (Ebu Kebše)",
+        "Abdullah ibn Haris",
+        "Zejd ibn Harise",
+        "Amr ibn Hišam"
+      ],
+      "de": [
+        "Harith ibn Abdil-Uzza (Abu Kabscha)",
+        "Abdullah ibn Harith",
+        "Zaid ibn Haritha",
+        "Amr ibn Hischam"
+      ]
+    },
+    "correct": {
+      "bs": "Haris ibn Abdil-Uzza (Ebu Kebše)",
+      "de": "Harith ibn Abdil-Uzza (Abu Kabscha)"
+    },
+    "explanation": {
+      "bs": "Muž Halime bio je Haris ibn Abdil-Uzza, s nadimkom Ebu Kebše, iz istog plemena Benu Sa'd ibn Bekr kao i Halima.",
+      "de": "Halimas Ehemann war Harith ibn Abdil-Uzza, mit dem Beinamen Abu Kabscha, vom selben Stamm Banu Sa'd ibn Bakr wie Halima."
+    },
+    "quiz_id": 2
+  },
+  {
+    "question_id": 18,
+    "type": "true_false",
+    "difficulty": "easy",
+    "source_section": "Dojenje u pustinji",
+    "question": {
+      "bs": "Halima je odmah prihvatila da doji Poslanika ﷺ jer je znala da će on biti poslanik.",
+      "de": "Halima nahm sofort an, den Propheten ﷺ zu stillen, weil sie wusste, dass er ein Prophet sein würde."
+    },
+    "correct": false,
+    "explanation": {
+      "bs": "Halima je u početku odbijala uzeti Poslanika ﷺ jer je bio jetim (siroče) bez oca i nije očekivala plaću. Uzela ga je tek kad nije našla drugo dijete za dojenje.",
+      "de": "Halima weigerte sich zunächst, den Propheten ﷺ zu nehmen, weil er eine Waise ohne Vater war und sie keine Bezahlung erwartete. Sie nahm ihn erst, als sie kein anderes Kind fand."
+    },
+    "quiz_id": 2
+  },
+  {
+    "question_id": 19,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Dojenje u pustinji",
+    "question": {
+      "bs": "Zašto su dojilje u početku odbijale uzeti malog Muhammeda ﷺ?",
+      "de": "Warum lehnten die Ammen zunächst ab, den kleinen Muhammad ﷺ zu nehmen?"
+    },
+    "options": {
+      "bs": [
+        "Jer je bio siroče bez oca",
+        "Jer je bio bolestan",
+        "Jer je bio iz siromašne porodice",
+        "Jer su se bojale Kurejšija"
+      ],
+      "de": [
+        "Weil er eine Waise ohne Vater war",
+        "Weil er krank war",
+        "Weil er aus einer armen Familie stammte",
+        "Weil sie Angst vor den Quraisch hatten"
+      ]
+    },
+    "correct": {
+      "bs": "Jer je bio siroče bez oca",
+      "de": "Weil er eine Waise ohne Vater war"
+    },
+    "explanation": {
+      "bs": "Dojilje su očekivale plaću od djetetovog oca, a pošto je Muhammed ﷺ bio jetim bez oca, nisu ga htjele uzeti. Svaka bi rekla: 'Jetim. Šta bi za njega mogli učiniti majka i djed?'",
+      "de": "Die Ammen erwarteten Bezahlung vom Vater des Kindes, und da Muhammad ﷺ eine Waise war, wollten sie ihn nicht nehmen. Jede sagte: 'Eine Waise. Was könnten Mutter und Grossvater schon geben?'"
+    },
+    "quiz_id": 2
+  },
+  {
+    "question_id": 20,
+    "type": "true_false",
+    "difficulty": "easy",
+    "source_section": "Berićet kod Halime",
+    "question": {
+      "bs": "Nakon što je Halima uzela malog Muhammeda ﷺ, njene ovce su počele davati više mlijeka.",
+      "de": "Nachdem Halima den kleinen Muhammad ﷺ aufnahm, begannen ihre Schafe mehr Milch zu geben."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Halima je svjedočila o čudesnom berićetu koji je došao s Muhammedom ﷺ. Njene ovce su dolazile s paše site i pune mlijeka, dok su ovce susjeda dolazile gladne i bez mlijeka.",
+      "de": "Halima bezeugte den wundersamen Segen, der mit Muhammad ﷺ kam. Ihre Schafe kamen satt und voller Milch von der Weide, während die Schafe der Nachbarn hungrig und ohne Milch kamen."
+    },
+    "quiz_id": 2
+  },
+  {
+    "question_id": 21,
+    "type": "multiple_choice",
+    "difficulty": "medium",
+    "source_section": "Berićet kod Halime",
+    "question": {
+      "bs": "Koji znakovi berićeta su se pojavili kod Halime nakon što je uzela Muhammeda ﷺ?",
+      "de": "Welche Zeichen des Segens erschienen bei Halima, nachdem sie Muhammad ﷺ aufnahm?"
+    },
+    "options": {
+      "bs": [
+        "Njena deva je počela davati mlijeko",
+        "Njene ovce su dolazile site s paše",
+        "Njena deva je postala brža od ostalih",
+        "Njena njiva je rodila mnogo više"
+      ],
+      "de": [
+        "Ihr Kamel begann Milch zu geben",
+        "Ihre Schafe kamen satt von der Weide",
+        "Ihr Kamel wurde schneller als die anderen",
+        "Ihr Feld trug viel mehr Früchte"
+      ]
+    },
+    "correct": {
+      "bs": [
+        "Njena deva je počela davati mlijeko",
+        "Njene ovce su dolazile site s paše",
+        "Njena deva je postala brža od ostalih"
+      ],
+      "de": [
+        "Ihr Kamel begann Milch zu geben",
+        "Ihre Schafe kamen satt von der Weide",
+        "Ihr Kamel wurde schneller als die anderen"
+      ]
+    },
+    "explanation": {
+      "bs": "Halima je svjedočila o tri čuda berićeta: njena deva koja prije nije davala mlijeka počela je davati, njene ovce su dolazile site i pune mlijeka, a njena deva je postala toliko brza da su joj drugarice povikale u čudu.",
+      "de": "Halima bezeugte drei Wunder des Segens: Ihr Kamel, das vorher keine Milch gab, begann zu geben, ihre Schafe kamen satt und voller Milch, und ihr Kamel wurde so schnell, dass ihre Gefährtinnen erstaunt riefen."
+    },
+    "quiz_id": 2
+  },
+  {
+    "question_id": 22,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Boravak kod Halime",
+    "question": {
+      "bs": "Koliko je godina Muhammed ﷺ proveo kod Halime prije nego se desio događaj rasijecanja prsa?",
+      "de": "Wie viele Jahre verbrachte Muhammad ﷺ bei Halima, bevor das Ereignis der Brustöffnung geschah?"
+    },
+    "options": {
+      "bs": [
+        "Četiri do pet godina",
+        "Dvije godine",
+        "Sedam godina",
+        "Deset godina"
+      ],
+      "de": [
+        "Vier bis fünf Jahre",
+        "Zwei Jahre",
+        "Sieben Jahre",
+        "Zehn Jahre"
+      ]
+    },
+    "correct": {
+      "bs": "Četiri do pet godina",
+      "de": "Vier bis fünf Jahre"
+    },
+    "explanation": {
+      "bs": "Muhammed ﷺ je imao četiri ili pet godina kad se desio događaj rasijecanja i čišćenja prsa (šakkus-sadr) dok je živio kod Halime.",
+      "de": "Muhammad ﷺ war vier oder fünf Jahre alt, als das Ereignis der Brustöffnung und -reinigung (Schakk as-Sadr) geschah, während er bei Halima lebte."
+    },
+    "quiz_id": 2
+  },
+  {
+    "question_id": 23,
+    "type": "ordering",
+    "difficulty": "hard",
+    "source_section": "Rasijecanje prsa",
+    "question": {
+      "bs": "Poredaj događaje rasijecanja prsa (šakkus-sadr) po redoslijedu:",
+      "de": "Ordne die Ereignisse der Brustöffnung (Schakk as-Sadr) in der richtigen Reihenfolge:"
+    },
+    "options": {
+      "bs": [
+        "Isprao je srce u zlatnom leđenu vodom Zemzem",
+        "Džibril je rasjekao prsa do srca",
+        "Izvadio je ugrušak iz srca",
+        "Vratio je srce na mjesto i zašio ga",
+        "Džibril je došao dok se Muhammed igrao s djecom"
+      ],
+      "de": [
+        "Er wusch das Herz in einer goldenen Schale mit Zamzam-Wasser",
+        "Dschibril öffnete die Brust bis zum Herzen",
+        "Er entfernte einen Blutklumpen aus dem Herzen",
+        "Er setzte das Herz zurück und nähte es zu",
+        "Dschibril kam, während Muhammad mit Kindern spielte"
+      ]
+    },
+    "correct": {
+      "bs": [
+        "Džibril je došao dok se Muhammed igrao s djecom",
+        "Džibril je rasjekao prsa do srca",
+        "Izvadio je ugrušak iz srca",
+        "Isprao je srce u zlatnom leđenu vodom Zemzem",
+        "Vratio je srce na mjesto i zašio ga"
+      ],
+      "de": [
+        "Dschibril kam, während Muhammad mit Kindern spielte",
+        "Dschibril öffnete die Brust bis zum Herzen",
+        "Er entfernte einen Blutklumpen aus dem Herzen",
+        "Er wusch das Herz in einer goldenen Schale mit Zamzam-Wasser",
+        "Er setzte das Herz zurück und nähte es zu"
+      ]
+    },
+    "explanation": {
+      "bs": "Prema hadisu koji prenosi Muslim od Enesa, Džibril je došao dok se Muhammed ﷺ igrao, položio ga na zemlju, rasjekao prsa, izvadio srce, iz njega izvadio ugrušak (šejtanov udio), isprao ga vodom Zemzem u zlatnom leđenu, pa ga vratio i zašio.",
+      "de": "Laut dem Hadith von Muslim über Anas kam Dschibril, während Muhammad ﷺ spielte, legte ihn auf den Boden, öffnete seine Brust, entnahm das Herz, entfernte einen Blutklumpen (Satans Anteil), wusch es mit Zamzam-Wasser in einer goldenen Schale, setzte es zurück und nähte es zu."
+    },
+    "quiz_id": 2
+  },
+  {
+    "question_id": 24,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Rasijecanje prsa",
+    "question": {
+      "bs": "Čime je Džibril isprao srce Poslanika ﷺ prilikom rasijecanja prsa?",
+      "de": "Womit wusch Dschibril das Herz des Propheten ﷺ bei der Brustöffnung?"
+    },
+    "options": {
+      "bs": [
+        "Vodom Zemzem u zlatnom leđenu",
+        "Kišnicom",
+        "Vodom iz Dženneta",
+        "Mlijekom"
+      ],
+      "de": [
+        "Zamzam-Wasser in einer goldenen Schale",
+        "Regenwasser",
+        "Wasser aus dem Paradies",
+        "Milch"
+      ]
+    },
+    "correct": {
+      "bs": "Vodom Zemzem u zlatnom leđenu",
+      "de": "Zamzam-Wasser in einer goldenen Schale"
+    },
+    "explanation": {
+      "bs": "Džibril je isprao srce Poslanika ﷺ u zlatnom leđenu u kojem je bila voda Zemzem.",
+      "de": "Dschibril wusch das Herz des Propheten ﷺ in einer goldenen Schale, die Zamzam-Wasser enthielt."
+    },
+    "quiz_id": 2
+  },
+  {
+    "question_id": 25,
+    "type": "true_false",
+    "difficulty": "easy",
+    "source_section": "Rasijecanje prsa",
+    "question": {
+      "bs": "Džibril je rekao da je u ugrušku koji je izvadio iz srca bio šejtanov udio.",
+      "de": "Dschibril sagte, dass in dem Blutklumpen, den er aus dem Herzen entfernte, Satans Anteil war."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Džibril je nakon što je izvadio ugrušak iz srca rekao: 'U ovome je šejtan mogao da ti naudi.'",
+      "de": "Dschibril sagte, nachdem er den Blutklumpen aus dem Herzen entfernt hatte: 'Hierdurch hätte Satan dir schaden können.'"
+    },
+    "quiz_id": 2
+  },
+  {
+    "question_id": 26,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Rasijecanje prsa",
+    "question": {
+      "bs": "Šta su djeca vikala kad su vidjela šta se desilo Muhammedu ﷺ prilikom rasijecanja prsa?",
+      "de": "Was riefen die Kinder, als sie sahen, was Muhammad ﷺ bei der Brustöffnung widerfuhr?"
+    },
+    "options": {
+      "bs": [
+        "'Muhammed je ubijen!'",
+        "'Došli su meleki!'",
+        "'Pogledajte čudo!'",
+        "'Zovite Halimu!'"
+      ],
+      "de": [
+        "'Muhammad ist getötet!'",
+        "'Die Engel sind gekommen!'",
+        "'Seht das Wunder!'",
+        "'Ruft Halima!'"
+      ]
+    },
+    "correct": {
+      "bs": "'Muhammed je ubijen!'",
+      "de": "'Muhammad ist getötet!'"
+    },
+    "explanation": {
+      "bs": "Dječaci su trčeći došli Halimi, vičući: 'Muhammed je ubijen!' Kad ga je Halima ugledala, imao je drugačiju boju lica.",
+      "de": "Die Jungen rannten zu Halima und riefen: 'Muhammad ist getötet!' Als Halima ihn sah, hatte er eine andere Gesichtsfarbe."
+    },
+    "quiz_id": 2
+  },
+  {
+    "question_id": 27,
+    "type": "true_false",
+    "difficulty": "easy",
+    "source_section": "Povratak majci",
+    "question": {
+      "bs": "Nakon događaja rasijecanja prsa, Halima je odlučila vratiti Muhammeda ﷺ njegovoj majci.",
+      "de": "Nach dem Ereignis der Brustöffnung beschloss Halima, Muhammad ﷺ zu seiner Mutter zurückzubringen."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Nakon čudnog događaja rasijecanja prsa, Halima se uplašila za Muhammeda ﷺ pa je odlučila da ga vrati njegovoj majci Amini.",
+      "de": "Nach dem seltsamen Ereignis der Brustöffnung fürchtete Halima um Muhammad ﷺ und beschloss, ihn zu seiner Mutter Amina zurückzubringen."
+    },
+    "quiz_id": 2
+  },
+  {
+    "question_id": 28,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Povratak majci",
+    "question": {
+      "bs": "Koliko je godina imao Muhammed ﷺ kad se vratio svojoj majci nakon boravka kod Halime?",
+      "de": "Wie alt war Muhammad ﷺ, als er nach dem Aufenthalt bei Halima zu seiner Mutter zurückkehrte?"
+    },
+    "options": {
+      "bs": [
+        "Oko pet-šest godina",
+        "Dvije godine",
+        "Osam godina",
+        "Deset godina"
+      ],
+      "de": [
+        "Etwa fünf bis sechs Jahre",
+        "Zwei Jahre",
+        "Acht Jahre",
+        "Zehn Jahre"
+      ]
+    },
+    "correct": {
+      "bs": "Oko pet-šest godina",
+      "de": "Etwa fünf bis sechs Jahre"
+    },
+    "explanation": {
+      "bs": "Muhammed ﷺ je kod majke proveo vrijeme sve do napunjene šeste godine, nakon što je bio vraćen od Halime.",
+      "de": "Muhammad ﷺ blieb bei seiner Mutter bis zu seinem sechsten Lebensjahr, nachdem er von Halima zurückgebracht worden war."
+    },
+    "quiz_id": 2
+  },
+  {
+    "question_id": 29,
+    "type": "multiple_choice",
+    "difficulty": "medium",
+    "source_section": "Braća po mlijeku",
+    "question": {
+      "bs": "Ko su bila braća i sestre Poslanika ﷺ po mlijeku iz Halimine porodice?",
+      "de": "Wer waren die Milchgeschwister des Propheten ﷺ aus Halimas Familie?"
+    },
+    "options": {
+      "bs": [
+        "Abdullah ibn Haris",
+        "Enisa bint Haris",
+        "Huzafa (Džuzama) bint Haris",
+        "Hamza ibn Abdul-Muttalib"
+      ],
+      "de": [
+        "Abdullah ibn Harith",
+        "Anisa bint Harith",
+        "Khuzafa (Dschuzama) bint Harith",
+        "Hamza ibn Abdulmuttalib"
+      ]
+    },
+    "correct": {
+      "bs": [
+        "Abdullah ibn Haris",
+        "Enisa bint Haris",
+        "Huzafa (Džuzama) bint Haris"
+      ],
+      "de": [
+        "Abdullah ibn Harith",
+        "Anisa bint Harith",
+        "Khuzafa (Dschuzama) bint Harith"
+      ]
+    },
+    "explanation": {
+      "bs": "Poslanikova ﷺ braća i sestre po mlijeku iz Halimine porodice bili su: Abdullah ibn Haris, Enisa bint Haris i Huzafa (ili Džuzama) bint Haris. Hamza je bio brat po mlijeku preko Suvejbe i druge dojilje iz Benu Sa'da.",
+      "de": "Die Milchgeschwister des Propheten ﷺ aus Halimas Familie waren: Abdullah ibn Harith, Anisa bint Harith und Khuzafa (oder Dschuzama) bint Harith. Hamza war Milchbruder durch Suwaiba und eine andere Amme aus Banu Sa'd."
+    },
+    "quiz_id": 2
+  },
+  {
+    "question_id": 30,
+    "type": "true_false",
+    "difficulty": "hard",
+    "source_section": "Braća po mlijeku",
+    "question": {
+      "bs": "Hamza ibn Abdul-Muttalib bio je brat po mlijeku Poslanika ﷺ samo preko Suvejbe.",
+      "de": "Hamza ibn Abdulmuttalib war nur über Suwaiba ein Milchbruder des Propheten ﷺ."
+    },
+    "correct": false,
+    "explanation": {
+      "bs": "Hamza je bio brat po mlijeku Poslaniku ﷺ s dvije strane: preko Suvejbe i preko majke iz plemena Benu Sa'd ibn Bekr koja je dojila Hamzu, a jednom prilikom podojila i Poslanika ﷺ.",
+      "de": "Hamza war Milchbruder des Propheten ﷺ von zwei Seiten: über Suwaiba und über eine Mutter vom Stamm Banu Sa'd ibn Bakr, die Hamza stillte und einmal auch den Propheten ﷺ."
+    },
+    "quiz_id": 2
+  },
+  {
+    "question_id": 31,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Smrt majke",
+    "question": {
+      "bs": "Zašto je Amina povela Muhammeda ﷺ na putovanje u Medinu?",
+      "de": "Warum nahm Amina Muhammad ﷺ mit auf eine Reise nach Medina?"
+    },
+    "options": {
+      "bs": [
+        "Da obiđu grob njenog muža Abdullaha",
+        "Da trguju",
+        "Da posjete rodbinu",
+        "Da obave hadž"
+      ],
+      "de": [
+        "Um das Grab ihres Mannes Abdullah zu besuchen",
+        "Um Handel zu treiben",
+        "Um Verwandte zu besuchen",
+        "Um die Pilgerfahrt zu vollziehen"
+      ]
+    },
+    "correct": {
+      "bs": "Da obiđu grob njenog muža Abdullaha",
+      "de": "Um das Grab ihres Mannes Abdullah zu besuchen"
+    },
+    "explanation": {
+      "bs": "Amina je smatrala potrebnim da zbog sina i zbog sebe ode u obilazak muževog groba u Jesribu (Medini), gdje je Abdullah bio pokopan.",
+      "de": "Amina hielt es für notwendig, wegen ihres Sohnes und ihrer selbst das Grab ihres Mannes in Jathrib (Medina) zu besuchen, wo Abdullah begraben war."
+    },
+    "quiz_id": 2
+  },
+  {
+    "question_id": 32,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Smrt majke",
+    "question": {
+      "bs": "Koliko je kilometara bilo udaljeno mjesto putovanja Amine i Muhammeda ﷺ?",
+      "de": "Wie viele Kilometer war das Reiseziel von Amina und Muhammad ﷺ entfernt?"
+    },
+    "options": {
+      "bs": [
+        "Oko 500 km",
+        "Oko 100 km",
+        "Oko 1000 km",
+        "Oko 50 km"
+      ],
+      "de": [
+        "Etwa 500 km",
+        "Etwa 100 km",
+        "Etwa 1000 km",
+        "Etwa 50 km"
+      ]
+    },
+    "correct": {
+      "bs": "Oko 500 km",
+      "de": "Etwa 500 km"
+    },
+    "explanation": {
+      "bs": "Amina je krenula s Muhammedom ﷺ na put dug 500 km do Medine. Na putu su proveli mjesec dana.",
+      "de": "Amina reiste mit Muhammad ﷺ auf einer 500 km langen Reise nach Medina. Sie verbrachten einen Monat unterwegs."
+    },
+    "quiz_id": 2
+  },
+  {
+    "question_id": 33,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "source_section": "Smrt majke",
+    "question": {
+      "bs": "Na kojem mjestu je umrla Amina, majka Poslanika ﷺ?",
+      "de": "An welchem Ort starb Amina, die Mutter des Propheten ﷺ?"
+    },
+    "options": {
+      "bs": [
+        "El-Ebva",
+        "Mekka",
+        "Medina",
+        "Taif"
+      ],
+      "de": [
+        "Al-Abwa",
+        "Mekka",
+        "Medina",
+        "Taif"
+      ]
+    },
+    "correct": {
+      "bs": "El-Ebva",
+      "de": "Al-Abwa"
+    },
+    "explanation": {
+      "bs": "Amina je umrla u El-Ebvau, mjestu između Mekke i Medine, na povratku s putovanja. Muhammed ﷺ je tada imao šest godina.",
+      "de": "Amina starb in Al-Abwa, einem Ort zwischen Mekka und Medina, auf dem Rückweg von der Reise. Muhammad ﷺ war damals sechs Jahre alt."
+    },
+    "quiz_id": 2
+  },
+  {
+    "question_id": 34,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "source_section": "Smrt majke",
+    "question": {
+      "bs": "Koliko je godina imao Muhammed ﷺ kada mu je umrla majka Amina?",
+      "de": "Wie alt war Muhammad ﷺ, als seine Mutter Amina starb?"
+    },
+    "options": {
+      "bs": [
+        "Šest godina",
+        "Osam godina",
+        "Četiri godine",
+        "Deset godina"
+      ],
+      "de": [
+        "Sechs Jahre",
+        "Acht Jahre",
+        "Vier Jahre",
+        "Zehn Jahre"
+      ]
+    },
+    "correct": {
+      "bs": "Šest godina",
+      "de": "Sechs Jahre"
+    },
+    "explanation": {
+      "bs": "Muhammed ﷺ je imao šest godina kad mu je umrla majka Amina na povratku iz Medine.",
+      "de": "Muhammad ﷺ war sechs Jahre alt, als seine Mutter Amina auf dem Rückweg aus Medina starb."
+    },
+    "quiz_id": 2
+  },
+  {
+    "question_id": 35,
+    "type": "multiple_choice",
+    "difficulty": "medium",
+    "source_section": "Smrt majke",
+    "question": {
+      "bs": "Ko je pratio Aminu i Muhammeda ﷺ na putovanju u Medinu?",
+      "de": "Wer begleitete Amina und Muhammad ﷺ auf der Reise nach Medina?"
+    },
+    "options": {
+      "bs": [
+        "Služavka Ummu Ejmen",
+        "Djed Abdul-Muttalib",
+        "Amidža Ebu Talib",
+        "Halima es-Sa'dijja"
+      ],
+      "de": [
+        "Die Dienerin Umm Aiman",
+        "Grossvater Abdulmuttalib",
+        "Onkel Abu Talib",
+        "Halima as-Sa'dijja"
+      ]
+    },
+    "correct": {
+      "bs": [
+        "Služavka Ummu Ejmen",
+        "Djed Abdul-Muttalib"
+      ],
+      "de": [
+        "Die Dienerin Umm Aiman",
+        "Grossvater Abdulmuttalib"
+      ]
+    },
+    "explanation": {
+      "bs": "Na putovanje u Medinu su krenuli Amina sa sinom Muhammedom ﷺ, u pratnji služavke Ummu Ejmen i svekra Abdul-Muttaliba.",
+      "de": "Auf die Reise nach Medina gingen Amina mit ihrem Sohn Muhammad ﷺ, begleitet von der Dienerin Umm Aiman und dem Schwiegervater Abdulmuttalib."
+    },
+    "quiz_id": 2
+  },
+  {
+    "question_id": 36,
+    "type": "true_false",
+    "difficulty": "easy",
+    "source_section": "Briga djeda",
+    "question": {
+      "bs": "Nakon smrti majke, Muhammed ﷺ je ostao pod brigom svog djeda Abdul-Muttaliba.",
+      "de": "Nach dem Tod seiner Mutter blieb Muhammad ﷺ in der Obhut seines Grossvaters Abdulmuttalib."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Nakon smrti Amine, Muhammed ﷺ je ostao s djedom Abdul-Muttalibom koji ga je veoma volio i brinuo se o njemu.",
+      "de": "Nach Aminas Tod blieb Muhammad ﷺ bei seinem Grossvater Abdulmuttalib, der ihn sehr liebte und sich um ihn kümmerte."
+    },
+    "quiz_id": 2
+  },
+  {
+    "question_id": 37,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Briga djeda",
+    "question": {
+      "bs": "Kako je Abdul-Muttalib tretirao svog unuka Muhammeda ﷺ?",
+      "de": "Wie behandelte Abdulmuttalib seinen Enkel Muhammad ﷺ?"
+    },
+    "options": {
+      "bs": [
+        "Posebno ga je volio i davao mu prednost nad sinovima",
+        "Tretirao ga je kao i ostalu djecu",
+        "Nije mu posvećivao pažnju",
+        "Davao ga je na brigu drugima"
+      ],
+      "de": [
+        "Er liebte ihn besonders und bevorzugte ihn vor seinen Söhnen",
+        "Er behandelte ihn wie die anderen Kinder",
+        "Er schenkte ihm keine Aufmerksamkeit",
+        "Er gab ihn in die Obhut anderer"
+      ]
+    },
+    "correct": {
+      "bs": "Posebno ga je volio i davao mu prednost nad sinovima",
+      "de": "Er liebte ihn besonders und bevorzugte ihn vor seinen Söhnen"
+    },
+    "explanation": {
+      "bs": "Abdul-Muttalib je Muhammeda ﷺ posebno volio. Dok bi amidže uzimale i sklanjale njegovu posteljicu ustranu, Abdul-Muttalib bi rekao: 'Pustite mog sina!' i davao mu je posebno mjesto.",
+      "de": "Abdulmuttalib liebte Muhammad ﷺ besonders. Während die Onkel seine Matratze wegnehmen wollten, sagte Abdulmuttalib: 'Lasst meinen Sohn!' und gab ihm einen besonderen Platz."
+    },
+    "quiz_id": 2
+  },
+  {
+    "question_id": 38,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "source_section": "Smrt djeda",
+    "question": {
+      "bs": "Koliko je godina imao Muhammed ﷺ kada mu je umro djed Abdul-Muttalib?",
+      "de": "Wie alt war Muhammad ﷺ, als sein Grossvater Abdulmuttalib starb?"
+    },
+    "options": {
+      "bs": [
+        "Osam godina",
+        "Šest godina",
+        "Deset godina",
+        "Dvanaest godina"
+      ],
+      "de": [
+        "Acht Jahre",
+        "Sechs Jahre",
+        "Zehn Jahre",
+        "Zwölf Jahre"
+      ]
+    },
+    "correct": {
+      "bs": "Osam godina",
+      "de": "Acht Jahre"
+    },
+    "explanation": {
+      "bs": "Abdul-Muttalib je umro kada je Muhammed ﷺ navršio osam godina.",
+      "de": "Abdulmuttalib starb, als Muhammad ﷺ acht Jahre alt wurde."
+    },
+    "quiz_id": 2
+  },
+  {
+    "question_id": 39,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Smrt djeda",
+    "question": {
+      "bs": "Abdul-Muttalib je umro devete godine od događaja sa slonom.",
+      "de": "Abdulmuttalib starb im neunten Jahr nach dem Ereignis des Elefanten."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Abdul-Muttalib je umro devete godine od događaja sa slonom, kada je Muhammed ﷺ imao osam godina.",
+      "de": "Abdulmuttalib starb im neunten Jahr nach dem Ereignis des Elefanten, als Muhammad ﷺ acht Jahre alt war."
+    },
+    "quiz_id": 2
+  },
+  {
+    "question_id": 40,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "source_section": "Briga amidže",
+    "question": {
+      "bs": "Ko je preuzeo brigu o Muhammedu ﷺ nakon smrti Abdul-Muttaliba?",
+      "de": "Wer übernahm die Fürsorge für Muhammad ﷺ nach dem Tod Abdulmuttalibs?"
+    },
+    "options": {
+      "bs": [
+        "Ebu Talib",
+        "Hamza",
+        "Abbas",
+        "Ebu Leheb"
+      ],
+      "de": [
+        "Abu Talib",
+        "Hamza",
+        "Abbas",
+        "Abu Lahab"
+      ]
+    },
+    "correct": {
+      "bs": "Ebu Talib",
+      "de": "Abu Talib"
+    },
+    "explanation": {
+      "bs": "Nakon smrti Abdul-Muttaliba, Muhammed ﷺ je ostao sa svojim amidžom Ebu Talibom koji ga je volio i štitio do kraja života.",
+      "de": "Nach dem Tod Abdulmuttalibs blieb Muhammad ﷺ bei seinem Onkel Abu Talib, der ihn liebte und bis zu seinem Lebensende beschützte."
+    },
+    "quiz_id": 2
+  },
+  {
+    "question_id": 41,
+    "type": "true_false",
+    "difficulty": "easy",
+    "source_section": "Briga amidže",
+    "question": {
+      "bs": "Ebu Talib je primio islam prije svoje smrti.",
+      "de": "Abu Talib nahm den Islam vor seinem Tod an."
+    },
+    "correct": false,
+    "explanation": {
+      "bs": "Ebu Talib, uprkos velikoj ljubavi i zaštiti koju je pružao Poslaniku ﷺ, nije primio islam. Umro je kao nevjernik, ali je bio ključna zaštita Poslaniku ﷺ u Mekki.",
+      "de": "Abu Talib, trotz seiner grossen Liebe und seines Schutzes für den Propheten ﷺ, nahm den Islam nicht an. Er starb als Ungläubiger, war aber ein wichtiger Beschützer des Propheten ﷺ in Mekka."
+    },
+    "quiz_id": 2
+  },
+  {
+    "question_id": 42,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Putovanje u Šam",
+    "question": {
+      "bs": "S kim je Muhammed ﷺ putovao u Šam (Siriju) kao dječak?",
+      "de": "Mit wem reiste Muhammad ﷺ als Kind nach Syrien?"
+    },
+    "options": {
+      "bs": [
+        "Sa amidžom Ebu Talibom",
+        "Sa djedom Abdul-Muttalibom",
+        "Sa majkom Aminom",
+        "Sa Halimom es-Sa'dijjom"
+      ],
+      "de": [
+        "Mit seinem Onkel Abu Talib",
+        "Mit seinem Grossvater Abdulmuttalib",
+        "Mit seiner Mutter Amina",
+        "Mit Halima as-Sa'dijja"
+      ]
+    },
+    "correct": {
+      "bs": "Sa amidžom Ebu Talibom",
+      "de": "Mit seinem Onkel Abu Talib"
+    },
+    "explanation": {
+      "bs": "Ebu Talib se spremao da s jednom trgovačkom karavanom pođe za Šam i poveo je sa sobom mladog Muhammeda ﷺ.",
+      "de": "Abu Talib bereitete sich darauf vor, mit einer Handelskarawane nach Syrien zu reisen und nahm den jungen Muhammad ﷺ mit."
+    },
+    "quiz_id": 2
+  },
+  {
+    "question_id": 43,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Susret sa Behirom",
+    "question": {
+      "bs": "Kako se zvao kršćanski monah koji je prepoznao znakove poslanstva kod mladog Muhammeda ﷺ?",
+      "de": "Wie hiess der christliche Mönch, der die Zeichen des Prophetentums beim jungen Muhammad ﷺ erkannte?"
+    },
+    "options": {
+      "bs": [
+        "Behira",
+        "Varaka",
+        "Nestor",
+        "Sergije"
+      ],
+      "de": [
+        "Bahira",
+        "Waraqa",
+        "Nestor",
+        "Sergius"
+      ]
+    },
+    "correct": {
+      "bs": "Behira",
+      "de": "Bahira"
+    },
+    "explanation": {
+      "bs": "Behira je bio kršćanski isposnik (monah) u Busri (Sirija) koji je prepoznao znakove poslanstva kod mladog Muhammeda ﷺ prema svojim svetim knjigama.",
+      "de": "Bahira war ein christlicher Mönch in Bosra (Syrien), der die Zeichen des Prophetentums beim jungen Muhammad ﷺ gemäss seinen heiligen Schriften erkannte."
+    },
+    "quiz_id": 2
+  },
+  {
+    "question_id": 44,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Susret sa Behirom",
+    "question": {
+      "bs": "U kojem gradu se nalazio monah Behira?",
+      "de": "In welcher Stadt befand sich der Mönch Bahira?"
+    },
+    "options": {
+      "bs": [
+        "Busra (u Siriji)",
+        "Damask",
+        "Jerusalem",
+        "Medina"
+      ],
+      "de": [
+        "Bosra (in Syrien)",
+        "Damaskus",
+        "Jerusalem",
+        "Medina"
+      ]
+    },
+    "correct": {
+      "bs": "Busra (u Siriji)",
+      "de": "Bosra (in Syrien)"
+    },
+    "explanation": {
+      "bs": "Monah Behira živio je u Busri, gradu u Siriji. Kad je karavana Ebu Taliba stigla tamo, Behira je primijetio čudne znakove.",
+      "de": "Der Mönch Bahira lebte in Bosra, einer Stadt in Syrien. Als Abu Talibs Karawane dort ankam, bemerkte Bahira seltsame Zeichen."
+    },
+    "quiz_id": 2
+  },
+  {
+    "question_id": 45,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Susret sa Behirom",
+    "question": {
+      "bs": "Behira je pozvao karavan na gozbu što nikada prije nije činio.",
+      "de": "Bahira lud die Karawane zu einem Festmahl ein, was er noch nie zuvor getan hatte."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Behira je pozivanjem karavana na gozbu iznenadio trgovce jer to nikada prije nije činio. Jedan od njih je primijetio: 'Boga mi, Behira, danas si baš neobičan! Ranije se nisi tako ponašao.'",
+      "de": "Bahira überraschte die Händler, indem er die Karawane zu einem Festmahl einlud, was er noch nie zuvor getan hatte. Einer von ihnen bemerkte: 'Bei Gott, Bahira, heute bist du wirklich ungewöhnlich! Früher hast du dich nicht so verhalten.'"
+    },
+    "quiz_id": 2
+  },
+  {
+    "question_id": 46,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Susret sa Behirom",
+    "question": {
+      "bs": "Šta je Behira primijetio kod mladog Muhammeda ﷺ što je potvrdilo njegovo poslanstvo?",
+      "de": "Was bemerkte Bahira beim jungen Muhammad ﷺ, das sein Prophetentum bestätigte?"
+    },
+    "options": {
+      "bs": [
+        "Pečat poslanstva između pleća",
+        "Posebnu svjetlost na licu",
+        "Neobičan glas",
+        "Mudrost u govoru"
+      ],
+      "de": [
+        "Das Siegel des Prophetentums zwischen den Schultern",
+        "Ein besonderes Licht im Gesicht",
+        "Eine ungewöhnliche Stimme",
+        "Weisheit in der Rede"
+      ]
+    },
+    "correct": {
+      "bs": "Pečat poslanstva između pleća",
+      "de": "Das Siegel des Prophetentums zwischen den Schultern"
+    },
+    "explanation": {
+      "bs": "Behira je tražio pečat poslanstva na Muhammedovim ﷺ leđima, između pleća, što je bio fizički znak poslanstva spomenut u ranijim svetim knjigama.",
+      "de": "Bahira suchte nach dem Siegel des Prophetentums auf Muhammads ﷺ Rücken, zwischen den Schultern, was ein physisches Zeichen des Prophetentums war, das in früheren heiligen Schriften erwähnt wurde."
+    },
+    "quiz_id": 2
+  },
+  {
+    "question_id": 47,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Susret sa Behirom",
+    "question": {
+      "bs": "Behira je upozorio Ebu Taliba da čuva Muhammeda ﷺ od Jevreja.",
+      "de": "Bahira warnte Abu Talib, Muhammad ﷺ vor den Juden zu beschützen."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Behira je upozorio Ebu Taliba da vrati Muhammeda ﷺ i da ga čuva, jer ako ga Jevreji prepoznaju po opisima iz svojih knjiga, mogli bi mu nauditi.",
+      "de": "Bahira warnte Abu Talib, Muhammad ﷺ zurückzubringen und zu beschützen, denn wenn die Juden ihn anhand der Beschreibungen in ihren Büchern erkennen würden, könnten sie ihm schaden."
+    },
+    "quiz_id": 2
+  },
+  {
+    "question_id": 48,
+    "type": "ordering",
+    "difficulty": "hard",
+    "source_section": "Rano djetinjstvo",
+    "question": {
+      "bs": "Poredaj događaje iz ranog djetinjstva Poslanika ﷺ hronološkim redom:",
+      "de": "Ordne die Ereignisse aus der frühen Kindheit des Propheten ﷺ in chronologischer Reihenfolge:"
+    },
+    "options": {
+      "bs": [
+        "Rasijecanje prsa (šakkus-sadr)",
+        "Dojenje kod Halime es-Sa'dijje",
+        "Rođenje u Mekki",
+        "Smrt majke Amine u El-Ebvau",
+        "Dojenje kod Suvejbe"
+      ],
+      "de": [
+        "Öffnung der Brust (Schakk as-Sadr)",
+        "Stillen bei Halima as-Sa'dijja",
+        "Geburt in Mekka",
+        "Tod der Mutter Amina in Al-Abwa",
+        "Stillen bei Suwaiba"
+      ]
+    },
+    "correct": {
+      "bs": [
+        "Rođenje u Mekki",
+        "Dojenje kod Suvejbe",
+        "Dojenje kod Halime es-Sa'dijje",
+        "Rasijecanje prsa (šakkus-sadr)",
+        "Smrt majke Amine u El-Ebvau"
+      ],
+      "de": [
+        "Geburt in Mekka",
+        "Stillen bei Suwaiba",
+        "Stillen bei Halima as-Sa'dijja",
+        "Öffnung der Brust (Schakk as-Sadr)",
+        "Tod der Mutter Amina in Al-Abwa"
+      ]
+    },
+    "explanation": {
+      "bs": "Redoslijed događaja: 1) Rođenje u Mekki, 2) Dojenje kod Suvejbe odmah nakon rođenja, 3) Dojenje kod Halime gdje je proveo oko 4-5 godina, 4) Rasijecanje prsa dok je bio kod Halime, 5) Smrt majke Amine kada je imao 6 godina.",
+      "de": "Reihenfolge der Ereignisse: 1) Geburt in Mekka, 2) Stillen bei Suwaiba direkt nach der Geburt, 3) Stillen bei Halima für etwa 4-5 Jahre, 4) Öffnung der Brust während des Aufenthalts bei Halima, 5) Tod der Mutter Amina als er 6 Jahre alt war."
+    },
+    "quiz_id": 2
+  },
+  {
+    "question_id": 49,
+    "type": "true_false",
+    "difficulty": "easy",
+    "source_section": "Godina slona",
+    "question": {
+      "bs": "Poslanik ﷺ je rođen u godini događaja sa slonom (Amul-fil).",
+      "de": "Der Prophet ﷺ wurde im Jahr des Elefanten (Jahr des Elefanten) geboren."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Poslanik ﷺ je rođen prve godine od događaja sa slonom, oko 50-55 dana nakon Ebrehinog neuspjelog napada na Kabu.",
+      "de": "Der Prophet ﷺ wurde im ersten Jahr nach dem Ereignis des Elefanten geboren, etwa 50-55 Tage nach Abrahas gescheitertem Angriff auf die Kaaba."
+    },
+    "quiz_id": 2
+  },
+  {
+    "question_id": 50,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Datum rođenja",
+    "question": {
+      "bs": "Kojem datumu po gregorijanskom kalendaru odgovara rođenje Poslanika ﷺ?",
+      "de": "Welchem Datum im gregorianischen Kalender entspricht die Geburt des Propheten ﷺ?"
+    },
+    "options": {
+      "bs": [
+        "20. ili 22. april 571. godine",
+        "12. januar 570. godine",
+        "15. mart 572. godine",
+        "1. juni 571. godine"
+      ],
+      "de": [
+        "20. oder 22. April 571",
+        "12. Januar 570",
+        "15. März 572",
+        "1. Juni 571"
+      ]
+    },
+    "correct": {
+      "bs": "20. ili 22. april 571. godine",
+      "de": "20. oder 22. April 571"
+    },
+    "explanation": {
+      "bs": "Prema astronomskim proračunima učenjaka Muhammeda Sulejmana el-Mensura i Paše Mahmuda, Poslanik ﷺ je rođen 20. ili 22. aprila 571. godine.",
+      "de": "Laut astronomischen Berechnungen der Gelehrten Muhammad Sulaiman al-Mansur und Pascha Mahmud wurde der Prophet ﷺ am 20. oder 22. April 571 geboren."
+    },
+    "quiz_id": 2
+  },
+  {
+    "question_id": 51,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Abdul-Muttalibov zavjet",
+    "question": {
+      "bs": "Koliko sinova se Abdul-Muttalib zavjetovao da će imati prije nego što će jednog žrtvovati?",
+      "de": "Wie viele Söhne hatte Abdulmuttalib gelobt zu haben, bevor er einen opfern würde?"
+    },
+    "options": {
+      "bs": [
+        "Deset sinova",
+        "Sedam sinova",
+        "Pet sinova",
+        "Dvanaest sinova"
+      ],
+      "de": [
+        "Zehn Söhne",
+        "Sieben Söhne",
+        "Fünf Söhne",
+        "Zwölf Söhne"
+      ]
+    },
+    "correct": {
+      "bs": "Deset sinova",
+      "de": "Zehn Söhne"
+    },
+    "explanation": {
+      "bs": "Abdul-Muttalib se zavjetovao da će, ako stekne deset sinova koji će mu biti potpora, jednog od njih žrtvovati kod Kabe.",
+      "de": "Abdulmuttalib gelobte, dass er, wenn er zehn Söhne bekäme, die ihm helfen würden, einen von ihnen bei der Kaaba opfern würde."
+    },
+    "quiz_id": 2
+  },
+  {
+    "question_id": 52,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Abdul-Muttalibov zavjet",
+    "question": {
+      "bs": "Strijela je pala na Abdullaha, oca Poslanika ﷺ, prilikom bacanja kocke za žrtvovanje.",
+      "de": "Das Los fiel auf Abdullah, den Vater des Propheten ﷺ, beim Loswerfen für die Opferung."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Kada je Abdul-Muttalib bacao strijele (kocku), prva strijela je pala na Abdullaha, koji je bio najdraži sin Abdul-Muttalibu.",
+      "de": "Als Abdulmuttalib die Pfeile (das Los) warf, fiel das erste Los auf Abdullah, der der Lieblingssohn Abdulmuttalibs war."
+    },
+    "quiz_id": 2
+  },
+  {
+    "question_id": 53,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Otkup Abdullaha",
+    "question": {
+      "bs": "Sa koliko deva je Abdullah otkupljen od žrtvovanja?",
+      "de": "Mit wie vielen Kamelen wurde Abdullah von der Opferung freigekauft?"
+    },
+    "options": {
+      "bs": [
+        "Sto deva",
+        "Pedeset deva",
+        "Deset deva",
+        "Dvjesta deva"
+      ],
+      "de": [
+        "Hundert Kamele",
+        "Fünfzig Kamele",
+        "Zehn Kamele",
+        "Zweihundert Kamele"
+      ]
+    },
+    "correct": {
+      "bs": "Sto deva",
+      "de": "Hundert Kamele"
+    },
+    "explanation": {
+      "bs": "Abdullah je otkupljen sa sto deva. Do tada je krvarina kod Arapa bila deset deva, a nakon ovog događaja popela se na 100 deva, što je i islam potvrdio.",
+      "de": "Abdullah wurde mit hundert Kamelen freigekauft. Bis dahin war das Blutgeld bei den Arabern zehn Kamele, und nach diesem Ereignis stieg es auf 100 Kamele, was auch der Islam bestätigte."
+    },
+    "quiz_id": 2
+  },
+  {
+    "question_id": 54,
+    "type": "true_false",
+    "difficulty": "hard",
+    "source_section": "Otkup Abdullaha",
+    "question": {
+      "bs": "Poslanik ﷺ je rekao: 'Ja sam potomak dviju žrtava!'",
+      "de": "Der Prophet ﷺ sagte: 'Ich bin der Nachkomme zweier Opferungsszenen!'"
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Poslanik ﷺ je rekao: 'Ja sam potomak dviju žrtava!' misleći na svog oca Abdullaha koji je bio otkupljen od žrtvovanja, i na Ismaila a.s. koji je također bio određen za žrtvu.",
+      "de": "Der Prophet ﷺ sagte: 'Ich bin der Nachkomme zweier Opferungsszenen!' und meinte damit seinen Vater Abdullah, der von der Opferung freigekauft wurde, und Ismail a.s., der ebenfalls zur Opferung bestimmt war."
+    },
+    "quiz_id": 2
+  },
+  {
+    "question_id": 55,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Porodica Amine",
+    "question": {
+      "bs": "Iz kojeg kurejšijskog ogranka je bila Amina, majka Poslanika ﷺ?",
+      "de": "Aus welchem quraischitischen Zweig stammte Amina, die Mutter des Propheten ﷺ?"
+    },
+    "options": {
+      "bs": [
+        "Benu Zehra",
+        "Benu Hašim",
+        "Benu Umejje",
+        "Benu Mahzum"
+      ],
+      "de": [
+        "Banu Zuhra",
+        "Banu Haschim",
+        "Banu Umayya",
+        "Banu Machzum"
+      ]
+    },
+    "correct": {
+      "bs": "Benu Zehra",
+      "de": "Banu Zuhra"
+    },
+    "explanation": {
+      "bs": "Amina bint Vehb bila je iz plemena Benu Zehra. Njen otac Vehb bio je poglavar porodice Zehra, poznate po porijeklu i časti.",
+      "de": "Amina bint Wahb stammte vom Stamm Banu Zuhra. Ihr Vater Wahb war der Anführer der Familie Zuhra, die für ihre Abstammung und Ehre bekannt war."
+    },
+    "quiz_id": 2
+  },
+  {
+    "question_id": 56,
+    "type": "true_false",
+    "difficulty": "easy",
+    "source_section": "Porodica Amine",
+    "question": {
+      "bs": "Amina je smatrana najljepšom i najčestitijom djevojkom među Kurejšijama.",
+      "de": "Amina galt als die schönste und tugendhafteste junge Frau unter den Quraisch."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Amina bint Vehb je u to vrijeme bila najljepša i najčestitija djevojka u Kurejšija - i porijeklom i položajem.",
+      "de": "Amina bint Wahb war zu dieser Zeit die schönste und tugendhafteste junge Frau unter den Quraisch - sowohl nach Abstammung als auch nach Stellung."
+    },
+    "quiz_id": 2
+  },
+  {
+    "question_id": 57,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Godina rođenja Abdul-Muttaliba",
+    "question": {
+      "bs": "Koje godine je rođen Abdul-Muttalib, djed Poslanika ﷺ?",
+      "de": "In welchem Jahr wurde Abdulmuttalib, der Grossvater des Propheten ﷺ, geboren?"
+    },
+    "options": {
+      "bs": [
+        "497. godine",
+        "450. godine",
+        "520. godine",
+        "510. godine"
+      ],
+      "de": [
+        "497",
+        "450",
+        "520",
+        "510"
+      ]
+    },
+    "correct": {
+      "bs": "497. godine",
+      "de": "497"
+    },
+    "explanation": {
+      "bs": "Abdul-Muttalib, čije pravo ime je bilo Šejba, rođen je 497. godine u Medini, kod majke Selme iz plemena Benu Adijj bin Nedždžar.",
+      "de": "Abdulmuttalib, dessen richtiger Name Schaiba war, wurde 497 in Medina bei seiner Mutter Salma vom Stamm Banu Adiyy bin Nadschdschar geboren."
+    },
+    "quiz_id": 2
+  },
+  {
+    "question_id": 58,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Rođenje Abdul-Muttaliba",
+    "question": {
+      "bs": "Zašto je Abdul-Muttalib dobio nadimak 'Šejba Sijedi'?",
+      "de": "Warum bekam Abdulmuttalib den Beinamen 'Schaiba Sijedi'?"
+    },
+    "options": {
+      "bs": [
+        "Zbog sijedog čuperka s kojim se rodio",
+        "Zbog rane mudrosti",
+        "Zbog bijele odjeće",
+        "Zbog plemićkog porijekla"
+      ],
+      "de": [
+        "Wegen einer grauen Haarsträhne, mit der er geboren wurde",
+        "Wegen früher Weisheit",
+        "Wegen weisser Kleidung",
+        "Wegen seiner edlen Abstammung"
+      ]
+    },
+    "correct": {
+      "bs": "Zbog sijedog čuperka s kojim se rodio",
+      "de": "Wegen einer grauen Haarsträhne, mit der er geboren wurde"
+    },
+    "explanation": {
+      "bs": "Abdul-Muttalib je dobio ime Šejba (sijeda), zbog sijedog čuperka s kojim se rodio. Kasnije je dobio ime Abdul-Muttalib.",
+      "de": "Abdulmuttalib bekam den Namen Schaiba (grau) wegen einer grauen Haarsträhne, mit der er geboren wurde. Später erhielt er den Namen Abdulmuttalib."
+    },
+    "quiz_id": 2
+  },
+  {
+    "question_id": 59,
+    "type": "multiple_choice",
+    "difficulty": "hard",
+    "source_section": "Djeca Abdul-Muttaliba",
+    "question": {
+      "bs": "Koja su bila djeca Abdul-Muttaliba?",
+      "de": "Welche Kinder hatte Abdulmuttalib?"
+    },
+    "options": {
+      "bs": [
+        "Abbas",
+        "Hamza",
+        "Abdullah",
+        "Ebu Talib",
+        "Omer"
+      ],
+      "de": [
+        "Abbas",
+        "Hamza",
+        "Abdullah",
+        "Abu Talib",
+        "Umar"
+      ]
+    },
+    "correct": {
+      "bs": [
+        "Abbas",
+        "Hamza",
+        "Abdullah",
+        "Ebu Talib"
+      ],
+      "de": [
+        "Abbas",
+        "Hamza",
+        "Abdullah",
+        "Abu Talib"
+      ]
+    },
+    "explanation": {
+      "bs": "Abdul-Muttalib je imao deset sinova, među kojima su bili: Abbas, Hamza, Abdullah (otac Poslanika ﷺ), Ebu Talib, Zubejr, Haris, Hadžla, Mukavim, Dirar i Ebu Leheb.",
+      "de": "Abdulmuttalib hatte zehn Söhne, darunter: Abbas, Hamza, Abdullah (Vater des Propheten ﷺ), Abu Talib, Zubair, Harith, Hadschla, Mukawwim, Dirar und Abu Lahab."
+    },
+    "quiz_id": 2
+  },
+  {
+    "question_id": 60,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Djeca Abdul-Muttaliba",
+    "question": {
+      "bs": "Koliko je sinova imao Abdul-Muttalib?",
+      "de": "Wie viele Söhne hatte Abdulmuttalib?"
+    },
+    "options": {
+      "bs": [
+        "Deset sinova",
+        "Sedam sinova",
+        "Dvanaest sinova",
+        "Pet sinova"
+      ],
+      "de": [
+        "Zehn Söhne",
+        "Sieben Söhne",
+        "Zwölf Söhne",
+        "Fünf Söhne"
+      ]
+    },
+    "correct": {
+      "bs": "Deset sinova",
+      "de": "Zehn Söhne"
+    },
+    "explanation": {
+      "bs": "Abdul-Muttalib je imao deset sinova i šest kćeri.",
+      "de": "Abdulmuttalib hatte zehn Söhne und sechs Töchter."
+    },
+    "quiz_id": 2
+  },
+  {
+    "question_id": 61,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Djeca Abdul-Muttaliba",
+    "question": {
+      "bs": "Koliko je kćeri imao Abdul-Muttalib?",
+      "de": "Wie viele Töchter hatte Abdulmuttalib?"
+    },
+    "options": {
+      "bs": [
+        "Šest kćeri",
+        "Četiri kćeri",
+        "Osam kćeri",
+        "Tri kćeri"
+      ],
+      "de": [
+        "Sechs Töchter",
+        "Vier Töchter",
+        "Acht Töchter",
+        "Drei Töchter"
+      ]
+    },
+    "correct": {
+      "bs": "Šest kćeri",
+      "de": "Sechs Töchter"
+    },
+    "explanation": {
+      "bs": "Abdul-Muttalib je imao šest kćeri: Safijju, Berre, Atiku, Ummu Hakim (Bejda), Umejmu i Ervu.",
+      "de": "Abdulmuttalib hatte sechs Töchter: Safiyya, Barra, Atika, Umm Hakim (Baida), Umaima und Arwa."
+    },
+    "quiz_id": 2
+  },
+  {
+    "question_id": 62,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Znak Amini",
+    "question": {
+      "bs": "Amini je tokom trudnoće rečeno da nosi gospodara ovog naroda.",
+      "de": "Amina wurde während der Schwangerschaft gesagt, dass sie den Herrn dieses Volkes trägt."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Prema predanjima, Amini je rečeno: 'Ti nosiš gospodara ovog naroda, pa kada ga rodiš, nazovi ga Muhammed.'",
+      "de": "Laut Überlieferungen wurde Amina gesagt: 'Du trägst den Herrn dieses Volkes, und wenn du ihn gebierst, nenne ihn Muhammad.'"
+    },
+    "quiz_id": 2
+  },
+  {
+    "question_id": 63,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "source_section": "Mjesto rođenja",
+    "question": {
+      "bs": "U kojem gradu je rođen Poslanik ﷺ?",
+      "de": "In welcher Stadt wurde der Prophet ﷺ geboren?"
+    },
+    "options": {
+      "bs": [
+        "Mekka",
+        "Medina",
+        "Taif",
+        "Jesrib"
+      ],
+      "de": [
+        "Mekka",
+        "Medina",
+        "Taif",
+        "Jathrib"
+      ]
+    },
+    "correct": {
+      "bs": "Mekka",
+      "de": "Mekka"
+    },
+    "explanation": {
+      "bs": "Poslanik ﷺ je rođen u Mekki, u porodici Benu Hašim.",
+      "de": "Der Prophet ﷺ wurde in Mekka in der Familie Banu Haschim geboren."
+    },
+    "quiz_id": 2
+  },
+  {
+    "question_id": 64,
+    "type": "true_false",
+    "difficulty": "easy",
+    "source_section": "Mjesto rođenja",
+    "question": {
+      "bs": "Poslanik ﷺ je rođen u porodici Benu Hašim.",
+      "de": "Der Prophet ﷺ wurde in der Familie Banu Haschim geboren."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Najodabraniji poslanik ﷺ rođen je u porodici Benu Hašim, u Mekki, u zoru ponedjeljka.",
+      "de": "Der auserwählte Prophet ﷺ wurde in der Familie Banu Haschim in Mekka in der Morgendämmerung eines Montags geboren."
+    },
+    "quiz_id": 2
+  },
+  {
+    "question_id": 65,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Vrijeme rođenja",
+    "question": {
+      "bs": "U koje doba dana je rođen Poslanik ﷺ?",
+      "de": "Zu welcher Tageszeit wurde der Prophet ﷺ geboren?"
+    },
+    "options": {
+      "bs": [
+        "U zoru",
+        "U podne",
+        "Uveče",
+        "U ponoć"
+      ],
+      "de": [
+        "In der Morgendämmerung",
+        "Am Mittag",
+        "Am Abend",
+        "Um Mitternacht"
+      ]
+    },
+    "correct": {
+      "bs": "U zoru",
+      "de": "In der Morgendämmerung"
+    },
+    "explanation": {
+      "bs": "Poslanik ﷺ je rođen u zoru ponedjeljka, 9. rebiul-evvela.",
+      "de": "Der Prophet ﷺ wurde in der Morgendämmerung eines Montags, am 9. Rabi al-Awwal, geboren."
+    },
+    "quiz_id": 2
+  },
+  {
+    "question_id": 66,
+    "type": "ordering",
+    "difficulty": "medium",
+    "source_section": "Staratelji Poslanika",
+    "question": {
+      "bs": "Poredaj staratelje Poslanika ﷺ po redoslijedu njihove brige o njemu:",
+      "de": "Ordne die Vormünder des Propheten ﷺ in der Reihenfolge ihrer Fürsorge für ihn:"
+    },
+    "options": {
+      "bs": [
+        "Amidža Ebu Talib",
+        "Dojilja Halima es-Sa'dijja",
+        "Djed Abdul-Muttalib",
+        "Majka Amina"
+      ],
+      "de": [
+        "Onkel Abu Talib",
+        "Amme Halima as-Sa'dijja",
+        "Grossvater Abdulmuttalib",
+        "Mutter Amina"
+      ]
+    },
+    "correct": {
+      "bs": [
+        "Majka Amina",
+        "Dojilja Halima es-Sa'dijja",
+        "Djed Abdul-Muttalib",
+        "Amidža Ebu Talib"
+      ],
+      "de": [
+        "Mutter Amina",
+        "Amme Halima as-Sa'dijja",
+        "Grossvater Abdulmuttalib",
+        "Onkel Abu Talib"
+      ]
+    },
+    "explanation": {
+      "bs": "Poslanik ﷺ je bio pod brigom: 1) Majke Amine (do 6 godina), 2) Dojilje Halime tokom boravka u pustinji, 3) Djeda Abdul-Muttaliba (6-8 godina), 4) Amidže Ebu Taliba (od 8 godina nadalje).",
+      "de": "Der Prophet ﷺ stand unter der Fürsorge von: 1) Mutter Amina (bis 6 Jahre), 2) Amme Halima während des Wüstenaufenthalts, 3) Grossvater Abdulmuttalib (6-8 Jahre), 4) Onkel Abu Talib (ab 8 Jahren)."
+    },
+    "quiz_id": 2
+  },
+  {
+    "question_id": 67,
+    "type": "true_false",
+    "difficulty": "easy",
+    "source_section": "Siroče",
+    "question": {
+      "bs": "Poslanik ﷺ je ostao bez oba roditelja prije nego je napunio deset godina.",
+      "de": "Der Prophet ﷺ verlor beide Eltern, bevor er zehn Jahre alt wurde."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Poslanik ﷺ je ostao bez oca prije rođenja, a majka mu je umrla kad je imao šest godina. Tako je bio potpuno siroče prije sedme godine života.",
+      "de": "Der Prophet ﷺ verlor seinen Vater vor der Geburt, und seine Mutter starb, als er sechs Jahre alt war. So war er vor seinem siebten Lebensjahr eine vollständige Waise."
+    },
+    "quiz_id": 2
+  },
+  {
+    "question_id": 68,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Posebnost Poslanika",
+    "question": {
+      "bs": "Zašto su Arapi davali djecu dojiljama iz pustinjskih plemena?",
+      "de": "Warum gaben die Araber ihre Kinder zu Ammen aus Wüstenstämmen?"
+    },
+    "options": {
+      "bs": [
+        "Radi čistog zraka i čistog arapskog jezika",
+        "Radi sigurnosti",
+        "Radi uštede novca",
+        "Radi tradicije"
+      ],
+      "de": [
+        "Für reine Luft und reines Arabisch",
+        "Für die Sicherheit",
+        "Um Geld zu sparen",
+        "Wegen der Tradition"
+      ]
+    },
+    "correct": {
+      "bs": "Radi čistog zraka i čistog arapskog jezika",
+      "de": "Für reine Luft und reines Arabisch"
+    },
+    "explanation": {
+      "bs": "Običaj kod Arapa u gradu bio je da potraže dobru dojilju za novorođenče iz pustinje, želeći time udaljiti svoju djecu od gradskih bolesti, da tjelesno ojačaju i da progovore čistim arapskim jezikom.",
+      "de": "Es war bei den städtischen Arabern Brauch, eine gute Amme aus der Wüste für das Neugeborene zu suchen, um ihre Kinder von städtischen Krankheiten fernzuhalten, damit sie körperlich stärker werden und reines Arabisch sprechen lernen."
+    },
+    "quiz_id": 2
+  },
+  {
+    "question_id": 69,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Boravak kod Halime",
+    "question": {
+      "bs": "Halima je htjela da Muhammed ﷺ ostane duže kod nje nakon što je navršio dvije godine.",
+      "de": "Halima wollte, dass Muhammad ﷺ nach seinem zweiten Lebensjahr länger bei ihr bleibt."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Nakon što je Muhammed ﷺ napunio dvije godine, Halima je molila Aminu da ga ostavi još malo kod nje, bojeći se da mu ne naudi gradski zrak. Amina je pristala.",
+      "de": "Nachdem Muhammad ﷺ zwei Jahre alt geworden war, bat Halima Amina, ihn noch etwas länger bei ihr zu lassen, aus Angst, dass ihm die Stadtluft schaden könnte. Amina stimmte zu."
+    },
+    "quiz_id": 2
+  },
+  {
+    "question_id": 70,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Dojenje",
+    "question": {
+      "bs": "Koliko je Muhammed ﷺ imao godina kada ga je Halima odvojila od prsa?",
+      "de": "Wie alt war Muhammad ﷺ, als Halima ihn entwöhnte?"
+    },
+    "options": {
+      "bs": [
+        "Dvije godine",
+        "Jednu godinu",
+        "Tri godine",
+        "Šest mjeseci"
+      ],
+      "de": [
+        "Zwei Jahre",
+        "Ein Jahr",
+        "Drei Jahre",
+        "Sechs Monate"
+      ]
+    },
+    "correct": {
+      "bs": "Dvije godine",
+      "de": "Zwei Jahre"
+    },
+    "explanation": {
+      "bs": "Muhammed ﷺ je napunio dvije godine kada ga je Halima odvojila od prsa. Tada je izgledao jači i krupniji nego njegovi vršnjaci.",
+      "de": "Muhammad ﷺ war zwei Jahre alt, als Halima ihn entwöhnte. Er sah stärker und kräftiger aus als seine Altersgenossen."
+    },
+    "quiz_id": 2
+  },
+  {
+    "question_id": 71,
+    "type": "true_false",
+    "difficulty": "easy",
+    "source_section": "Fizički izgled",
+    "question": {
+      "bs": "Muhammed ﷺ je kao dijete izgledao jači i krupniji od svojih vršnjaka.",
+      "de": "Muhammad ﷺ sah als Kind stärker und kräftiger aus als seine Altersgenossen."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Halima je svjedočila da je Muhammed ﷺ kada je napunio dvije godine izgledao jači i krupniji nego njegovi vršnjaci.",
+      "de": "Halima bezeugte, dass Muhammad ﷺ als er zwei Jahre alt wurde, stärker und kräftiger aussah als seine Altersgenossen."
+    },
+    "quiz_id": 2
+  },
+  {
+    "question_id": 72,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Halimino svjedočenje",
+    "question": {
+      "bs": "Šta je Halimin muž rekao nakon što je uzela Muhammeda ﷺ?",
+      "de": "Was sagte Halimas Ehemann, nachdem sie Muhammad ﷺ aufgenommen hatte?"
+    },
+    "options": {
+      "bs": [
+        "'Znaj, Halima, uzela si berićetno čeljade!'",
+        "'Vrati to dijete!'",
+        "'Šta ćemo sad raditi?'",
+        "'Zašto ga nisi ostavila?'"
+      ],
+      "de": [
+        "'Wisse, Halima, du hast ein gesegnetes Wesen aufgenommen!'",
+        "'Bring das Kind zurück!'",
+        "'Was sollen wir jetzt tun?'",
+        "'Warum hast du es nicht gelassen?'"
+      ]
+    },
+    "correct": {
+      "bs": "'Znaj, Halima, uzela si berićetno čeljade!'",
+      "de": "'Wisse, Halima, du hast ein gesegnetes Wesen aufgenommen!'"
+    },
+    "explanation": {
+      "bs": "Halimin muž joj je rekao: 'Znaj, Halima, tako mi Boga, uzela si berićetno čeljade!' nakon što su svjedočili čuda berićeta s Muhammedom ﷺ.",
+      "de": "Halimas Ehemann sagte ihr: 'Wisse, Halima, bei Gott, du hast ein gesegnetes Wesen aufgenommen!' nachdem sie die Wunder des Segens mit Muhammad ﷺ bezeugt hatten."
+    },
+    "quiz_id": 2
+  },
+  {
+    "question_id": 73,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Berićet",
+    "question": {
+      "bs": "Zemlja plemena Benu Sa'd bila je poznata kao plodna i bogata.",
+      "de": "Das Land des Stammes Banu Sa'd war als fruchtbar und reich bekannt."
+    },
+    "correct": false,
+    "explanation": {
+      "bs": "Halima je rekla: 'Nisam poznavala suhlju zemlju od te.' Zemlja Benu Sa'da bila je suha i neplodna, ali se berićet pojavio dolaskom Muhammeda ﷺ.",
+      "de": "Halima sagte: 'Ich kannte kein trockeneres Land als dieses.' Das Land der Banu Sa'd war trocken und unfruchtbar, aber der Segen erschien mit der Ankunft Muhammads ﷺ."
+    },
+    "quiz_id": 2
+  },
+  {
+    "question_id": 74,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Vizija Amine",
+    "question": {
+      "bs": "Šta je Amina vidjela u viziji tokom trudnoće?",
+      "de": "Was sah Amina während der Schwangerschaft in einer Vision?"
+    },
+    "options": {
+      "bs": [
+        "Svjetlost od koje su zablistali dvorci Šama",
+        "Anđele koji silaze s neba",
+        "Kabu ukrašenu svjetlima",
+        "Zvijezde koje padaju"
+      ],
+      "de": [
+        "Ein Licht, von dem die Paläste Syriens erstrahlten",
+        "Engel, die vom Himmel herabsteigen",
+        "Die Kaaba mit Lichtern geschmückt",
+        "Fallende Sterne"
+      ]
+    },
+    "correct": {
+      "bs": "Svjetlost od koje su zablistali dvorci Šama",
+      "de": "Ein Licht, von dem die Paläste Syriens erstrahlten"
+    },
+    "explanation": {
+      "bs": "Amina je tokom trudnoće i pri porođaju vidjela svjetlost od koje su zablistali dvorci Šama (Sirije).",
+      "de": "Amina sah während der Schwangerschaft und bei der Geburt ein Licht, von dem die Paläste Syriens (Schams) erstrahlten."
+    },
+    "quiz_id": 2
+  },
+  {
+    "question_id": 75,
+    "type": "ordering",
+    "difficulty": "hard",
+    "source_section": "Događaji oko Kabe",
+    "question": {
+      "bs": "Poredaj radnje koje je Abdul-Muttalib uradio nakon rođenja unuka:",
+      "de": "Ordne die Handlungen, die Abdulmuttalib nach der Geburt seines Enkels unternahm:"
+    },
+    "options": {
+      "bs": [
+        "Uzeo unuka u naručje",
+        "Odnio ga u Kabu",
+        "Molio se Allahu i zahvalio Mu",
+        "Dao mu ime Muhammed",
+        "Primio vijest o rođenju"
+      ],
+      "de": [
+        "Nahm den Enkel in die Arme",
+        "Brachte ihn zur Kaaba",
+        "Betete zu Allah und dankte Ihm",
+        "Gab ihm den Namen Muhammad",
+        "Erhielt die Nachricht von der Geburt"
+      ]
+    },
+    "correct": {
+      "bs": [
+        "Primio vijest o rođenju",
+        "Uzeo unuka u naručje",
+        "Odnio ga u Kabu",
+        "Molio se Allahu i zahvalio Mu",
+        "Dao mu ime Muhammed"
+      ],
+      "de": [
+        "Erhielt die Nachricht von der Geburt",
+        "Nahm den Enkel in die Arme",
+        "Brachte ihn zur Kaaba",
+        "Betete zu Allah und dankte Ihm",
+        "Gab ihm den Namen Muhammad"
+      ]
+    },
+    "explanation": {
+      "bs": "Abdul-Muttalib je: 1) Primio vijest od Amine, 2) Sav radostan uzeo unuka u naručje, 3) Odnio ga u Kabu, 4) Tu se pomolio Allahu i zahvalio Mu, 5) Dao mu ime Muhammed.",
+      "de": "Abdulmuttalib: 1) Erhielt die Nachricht von Amina, 2) Nahm den Enkel freudig in die Arme, 3) Brachte ihn zur Kaaba, 4) Betete dort zu Allah und dankte Ihm, 5) Gab ihm den Namen Muhammad."
+    },
+    "quiz_id": 2
+  },
+  {
+    "question_id": 76,
+    "type": "true_false",
+    "difficulty": "easy",
+    "source_section": "Imenovanje",
+    "question": {
+      "bs": "Ime Muhammed znači 'hvaljeni' ili 'onaj koji je hvaljen'.",
+      "de": "Der Name Muhammad bedeutet 'der Gelobte' oder 'der Gepriesene'."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Ime Muhammed dolazi od arapskog korijena h-m-d koji znači 'hvaliti'. Muhammed znači 'hvaljeni' ili 'onaj koji je mnogo hvaljen'.",
+      "de": "Der Name Muhammad kommt von der arabischen Wurzel h-m-d, die 'loben' bedeutet. Muhammad bedeutet 'der Gelobte' oder 'der viel Gepriesene'."
+    },
+    "quiz_id": 2
+  },
+  {
+    "question_id": 77,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Halimina situacija",
+    "question": {
+      "bs": "Kakva je bila situacija Halime i njene porodice prije nego je uzela Muhammeda ﷺ?",
+      "de": "Wie war die Situation von Halima und ihrer Familie, bevor sie Muhammad ﷺ aufnahm?"
+    },
+    "options": {
+      "bs": [
+        "Bili su siromašni i gladni",
+        "Bili su bogati i sretni",
+        "Bili su bolesni",
+        "Bili su u ratu"
+      ],
+      "de": [
+        "Sie waren arm und hungrig",
+        "Sie waren reich und glücklich",
+        "Sie waren krank",
+        "Sie waren im Krieg"
+      ]
+    },
+    "correct": {
+      "bs": "Bili su siromašni i gladni",
+      "de": "Sie waren arm und hungrig"
+    },
+    "explanation": {
+      "bs": "Halima je opisala da su bili u teškoj situaciji: 'Niko od nas nije spavao od plača našeg gladnog djeteta koje se nije moglo najesti s mojih prsa.'",
+      "de": "Halima beschrieb ihre schwierige Situation: 'Keiner von uns konnte schlafen wegen des Weinens unseres hungrigen Kindes, das sich nicht an meiner Brust sättigen konnte.'"
+    },
+    "quiz_id": 2
+  },
+  {
+    "question_id": 78,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Halimina deva",
+    "question": {
+      "bs": "Halimina deva prije dolaska Muhammeda ﷺ nije davala mlijeka.",
+      "de": "Halimas Kamel gab vor der Ankunft Muhammads ﷺ keine Milch."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Halima je rekla: 'Krenuli smo na devi, koja nije davala, tako mi Boga, ni kapi mlijeka.' Ali nakon što je uzela Muhammeda ﷺ, deva je počela davati obilje mlijeka.",
+      "de": "Halima sagte: 'Wir reisten auf einem Kamel, das, bei Gott, keinen Tropfen Milch gab.' Aber nachdem sie Muhammad ﷺ aufgenommen hatte, begann das Kamel reichlich Milch zu geben."
+    },
+    "quiz_id": 2
+  },
+  {
+    "question_id": 79,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Abdul-Muttalibova ljubav",
+    "question": {
+      "bs": "Gdje je Abdul-Muttalib postavljao posebnu posteljicu za svog unuka?",
+      "de": "Wo stellte Abdulmuttalib ein besonderes Bett für seinen Enkel auf?"
+    },
+    "options": {
+      "bs": [
+        "U hladu Kabe",
+        "U svojoj kući",
+        "U pustinji",
+        "Na tržnici"
+      ],
+      "de": [
+        "Im Schatten der Kaaba",
+        "In seinem Haus",
+        "In der Wüste",
+        "Auf dem Markt"
+      ]
+    },
+    "correct": {
+      "bs": "U hladu Kabe",
+      "de": "Im Schatten der Kaaba"
+    },
+    "explanation": {
+      "bs": "Abdul-Muttalib je postavljao posebnu posteljicu za Muhammeda ﷺ u hladu Kabe. Kad bi je amidže htjele skloniti, on bi rekao: 'Pustite mog sina!'",
+      "de": "Abdulmuttalib stellte ein besonderes Bett für Muhammad ﷺ im Schatten der Kaaba auf. Wenn die Onkel es wegnehmen wollten, sagte er: 'Lasst meinen Sohn!'"
+    },
+    "quiz_id": 2
+  },
+  {
+    "question_id": 80,
+    "type": "true_false",
+    "difficulty": "easy",
+    "source_section": "Dojenje",
+    "question": {
+      "bs": "Muhammed ﷺ je bio jedino dijete koje je Halima dojila.",
+      "de": "Muhammad ﷺ war das einzige Kind, das Halima stillte."
+    },
+    "correct": false,
+    "explanation": {
+      "bs": "Halima je imala i svoje dijete koje je dojila, te je došla u Mekku da uzme još jedno dijete na dojenje radi zarade.",
+      "de": "Halima hatte auch ihr eigenes Kind, das sie stillte, und kam nach Mekka, um ein weiteres Kind zum Stillen aufzunehmen, um Geld zu verdienen."
+    },
+    "quiz_id": 2
+  },
+  {
+    "question_id": 81,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Putovanje karavane",
+    "question": {
+      "bs": "Koliko je Muhammed ﷺ približno imao godina kada je putovao sa Ebu Talibom u Šam?",
+      "de": "Wie alt war Muhammad ﷺ ungefähr, als er mit Abu Talib nach Syrien reiste?"
+    },
+    "options": {
+      "bs": [
+        "Oko dvanaest godina",
+        "Oko pet godina",
+        "Oko dvadeset godina",
+        "Oko osam godina"
+      ],
+      "de": [
+        "Etwa zwölf Jahre",
+        "Etwa fünf Jahre",
+        "Etwa zwanzig Jahre",
+        "Etwa acht Jahre"
+      ]
+    },
+    "correct": {
+      "bs": "Oko dvanaest godina",
+      "de": "Etwa zwölf Jahre"
+    },
+    "explanation": {
+      "bs": "Muhammed ﷺ je bio dječak od oko dvanaest godina kada je putovao s amidžom Ebu Talibom na trgovačko putovanje u Šam.",
+      "de": "Muhammad ﷺ war ein Junge von etwa zwölf Jahren, als er mit seinem Onkel Abu Talib auf eine Handelsreise nach Syrien ging."
+    },
+    "quiz_id": 2
+  },
+  {
+    "question_id": 82,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Behira",
+    "question": {
+      "bs": "Behira je bio jevrejski rabin.",
+      "de": "Bahira war ein jüdischer Rabbi."
+    },
+    "correct": false,
+    "explanation": {
+      "bs": "Behira je bio kršćanski isposnik (monah) koji je živio u Busri u Siriji. Proučavao je kršćanske svete knjige.",
+      "de": "Bahira war ein christlicher Mönch, der in Bosra in Syrien lebte. Er studierte die christlichen heiligen Schriften."
+    },
+    "quiz_id": 2
+  },
+  {
+    "question_id": 83,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Behirino znanje",
+    "question": {
+      "bs": "Odakle je Behira znao za znakove poslanstva?",
+      "de": "Woher wusste Bahira von den Zeichen des Prophetentums?"
+    },
+    "options": {
+      "bs": [
+        "Iz ranijih svetih knjiga",
+        "Iz snova",
+        "Od prijašnjih poslanika",
+        "Od putujućih trgovaca"
+      ],
+      "de": [
+        "Aus früheren heiligen Schriften",
+        "Aus Träumen",
+        "Von früheren Propheten",
+        "Von reisenden Händlern"
+      ]
+    },
+    "correct": {
+      "bs": "Iz ranijih svetih knjiga",
+      "de": "Aus früheren heiligen Schriften"
+    },
+    "explanation": {
+      "bs": "Behira je proučavao kršćanske svete knjige u kojima su bili zapisani opisi i znakovi budućeg poslanika.",
+      "de": "Bahira studierte die christlichen heiligen Schriften, in denen die Beschreibungen und Zeichen des zukünftigen Propheten aufgezeichnet waren."
+    },
+    "quiz_id": 2
+  },
+  {
+    "question_id": 84,
+    "type": "multiple_choice",
+    "difficulty": "medium",
+    "source_section": "Šejma",
+    "question": {
+      "bs": "Koja od sljedećih osoba je bila sestra Poslanika ﷺ po mlijeku?",
+      "de": "Welche der folgenden Personen war eine Milchschwester des Propheten ﷺ?"
+    },
+    "options": {
+      "bs": [
+        "Šejma bint Haris",
+        "Huzafa (Džuzama) bint Haris",
+        "Enisa bint Haris",
+        "Fatima bint Muhammed"
+      ],
+      "de": [
+        "Schaima bint Harith",
+        "Khuzafa (Dschuzama) bint Harith",
+        "Anisa bint Harith",
+        "Fatima bint Muhammad"
+      ]
+    },
+    "correct": {
+      "bs": [
+        "Šejma bint Haris",
+        "Huzafa (Džuzama) bint Haris",
+        "Enisa bint Haris"
+      ],
+      "de": [
+        "Schaima bint Harith",
+        "Khuzafa (Dschuzama) bint Harith",
+        "Anisa bint Harith"
+      ]
+    },
+    "explanation": {
+      "bs": "Šejma, Huzafa (Džuzama) i Enisa, sve kćeri Harisa (Halimimog muža), bile su sestre Poslanika ﷺ po mlijeku. Fatima bint Muhammed bila je njegova kćer, ne sestra.",
+      "de": "Schaima, Khuzafa (Dschuzama) und Anisa, alle Töchter von Harith (Halimas Ehemann), waren Milchschwestern des Propheten ﷺ. Fatima bint Muhammad war seine Tochter, nicht seine Schwester."
+    },
+    "quiz_id": 2
+  },
+  {
+    "question_id": 85,
+    "type": "true_false",
+    "difficulty": "hard",
+    "source_section": "Šejma",
+    "question": {
+      "bs": "Šejma bint Haris je voljela i nosila u naručju malog Muhammeda ﷺ.",
+      "de": "Schaima bint Harith liebte und trug den kleinen Muhammad ﷺ auf dem Arm."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Huzafa ili Džuzama, poznata i kao Šejma, voljela je i nosila u naručju malog Muhammeda ﷺ dok je bio kod Halime.",
+      "de": "Khuzafa oder Dschuzama, auch bekannt als Schaima, liebte und trug den kleinen Muhammad ﷺ auf dem Arm, während er bei Halima war."
+    },
+    "quiz_id": 2
+  },
+  {
+    "question_id": 86,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Ebu Sufjan ibn Haris",
+    "question": {
+      "bs": "Ko je bio Ebu Sufjan ibn Haris u odnosu na Poslanika ﷺ?",
+      "de": "Wer war Abu Sufyan ibn Harith in Bezug auf den Propheten ﷺ?"
+    },
+    "options": {
+      "bs": [
+        "Sin amidže i brat po mlijeku",
+        "Amidža",
+        "Djed",
+        "Punac"
+      ],
+      "de": [
+        "Cousin und Milchbruder",
+        "Onkel",
+        "Grossvater",
+        "Schwiegervater"
+      ]
+    },
+    "correct": {
+      "bs": "Sin amidže i brat po mlijeku",
+      "de": "Cousin und Milchbruder"
+    },
+    "explanation": {
+      "bs": "Ebu Sufjan ibn Haris ibn Abdul-Muttalib bio je sin Poslanikovog ﷺ amidže, a također je bio i njegov brat po mlijeku.",
+      "de": "Abu Sufyan ibn Harith ibn Abdulmuttalib war der Sohn des Onkels des Propheten ﷺ und war auch sein Milchbruder."
+    },
+    "quiz_id": 2
+  },
+  {
+    "question_id": 87,
+    "type": "true_false",
+    "difficulty": "easy",
+    "source_section": "Odnos djeda i unuka",
+    "question": {
+      "bs": "Abdul-Muttalib je Muhammeda ﷺ zvao 'moj sin'.",
+      "de": "Abdulmuttalib nannte Muhammad ﷺ 'mein Sohn'."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Abdul-Muttalib je toliko volio svog unuka da ga je zvao 'moj sin' i davao mu posebno mjesto među svojom djecom.",
+      "de": "Abdulmuttalib liebte seinen Enkel so sehr, dass er ihn 'mein Sohn' nannte und ihm einen besonderen Platz unter seinen Kindern gab."
+    },
+    "quiz_id": 2
+  },
+  {
+    "question_id": 88,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Perzijski kralj",
+    "question": {
+      "bs": "Za vrijeme vladavine kojeg perzijskog kralja je rođen Poslanik ﷺ?",
+      "de": "Während der Herrschaft welches persischen Königs wurde der Prophet ﷺ geboren?"
+    },
+    "options": {
+      "bs": [
+        "Kisra (Kserksa) Enu Širvana",
+        "Darija Velikog",
+        "Kira Velikog",
+        "Kambiza II"
+      ],
+      "de": [
+        "Kisra (Xerxes) Anu Schirwan",
+        "Darius der Grosse",
+        "Kyrus der Grosse",
+        "Kambyses II"
+      ]
+    },
+    "correct": {
+      "bs": "Kisra (Kserksa) Enu Širvana",
+      "de": "Kisra (Xerxes) Anu Schirwan"
+    },
+    "explanation": {
+      "bs": "Poslanik ﷺ je rođen četrdeset godina poslije vladavine perzijskog kralja Kisara (Kserksa) Enu Širvana.",
+      "de": "Der Prophet ﷺ wurde vierzig Jahre nach der Herrschaft des persischen Königs Kisra (Xerxes) Anu Schirwan geboren."
+    },
+    "quiz_id": 2
+  },
+  {
+    "question_id": 89,
+    "type": "ordering",
+    "difficulty": "medium",
+    "source_section": "Godine života",
+    "question": {
+      "bs": "Poredaj sljedeće događaje po godinama života Poslanika ﷺ:",
+      "de": "Ordne die folgenden Ereignisse nach den Lebensjahren des Propheten ﷺ:"
+    },
+    "options": {
+      "bs": [
+        "Smrt djeda (8 godina)",
+        "Odvojen od prsa (2 godine)",
+        "Smrt majke (6 godina)",
+        "Rasijecanje prsa (4-5 godina)"
+      ],
+      "de": [
+        "Tod des Grossvaters (8 Jahre)",
+        "Entwöhnung (2 Jahre)",
+        "Tod der Mutter (6 Jahre)",
+        "Öffnung der Brust (4-5 Jahre)"
+      ]
+    },
+    "correct": {
+      "bs": [
+        "Odvojen od prsa (2 godine)",
+        "Rasijecanje prsa (4-5 godina)",
+        "Smrt majke (6 godina)",
+        "Smrt djeda (8 godina)"
+      ],
+      "de": [
+        "Entwöhnung (2 Jahre)",
+        "Öffnung der Brust (4-5 Jahre)",
+        "Tod der Mutter (6 Jahre)",
+        "Tod des Grossvaters (8 Jahre)"
+      ]
+    },
+    "explanation": {
+      "bs": "Hronološki redoslijed: sa 2 godine odvojen od prsa kod Halime, sa 4-5 godina desilo se rasijecanje prsa, sa 6 godina umrla mu majka Amina, sa 8 godina umro mu djed Abdul-Muttalib.",
+      "de": "Chronologische Reihenfolge: mit 2 Jahren bei Halima entwöhnt, mit 4-5 Jahren die Brustöffnung, mit 6 Jahren starb seine Mutter Amina, mit 8 Jahren starb sein Grossvater Abdulmuttalib."
+    },
+    "quiz_id": 2
+  },
+  {
+    "question_id": 90,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Dojenje",
+    "question": {
+      "bs": "Poslanik ﷺ je proveo oko četiri do pet godina kod dojilje Halime.",
+      "de": "Der Prophet ﷺ verbrachte etwa vier bis fünf Jahre bei seiner Amme Halima."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Muhammed ﷺ je imao četiri ili pet godina kad se desio događaj rasijecanja prsa dok je još živio kod Halime, što znači da je proveo oko 4-5 godina kod nje.",
+      "de": "Muhammad ﷺ war vier oder fünf Jahre alt, als das Ereignis der Brustöffnung geschah, während er noch bei Halima lebte, was bedeutet, dass er etwa 4-5 Jahre bei ihr verbrachte."
+    },
+    "quiz_id": 2
+  },
+  {
+    "question_id": 91,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "source_section": "Voda Zemzem",
+    "question": {
+      "bs": "Kojom vodom je Džibril isprao srce Poslanika ﷺ?",
+      "de": "Mit welchem Wasser wusch Dschibril das Herz des Propheten ﷺ?"
+    },
+    "options": {
+      "bs": [
+        "Vodom Zemzem",
+        "Kišnicom",
+        "Rijekom vodom",
+        "Vodom iz izvora"
+      ],
+      "de": [
+        "Zamzam-Wasser",
+        "Regenwasser",
+        "Flusswasser",
+        "Quellwasser"
+      ]
+    },
+    "correct": {
+      "bs": "Vodom Zemzem",
+      "de": "Zamzam-Wasser"
+    },
+    "explanation": {
+      "bs": "Džibril je isprao srce Poslanika ﷺ vodom Zemzem u zlatnom leđenu. Voda Zemzem ima posebnu svetost u islamu.",
+      "de": "Dschibril wusch das Herz des Propheten ﷺ mit Zamzam-Wasser in einer goldenen Schale. Zamzam-Wasser hat eine besondere Heiligkeit im Islam."
+    },
+    "quiz_id": 2
+  },
+  {
+    "question_id": 92,
+    "type": "true_false",
+    "difficulty": "hard",
+    "source_section": "Rasijecanje prsa",
+    "question": {
+      "bs": "Rasijecanje prsa se Poslaniku ﷺ desilo samo jednom u životu.",
+      "de": "Die Brustöffnung geschah dem Propheten ﷺ nur einmal im Leben."
+    },
+    "correct": false,
+    "explanation": {
+      "bs": "Prema islamskim izvorima, rasijecanje prsa se Poslaniku ﷺ desilo više puta u životu - jednom u djetinjstvu kod Halime i ponovo prije noćnog putovanja (Isra i Mi'radž).",
+      "de": "Laut islamischen Quellen geschah die Brustöffnung dem Propheten ﷺ mehrmals im Leben - einmal in der Kindheit bei Halima und wieder vor der Nachtreise (Isra und Mi'radsch)."
+    },
+    "quiz_id": 2
+  },
+  {
+    "question_id": 93,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Mjesto smrti Abdullaha",
+    "question": {
+      "bs": "Na kojem groblju je pokopan Abdullah, otac Poslanika ﷺ?",
+      "de": "Auf welchem Friedhof wurde Abdullah, der Vater des Propheten ﷺ, begraben?"
+    },
+    "options": {
+      "bs": [
+        "Nebige el-Džadija u Medini",
+        "Džennetu-l-Mualla u Mekki",
+        "Bekia u Medini",
+        "Na brdu Uhud"
+      ],
+      "de": [
+        "Nabiga al-Dschadijja in Medina",
+        "Dschannatul-Mualla in Mekka",
+        "Baqi in Medina",
+        "Am Berg Uhud"
+      ]
+    },
+    "correct": {
+      "bs": "Nebige el-Džadija u Medini",
+      "de": "Nabiga al-Dschadijja in Medina"
+    },
+    "explanation": {
+      "bs": "Abdullah je pokopan na groblju Nebige el-Džadija u Medini, gdje je umro tokom trgovačkog putovanja.",
+      "de": "Abdullah wurde auf dem Friedhof Nabiga al-Dschadijja in Medina begraben, wo er während einer Handelsreise starb."
+    },
+    "quiz_id": 2
+  },
+  {
+    "question_id": 94,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Dob Abdullaha",
+    "question": {
+      "bs": "Abdullah, otac Poslanika ﷺ, umro je u dvadeset petoj godini života.",
+      "de": "Abdullah, der Vater des Propheten ﷺ, starb im Alter von fünfundzwanzig Jahren."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Abdullah je umro u dvadeset petoj godini života, prije rođenja svog sina Muhammeda ﷺ, po mišljenju većine historičara.",
+      "de": "Abdullah starb im Alter von fünfundzwanzig Jahren, vor der Geburt seines Sohnes Muhammad ﷺ, nach Meinung der meisten Historiker."
+    },
+    "quiz_id": 2
+  },
+  {
+    "question_id": 95,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Trajanje putovanja",
+    "question": {
+      "bs": "Koliko dana je Amina provela na putu do Medine i nazad?",
+      "de": "Wie viele Tage verbrachte Amina auf der Reise nach Medina und zurück?"
+    },
+    "options": {
+      "bs": [
+        "Mjesec dana samo do Medine",
+        "Dvije sedmice",
+        "Tri mjeseca",
+        "Dva dana"
+      ],
+      "de": [
+        "Einen Monat nur bis Medina",
+        "Zwei Wochen",
+        "Drei Monate",
+        "Zwei Tage"
+      ]
+    },
+    "correct": {
+      "bs": "Mjesec dana samo do Medine",
+      "de": "Einen Monat nur bis Medina"
+    },
+    "explanation": {
+      "bs": "Na putu od Mekke do Medine proveli su mjesec dana. Na povratku se Amina razboljela i umrla u El-Ebvau.",
+      "de": "Auf dem Weg von Mekka nach Medina verbrachten sie einen Monat. Auf dem Rückweg wurde Amina krank und starb in Al-Abwa."
+    },
+    "quiz_id": 2
+  },
+  {
+    "question_id": 96,
+    "type": "true_false",
+    "difficulty": "easy",
+    "source_section": "Allahova zaštita",
+    "question": {
+      "bs": "Allah je štitio Poslanika ﷺ od malih nogu.",
+      "de": "Allah beschützte den Propheten ﷺ von klein auf."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Poslanik ﷺ je bio u Allahovom okrilju i zaštiti od rođenja. Allah je učinio da raste lijepo i da bude zaštićen od svih opasnosti.",
+      "de": "Der Prophet ﷺ stand von Geburt an unter Allahs Schutz und Fürsorge. Allah liess ihn schön aufwachsen und schützte ihn vor allen Gefahren."
+    },
+    "quiz_id": 2
+  },
+  {
+    "question_id": 97,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Stanje Halime",
+    "question": {
+      "bs": "Zašto je Halima odlučila uzeti Muhammeda ﷺ iako je bio siroče?",
+      "de": "Warum beschloss Halima, Muhammad ﷺ aufzunehmen, obwohl er eine Waise war?"
+    },
+    "options": {
+      "bs": [
+        "Jer nije našla drugo dijete i nije htjela otići praznih ruku",
+        "Jer joj je Abdul-Muttalib ponudio veliku nagradu",
+        "Jer je znala da će biti poslanik",
+        "Jer su je druge žene natjerale"
+      ],
+      "de": [
+        "Weil sie kein anderes Kind fand und nicht mit leeren Händen gehen wollte",
+        "Weil Abdulmuttalib ihr eine grosse Belohnung anbot",
+        "Weil sie wusste, dass er ein Prophet sein würde",
+        "Weil die anderen Frauen sie zwangen"
+      ]
+    },
+    "correct": {
+      "bs": "Jer nije našla drugo dijete i nije htjela otići praznih ruku",
+      "de": "Weil sie kein anderes Kind fand und nicht mit leeren Händen gehen wollte"
+    },
+    "explanation": {
+      "bs": "Halima je rekla: 'Mrzi me da se vratim kući tako jadna' jer nije našla nijedno dijete. Uzela je Muhammeda ﷺ 'samo iz razloga što nije našla drugo'.",
+      "de": "Halima sagte: 'Es widerstrebte mir, so elend nach Hause zurückzukehren', weil sie kein Kind gefunden hatte. Sie nahm Muhammad ﷺ 'nur weil sie kein anderes fand'."
+    },
+    "quiz_id": 2
+  },
+  {
+    "question_id": 98,
+    "type": "ordering",
+    "difficulty": "hard",
+    "source_section": "Berićet kod Halime",
+    "question": {
+      "bs": "Poredaj promjene koje su se desile kod Halime nakon što je uzela Muhammeda ﷺ:",
+      "de": "Ordne die Veränderungen, die bei Halima eintraten, nachdem sie Muhammad ﷺ aufgenommen hatte:"
+    },
+    "options": {
+      "bs": [
+        "Dijete se nahranilo na njenim prsima",
+        "Ugodno su prespavali noć",
+        "Deva je počela davati mlijeko",
+        "I njeno dijete se zasitilo",
+        "Deva je postala najbrža u karavani"
+      ],
+      "de": [
+        "Das Kind wurde an ihrer Brust satt",
+        "Sie schliefen die Nacht bequem",
+        "Das Kamel begann Milch zu geben",
+        "Auch ihr Kind wurde satt",
+        "Das Kamel wurde das schnellste in der Karawane"
+      ]
+    },
+    "correct": {
+      "bs": [
+        "Dijete se nahranilo na njenim prsima",
+        "I njeno dijete se zasitilo",
+        "Deva je počela davati mlijeko",
+        "Ugodno su prespavali noć",
+        "Deva je postala najbrža u karavani"
+      ],
+      "de": [
+        "Das Kind wurde an ihrer Brust satt",
+        "Auch ihr Kind wurde satt",
+        "Das Kamel begann Milch zu geben",
+        "Sie schliefen die Nacht bequem",
+        "Das Kamel wurde das schnellste in der Karawane"
+      ]
+    },
+    "explanation": {
+      "bs": "Redoslijed berićeta: 1) Muhammed ﷺ se nahranio, 2) Halimino dijete se također zasitilo, 3) Deva je dala mlijeko, 4) Tu noć su ugodno prespavali, 5) Sutradan je deva bila najbrža.",
+      "de": "Reihenfolge des Segens: 1) Muhammad ﷺ wurde satt, 2) Halimas Kind wurde auch satt, 3) Das Kamel gab Milch, 4) Sie schliefen die Nacht bequem, 5) Am nächsten Tag war das Kamel das schnellste."
+    },
+    "quiz_id": 2
+  },
+  {
+    "question_id": 99,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Reakcija susjeda",
+    "question": {
+      "bs": "Susjedi Halime su primijetili čudan berićet i pitali se odakle dolazi.",
+      "de": "Halimas Nachbarn bemerkten den seltsamen Segen und fragten sich, woher er kam."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Susjedi su govorili svojim čobanima: 'Teško vama, zašto ne idete napasati ovce tamo gdje napasaju Zuejbove kćeri (Halime).' Ali i njihove ovce bi dolazile gladne.",
+      "de": "Die Nachbarn sagten zu ihren Hirten: 'Warum geht ihr nicht dorthin, wo die Töchter von Zuaib (Halima) ihre Schafe weiden lassen.' Aber auch ihre Schafe kamen hungrig zurück."
+    },
+    "quiz_id": 2
+  },
+  {
+    "question_id": 100,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "source_section": "Zaključak",
+    "question": {
+      "bs": "Ko je štitio Poslanika ﷺ kroz cijelo njegovo djetinjstvo?",
+      "de": "Wer beschützte den Propheten ﷺ durch seine gesamte Kindheit?"
+    },
+    "options": {
+      "bs": [
+        "Allah Uzvišeni",
+        "Samo Abdul-Muttalib",
+        "Samo Ebu Talib",
+        "Kurejšije"
+      ],
+      "de": [
+        "Allah der Erhabene",
+        "Nur Abdulmuttalib",
+        "Nur Abu Talib",
+        "Die Quraisch"
+      ]
+    },
+    "correct": {
+      "bs": "Allah Uzvišeni",
+      "de": "Allah der Erhabene"
+    },
+    "explanation": {
+      "bs": "Poslanik ﷺ je sa svojom majkom Aminom i djedom Abdul-Muttalibom bio u Allahovom okrilju i zaštiti. Allah je učinio da lijepo raste i da bude sačuvan od svih zala.",
+      "de": "Der Prophet ﷺ war mit seiner Mutter Amina und seinem Grossvater Abdulmuttalib unter Allahs Schutz und Fürsorge. Allah liess ihn schön aufwachsen und bewahrte ihn vor allem Übel."
+    },
+    "quiz_id": 2
+  }
+]

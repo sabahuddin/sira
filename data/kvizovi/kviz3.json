@@ -1,0 +1,2817 @@
+[
+  {
+    "quiz_id": 3,
+    "question_id": 1,
+    "type": "true_false",
+    "difficulty": "easy",
+    "source_section": "Mladost - čuvanje ovaca",
+    "question": {
+      "bs": "Poslanik Muhammed ﷺ je u mladosti čuvao ovce u plemenu Benu Sa'd i stanovnicima Mekke.",
+      "de": "Der Prophet Muhammad ﷺ hütete in seiner Jugend Schafe für den Stamm Benu Sa'd und die Bewohner Mekkas."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Poslanik ﷺ je kao mladić radio kao pastir, čuvajući ovce u plemenu Benu Sa'd kod svoje dojkinje Halime, a također i za stanovnike Mekke. Ovo zanimanje ga je naučilo strpljivosti, odgovornosti i skromnosti.",
+      "de": "Der Prophet ﷺ arbeitete als junger Mann als Hirte und hütete Schafe beim Stamm Benu Sa'd bei seiner Amme Halima sowie für die Einwohner Mekkas. Dieser Beruf lehrte ihn Geduld, Verantwortung und Bescheidenheit."
+    }
+  },
+  {
+    "quiz_id": 3,
+    "question_id": 2,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Rat Fidžar",
+    "question": {
+      "bs": "Poslanik ﷺ je imao trideset godina kada je izbio Sramni rat (Harb el-Fidžar).",
+      "de": "Der Prophet ﷺ war dreissig Jahre alt, als der Sündige Krieg (Harb al-Fidschar) ausbrach."
+    },
+    "correct": false,
+    "explanation": {
+      "bs": "Poslanik ﷺ je imao dvadeset godina kada je izbio Sramni rat (Harb el-Fidžar), a ne trideset. U tom ratu su se sukobile plemenske zajednice Kinana i Kajs Ajlan, a nazvan je 'sramnim' jer su povrijedili svetost svetih mjeseci.",
+      "de": "Der Prophet ﷺ war zwanzig Jahre alt, als der Sündige Krieg (Harb al-Fidschar) ausbrach, nicht dreissig. In diesem Krieg kämpften die Stammesgemeinschaften Kinana und Kais Aidschan, und er wurde 'sündig' genannt, weil sie die Heiligkeit der heiligen Monate verletzten."
+    }
+  },
+  {
+    "quiz_id": 3,
+    "question_id": 3,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Rat Fidžar",
+    "question": {
+      "bs": "U ratu Fidžar, Poslanik ﷺ je dodavao strijele svojim amidžama.",
+      "de": "Im Krieg von Fidschar reichte der Prophet ﷺ seinen Onkeln Pfeile."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Poslanik ﷺ je prisustvovao nekim danima Sramnog rata i rekao je: 'Ja sam dodavao strijele svojim amidžama!' To znači da je skupljao strijele neprijatelja koje su padale oko njih i davao ih svojim amidžama.",
+      "de": "Der Prophet ﷺ war an einigen Tagen des Sündigen Krieges anwesend und sagte: 'Ich reichte meinen Onkeln Pfeile!' Das bedeutet, dass er die Pfeile der Feinde sammelte, die um sie herum fielen, und sie seinen Onkeln gab."
+    }
+  },
+  {
+    "quiz_id": 3,
+    "question_id": 4,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Hilful-fudul",
+    "question": {
+      "bs": "Ugovor o dostojanstvu (Hilful-fudul) je sklopljen u kući Abdullaha bin Džed'ana et-Temimija.",
+      "de": "Der Würdebund (Hilful-Fudul) wurde im Haus von Abdullah bin Dschad'an at-Tamimi geschlossen."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Ugovor o dostojanstvu je sklopljen u kući Abdullaha bin Džed'ana, koji je bio najstariji i najuvaženiji među prisutnima. Ovaj savez je formiran da štiti ugnjetene i strance u Mekki od nepravde.",
+      "de": "Der Würdebund wurde im Haus von Abdullah bin Dschad'an geschlossen, der der älteste und angesehenste unter den Anwesenden war. Dieser Bund wurde gegründet, um Unterdrückte und Fremde in Mekka vor Ungerechtigkeit zu schützen."
+    }
+  },
+  {
+    "quiz_id": 3,
+    "question_id": 5,
+    "type": "true_false",
+    "difficulty": "hard",
+    "source_section": "Hilful-fudul",
+    "question": {
+      "bs": "Poslanik ﷺ je rekao da bi se odazvao Ugovoru o dostojanstvu čak i u islamu, kada bi bio pozvan na nešto slično.",
+      "de": "Der Prophet ﷺ sagte, dass er dem Würdebund selbst im Islam folgen würde, wenn er zu etwas Ähnlichem aufgerufen würde."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Poslanik ﷺ je rekao: 'Prisustvovao sam u kući Abdullah ibn Džed'ana ugovoru koji mi je draži od blaga, i kad bih u islamu bio pozvan na tako nešto, odazvao bih se.' Ovo pokazuje vrijednost pravde i zaštite ugnjetenih u islamu.",
+      "de": "Der Prophet ﷺ sagte: 'Ich war im Haus von Abdullah ibn Dschad'an bei einem Bund anwesend, der mir lieber ist als Schätze, und wenn ich im Islam zu etwas Ähnlichem aufgerufen würde, würde ich folgen.' Dies zeigt den Wert der Gerechtigkeit und des Schutzes der Unterdrückten im Islam."
+    }
+  },
+  {
+    "quiz_id": 3,
+    "question_id": 6,
+    "type": "true_false",
+    "difficulty": "easy",
+    "source_section": "Hatidžina trgovina",
+    "question": {
+      "bs": "Hatidža r.a. je bila poznata trgovkinja velikog ugleda i časti u Mekki.",
+      "de": "Chadidscha r.a. war eine bekannte Händlerin von grossem Ansehen und Ehre in Mekka."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Hatidža bint Huvejlid bila je vrlo ugledna i bogata trgovkinja. Za svoj imetak je unajmljivala muškarce da njime trguju, a ona im je za to plaćala određeni procenat. Bila je najcjenjenija i najimućnija žena među Kurejšijama.",
+      "de": "Chadidscha bint Chuwailid war eine sehr angesehene und wohlhabende Händlerin. Sie stellte Männer ein, um mit ihrem Vermögen zu handeln, und zahlte ihnen dafür einen bestimmten Prozentsatz. Sie war die angesehenste und wohlhabendste Frau unter den Quraisch."
+    }
+  },
+  {
+    "quiz_id": 3,
+    "question_id": 7,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Putovanje u Šam",
+    "question": {
+      "bs": "Poslanik ﷺ je krenuo na trgovačko putovanje u Šam za Hatidžu kada je imao dvadeset i pet godina.",
+      "de": "Der Prophet ﷺ unternahm eine Handelsreise nach Syrien für Chadidscha, als er fünfundzwanzig Jahre alt war."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "U dvadeset i petoj godini života, Poslanik ﷺ se otisne u Šam kao trgovac robom čuvene trgovkinje iz Mekke, Hatidže r.a. Ovo putovanje je bilo ključno jer je dovelo do njihovog braka.",
+      "de": "Im Alter von fünfundzwanzig Jahren brach der Prophet ﷺ nach Syrien auf, um mit den Waren der berühmten Händlerin aus Mekka, Chadidscha r.a., zu handeln. Diese Reise war entscheidend, da sie zu ihrer Ehe führte."
+    }
+  },
+  {
+    "quiz_id": 3,
+    "question_id": 8,
+    "type": "true_false",
+    "difficulty": "easy",
+    "source_section": "Mejsera",
+    "question": {
+      "bs": "Mejsera je bio Hatidžin sluga koji je pratio Poslanika ﷺ na putovanju u Šam.",
+      "de": "Maisara war Chadidschas Diener, der den Propheten ﷺ auf der Reise nach Syrien begleitete."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Hatidža je poslala svog dječaka/slugu Mejseru da prati Poslanika ﷺ na trgovačkom putovanju u Šam. Mejsera je bio svjedok čudesnih znakova i berićeta koji su pratili Poslanika ﷺ na tom putovanju.",
+      "de": "Chadidscha schickte ihren Diener Maisara, um den Propheten ﷺ auf der Handelsreise nach Syrien zu begleiten. Maisara war Zeuge der wundersamen Zeichen und des Segens, die den Propheten ﷺ auf dieser Reise begleiteten."
+    }
+  },
+  {
+    "quiz_id": 3,
+    "question_id": 9,
+    "type": "true_false",
+    "difficulty": "hard",
+    "source_section": "Isposnik Nestura",
+    "question": {
+      "bs": "Isposnik Nestura je rekao Mejseri da se pod drvo gdje je sjedio Poslanik ﷺ nije nikad spustio niko osim poslanika.",
+      "de": "Der Eremit Nestura sagte zu Maisara, dass sich unter den Baum, wo der Prophet ﷺ sass, noch nie jemand ausser einem Propheten niedergelassen habe."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Na putovanju u Šam, Poslanik ﷺ se spustio u hlad jednog drveta blizu isposnikove ćelije. Isposnik Nestura je upitao Mejseru ko je taj čovjek, a kada je čuo da je Kurejšija, rekao je: 'Pod ono drvo se niko drugi nije spustio doli poslanik!'",
+      "de": "Auf der Reise nach Syrien ruhte der Prophet ﷺ im Schatten eines Baumes in der Nähe der Zelle des Eremiten. Der Eremit Nestura fragte Maisara, wer dieser Mann sei, und als er hörte, dass er ein Quraischi war, sagte er: 'Unter jenen Baum hat sich noch nie jemand ausser einem Propheten niedergelassen!'"
+    }
+  },
+  {
+    "quiz_id": 3,
+    "question_id": 10,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Meleci prave hlad",
+    "question": {
+      "bs": "Mejsera je vidio dva meleka kako prave hlad Poslaniku ﷺ dok je jahao na devi u podne.",
+      "de": "Maisara sah zwei Engel, die dem Propheten ﷺ Schatten spendeten, während er mittags auf einem Kamel ritt."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Na povratku iz Šama, u podne, u vrijeme najveće žege, Mejsera je vidio dva meleka kako iznad Poslanika ﷺ zaklanjaju sunce i prave mu hlad dok je jahao na devi. Ovo je bio jedan od čudesnih znakova poslanstva.",
+      "de": "Auf der Rückreise aus Syrien, mittags in der grössten Hitze, sah Maisara zwei Engel, die über dem Propheten ﷺ die Sonne abschirmten und ihm Schatten spendeten, während er auf einem Kamel ritt. Dies war eines der wundersamen Zeichen des Prophetentums."
+    }
+  },
+  {
+    "quiz_id": 3,
+    "question_id": 11,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Hatidžina ponuda",
+    "question": {
+      "bs": "Hatidža r.a. je sama ponudila brak Poslaniku ﷺ nakon što je čula o njegovim vrlinama.",
+      "de": "Chadidscha r.a. bot dem Propheten ﷺ selbst die Ehe an, nachdem sie von seinen Tugenden gehört hatte."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Hatidža je bila odlučna i inteligentna žena. Čim joj je Mejsera ispričao o znakovima poslanstva i beriketu koji je pratio Muhameda ﷺ, pozvala ga je i bez okolišanja mu rekla da ga želi zbog njegovog rodbinstva, ugleda, povjerljivosti, lijepog morala i iskrenosti.",
+      "de": "Chadidscha war eine entschlossene und intelligente Frau. Sobald ihr Maisara von den Zeichen des Prophetentums und dem Segen, der Muhammad ﷺ begleitete, erzählte, rief sie ihn und sagte ihm ohne Umschweife, dass sie ihn wegen seiner Verwandtschaft, seines Ansehens, seiner Vertrauenswürdigkeit, seines guten Charakters und seiner Aufrichtigkeit wollte."
+    }
+  },
+  {
+    "quiz_id": 3,
+    "question_id": 12,
+    "type": "true_false",
+    "difficulty": "hard",
+    "source_section": "Mehr Hatidži",
+    "question": {
+      "bs": "Poslanik ﷺ je dao Hatidži r.a. mehr od sto deva.",
+      "de": "Der Prophet ﷺ gab Chadidscha r.a. eine Morgengabe von hundert Kamelen."
+    },
+    "correct": false,
+    "explanation": {
+      "bs": "Poslanik ﷺ je dao Hatidži r.a. mehr od dvadeset mladih deva, a ne sto. Ona je bila prva žena koju je oženio i do njene smrti se nije ženio drugom ženom.",
+      "de": "Der Prophet ﷺ gab Chadidscha r.a. eine Morgengabe von zwanzig jungen Kamelen, nicht hundert. Sie war die erste Frau, die er heiratete, und bis zu ihrem Tod heiratete er keine andere Frau."
+    }
+  },
+  {
+    "quiz_id": 3,
+    "question_id": 13,
+    "type": "true_false",
+    "difficulty": "easy",
+    "source_section": "Hatidžin status",
+    "question": {
+      "bs": "Hatidža r.a. je bila po porijeklu najcjenjenija Kurejšijka.",
+      "de": "Chadidscha r.a. war nach ihrer Abstammung die angesehenste Quraischitische Frau."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Hatidža r.a. je bila po svom porijeklu najcjenjenija Kurejšijka. Uživala je najveći ugled, bila je najimućnija žena i svaki njen sunarodnik bi bio počašćen da ju je mogao oženiti.",
+      "de": "Chadidscha r.a. war nach ihrer Abstammung die angesehenste Quraischitische Frau. Sie genoss das grösste Ansehen, war die wohlhabendste Frau, und jeder ihrer Landsleute wäre geehrt gewesen, sie heiraten zu können."
+    }
+  },
+  {
+    "quiz_id": 3,
+    "question_id": 14,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Hatidžin brak",
+    "question": {
+      "bs": "Hatidža r.a. je imala četrdeset godina kada se udala za Poslanika ﷺ.",
+      "de": "Chadidscha r.a. war vierzig Jahre alt, als sie den Propheten ﷺ heiratete."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Hatidža r.a. je imala četrdeset godina kada se udala za Poslanika ﷺ, koji je tada imao dvadeset i pet godina. Bila je petnaest godina starija od njega i bila je prva žena kojom se oženio.",
+      "de": "Chadidscha r.a. war vierzig Jahre alt, als sie den Propheten ﷺ heiratete, der damals fünfundzwanzig Jahre alt war. Sie war fünfzehn Jahre älter als er und war die erste Frau, die er heiratete."
+    }
+  },
+  {
+    "quiz_id": 3,
+    "question_id": 15,
+    "type": "true_false",
+    "difficulty": "easy",
+    "source_section": "Hatidžin brak",
+    "question": {
+      "bs": "Za života Hatidže r.a., Poslanik ﷺ se nije ženio drugom ženom.",
+      "de": "Zu Lebzeiten von Chadidscha r.a. heiratete der Prophet ﷺ keine andere Frau."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Hatidža r.a. je bila prva i jedina Poslanikova ﷺ žena za njenog života. Tek nakon njene smrti, Poslanik ﷺ se oženio drugim ženama. Ovo pokazuje duboku ljubav i poštovanje koje je gajio prema njoj.",
+      "de": "Chadidscha r.a. war die erste und einzige Frau des Propheten ﷺ zu ihren Lebzeiten. Erst nach ihrem Tod heiratete der Prophet ﷺ andere Frauen. Dies zeigt die tiefe Liebe und den Respekt, den er ihr entgegenbrachte."
+    }
+  },
+  {
+    "quiz_id": 3,
+    "question_id": 16,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "source_section": "Rat Fidžar",
+    "question": {
+      "bs": "Koliko je godina imao Poslanik ﷺ kada je izbio Sramni rat (Harb el-Fidžar)?",
+      "de": "Wie alt war der Prophet ﷺ, als der Sündige Krieg (Harb al-Fidschar) ausbrach?"
+    },
+    "options": {
+      "bs": [
+        "Trideset godina",
+        "Petnaest godina",
+        "Dvadeset godina",
+        "Dvadeset i pet godina"
+      ],
+      "de": [
+        "Dreissig Jahre",
+        "Fünfzehn Jahre",
+        "Zwanzig Jahre",
+        "Fünfundzwanzig Jahre"
+      ]
+    },
+    "correct": {
+      "bs": "Dvadeset godina",
+      "de": "Zwanzig Jahre"
+    },
+    "explanation": {
+      "bs": "Poslanik ﷺ je imao dvadeset godina kada je izbio Sramni rat (Harb el-Fidžar). U tom ratu su se sukobile plemenske zajednice Kinana i Kajs Ajlan. Poslanik ﷺ je učestvovao tako što je dodavao strijele svojim amidžama.",
+      "de": "Der Prophet ﷺ war zwanzig Jahre alt, als der Sündige Krieg (Harb al-Fidschar) ausbrach. In diesem Krieg kämpften die Stammesgemeinschaften Kinana und Kais Aidschan. Der Prophet ﷺ nahm teil, indem er seinen Onkeln Pfeile reichte."
+    }
+  },
+  {
+    "quiz_id": 3,
+    "question_id": 17,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Rat Fidžar",
+    "question": {
+      "bs": "Koja su se dva plemenskog saveza sukobila u Sramnom ratu (Harb el-Fidžar)?",
+      "de": "Welche zwei Stammesverbände kämpften im Sündigen Krieg (Harb al-Fidschar)?"
+    },
+    "options": {
+      "bs": [
+        "Evs i Hazredž",
+        "Kinana i Kajs Ajlan",
+        "Kurejš i Hevazin",
+        "Benu Hašim i Benu Umejje"
+      ],
+      "de": [
+        "Aws und Chasradsch",
+        "Kinana und Kais Aidschan",
+        "Quraisch und Hawazin",
+        "Banu Haschim und Banu Umajja"
+      ]
+    },
+    "correct": {
+      "bs": "Kinana i Kajs Ajlan",
+      "de": "Kinana und Kais Aidschan"
+    },
+    "explanation": {
+      "bs": "U Sramnom ratu (Harb el-Fidžar) sukobile su se plemenske zajednice Kinana i Kajs Ajlan. Rat je nazvan 'sramnim' jer su povrijedili svetost svetih mjeseci u kojima je bilo zabranjeno ratovanje.",
+      "de": "Im Sündigen Krieg (Harb al-Fidschar) kämpften die Stammesgemeinschaften Kinana und Kais Aidschan. Der Krieg wurde 'sündig' genannt, weil sie die Heiligkeit der heiligen Monate verletzten, in denen Kriegführung verboten war."
+    }
+  },
+  {
+    "quiz_id": 3,
+    "question_id": 18,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Rat Fidžar",
+    "question": {
+      "bs": "Ko je bio vođa Kurejšija i Kinane u Sramnom ratu?",
+      "de": "Wer war der Anführer der Quraisch und Kinana im Sündigen Krieg?"
+    },
+    "options": {
+      "bs": [
+        "Ebu Talib",
+        "Ebu Sufjan",
+        "Harb bin Umejja",
+        "Abdul-Muttalib"
+      ],
+      "de": [
+        "Abu Talib",
+        "Abu Sufjan",
+        "Harb bin Umajja",
+        "Abdul-Muttalib"
+      ]
+    },
+    "correct": {
+      "bs": "Harb bin Umejja",
+      "de": "Harb bin Umajja"
+    },
+    "explanation": {
+      "bs": "Vođa Kurejšija i Kinane u Sramnom ratu bio je Harb bin Umejja. S početka dana inicijativu je imalo pleme Kajs, ali se situacija sredinom dana obrnula u korist Kinane i Kurejšija.",
+      "de": "Der Anführer der Quraisch und Kinana im Sündigen Krieg war Harb bin Umajja. Zu Beginn des Tages hatte der Stamm Kais die Initiative, aber die Situation kehrte sich in der Mitte des Tages zugunsten von Kinana und Quraisch um."
+    }
+  },
+  {
+    "quiz_id": 3,
+    "question_id": 19,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Hilful-fudul",
+    "question": {
+      "bs": "U čijoj kući je sklopljen Ugovor o dostojanstvu (Hilful-fudul)?",
+      "de": "In wessen Haus wurde der Würdebund (Hilful-Fudul) geschlossen?"
+    },
+    "options": {
+      "bs": [
+        "Ebu Talib bin Abdul-Muttalib",
+        "Abdul-Muttalib bin Hašim",
+        "Vereka bin Nevfel",
+        "Abdullah bin Džed'an et-Temimi"
+      ],
+      "de": [
+        "Abu Talib bin Abdul-Muttalib",
+        "Abdul-Muttalib bin Haschim",
+        "Waraka bin Naufal",
+        "Abdullah bin Dschad'an at-Tamimi"
+      ]
+    },
+    "correct": {
+      "bs": "Abdullah bin Džed'an et-Temimi",
+      "de": "Abdullah bin Dschad'an at-Tamimi"
+    },
+    "explanation": {
+      "bs": "Ugovor o dostojanstvu (Hilful-fudul) sklopljen je u kući Abdullaha bin Džed'ana et-Temimija, jer je bio najstariji i najpoštovaniji među prisutnima. Ovaj savez je obavezivao članove da štite ugnjetene i strance u Mekki.",
+      "de": "Der Würdebund (Hilful-Fudul) wurde im Haus von Abdullah bin Dschad'an at-Tamimi geschlossen, da er der älteste und angesehenste unter den Anwesenden war. Dieser Bund verpflichtete die Mitglieder, Unterdrückte und Fremde in Mekka zu schützen."
+    }
+  },
+  {
+    "quiz_id": 3,
+    "question_id": 20,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Hilful-fudul",
+    "question": {
+      "bs": "U kojem svetom mjesecu je sklopljen Ugovor o dostojanstvu?",
+      "de": "In welchem heiligen Monat wurde der Würdebund geschlossen?"
+    },
+    "options": {
+      "bs": [
+        "Zul-ka'de",
+        "Redžeb",
+        "Muharrem",
+        "Zul-hidždže"
+      ],
+      "de": [
+        "Dhu al-Qa'da",
+        "Radschab",
+        "Muharram",
+        "Dhu al-Hiddscha"
+      ]
+    },
+    "correct": {
+      "bs": "Zul-ka'de",
+      "de": "Dhu al-Qa'da"
+    },
+    "explanation": {
+      "bs": "Ugovor o dostojanstvu sklopljen je u svetom mjesecu zul-ka'di. Inicijatori su bili Kurejšije, i to porodice: Benu Hašim, Benu Muttalib, Esed bin Abdul-Uzza, Zehra bin Kilab i Tejm bin Murre.",
+      "de": "Der Würdebund wurde im heiligen Monat Dhu al-Qa'da geschlossen. Die Initiatoren waren die Quraisch, insbesondere die Familien: Banu Haschim, Banu Muttalib, Asad bin Abdul-Uzza, Zuhra bin Kilab und Taim bin Murra."
+    }
+  },
+  {
+    "quiz_id": 3,
+    "question_id": 21,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Hilful-fudul - povod",
+    "question": {
+      "bs": "Koji događaj je bio neposredni povod za sklapanje Ugovora o dostojanstvu?",
+      "de": "Welches Ereignis war der unmittelbare Anlass für den Abschluss des Würdebundes?"
+    },
+    "options": {
+      "bs": [
+        "Smrt Abdul-Muttaliba",
+        "Rat Fidžar",
+        "Nepravda prema trgovcu iz plemena Zubejd",
+        "Napad na Kabu"
+      ],
+      "de": [
+        "Tod von Abdul-Muttalib",
+        "Der Krieg von Fidschar",
+        "Ungerechtigkeit gegenüber einem Händler vom Stamm Zubaid",
+        "Angriff auf die Kaaba"
+      ]
+    },
+    "correct": {
+      "bs": "Nepravda prema trgovcu iz plemena Zubejd",
+      "de": "Ungerechtigkeit gegenüber einem Händler vom Stamm Zubaid"
+    },
+    "explanation": {
+      "bs": "Neposredni povod bio je slučaj trgovca iz plemena Zubejd kojem El-As bin Vail es-Sehmi nije platio robu kako treba. Trgovac se popeo na brdo Ebu Kubejs i glasno recitirao pjesmu o nepravdi. To je pokrenulo formiranje saveza za zaštitu ugnjetenih.",
+      "de": "Der unmittelbare Anlass war der Fall eines Händlers vom Stamm Zubaid, dem El-As bin Wail as-Sahmi die Ware nicht ordnungsgemäss bezahlte. Der Händler stieg auf den Berg Abu Kubais und rezitierte laut ein Gedicht über die Ungerechtigkeit. Dies führte zur Gründung des Bundes zum Schutz der Unterdrückten."
+    }
+  },
+  {
+    "quiz_id": 3,
+    "question_id": 22,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "source_section": "Hatidžina trgovina",
+    "question": {
+      "bs": "Šta je Hatidža r.a. radila sa svojim bogatstvom?",
+      "de": "Was machte Chadidscha r.a. mit ihrem Reichtum?"
+    },
+    "options": {
+      "bs": [
+        "Davala ga u sadaku",
+        "Unajmljivala trgovce da njime trguju",
+        "Kupovala nekretnine",
+        "Posuđivala sa kamatom"
+      ],
+      "de": [
+        "Sie gab ihn als Almosen",
+        "Sie stellte Händler ein, um damit zu handeln",
+        "Sie kaufte Immobilien",
+        "Sie verlieh ihn mit Zinsen"
+      ]
+    },
+    "correct": {
+      "bs": "Unajmljivala trgovce da njime trguju",
+      "de": "Sie stellte Händler ein, um damit zu handeln"
+    },
+    "explanation": {
+      "bs": "Hatidža bint Huvejlid je bila trgovkinja koja je za svoj imetak unajmljivala muškarce da njime trguju, a ona im je za to plaćala određeni procenat. Kurejšije su inače bili poznati trgovci.",
+      "de": "Chadidscha bint Chuwailid war eine Händlerin, die Männer anstellte, um mit ihrem Vermögen zu handeln, und sie zahlte ihnen dafür einen bestimmten Prozentsatz. Die Quraisch waren ohnehin als Händler bekannt."
+    }
+  },
+  {
+    "quiz_id": 3,
+    "question_id": 23,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "source_section": "Poslanikovo putovanje u Šam",
+    "question": {
+      "bs": "Koliko je godina imao Poslanik ﷺ kada je otišao u Šam kao Hatidžin trgovac?",
+      "de": "Wie alt war der Prophet ﷺ, als er als Händler für Chadidscha nach Syrien ging?"
+    },
+    "options": {
+      "bs": [
+        "Trideset godina",
+        "Dvadeset i pet godina",
+        "Dvadeset godina",
+        "Trideset i pet godina"
+      ],
+      "de": [
+        "Dreissig Jahre",
+        "Fünfundzwanzig Jahre",
+        "Zwanzig Jahre",
+        "Fünfunddreissig Jahre"
+      ]
+    },
+    "correct": {
+      "bs": "Dvadeset i pet godina",
+      "de": "Fünfundzwanzig Jahre"
+    },
+    "explanation": {
+      "bs": "Poslanik ﷺ je imao dvadeset i pet godina kada je krenuo u Šam kao trgovac robom Hatidže r.a. Ona je čula za njegovu iskrenost, povjerljivost i čestito ponašanje, pa ga je angažovala.",
+      "de": "Der Prophet ﷺ war fünfundzwanzig Jahre alt, als er nach Syrien aufbrach, um mit der Ware von Chadidscha r.a. zu handeln. Sie hatte von seiner Aufrichtigkeit, Vertrauenswürdigkeit und seinem ehrenhaften Verhalten gehört und engagierte ihn."
+    }
+  },
+  {
+    "quiz_id": 3,
+    "question_id": 24,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Hatidžina nagrada",
+    "question": {
+      "bs": "Šta je Hatidža obećala Poslaniku ﷺ za trgovačko putovanje u Šam?",
+      "de": "Was versprach Chadidscha dem Propheten ﷺ für die Handelsreise nach Syrien?"
+    },
+    "options": {
+      "bs": [
+        "Kuću u Mekki",
+        "Bolje nagrađen nego prethodnici",
+        "Polovinu zarade",
+        "Ženidbu"
+      ],
+      "de": [
+        "Ein Haus in Mekka",
+        "Bessere Entlohnung als seine Vorgänger",
+        "Die Hälfte des Gewinns",
+        "Heirat"
+      ]
+    },
+    "correct": {
+      "bs": "Bolje nagrađen nego prethodnici",
+      "de": "Bessere Entlohnung als seine Vorgänger"
+    },
+    "explanation": {
+      "bs": "Hatidža je Poslaniku ﷺ ponudila da vodi brigu o njenoj trgovini u Šamu i obećala da će biti nagrađen bolje nego što su bili njegovi prethodnici. Također je uz njega slala svoga slugu Mejseru.",
+      "de": "Chadidscha bot dem Propheten ﷺ an, sich um ihren Handel in Syrien zu kümmern, und versprach ihm eine bessere Entlohnung als seine Vorgänger. Sie schickte auch ihren Diener Maisara mit ihm."
+    }
+  },
+  {
+    "quiz_id": 3,
+    "question_id": 25,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Isposnik na putu",
+    "question": {
+      "bs": "Kako se zvao isposnik koji je prepoznao znakove poslanstva na putovanju u Šam?",
+      "de": "Wie hiess der Eremit, der die Zeichen des Prophetentums auf der Reise nach Syrien erkannte?"
+    },
+    "options": {
+      "bs": [
+        "Vereka",
+        "Behira",
+        "Selman",
+        "Nestura"
+      ],
+      "de": [
+        "Waraka",
+        "Bahira",
+        "Salman",
+        "Nestura"
+      ]
+    },
+    "correct": {
+      "bs": "Nestura",
+      "de": "Nestura"
+    },
+    "explanation": {
+      "bs": "Na putovanju u Šam za Hatidžu, Poslanik ﷺ se spustio u hlad drveta blizu ćelije isposnika po imenu Nestura. On je prepoznao da se pod to drvo nikad nije spustio niko osim poslanika.",
+      "de": "Auf der Reise nach Syrien für Chadidscha ruhte der Prophet ﷺ im Schatten eines Baumes in der Nähe der Zelle eines Eremiten namens Nestura. Er erkannte, dass sich unter diesen Baum noch nie jemand ausser einem Propheten niedergelassen hatte."
+    }
+  },
+  {
+    "quiz_id": 3,
+    "question_id": 26,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Zarada na putovanju",
+    "question": {
+      "bs": "Kolika je bila zarada od Poslanikove ﷺ trgovine za Hatidžu?",
+      "de": "Wie hoch war der Gewinn aus dem Handel des Propheten ﷺ für Chadidscha?"
+    },
+    "options": {
+      "bs": [
+        "Dvostruka ili skoro dvostruka",
+        "Trostruka zarada",
+        "Bez zarade",
+        "Uobičajena zarada"
+      ],
+      "de": [
+        "Doppelter oder fast doppelter",
+        "Dreifacher Gewinn",
+        "Kein Gewinn",
+        "Üblicher Gewinn"
+      ]
+    },
+    "correct": {
+      "bs": "Dvostruka ili skoro dvostruka",
+      "de": "Doppelter oder fast doppelter"
+    },
+    "explanation": {
+      "bs": "Poslanik ﷺ je u Šamu prodao svu robu i kupio sve što je namjeravao. Hatidža je potom prodala donesenu robu, a zarada joj je bila dvostruka, ili skoro dvostruka. Ovo je bio berićet koji je pratio Poslanika ﷺ.",
+      "de": "Der Prophet ﷺ verkaufte in Syrien alle Waren und kaufte alles, was er beabsichtigt hatte. Chadidscha verkaufte dann die mitgebrachten Waren, und ihr Gewinn war doppelt oder fast doppelt so hoch. Dies war der Segen, der den Propheten ﷺ begleitete."
+    }
+  },
+  {
+    "quiz_id": 3,
+    "question_id": 27,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Posrednica u braku",
+    "question": {
+      "bs": "Ko je posredovao između Hatidže i Poslanika ﷺ u pitanju braka?",
+      "de": "Wer vermittelte zwischen Chadidscha und dem Propheten ﷺ in Bezug auf die Ehe?"
+    },
+    "options": {
+      "bs": [
+        "Vereka bin Nevfel",
+        "Ebu Talib",
+        "Nefisa bint Menijjet",
+        "Mejsera"
+      ],
+      "de": [
+        "Waraka bin Naufal",
+        "Abu Talib",
+        "Nafisa bint Munajja",
+        "Maisara"
+      ]
+    },
+    "correct": {
+      "bs": "Nefisa bint Menijjet",
+      "de": "Nafisa bint Munajja"
+    },
+    "explanation": {
+      "bs": "Prema jednom predanju, Hatidža nije mogla sakriti svoje osjećaje prema Poslaniku ﷺ od svoje prijateljice Nefise bint Menijjet. Nefisa je otišla Poslaniku ﷺ i otvoreno mu predložila da oženi Hatidžu.",
+      "de": "Nach einer Überlieferung konnte Chadidscha ihre Gefühle für den Propheten ﷺ nicht vor ihrer Freundin Nafisa bint Munajja verbergen. Nafisa ging zum Propheten ﷺ und schlug ihm offen vor, Chadidscha zu heiraten."
+    }
+  },
+  {
+    "quiz_id": 3,
+    "question_id": 28,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Vjenčanje",
+    "question": {
+      "bs": "Ko je od Poslanikovih ﷺ amidža otišao zaprositi Hatidžu r.a.?",
+      "de": "Welcher der Onkel des Propheten ﷺ ging hin, um um Chadidschas r.a. Hand anzuhalten?"
+    },
+    "options": {
+      "bs": [
+        "Abbas",
+        "Hamza",
+        "Ebu Talib",
+        "Ebu Leheb"
+      ],
+      "de": [
+        "Abbas",
+        "Hamza",
+        "Abu Talib",
+        "Abu Lahab"
+      ]
+    },
+    "correct": {
+      "bs": "Hamza",
+      "de": "Hamza"
+    },
+    "explanation": {
+      "bs": "Poslanik ﷺ je ispričao svojim amidžama o Hatidžinoj ponudi. Njegov amidža Hamza je pošao s njim do Huvejlida bin Eseda (Hatidžinog amidže/oca), gdje ju je zaručio, a potom i oženio.",
+      "de": "Der Prophet ﷺ erzählte seinen Onkeln von Chadidschas Angebot. Sein Onkel Hamza ging mit ihm zu Chuwailid bin Asad (Chadidschas Onkel/Vater), wo er sie verlobte und dann heiratete."
+    }
+  },
+  {
+    "quiz_id": 3,
+    "question_id": 29,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Mehr Hatidži",
+    "question": {
+      "bs": "Koliki je bio mehr koji je Poslanik ﷺ dao Hatidži r.a.?",
+      "de": "Wie hoch war die Morgengabe, die der Prophet ﷺ Chadidscha r.a. gab?"
+    },
+    "options": {
+      "bs": [
+        "Dvadeset mladih deva",
+        "Pedeset mladih deva",
+        "Sto deva",
+        "Deset mladih deva"
+      ],
+      "de": [
+        "Zwanzig junge Kamele",
+        "Fünfzig junge Kamele",
+        "Hundert Kamele",
+        "Zehn junge Kamele"
+      ]
+    },
+    "correct": {
+      "bs": "Dvadeset mladih deva",
+      "de": "Zwanzig junge Kamele"
+    },
+    "explanation": {
+      "bs": "Poslanik ﷺ je dao Hatidži r.a. mehr od dvadeset mladih deva. Ona je bila prva žena koju je oženio i do njene smrti se nije ženio drugom ženom, što pokazuje njihovu duboku međusobnu ljubav.",
+      "de": "Der Prophet ﷺ gab Chadidscha r.a. eine Morgengabe von zwanzig jungen Kamelen. Sie war die erste Frau, die er heiratete, und bis zu ihrem Tod heiratete er keine andere Frau, was ihre tiefe gegenseitige Liebe zeigt."
+    }
+  },
+  {
+    "quiz_id": 3,
+    "question_id": 30,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Vrijeme vjenčanja",
+    "question": {
+      "bs": "Koliko vremena nakon povratka iz Šama se Poslanik ﷺ oženio Hatidžom r.a.?",
+      "de": "Wie lange nach der Rückkehr aus Syrien heiratete der Prophet ﷺ Chadidscha r.a.?"
+    },
+    "options": {
+      "bs": [
+        "Odmah po povratku",
+        "Šest mjeseci",
+        "Dvadeset dana do dva mjeseca",
+        "Godinu dana"
+      ],
+      "de": [
+        "Sofort nach der Rückkehr",
+        "Sechs Monate",
+        "Zwanzig Tage bis zwei Monate",
+        "Ein Jahr"
+      ]
+    },
+    "correct": {
+      "bs": "Dvadeset dana do dva mjeseca",
+      "de": "Zwanzig Tage bis zwei Monate"
+    },
+    "explanation": {
+      "bs": "Vjenčanje se desilo samo dva mjeseca nakon Poslanikova ﷺ povratka iz Šama, a prema ispravnijoj verziji nakon dvadeset dana. Činu vjenčanja prisustvovali su Benu Hašimije i poglavari Mudara.",
+      "de": "Die Hochzeit fand nur zwei Monate nach der Rückkehr des Propheten ﷺ aus Syrien statt, und laut der zuverlässigeren Version nach zwanzig Tagen. An der Hochzeitszeremonie nahmen die Banu Haschim und die Häuptlinge von Mudar teil."
+    }
+  },
+  {
+    "quiz_id": 3,
+    "question_id": 31,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "source_section": "Poslanikova djeca",
+    "question": {
+      "bs": "Koje je prvo dijete koje je Hatidža r.a. rodila Poslaniku ﷺ?",
+      "de": "Welches war das erste Kind, das Chadidscha r.a. dem Propheten ﷺ gebar?"
+    },
+    "options": {
+      "bs": [
+        "Zejneba",
+        "Abdullah",
+        "Ibrahim",
+        "Kasim"
+      ],
+      "de": [
+        "Zainab",
+        "Abdullah",
+        "Ibrahim",
+        "Qasim"
+      ]
+    },
+    "correct": {
+      "bs": "Kasim",
+      "de": "Qasim"
+    },
+    "explanation": {
+      "bs": "Prvo dijete koje je Hatidža r.a. rodila Poslaniku ﷺ bio je sin Kasim. Po njemu je Poslanik ﷺ dobio nadimak Ebu-l-Kasim (otac Kasimov). Nažalost, Kasim je umro u djetinjstvu.",
+      "de": "Das erste Kind, das Chadidscha r.a. dem Propheten ﷺ gebar, war der Sohn Qasim. Nach ihm erhielt der Prophet ﷺ den Beinamen Abu-l-Qasim (Vater von Qasim). Leider starb Qasim in der Kindheit."
+    }
+  },
+  {
+    "quiz_id": 3,
+    "question_id": 32,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Poslanikova djeca",
+    "question": {
+      "bs": "Koji su bili nadimci Poslanikovog ﷺ sina Abdullaha?",
+      "de": "Welche Beinamen hatte Abdullahs, des Sohnes des Propheten ﷺ?"
+    },
+    "options": {
+      "bs": [
+        "Dobri i Čisti (Tajjib i Tahir)",
+        "Hrabri i Pravedni",
+        "Iskreni i Povjerljivi",
+        "Mudri i Strpljivi"
+      ],
+      "de": [
+        "Der Gute und der Reine (Tajjib und Tahir)",
+        "Der Tapfere und der Gerechte",
+        "Der Aufrichtige und der Vertrauenswürdige",
+        "Der Weise und der Geduldige"
+      ]
+    },
+    "correct": {
+      "bs": "Dobri i Čisti (Tajjib i Tahir)",
+      "de": "Der Gute und der Reine (Tajjib und Tahir)"
+    },
+    "explanation": {
+      "bs": "Poslanikov ﷺ sin Abdullah imao je nadimke 'Dobri' (Tajjib) i 'Čisti' (Tahir). Abdullah je, kao i njegov brat Kasim, umro u djetinjstvu, prije početka Poslanikove ﷺ misije.",
+      "de": "Der Sohn des Propheten ﷺ, Abdullah, hatte die Beinamen 'Der Gute' (Tajjib) und 'Der Reine' (Tahir). Abdullah starb wie sein Bruder Qasim in der Kindheit, vor Beginn der Mission des Propheten ﷺ."
+    }
+  },
+  {
+    "quiz_id": 3,
+    "question_id": 33,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "source_section": "Poslanikova djeca",
+    "question": {
+      "bs": "Koliko je kćerki imao Poslanik ﷺ?",
+      "de": "Wie viele Töchter hatte der Prophet ﷺ?"
+    },
+    "options": {
+      "bs": [
+        "Tri",
+        "Četiri",
+        "Pet",
+        "Dvije"
+      ],
+      "de": [
+        "Drei",
+        "Vier",
+        "Fünf",
+        "Zwei"
+      ]
+    },
+    "correct": {
+      "bs": "Četiri",
+      "de": "Vier"
+    },
+    "explanation": {
+      "bs": "Poslanik ﷺ je imao četiri kćerke: Zejnebu, Rukajju, Ummu Kulsum i Fatimu. Sve su primile islam, učinile hidžru u Medinu i umrle za života oca, osim Fatime koja je umrla šest mjeseci nakon njega.",
+      "de": "Der Prophet ﷺ hatte vier Töchter: Zainab, Ruqajja, Umm Kulthum und Fatima. Alle nahmen den Islam an, machten die Hidschra nach Medina und starben zu Lebzeiten ihres Vaters, ausser Fatima, die sechs Monate nach ihm starb."
+    }
+  },
+  {
+    "quiz_id": 3,
+    "question_id": 34,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Poslanikova djeca",
+    "question": {
+      "bs": "Koja od Poslanikovih ﷺ kćerki je umrla nakon njega?",
+      "de": "Welche Tochter des Propheten ﷺ starb nach ihm?"
+    },
+    "options": {
+      "bs": [
+        "Ummu Kulsum",
+        "Rukajja",
+        "Fatima",
+        "Zejneba"
+      ],
+      "de": [
+        "Umm Kulthum",
+        "Ruqajja",
+        "Fatima",
+        "Zainab"
+      ]
+    },
+    "correct": {
+      "bs": "Fatima",
+      "de": "Fatima"
+    },
+    "explanation": {
+      "bs": "Sve Poslanikove ﷺ kćerke su pomrle za njegovog života, osim Fatime r.a. koja je umrla šest mjeseci nakon smrti svoga oca. Ona je bila najmlađa kćerka i supruga Alije bin Ebi Taliba.",
+      "de": "Alle Töchter des Propheten ﷺ starben zu seinen Lebzeiten, ausser Fatima r.a., die sechs Monate nach dem Tod ihres Vaters starb. Sie war die jüngste Tochter und Ehefrau von Ali bin Abi Talib."
+    }
+  },
+  {
+    "quiz_id": 3,
+    "question_id": 35,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Poslanikova djeca",
+    "question": {
+      "bs": "Ko je rodio Poslaniku ﷺ sina Ibrahima?",
+      "de": "Wer gebar dem Propheten ﷺ den Sohn Ibrahim?"
+    },
+    "options": {
+      "bs": [
+        "Hatidža r.a.",
+        "Sevda r.a.",
+        "Aiša r.a.",
+        "Marija Koptkinja"
+      ],
+      "de": [
+        "Chadidscha r.a.",
+        "Sauda r.a.",
+        "Aischa r.a.",
+        "Maria die Koptin"
+      ]
+    },
+    "correct": {
+      "bs": "Marija Koptkinja",
+      "de": "Maria die Koptin"
+    },
+    "explanation": {
+      "bs": "Hatidža r.a. je rodila svu djecu Poslanika ﷺ osim sina Ibrahima. Ibrahim je rođen od Marije Koptkinje, koju je Poslaniku ﷺ poklonio El-Mukavkis, koptski velikodostojnik iz Gornjeg Egipta.",
+      "de": "Chadidscha r.a. gebar alle Kinder des Propheten ﷺ ausser dem Sohn Ibrahim. Ibrahim wurde von Maria der Koptin geboren, die dem Propheten ﷺ von El-Muqauqis, dem koptischen Würdenträger aus Oberägypten, geschenkt wurde."
+    }
+  },
+  {
+    "quiz_id": 3,
+    "question_id": 36,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "source_section": "Gradnja Kabe",
+    "question": {
+      "bs": "Koliko je godina imao Poslanik ﷺ kada su Kurejšije obnovile gradnju Kabe?",
+      "de": "Wie alt war der Prophet ﷺ, als die Quraisch die Kaaba wieder aufbauten?"
+    },
+    "options": {
+      "bs": [
+        "Trideset godina",
+        "Trideset i pet godina",
+        "Četrdeset godina",
+        "Dvadeset i pet godina"
+      ],
+      "de": [
+        "Dreissig Jahre",
+        "Fünfunddreissig Jahre",
+        "Vierzig Jahre",
+        "Fünfundzwanzig Jahre"
+      ]
+    },
+    "correct": {
+      "bs": "Trideset i pet godina",
+      "de": "Fünfunddreissig Jahre"
+    },
+    "explanation": {
+      "bs": "Poslanik ﷺ je imao trideset i pet godina kada su Kurejšije odlučile obnoviti Kabu. To je bilo pet godina prije početka poslanstva. Kaba je bila oštećena poplavom nakon pucanja brane Arem.",
+      "de": "Der Prophet ﷺ war fünfunddreissig Jahre alt, als die Quraisch beschlossen, die Kaaba wieder aufzubauen. Das war fünf Jahre vor Beginn des Prophetentums. Die Kaaba war durch eine Überschwemmung nach dem Bruch des Arem-Dammes beschädigt worden."
+    }
+  },
+  {
+    "quiz_id": 3,
+    "question_id": 37,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Gradnja Kabe",
+    "question": {
+      "bs": "Ko je prvi počeo rušiti staru Kabu da bi se mogla obnoviti?",
+      "de": "Wer begann als Erster, die alte Kaaba abzureissen, damit sie wieder aufgebaut werden konnte?"
+    },
+    "options": {
+      "bs": [
+        "El-Velid bin Mugire el-Mahzumi",
+        "Ebu Talib",
+        "Ebu Džehl",
+        "Abdul-Muttalib"
+      ],
+      "de": [
+        "Al-Walid bin al-Mughira al-Machzumi",
+        "Abu Talib",
+        "Abu Dschahl",
+        "Abdul-Muttalib"
+      ]
+    },
+    "correct": {
+      "bs": "El-Velid bin Mugire el-Mahzumi",
+      "de": "Al-Walid bin al-Mughira al-Machzumi"
+    },
+    "explanation": {
+      "bs": "Kurejšije su se bojale rušiti Kabu, pa je El-Velid bin Mugire el-Mahzumi preuzeo inicijativu i prvi počeo rušiti. Kada mu se ništa loše nije dogodilo, ostali su nastavili za njim.",
+      "de": "Die Quraisch fürchteten sich, die Kaaba abzureissen, also ergriff Al-Walid bin al-Mughira al-Machzumi die Initiative und begann als Erster mit dem Abriss. Als ihm nichts Schlimmes geschah, folgten die anderen seinem Beispiel."
+    }
+  },
+  {
+    "quiz_id": 3,
+    "question_id": 38,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Gradnja Kabe",
+    "question": {
+      "bs": "Šta su Kurejšije odlučile koristiti za gradnju Kabe?",
+      "de": "Was beschlossen die Quraisch für den Bau der Kaaba zu verwenden?"
+    },
+    "options": {
+      "bs": [
+        "Samo zlato i srebro",
+        "Samo pošteno stečen imetak",
+        "Bilo kakav imetak",
+        "Samo kamen iz Mekke"
+      ],
+      "de": [
+        "Nur Gold und Silber",
+        "Nur ehrlich erworbenes Vermögen",
+        "Jegliches Vermögen",
+        "Nur Stein aus Mekka"
+      ]
+    },
+    "correct": {
+      "bs": "Samo pošteno stečen imetak",
+      "de": "Nur ehrlich erworbenes Vermögen"
+    },
+    "explanation": {
+      "bs": "Kurejšije su odlučile graditi Kabu samo sa pošteno stečenim imetkom - bez primjesa kamate, mita, ukradenog i otetog novca. Ebu Vehb bin Amr je ustao i rekao: 'U zidanje Kabe ugrađujte samo svoj pošteno zarađen imetak!'",
+      "de": "Die Quraisch beschlossen, die Kaaba nur mit ehrlich erworbenem Vermögen zu bauen - ohne Beimischung von Zinsen, Bestechung, gestohlenem oder geraubtem Geld. Abu Wahb bin Amr stand auf und sagte: 'Verwendet für den Bau der Kaaba nur euer ehrlich verdientes Vermögen!'"
+    }
+  },
+  {
+    "quiz_id": 3,
+    "question_id": 39,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Crni kamen",
+    "question": {
+      "bs": "Ko je predložio da prva osoba koja uđe na vrata Hrama presudi spor oko Crnog kamena?",
+      "de": "Wer schlug vor, dass die erste Person, die durch das Tor des Heiligtums eintritt, den Streit um den Schwarzen Stein schlichten soll?"
+    },
+    "options": {
+      "bs": [
+        "El-Velid bin Mugire",
+        "Muhammed ﷺ",
+        "Ebu Umejja bin Mugire el-Mahzumij",
+        "Ebu Talib"
+      ],
+      "de": [
+        "Al-Walid bin al-Mughira",
+        "Muhammad ﷺ",
+        "Abu Umajja bin al-Mughira al-Machzumi",
+        "Abu Talib"
+      ]
+    },
+    "correct": {
+      "bs": "Ebu Umejja bin Mugire el-Mahzumij",
+      "de": "Abu Umajja bin al-Mughira al-Machzumi"
+    },
+    "explanation": {
+      "bs": "Kada je nastao spor oko postavljanja Crnog kamena, Ebu Umejja bin Mugire el-Mahzumij, najstariji Kurejšija u to vrijeme, predložio je da presudi prva osoba koja uđe na vrata Hrama. Allah je htio da to bude Poslanik ﷺ.",
+      "de": "Als der Streit um das Einsetzen des Schwarzen Steins entstand, schlug Abu Umajja bin al-Mughira al-Machzumi, der älteste Quraischi zu dieser Zeit, vor, dass die erste Person, die durch das Tor des Heiligtums eintritt, entscheiden soll. Allah wollte, dass es der Prophet ﷺ war."
+    }
+  },
+  {
+    "quiz_id": 3,
+    "question_id": 40,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "source_section": "Crni kamen",
+    "question": {
+      "bs": "Šta su Kurejšije povikale kada su vidjeli Poslanika ﷺ da ulazi na vrata Hrama?",
+      "de": "Was riefen die Quraisch, als sie den Propheten ﷺ durch das Tor des Heiligtums eintreten sahen?"
+    },
+    "options": {
+      "bs": [
+        "Es-Sadik, Es-Sadik!",
+        "El-Kasim, El-Kasim!",
+        "El-Emin, El-Emin!",
+        "Muhammed, Muhammed!"
+      ],
+      "de": [
+        "As-Sadiq, As-Sadiq!",
+        "Al-Qasim, Al-Qasim!",
+        "Al-Amin, Al-Amin!",
+        "Muhammad, Muhammad!"
+      ]
+    },
+    "correct": {
+      "bs": "El-Emin, El-Emin!",
+      "de": "Al-Amin, Al-Amin!"
+    },
+    "explanation": {
+      "bs": "Kada su Kurejšije ugledali Poslanika ﷺ da ulazi, povikali su: 'El-Emin, El-Emin (pouzdan i povjerljiv), zadovoljni smo da on donese presudu, to je Muhammed!' Ovaj nadimak je pokazivao veliko povjerenje koje je uživao.",
+      "de": "Als die Quraisch den Propheten ﷺ eintreten sahen, riefen sie: 'Al-Amin, Al-Amin (der Vertrauenswürdige und Zuverlässige), wir sind zufrieden, dass er entscheidet, das ist Muhammad!' Dieser Beiname zeigte das grosse Vertrauen, das er genoss."
+    }
+  },
+  {
+    "quiz_id": 3,
+    "question_id": 41,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "source_section": "Crni kamen - rješenje",
+    "question": {
+      "bs": "Kako je Poslanik ﷺ riješio spor oko postavljanja Crnog kamena?",
+      "de": "Wie löste der Prophet ﷺ den Streit um das Einsetzen des Schwarzen Steins?"
+    },
+    "options": {
+      "bs": [
+        "Sam ga postavio",
+        "Bacio kocku",
+        "Stavio ga na platno koje su svi zajedno podigli",
+        "Pustio da ga postavi najstariji"
+      ],
+      "de": [
+        "Er setzte ihn selbst ein",
+        "Warf ein Los",
+        "Legte ihn auf ein Tuch, das alle gemeinsam hoben",
+        "Liess ihn vom Ältesten einsetzen"
+      ]
+    },
+    "correct": {
+      "bs": "Stavio ga na platno koje su svi zajedno podigli",
+      "de": "Legte ihn auf ein Tuch, das alle gemeinsam hoben"
+    },
+    "explanation": {
+      "bs": "Poslanik ﷺ je zatražio komad platna, spustio ga na zemlju i na sredinu postavio Crni kamen. Zatim je zatražio da poglavari svih zavađenih plemena uzmu za ćoškove platna i zajedno podignu kamen do njegovog mjesta, a on ga je svojom rukom postavio.",
+      "de": "Der Prophet ﷺ bat um ein Stück Stoff, legte es auf den Boden und platzierte den Schwarzen Stein in der Mitte. Dann bat er die Häuptlinge aller zerstrittenen Stämme, die Ecken des Tuches zu ergreifen und den Stein gemeinsam zu seinem Platz zu heben, und er setzte ihn mit seiner eigenen Hand ein."
+    }
+  },
+  {
+    "quiz_id": 3,
+    "question_id": 42,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Dimenzije Kabe",
+    "question": {
+      "bs": "Kolika je bila visina Kabe nakon obnove od strane Kurejšija?",
+      "de": "Wie hoch war die Kaaba nach dem Wiederaufbau durch die Quraisch?"
+    },
+    "options": {
+      "bs": [
+        "Devet aršina",
+        "Dvadeset metara",
+        "Dvanaest metara",
+        "Petnaest metara"
+      ],
+      "de": [
+        "Neun Ellen",
+        "Zwanzig Meter",
+        "Zwölf Meter",
+        "Fünfzehn Meter"
+      ]
+    },
+    "correct": {
+      "bs": "Petnaest metara",
+      "de": "Fünfzehn Meter"
+    },
+    "explanation": {
+      "bs": "Tom gradnjom Kaba je dostigla visinu od otprilike petnaest metara. Također, dužina zida na kome je Hadžerul-esved (Crni kamen) bila je 10,10 metara, a kamen se nalazi na visini od 1,5 metra od tla.",
+      "de": "Durch diesen Bau erreichte die Kaaba eine Höhe von ungefähr fünfzehn Metern. Ausserdem betrug die Länge der Wand, an der sich der Hadscharul-Aswad (Schwarzer Stein) befindet, 10,10 Meter, und der Stein befindet sich auf einer Höhe von 1,5 Metern über dem Boden."
+    }
+  },
+  {
+    "quiz_id": 3,
+    "question_id": 43,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "source_section": "El-Emin",
+    "question": {
+      "bs": "Šta znači nadimak 'El-Emin' kojim su Kurejšije zvali Poslanika ﷺ?",
+      "de": "Was bedeutet der Beiname 'Al-Amin', mit dem die Quraisch den Propheten ﷺ nannten?"
+    },
+    "options": {
+      "bs": [
+        "Pouzdan i povjerljiv",
+        "Hrabri",
+        "Plemeniti",
+        "Mudri"
+      ],
+      "de": [
+        "Der Vertrauenswürdige und Zuverlässige",
+        "Der Tapfere",
+        "Der Edle",
+        "Der Weise"
+      ]
+    },
+    "correct": {
+      "bs": "Pouzdan i povjerljiv",
+      "de": "Der Vertrauenswürdige und Zuverlässige"
+    },
+    "explanation": {
+      "bs": "Nadimak 'El-Emin' znači 'pouzdan i povjerljiv'. Poslanik ﷺ je zadobio ovaj nadimak zbog svoje iskrenosti, čestitosti i čuvanja emaneta (povjerenog). Njegov narod ga je prozvao ovim imenom još prije poslanstva.",
+      "de": "Der Beiname 'Al-Amin' bedeutet 'der Vertrauenswürdige und Zuverlässige'. Der Prophet ﷺ erhielt diesen Beinamen wegen seiner Aufrichtigkeit, Ehrenhaftigkeit und Bewahrung des Anvertrauten. Sein Volk nannte ihn so schon vor dem Prophetentum."
+    }
+  },
+  {
+    "quiz_id": 3,
+    "question_id": 44,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Osobine Poslanika",
+    "question": {
+      "bs": "Kako je Hatidža r.a. opisala Poslanika ﷺ?",
+      "de": "Wie beschrieb Chadidscha r.a. den Propheten ﷺ?"
+    },
+    "options": {
+      "bs": [
+        "Bogat trgovac i učenjak",
+        "Hrabar ratnik i vođa",
+        "Liječnik i mudrac",
+        "Snosi teret, stječe za siromahe, gostoljubiv i pomaže one koji zastupaju istinu"
+      ],
+      "de": [
+        "Ein reicher Händler und Gelehrter",
+        "Ein tapferer Krieger und Anführer",
+        "Ein Arzt und Weiser",
+        "Trägt Lasten, erwirbt für die Armen, ist gastfreundlich und hilft denen, die für die Wahrheit eintreten"
+      ]
+    },
+    "correct": {
+      "bs": "Snosi teret, stječe za siromahe, gostoljubiv i pomaže one koji zastupaju istinu",
+      "de": "Trägt Lasten, erwirbt für die Armen, ist gastfreundlich und hilft denen, die für die Wahrheit eintreten"
+    },
+    "explanation": {
+      "bs": "Hatidža r.a. je ovako opisala Poslanika ﷺ: 'Snosi teret (pomažući siročad), stječe za siromahe, gostoljubiv je i pomaže one koji zastupaju istinu.' Ove riječi je izrekla kada ga je tješila nakon prve objave.",
+      "de": "Chadidscha r.a. beschrieb den Propheten ﷺ so: 'Er trägt Lasten (hilft Waisen), erwirbt für die Armen, ist gastfreundlich und hilft denen, die für die Wahrheit eintreten.' Diese Worte sprach sie, als sie ihn nach der ersten Offenbarung tröstete."
+    }
+  },
+  {
+    "quiz_id": 3,
+    "question_id": 45,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Vereka bin Nevfel",
+    "question": {
+      "bs": "Šta je Vereka bin Nevfel rekao Hatidži kada mu je ispričala o znakovima poslanstva?",
+      "de": "Was sagte Waraka bin Naufal zu Chadidscha, als sie ihm von den Zeichen des Prophetentums erzählte?"
+    },
+    "options": {
+      "bs": [
+        "Da treba čekati i vidjeti",
+        "Da to nije ništa posebno",
+        "Da je Muhammed poslanik ovoga naroda",
+        "Da je Muhammed lud"
+      ],
+      "de": [
+        "Dass man warten und sehen sollte",
+        "Dass es nichts Besonderes sei",
+        "Dass Muhammad der Prophet dieses Volkes sei",
+        "Dass Muhammad verrückt sei"
+      ]
+    },
+    "correct": {
+      "bs": "Da je Muhammed poslanik ovoga naroda",
+      "de": "Dass Muhammad der Prophet dieses Volkes sei"
+    },
+    "explanation": {
+      "bs": "Vereka bin Nevfel, Hatidžin amidžić koji je bio kršćanin i poznavao Svete knjige, rekao je: 'Ako je to istina, Hatidža, onda je Muhammed poslanik ovoga naroda! Ja sam saznao da će se u ovom narodu pojaviti poslanik.'",
+      "de": "Waraka bin Naufal, Chadidschas Cousin, der Christ war und die Heiligen Schriften kannte, sagte: 'Wenn das wahr ist, Chadidscha, dann ist Muhammad der Prophet dieses Volkes! Ich habe erfahren, dass in diesem Volk ein Prophet erscheinen wird.'"
+    }
+  },
+  {
+    "quiz_id": 3,
+    "question_id": 46,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Vereka bin Nevfel",
+    "question": {
+      "bs": "Koje je vjersko opredjeljenje imao Vereka bin Nevfel?",
+      "de": "Welche religiöse Überzeugung hatte Waraka bin Naufal?"
+    },
+    "options": {
+      "bs": [
+        "Bio je kršćanin",
+        "Bio je jevrej",
+        "Bio je idolopoklonik",
+        "Bio je hanif"
+      ],
+      "de": [
+        "Er war Christ",
+        "Er war Jude",
+        "Er war Götzendiener",
+        "Er war Hanif"
+      ]
+    },
+    "correct": {
+      "bs": "Bio je kršćanin",
+      "de": "Er war Christ"
+    },
+    "explanation": {
+      "bs": "Vereka bin Nevfel je bio Hatidžin amidžić koji je u predislamsko doba primio kršćanstvo. Znao je pisati na hebrejskom i prepisivao je Indžil (Evanđelje). Bio je temeljito upućen u kršćansko učenje.",
+      "de": "Waraka bin Naufal war Chadidschas Cousin, der in vorislamischer Zeit das Christentum angenommen hatte. Er konnte Hebräisch schreiben und kopierte das Indschil (Evangelium). Er war gründlich in die christliche Lehre eingeweiht."
+    }
+  },
+  {
+    "quiz_id": 3,
+    "question_id": 47,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Vereka bin Nevfel",
+    "question": {
+      "bs": "Šta je Vereka rekao o meleku koji je došao Poslaniku ﷺ?",
+      "de": "Was sagte Waraka über den Engel, der zum Propheten ﷺ kam?"
+    },
+    "options": {
+      "bs": [
+        "Da je to običan melek",
+        "Da je to Mikail",
+        "Da ne zna ko je to",
+        "Da je to isti melek koji je dolazio Musau a.s."
+      ],
+      "de": [
+        "Dass es ein gewöhnlicher Engel sei",
+        "Dass es Mikail sei",
+        "Dass er nicht wisse, wer es sei",
+        "Dass es derselbe Engel sei, der zu Musa a.s. kam"
+      ]
+    },
+    "correct": {
+      "bs": "Da je to isti melek koji je dolazio Musau a.s.",
+      "de": "Dass es derselbe Engel sei, der zu Musa a.s. kam"
+    },
+    "explanation": {
+      "bs": "Vereka je rekao: 'Ovo je bio Božiji povjerenik kojeg je Allah poslao i Musau.' Mislio je na meleka Džibrila koji je donosio objavu svim poslanicima. Vereka je prepoznao znakove poslanstva iz svojih proučavanja Svetih knjiga.",
+      "de": "Waraka sagte: 'Dies war der Vertraute Gottes, den Allah auch zu Musa sandte.' Er meinte den Engel Dschibril, der allen Propheten die Offenbarung brachte. Waraka erkannte die Zeichen des Prophetentums aus seinen Studien der Heiligen Schriften."
+    }
+  },
+  {
+    "quiz_id": 3,
+    "question_id": 48,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Period prije poslanstva",
+    "question": {
+      "bs": "Šta Poslanik ﷺ nikada nije pio niti jeo?",
+      "de": "Was hat der Prophet ﷺ nie getrunken oder gegessen?"
+    },
+    "options": {
+      "bs": [
+        "Meso i mlijeko",
+        "Alkohol i meso zaklano na žrtveniku",
+        "Med i hurme",
+        "Ribu i morske plodove"
+      ],
+      "de": [
+        "Fleisch und Milch",
+        "Alkohol und Fleisch, das auf Götzenaltären geschlachtet wurde",
+        "Honig und Datteln",
+        "Fisch und Meeresfrüchte"
+      ]
+    },
+    "correct": {
+      "bs": "Alkohol i meso zaklano na žrtveniku",
+      "de": "Alkohol und Fleisch, das auf Götzenaltären geschlachtet wurde"
+    },
+    "explanation": {
+      "bs": "Poslanik ﷺ nikada nije pio alkohol, niti jeo meso zaklano na žrtveniku idola. Također nije praznovao kumirske blagdane ni svečanosti. Bio je prvi koji je bježao od svakog širka ili mnogoboštva.",
+      "de": "Der Prophet ﷺ trank nie Alkohol und ass kein Fleisch, das auf Götzenaltären geschlachtet wurde. Er feierte auch keine Götzenfeste oder Feierlichkeiten. Er war der Erste, der vor jeglichem Schirk oder Polytheismus floh."
+    }
+  },
+  {
+    "quiz_id": 3,
+    "question_id": 49,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Period prije poslanstva",
+    "question": {
+      "bs": "Šta je Poslanik ﷺ najviše mrzio od idola?",
+      "de": "Welche Götzen hasste der Prophet ﷺ am meisten?"
+    },
+    "options": {
+      "bs": [
+        "Lat i Uzza",
+        "Vedd i Suva",
+        "Hubel i Menat",
+        "Isaf i Naila"
+      ],
+      "de": [
+        "Lat und Uzza",
+        "Wadd und Suwa",
+        "Hubal und Manat",
+        "Isaf und Naila"
+      ]
+    },
+    "correct": {
+      "bs": "Lat i Uzza",
+      "de": "Lat und Uzza"
+    },
+    "explanation": {
+      "bs": "Poslanik ﷺ nije mogao otrpjeti kada bi čuo da se neko kune kumirima Latom i Uzzom. Ova dva idola su bila među najpopularnijim božanstvima kod predislamskih Arapa, ali ih je Poslanik ﷺ najviše prezirao.",
+      "de": "Der Prophet ﷺ konnte es nicht ertragen, wenn jemand bei den Götzen Lat und Uzza schwor. Diese beiden Götzen gehörten zu den beliebtesten Gottheiten bei den vorislamischen Arabern, aber der Prophet ﷺ verachtete sie am meisten."
+    }
+  },
+  {
+    "quiz_id": 3,
+    "question_id": 50,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Božanska zaštita",
+    "question": {
+      "bs": "Koliko puta je Allah zaštitio mladog Muhammeda ﷺ od grijeha koje su činili predislamski Arapi?",
+      "de": "Wie oft beschützte Allah den jungen Muhammad ﷺ vor Sünden, die die vorislamischen Araber begingen?"
+    },
+    "options": {
+      "bs": [
+        "Jedanput",
+        "Tri puta",
+        "Nikada nije bio u iskušenju",
+        "Dva puta"
+      ],
+      "de": [
+        "Einmal",
+        "Dreimal",
+        "Er war nie in Versuchung",
+        "Zweimal"
+      ]
+    },
+    "correct": {
+      "bs": "Dva puta",
+      "de": "Zweimal"
+    },
+    "explanation": {
+      "bs": "Poslanik ﷺ je rekao: 'Nisam nikada bio zainteresiran da činim ono što su činili predislamski Arapi, osim u dva slučaja, i u oba mi je Allah našao izlaz iz situacije.' Oba puta je htio otići na sijelo, ali ga je Allah učinio da zaspi i zaštitio od grijeha.",
+      "de": "Der Prophet ﷺ sagte: 'Ich war nie daran interessiert, das zu tun, was die vorislamischen Araber taten, ausser in zwei Fällen, und in beiden fand Allah einen Ausweg für mich.' Beide Male wollte er zu einer Gesellschaft gehen, aber Allah liess ihn einschlafen und schützte ihn vor der Sünde."
+    }
+  },
+  {
+    "quiz_id": 3,
+    "question_id": 51,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Izgled Poslanika",
+    "question": {
+      "bs": "Ko je najčešće opisivao fizički izgled Poslanika ﷺ?",
+      "de": "Wer beschrieb am häufigsten das körperliche Erscheinungsbild des Propheten ﷺ?"
+    },
+    "options": {
+      "bs": [
+        "Ebu Bekr",
+        "Omer",
+        "Alija bin Ebi Talib",
+        "Ibn Abbas"
+      ],
+      "de": [
+        "Abu Bakr",
+        "Umar",
+        "Ali bin Abi Talib",
+        "Ibn Abbas"
+      ]
+    },
+    "correct": {
+      "bs": "Alija bin Ebi Talib",
+      "de": "Ali bin Abi Talib"
+    },
+    "explanation": {
+      "bs": "Alija bin Ebi Talib r.a. je bio poznat po tome što je najdetaljnije opisivao fizički izgled Poslanika ﷺ. Njegov opis je sačuvan u mnogim hadiskim zbirkama i smatra se jednim od najpouzdanijih izvora.",
+      "de": "Ali bin Abi Talib r.a. war dafür bekannt, dass er das körperliche Erscheinungsbild des Propheten ﷺ am detailliertesten beschrieb. Seine Beschreibung ist in vielen Hadith-Sammlungen erhalten und gilt als eine der zuverlässigsten Quellen."
+    }
+  },
+  {
+    "quiz_id": 3,
+    "question_id": 52,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Izgled Poslanika",
+    "question": {
+      "bs": "Kakav je bio rast Poslanika ﷺ prema Alijinom opisu?",
+      "de": "Wie war die Statur des Propheten ﷺ laut Alis Beschreibung?"
+    },
+    "options": {
+      "bs": [
+        "Vrlo nizak",
+        "Osrednjeg rasta",
+        "Izuzetno krupan",
+        "Vrlo visok"
+      ],
+      "de": [
+        "Sehr klein",
+        "Mittlerer Statur",
+        "Aussergewöhnlich kräftig",
+        "Sehr gross"
+      ]
+    },
+    "correct": {
+      "bs": "Osrednjeg rasta",
+      "de": "Mittlerer Statur"
+    },
+    "explanation": {
+      "bs": "Prema Alijinom opisu, Poslanik ﷺ 'nije bio ni previše visok, ni previše nizak, već osrednjeg rasta.' Također, 'nije imao ni previše kovrčavu, a ni sasvim opuštenu kosu, već onako valovitu.'",
+      "de": "Laut Alis Beschreibung war der Prophet ﷺ 'weder zu gross noch zu klein, sondern von mittlerer Statur.' Ausserdem 'hatte er weder zu lockiges noch ganz glattes Haar, sondern welliges.'"
+    }
+  },
+  {
+    "quiz_id": 3,
+    "question_id": 53,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Pečat poslanstva",
+    "question": {
+      "bs": "Gdje se nalazio pečat poslanstva na tijelu Poslanika ﷺ?",
+      "de": "Wo befand sich das Siegel des Prophetentums am Körper des Propheten ﷺ?"
+    },
+    "options": {
+      "bs": [
+        "Na desnoj ruci",
+        "Među plećkama",
+        "Na čelu",
+        "Na prsima"
+      ],
+      "de": [
+        "Auf der rechten Hand",
+        "Zwischen den Schulterblättern",
+        "Auf der Stirn",
+        "Auf der Brust"
+      ]
+    },
+    "correct": {
+      "bs": "Među plećkama",
+      "de": "Zwischen den Schulterblättern"
+    },
+    "explanation": {
+      "bs": "Pečat poslanstva se nalazio među plećkama Poslanika ﷺ. To je bio fizički znak koji su prepoznali i isposnik Behira u Busri i isposnik Nestura na putovanju u Šam. Bio je to jedan od znakova poslanstva najavljen u ranijim Svetim knjigama.",
+      "de": "Das Siegel des Prophetentums befand sich zwischen den Schulterblättern des Propheten ﷺ. Dies war ein physisches Zeichen, das sowohl der Eremit Bahira in Busra als auch der Eremit Nestura auf der Reise nach Syrien erkannten. Es war eines der in früheren Heiligen Schriften angekündigten Zeichen des Prophetentums."
+    }
+  },
+  {
+    "quiz_id": 3,
+    "question_id": 54,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Osobine Poslanika",
+    "question": {
+      "bs": "Kako je Alija r.a. opisao hod Poslanika ﷺ?",
+      "de": "Wie beschrieb Ali r.a. den Gang des Propheten ﷺ?"
+    },
+    "options": {
+      "bs": [
+        "Hodao je na prstima",
+        "Koračao je čvrsto i polagano",
+        "Koračao je brzo i odsječno",
+        "Hodao je kao da ide nizbrdo"
+      ],
+      "de": [
+        "Er ging auf Zehenspitzen",
+        "Er schritt fest und langsam",
+        "Er schritt schnell und abgehackt",
+        "Er ging, als ob er bergab ginge"
+      ]
+    },
+    "correct": {
+      "bs": "Hodao je kao da ide nizbrdo",
+      "de": "Er ging, als ob er bergab ginge"
+    },
+    "explanation": {
+      "bs": "Alija r.a. je opisao da Poslanik ﷺ 'kad je hodao nije koračao čvrsto, već kao da ide nizbrdo.' Također je napomenuo da 'kad bi se okrenuo, okrenuo bi se cijelim tijelom', što pokazuje njegovu dostojanstvenost.",
+      "de": "Ali r.a. beschrieb, dass der Prophet ﷺ 'beim Gehen nicht fest schritt, sondern als ob er bergab ginge.' Er bemerkte auch, dass 'er sich mit seinem ganzen Körper drehte, wenn er sich umdrehte', was seine Würde zeigt."
+    }
+  },
+  {
+    "quiz_id": 3,
+    "question_id": 55,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Osobine Poslanika",
+    "question": {
+      "bs": "Koje su bile najistaknutije osobine Poslanika ﷺ prema Alijinom opisu?",
+      "de": "Welche waren die herausragendsten Eigenschaften des Propheten ﷺ laut Alis Beschreibung?"
+    },
+    "options": {
+      "bs": [
+        "Najdareživiji, najsrčaniji, najiskrenije, najpouzdaniji",
+        "Najbogatiji, najmoćniji, najslavniji",
+        "Najtiši, najskromniji, najsramežljiviji",
+        "Najhrabriji, najjači, najpametniji"
+      ],
+      "de": [
+        "Am grosszügigsten, am herzlichsten, am aufrichtigsten, am vertrauenswürdigsten",
+        "Am reichsten, am mächtigsten, am berühmtesten",
+        "Am leisesten, am bescheidensten, am schüchternsten",
+        "Am tapfersten, am stärksten, am klügsten"
+      ]
+    },
+    "correct": {
+      "bs": "Najdareživiji, najsrčaniji, najiskrenije, najpouzdaniji",
+      "de": "Am grosszügigsten, am herzlichsten, am aufrichtigsten, am vertrauenswürdigsten"
+    },
+    "explanation": {
+      "bs": "Alija r.a. je opisao Poslanika ﷺ kao 'najdarežljivijeg čovjeka, najsrčanijeg, naiskrenijeg, najpouzdanijeg, najblaže naravi i najljepšeg ophođenja.' Rekao je da bi ga svako ko bi ga prvi put vidio osjetio poštovanje, a ko bi se s njim počeo družiti - zavolio bi ga.",
+      "de": "Ali r.a. beschrieb den Propheten ﷺ als 'den grosszügigsten Menschen, am herzlichsten, am aufrichtigsten, am vertrauenswürdigsten, von sanftester Art und von schönstem Umgang.' Er sagte, dass jeder, der ihn zum ersten Mal sah, Respekt vor ihm empfand, und wer begann, sich mit ihm zu treffen, ihn lieben würde."
+    }
+  },
+  {
+    "quiz_id": 3,
+    "question_id": 56,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Gradnja Kabe",
+    "question": {
+      "bs": "Pet godina prije poslanstva, Kabu je splakala poplava nakon pucanja brane Arem.",
+      "de": "Fünf Jahre vor dem Prophetentum wurde die Kaaba durch eine Überschwemmung nach dem Bruch des Arem-Dammes überflutet."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Pet godina prije Poslanikovog ﷺ poslanstva, Kabu je splakala poplava nakon pucanja brane Arem. Kurejšije su se uplašile da će se Kaba srušiti, pa su odlučile da je obnove čuvajući njene temelje i prvobitno mjesto.",
+      "de": "Fünf Jahre vor dem Prophetentum des Propheten ﷺ wurde die Kaaba durch eine Überschwemmung nach dem Bruch des Arem-Dammes überflutet. Die Quraisch fürchteten, dass die Kaaba einstürzen würde, und beschlossen, sie wieder aufzubauen, wobei sie ihre Fundamente und ihren ursprünglichen Standort bewahrten."
+    }
+  },
+  {
+    "quiz_id": 3,
+    "question_id": 57,
+    "type": "true_false",
+    "difficulty": "hard",
+    "source_section": "Gradnja Kabe",
+    "question": {
+      "bs": "Kurejšijama je ponestalo čistog imetka za gradnju Kabe, pa je sjeverni zid (Hatim) ostao kraći.",
+      "de": "Den Quraisch ging das reine Vermögen für den Bau der Kaaba aus, sodass die nördliche Mauer (Hatim) kürzer blieb."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Kurejšijama je ponestalo čistog (halal) imetka za gradnju, pa sa sjeverne strane izgradiše zid visok šest aršina, danas zvani Hatim-zid ili Kameni zid. Vrata na Kabi su uzdigli od zemlje da ne može bilo ko ući.",
+      "de": "Den Quraisch ging das reine (halal) Vermögen für den Bau aus, sodass sie auf der Nordseite eine sechs Ellen hohe Mauer errichteten, die heute Hatim-Mauer oder Steinmauer genannt wird. Sie erhoben die Tür der Kaaba vom Boden, damit nicht jeder eintreten konnte."
+    }
+  },
+  {
+    "quiz_id": 3,
+    "question_id": 58,
+    "type": "true_false",
+    "difficulty": "easy",
+    "source_section": "Poslanikove osobine",
+    "question": {
+      "bs": "Poslanik ﷺ je u mladosti volio samoću i razmišljanje.",
+      "de": "Der Prophet ﷺ liebte in seiner Jugend die Einsamkeit und das Nachdenken."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Poslanik ﷺ je u mladosti volio samoću, koju je provodio u časovima razmišljanja i traganja za pravdom. Razmišljao je o prirodi, njenim ljepotama, prirodnim zakonima, o čovjeku i o vjeri svog naroda.",
+      "de": "Der Prophet ﷺ liebte in seiner Jugend die Einsamkeit, die er in Stunden des Nachdenkens und der Suche nach Gerechtigkeit verbrachte. Er dachte über die Natur, ihre Schönheiten, die Naturgesetze, über den Menschen und über die Religion seines Volkes nach."
+    }
+  },
+  {
+    "quiz_id": 3,
+    "question_id": 59,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Poslanikove osobine",
+    "question": {
+      "bs": "Poslanik ﷺ je u predislamsko doba učestvovao u kumirskim blagdanima i svečanostima.",
+      "de": "Der Prophet ﷺ nahm in vorislamischer Zeit an Götzenfesten und Feierlichkeiten teil."
+    },
+    "correct": false,
+    "explanation": {
+      "bs": "Poslanik ﷺ nikada nije praznovao kumirske blagdane ni svečanosti. Bio je prvi koji je bježao od svakog širka ili mnogoboštva. Čak i prije poslanstva, on je bio zaštićen od takvih praksi Allahovom odredbom.",
+      "de": "Der Prophet ﷺ feierte nie Götzenfeste oder Feierlichkeiten. Er war der Erste, der vor jeglichem Schirk oder Polytheismus floh. Selbst vor dem Prophetentum war er durch Allahs Bestimmung vor solchen Praktiken geschützt."
+    }
+  },
+  {
+    "quiz_id": 3,
+    "question_id": 60,
+    "type": "true_false",
+    "difficulty": "hard",
+    "source_section": "Nagovještaj poslanstva",
+    "question": {
+      "bs": "Prije poslanstva, svaki kamen i drvo pored kojeg bi Poslanik ﷺ prošao bi mu govorilo: 'Mir neka je na tebe, Božiji poslaniče!'",
+      "de": "Vor dem Prophetentum sagte jeder Stein und jeder Baum, an dem der Prophet ﷺ vorbeiging, zu ihm: 'Friede sei auf dir, Gesandter Gottes!'"
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Prije poslanstva, izvjesno vrijeme Poslanik ﷺ je odlazio daleko od naselja, u klance i doline Mekke. Tada mu je svaki kamen i svako drvo pored kojeg je prolazio govorilo: 'Mir neka je na tebe, Božiji poslaniče!' On se okretao, ali je vidjeo samo drveće i kamenje.",
+      "de": "Vor dem Prophetentum ging der Prophet ﷺ eine Zeit lang weit weg von den Siedlungen, in die Schluchten und Täler Mekkas. Dann sagte jeder Stein und jeder Baum, an dem er vorbeiging, zu ihm: 'Friede sei auf dir, Gesandter Gottes!' Er drehte sich um, sah aber nur Bäume und Steine."
+    }
+  },
+  {
+    "quiz_id": 3,
+    "question_id": 61,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Peć Hira",
+    "question": {
+      "bs": "Poslanik ﷺ se osamljivao u pećini Hira na brdu Nur, udaljenom od Mekke oko dvije milje.",
+      "de": "Der Prophet ﷺ zog sich in die Höhle Hira auf dem Berg Nur zurück, etwa zwei Meilen von Mekka entfernt."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Kada se Poslanik ﷺ približio četrdesetoj godini života, zavolio je samoću. Ponio bi hranu i vodu i odlazio u pećinu Hira na brdu Nur, udaljenom od Mekke oko dvije milje. Tu bi provodio vrijeme u ibadetu i razmišljanju.",
+      "de": "Als der Prophet ﷺ sich dem vierzigsten Lebensjahr näherte, liebte er die Einsamkeit. Er nahm Essen und Wasser mit und ging zur Höhle Hira auf dem Berg Nur, etwa zwei Meilen von Mekka entfernt. Dort verbrachte er Zeit in Anbetung und Nachdenken."
+    }
+  },
+  {
+    "quiz_id": 3,
+    "question_id": 62,
+    "type": "true_false",
+    "difficulty": "hard",
+    "source_section": "Peć Hira",
+    "question": {
+      "bs": "Pećina Hira je duga četiri aršina, a široka jedan aršin i tri četvrtine.",
+      "de": "Die Höhle Hira ist vier Ellen lang und eineinhalb Ellen breit."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Pećina Hira na brdu Nur je jedna lijepa pećina, duga četiri aršina, a široka jedan aršin i tri četvrtine. Poslanik ﷺ bi provodio mjesec ramazan u toj pećini, a u međuvremenu bi nahranio siromaha ako bi tim putem naišao.",
+      "de": "Die Höhle Hira auf dem Berg Nur ist eine schöne Höhle, vier Ellen lang und eineinhalb Ellen breit. Der Prophet ﷺ verbrachte den Monat Ramadan in dieser Höhle und speiste in der Zwischenzeit jeden Armen, der vorbeikam."
+    }
+  },
+  {
+    "quiz_id": 3,
+    "question_id": 63,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Osamljivanje",
+    "question": {
+      "bs": "Allah je pripremao Poslanika ﷺ tri godine u pećini Hira prije prve objave.",
+      "de": "Allah bereitete den Propheten ﷺ drei Jahre lang in der Höhle Hira vor der ersten Offenbarung vor."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Allah je pripremao Muhameda ﷺ tri godine u tišini i osami brda Nur, u pećini Hira. Pripremao ga je da na svojim plećima ponese najveći emanet čovječanstvu, emanet koji će promijeniti lice zemlje i uravnotežiti historiju.",
+      "de": "Allah bereitete Muhammad ﷺ drei Jahre lang in der Stille und Einsamkeit des Berges Nur, in der Höhle Hira, vor. Er bereitete ihn darauf vor, das grösste Anvertrauen für die Menschheit auf seinen Schultern zu tragen, ein Anvertrauen, das das Antlitz der Erde verändern und die Geschichte ausgleichen würde."
+    }
+  },
+  {
+    "quiz_id": 3,
+    "question_id": 64,
+    "type": "multiple_choice",
+    "difficulty": "medium",
+    "source_section": "Hilful-fudul",
+    "question": {
+      "bs": "Koje porodice su bile inicijatori Ugovora o dostojanstvu (Hilful-fudul)? (Odaberi sve tačne)",
+      "de": "Welche Familien waren die Initiatoren des Würdebundes (Hilful-Fudul)? (Wähle alle richtigen)"
+    },
+    "options": {
+      "bs": [
+        "Benu Hašim",
+        "Zehra bin Kilab",
+        "Benu Umejje",
+        "Benu Muttalib"
+      ],
+      "de": [
+        "Banu Haschim",
+        "Zuhra bin Kilab",
+        "Banu Umajja",
+        "Banu Muttalib"
+      ]
+    },
+    "correct": {
+      "bs": [
+        "Benu Hašim",
+        "Benu Muttalib",
+        "Zehra bin Kilab"
+      ],
+      "de": [
+        "Banu Haschim",
+        "Banu Muttalib",
+        "Zuhra bin Kilab"
+      ]
+    },
+    "explanation": {
+      "bs": "Inicijatori Ugovora o dostojanstvu bili su: Benu Hašim, Benu Muttalib, Esed bin Abdul-Uzza, Zehra bin Kilab i Tejm bin Murre. Benu Umejje nisu bili među inicijatorima ovog saveza za zaštitu ugnjetenih.",
+      "de": "Die Initiatoren des Würdebundes waren: Banu Haschim, Banu Muttalib, Asad bin Abdul-Uzza, Zuhra bin Kilab und Taim bin Murra. Die Banu Umajja gehörten nicht zu den Initiatoren dieses Bundes zum Schutz der Unterdrückten."
+    }
+  },
+  {
+    "quiz_id": 3,
+    "question_id": 65,
+    "type": "multiple_choice",
+    "difficulty": "hard",
+    "source_section": "Poslanikova djeca",
+    "question": {
+      "bs": "Koja djeca Poslanika ﷺ su umrla prije početka njegovog poslanstva? (Odaberi sve tačne)",
+      "de": "Welche Kinder des Propheten ﷺ starben vor Beginn seines Prophetentums? (Wähle alle richtigen)"
+    },
+    "options": {
+      "bs": [
+        "Kasim",
+        "Tahir/Tajjib (Abdullah)",
+        "Zejneba",
+        "Ibrahim"
+      ],
+      "de": [
+        "Qasim",
+        "Tahir/Tajjib (Abdullah)",
+        "Zainab",
+        "Ibrahim"
+      ]
+    },
+    "correct": {
+      "bs": [
+        "Kasim",
+        "Tahir/Tajjib (Abdullah)"
+      ],
+      "de": [
+        "Qasim",
+        "Tahir/Tajjib (Abdullah)"
+      ]
+    },
+    "explanation": {
+      "bs": "Kasim, Tajjib i Tahir (nadimci za Abdullaha) su umrli prije Poslanikovog ﷺ poslanstva (fi-l-džahilijje), dok su mu sve kćerke dočekale islam. Ibrahim je rođen nakon poslanstva od Marije Koptkinje.",
+      "de": "Qasim, Tajjib und Tahir (Beinamen für Abdullah) starben vor dem Prophetentum des Propheten ﷺ (in der Dschahiliyya), während alle seine Töchter den Islam erlebten. Ibrahim wurde nach dem Prophetentum von Maria der Koptin geboren."
+    }
+  },
+  {
+    "quiz_id": 3,
+    "question_id": 66,
+    "type": "multiple_choice",
+    "difficulty": "easy",
+    "source_section": "Poslanikova djeca",
+    "question": {
+      "bs": "Koje su kćerke Poslanika ﷺ? (Odaberi sve tačne)",
+      "de": "Welche sind die Töchter des Propheten ﷺ? (Wähle alle richtigen)"
+    },
+    "options": {
+      "bs": [
+        "Zejneba",
+        "Rukajja",
+        "Aiša",
+        "Ummu Kulsum"
+      ],
+      "de": [
+        "Zainab",
+        "Ruqajja",
+        "Aischa",
+        "Umm Kulthum"
+      ]
+    },
+    "correct": {
+      "bs": [
+        "Zejneba",
+        "Rukajja",
+        "Ummu Kulsum"
+      ],
+      "de": [
+        "Zainab",
+        "Ruqajja",
+        "Umm Kulthum"
+      ]
+    },
+    "explanation": {
+      "bs": "Poslanik ﷺ je imao četiri kćerke: Zejnebu, Rukajju, Ummu Kulsum i Fatimu. Aiša r.a. je bila supruga Poslanika ﷺ, a ne njegova kćerka. Sve četiri kćerke je rodila Hatidža r.a.",
+      "de": "Der Prophet ﷺ hatte vier Töchter: Zainab, Ruqajja, Umm Kulthum und Fatima. Aischa r.a. war die Ehefrau des Propheten ﷺ, nicht seine Tochter. Alle vier Töchter wurden von Chadidscha r.a. geboren."
+    }
+  },
+  {
+    "quiz_id": 3,
+    "question_id": 67,
+    "type": "multiple_choice",
+    "difficulty": "hard",
+    "source_section": "Znakovi poslanstva na putu u Šam",
+    "question": {
+      "bs": "Šta je Mejsera svjedočio od znakova poslanstva na putovanju u Šam? (Odaberi sve tačne)",
+      "de": "Was bezeugte Maisara von den Zeichen des Prophetentums auf der Reise nach Syrien? (Wähle alle richtigen)"
+    },
+    "options": {
+      "bs": [
+        "Izvor vode pojavio se u pustinji",
+        "Drvo se nadvilo nad Poslanika",
+        "Riječi isposnika Nesture",
+        "Dva meleka prave hlad Poslaniku"
+      ],
+      "de": [
+        "Eine Wasserquelle erschien in der Wüste",
+        "Ein Baum neigte sich über den Propheten",
+        "Die Worte des Eremiten Nestura",
+        "Zwei Engel spenden dem Propheten Schatten"
+      ]
+    },
+    "correct": {
+      "bs": [
+        "Riječi isposnika Nesture",
+        "Dva meleka prave hlad Poslaniku"
+      ],
+      "de": [
+        "Die Worte des Eremiten Nestura",
+        "Zwei Engel spenden dem Propheten Schatten"
+      ]
+    },
+    "explanation": {
+      "bs": "Mejsera je bio svjedok dvaju čudesnih znakova: riječi isposnika Nesture da se pod ono drvo nikad nije spustio niko osim poslanika, i prizora dva meleka koji su u podne, u vrijeme najveće žege, pravili hlad Poslaniku ﷺ dok je jahao na devi.",
+      "de": "Maisara bezeugte zwei wundersame Zeichen: die Worte des Eremiten Nestura, dass sich unter jenen Baum noch nie jemand ausser einem Propheten niedergelassen habe, und den Anblick von zwei Engeln, die mittags, in der grössten Hitze, dem Propheten ﷺ Schatten spendeten, während er auf einem Kamel ritt."
+    }
+  },
+  {
+    "quiz_id": 3,
+    "question_id": 68,
+    "type": "ordering",
+    "difficulty": "medium",
+    "source_section": "Događaji u mladosti",
+    "question": {
+      "bs": "Poredaj sljedeće događaje iz Poslanikove ﷺ mladosti hronološkim redom:",
+      "de": "Ordne die folgenden Ereignisse aus der Jugend des Propheten ﷺ in chronologischer Reihenfolge:"
+    },
+    "options": {
+      "bs": [
+        "Prva objava (40 godina)",
+        "Rat Fidžar (20 godina)",
+        "Trgovačko putovanje u Šam (25 godina)",
+        "Gradnja Kabe (35 godina)"
+      ],
+      "de": [
+        "Erste Offenbarung (40 Jahre)",
+        "Krieg von Fidschar (20 Jahre)",
+        "Handelsreise nach Syrien (25 Jahre)",
+        "Bau der Kaaba (35 Jahre)"
+      ]
+    },
+    "correct": {
+      "bs": [
+        "Rat Fidžar (20 godina)",
+        "Trgovačko putovanje u Šam (25 godina)",
+        "Gradnja Kabe (35 godina)",
+        "Prva objava (40 godina)"
+      ],
+      "de": [
+        "Krieg von Fidschar (20 Jahre)",
+        "Handelsreise nach Syrien (25 Jahre)",
+        "Bau der Kaaba (35 Jahre)",
+        "Erste Offenbarung (40 Jahre)"
+      ]
+    },
+    "explanation": {
+      "bs": "Hronološki redoslijed: Rat Fidžar kada je Poslanik ﷺ imao 20 godina, trgovačko putovanje u Šam za Hatidžu kada je imao 25 godina, gradnja Kabe kada je imao 35 godina, i prva objava u pećini Hira kada je imao 40 godina.",
+      "de": "Chronologische Reihenfolge: Krieg von Fidschar, als der Prophet ﷺ 20 Jahre alt war, Handelsreise nach Syrien für Chadidscha, als er 25 Jahre alt war, Bau der Kaaba, als er 35 Jahre alt war, und erste Offenbarung in der Höhle Hira, als er 40 Jahre alt war."
+    }
+  },
+  {
+    "quiz_id": 3,
+    "question_id": 69,
+    "type": "ordering",
+    "difficulty": "hard",
+    "source_section": "Ženidba Hatidžom",
+    "question": {
+      "bs": "Poredaj događaje vezane za ženidbu s Hatidžom po redoslijedu:",
+      "de": "Ordne die Ereignisse im Zusammenhang mit der Heirat mit Chadidscha in der richtigen Reihenfolge:"
+    },
+    "options": {
+      "bs": [
+        "Hatidža angažuje Poslanika za trgovinu",
+        "Amidža Hamza odlazi zaprositi Hatidžu",
+        "Hatidžina ponuda braka",
+        "Putovanje u Šam s Mejserom"
+      ],
+      "de": [
+        "Chadidscha engagiert den Propheten für den Handel",
+        "Onkel Hamza geht, um Chadidscha zu umwerben",
+        "Chadidschas Heiratsangebot",
+        "Reise nach Syrien mit Maisara"
+      ]
+    },
+    "correct": {
+      "bs": [
+        "Hatidža angažuje Poslanika za trgovinu",
+        "Putovanje u Šam s Mejserom",
+        "Hatidžina ponuda braka",
+        "Amidža Hamza odlazi zaprositi Hatidžu"
+      ],
+      "de": [
+        "Chadidscha engagiert den Propheten für den Handel",
+        "Reise nach Syrien mit Maisara",
+        "Chadidschas Heiratsangebot",
+        "Onkel Hamza geht, um Chadidscha zu umwerben"
+      ]
+    },
+    "explanation": {
+      "bs": "Redoslijed: Hatidža je čula za Poslanikove ﷺ vrline i angažovala ga za trgovinu, zatim je uslijedilo putovanje u Šam s Mejserom, nakon povratka Hatidža mu je ponudila brak, a potom je Poslanikov amidža Hamza otišao zaprositi Hatidžu kod njene porodice.",
+      "de": "Reihenfolge: Chadidscha hörte von den Tugenden des Propheten ﷺ und engagierte ihn für den Handel, dann folgte die Reise nach Syrien mit Maisara, nach der Rückkehr bot ihm Chadidscha die Ehe an, und dann ging der Onkel des Propheten, Hamza, um Chadidscha bei ihrer Familie zu umwerben."
+    }
+  },
+  {
+    "quiz_id": 3,
+    "question_id": 70,
+    "type": "ordering",
+    "difficulty": "medium",
+    "source_section": "Gradnja Kabe",
+    "question": {
+      "bs": "Poredaj događaje vezane za obnovu Kabe:",
+      "de": "Ordne die Ereignisse im Zusammenhang mit dem Wiederaufbau der Kaaba:"
+    },
+    "options": {
+      "bs": [
+        "Poplava oštećuje Kabu",
+        "Spor oko postavljanja Crnog kamena",
+        "Poslanik ﷺ stavlja Crni kamen na platno",
+        "El-Velid prvi ruši stare zidove"
+      ],
+      "de": [
+        "Überschwemmung beschädigt die Kaaba",
+        "Streit um das Einsetzen des Schwarzen Steins",
+        "Der Prophet ﷺ legt den Schwarzen Stein auf ein Tuch",
+        "Al-Walid reisst als Erster die alten Mauern ab"
+      ]
+    },
+    "correct": {
+      "bs": [
+        "Poplava oštećuje Kabu",
+        "El-Velid prvi ruši stare zidove",
+        "Spor oko postavljanja Crnog kamena",
+        "Poslanik ﷺ stavlja Crni kamen na platno"
+      ],
+      "de": [
+        "Überschwemmung beschädigt die Kaaba",
+        "Al-Walid reisst als Erster die alten Mauern ab",
+        "Streit um das Einsetzen des Schwarzen Steins",
+        "Der Prophet ﷺ legt den Schwarzen Stein auf ein Tuch"
+      ]
+    },
+    "explanation": {
+      "bs": "Redoslijed: Poplava je oštetila Kabu, El-Velid bin Mugire je prvi počeo rušiti stare zidove, zatim je nastao spor među plemenima oko postavljanja Crnog kamena, i na kraju je Poslanik ﷺ riješio spor stavljajući kamen na platno koje su svi zajedno podigli.",
+      "de": "Reihenfolge: Die Überschwemmung beschädigte die Kaaba, Al-Walid bin al-Mughira begann als Erster, die alten Mauern abzureissen, dann entstand ein Streit unter den Stämmen um das Einsetzen des Schwarzen Steins, und schliesslich löste der Prophet ﷺ den Streit, indem er den Stein auf ein Tuch legte, das alle gemeinsam hoben."
+    }
+  },
+  {
+    "quiz_id": 3,
+    "question_id": 71,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Vereka bin Nevfel",
+    "question": {
+      "bs": "Šta je Vereka bin Nevfel predvidio da će se desiti Poslaniku ﷺ?",
+      "de": "Was sagte Waraka bin Naufal voraus, was dem Propheten ﷺ widerfahren würde?"
+    },
+    "options": {
+      "bs": [
+        "Da će ga njegov narod progoniti",
+        "Da će osvojiti cijeli svijet",
+        "Da će postati najbogatiji čovjek",
+        "Da će umrijeti mlad"
+      ],
+      "de": [
+        "Dass sein Volk ihn verfolgen würde",
+        "Dass er die ganze Welt erobern würde",
+        "Dass er der reichste Mann werden würde",
+        "Dass er jung sterben würde"
+      ]
+    },
+    "correct": {
+      "bs": "Da će ga njegov narod progoniti",
+      "de": "Dass sein Volk ihn verfolgen würde"
+    },
+    "explanation": {
+      "bs": "Vereka je rekao: 'Kamo sreće da sam mlađi, da hoću, bogdo, biti živ, kada te tvoj narod bude progonio!' Poslanik ﷺ je upitao: 'Zar će me oni progoniti?' Vereka je odgovorio: 'Da! Znaj da ni jedan, koji je dolazio s ovim kao ti, nije bio bez neprijatelja.'",
+      "de": "Waraka sagte: 'Wenn ich doch jünger wäre, wenn ich doch, so Gott will, noch leben würde, wenn dein Volk dich verfolgt!' Der Prophet ﷺ fragte: 'Werden sie mich verfolgen?' Waraka antwortete: 'Ja! Wisse, dass keiner, der mit diesem kam wie du, ohne Feinde war.'"
+    }
+  },
+  {
+    "quiz_id": 3,
+    "question_id": 72,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Vereka bin Nevfel",
+    "question": {
+      "bs": "Šta je Vereka bin Nevfel obećao Poslaniku ﷺ ako dočeka vrijeme progona?",
+      "de": "Was versprach Waraka bin Naufal dem Propheten ﷺ, wenn er die Zeit der Verfolgung erleben würde?"
+    },
+    "options": {
+      "bs": [
+        "Da će otići u Šam",
+        "Da će mu dati bogatstvo",
+        "Da će se sakriti s njim",
+        "Da će mu svesrdno pomoći"
+      ],
+      "de": [
+        "Dass er nach Syrien gehen würde",
+        "Dass er ihm Reichtum geben würde",
+        "Dass er sich mit ihm verstecken würde",
+        "Dass er ihm von Herzen helfen würde"
+      ]
+    },
+    "correct": {
+      "bs": "Da će mu svesrdno pomoći",
+      "de": "Dass er ihm von Herzen helfen würde"
+    },
+    "explanation": {
+      "bs": "Vereka je rekao: 'Ako dočekam taj dan, svesrdno ću ti pomoći!' Međutim, Vereka je uskoro nakon ovog susreta umro, a Objava je privremeno zastala. Njegova smrt je uslijedila prije početka javnog poziva u islam.",
+      "de": "Waraka sagte: 'Wenn ich diesen Tag erlebe, werde ich dir von Herzen helfen!' Jedoch starb Waraka kurz nach diesem Treffen, und die Offenbarung hielt vorübergehend an. Sein Tod erfolgte vor Beginn des öffentlichen Aufrufs zum Islam."
+    }
+  },
+  {
+    "quiz_id": 3,
+    "question_id": 73,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Osamljivanje pred poslanstvo",
+    "question": {
+      "bs": "U kojem mjesecu bi Poslanik ﷺ provodio vrijeme u pećini Hira?",
+      "de": "In welchem Monat verbrachte der Prophet ﷺ Zeit in der Höhle Hira?"
+    },
+    "options": {
+      "bs": [
+        "Muharrem",
+        "Ramazan",
+        "Šaban",
+        "Redžeb"
+      ],
+      "de": [
+        "Muharram",
+        "Ramadan",
+        "Schaban",
+        "Radschab"
+      ]
+    },
+    "correct": {
+      "bs": "Ramazan",
+      "de": "Ramadan"
+    },
+    "explanation": {
+      "bs": "Poslanik ﷺ bi provodio mjesec ramazan u pećini Hira. Ovo je bio običaj koji je praktikovao godinama prije poslanstva, povlačeći se od ljudi radi ibadeta i razmišljanja. Prva objava je također došla u mjesecu ramazanu.",
+      "de": "Der Prophet ﷺ verbrachte den Monat Ramadan in der Höhle Hira. Dies war eine Praxis, die er jahrelang vor dem Prophetentum ausübte, wobei er sich von den Menschen zurückzog, um anzubeten und nachzudenken. Die erste Offenbarung kam auch im Monat Ramadan."
+    }
+  },
+  {
+    "quiz_id": 3,
+    "question_id": 74,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Osamljivanje",
+    "question": {
+      "bs": "Šta bi Poslanik ﷺ radio prije odlaska u pećinu Hira?",
+      "de": "Was tat der Prophet ﷺ, bevor er zur Höhle Hira ging?"
+    },
+    "options": {
+      "bs": [
+        "Pozvao bi svoje prijatelje",
+        "Obavio bi tavaf oko Kabe",
+        "Otišao bi direktno",
+        "Opskrbio bi se kod kuće i obišao Hatidžu"
+      ],
+      "de": [
+        "Er rief seine Freunde",
+        "Er vollzog den Tawaf um die Kaaba",
+        "Er ging direkt",
+        "Er versorgte sich zu Hause und besuchte Chadidscha"
+      ]
+    },
+    "correct": {
+      "bs": "Opskrbio bi se kod kuće i obišao Hatidžu",
+      "de": "Er versorgte sich zu Hause und besuchte Chadidscha"
+    },
+    "explanation": {
+      "bs": "Prije odlaska u pećinu Hira, Poslanik ﷺ bi se opskrbio hranom kod kuće, obišao Hatidžu r.a., pa tek onda otišao u osamu. Nakon završetka osamljivanja, prvo bi obišao Kabu i obavio tavaf, pa tek onda ulazio u svoju kuću.",
+      "de": "Bevor er zur Höhle Hira ging, versorgte sich der Prophet ﷺ mit Essen zu Hause, besuchte Chadidscha r.a. und ging dann erst in die Einsamkeit. Nach Beendigung der Zurückgezogenheit besuchte er zuerst die Kaaba und vollzog den Tawaf, bevor er sein Haus betrat."
+    }
+  },
+  {
+    "quiz_id": 3,
+    "question_id": 75,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Snovi",
+    "question": {
+      "bs": "Šta je bio prvi vid Objave Poslaniku ﷺ?",
+      "de": "Was war die erste Form der Offenbarung an den Propheten ﷺ?"
+    },
+    "options": {
+      "bs": [
+        "Vizija",
+        "Istiniti snovi (er-ru'ja es-salika)",
+        "Glas s neba",
+        "Dolazak meleka Džibrila"
+      ],
+      "de": [
+        "Eine Vision",
+        "Wahre Träume (ar-ru'ja as-saliqa)",
+        "Eine Stimme vom Himmel",
+        "Die Ankunft des Engels Dschibril"
+      ]
+    },
+    "correct": {
+      "bs": "Istiniti snovi (er-ru'ja es-salika)",
+      "de": "Wahre Träume (ar-ru'ja as-saliqa)"
+    },
+    "explanation": {
+      "bs": "Prvi vid Objave Poslaniku ﷺ bio je 'er-ru'ja es-salika' - istinito snoviđenje. Ti snovi su dolazili poput svitanja zore i sve što bi vidio u snu, to bi se i obistinilo. Snovi su se pojavljivali punih šest mjeseci prije dolaska Džibrila.",
+      "de": "Die erste Form der Offenbarung an den Propheten ﷺ war 'ar-ru'ja as-saliqa' - wahre Träume. Diese Träume kamen wie das Morgendämmern, und alles, was er im Traum sah, wurde wahr. Die Träume erschienen volle sechs Monate vor der Ankunft Dschibrils."
+    }
+  },
+  {
+    "quiz_id": 3,
+    "question_id": 76,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Snovi",
+    "question": {
+      "bs": "Koliko su trajali istiniti snovi Poslanika ﷺ prije prve objave?",
+      "de": "Wie lange dauerten die wahren Träume des Propheten ﷺ vor der ersten Offenbarung?"
+    },
+    "options": {
+      "bs": [
+        "Šest mjeseci",
+        "Tri mjeseca",
+        "Godinu dana",
+        "Dvije godine"
+      ],
+      "de": [
+        "Sechs Monate",
+        "Drei Monate",
+        "Ein Jahr",
+        "Zwei Jahre"
+      ]
+    },
+    "correct": {
+      "bs": "Šest mjeseci",
+      "de": "Sechs Monate"
+    },
+    "explanation": {
+      "bs": "Snovi su se Poslaniku ﷺ pojavljivali punih šest mjeseci prije dolaska Džibrila s prvom objavom. Poslanstvo je ukupno trajalo dvadeset tri godine, a ovih šest mjeseci istih snova predstavlja jedan dio od četrdeset šest dijelova poslanstva.",
+      "de": "Die Träume erschienen dem Propheten ﷺ volle sechs Monate vor der Ankunft Dschibrils mit der ersten Offenbarung. Das Prophetentum dauerte insgesamt dreiundzwanzig Jahre, und diese sechs Monate wahrer Träume stellen einen von sechsundvierzig Teilen des Prophetentums dar."
+    }
+  },
+  {
+    "quiz_id": 3,
+    "question_id": 77,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Hatidžine osobine",
+    "question": {
+      "bs": "Hatidža r.a. je opisana kao odlučna, inteligentna i dostojanstvena žena.",
+      "de": "Chadidscha r.a. wurde als entschlossene, intelligente und würdevolle Frau beschrieben."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Hatidža r.a. je bila odlučna, inteligentna i dostojanstvena žena. Krasile su je mnoge lijepe osobine kojima ju je Allah počastio. Bila je pronicljiva i bez oklijevanja je prepoznala znakove poslanstva kod Muhameda ﷺ.",
+      "de": "Chadidscha r.a. war eine entschlossene, intelligente und würdevolle Frau. Sie war mit vielen schönen Eigenschaften geschmückt, mit denen Allah sie geehrt hatte. Sie war scharfsinnig und erkannte ohne zu zögern die Zeichen des Prophetentums bei Muhammad ﷺ."
+    }
+  },
+  {
+    "quiz_id": 3,
+    "question_id": 78,
+    "type": "true_false",
+    "difficulty": "hard",
+    "source_section": "Vjenčanje",
+    "question": {
+      "bs": "Činu vjenčanja Poslanika ﷺ i Hatidže r.a. prisustvovali su Benu Hašimije i poglavari Mudara.",
+      "de": "An der Hochzeitszeremonie des Propheten ﷺ und Chadidschas r.a. nahmen die Banu Haschim und die Häuptlinge von Mudar teil."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Vjenčanje Poslanika ﷺ i Hatidže r.a. bilo je svečan događaj kojem su prisustvovali Benu Hašimije i poglavari Mudara. To pokazuje ugled obje porodice u mekkanskom društvu tog vremena.",
+      "de": "Die Hochzeit des Propheten ﷺ und Chadidschas r.a. war ein feierliches Ereignis, an dem die Banu Haschim und die Häuptlinge von Mudar teilnahmen. Dies zeigt das Ansehen beider Familien in der mekkanischen Gesellschaft jener Zeit."
+    }
+  },
+  {
+    "quiz_id": 3,
+    "question_id": 79,
+    "type": "true_false",
+    "difficulty": "easy",
+    "source_section": "Poslanikova trgovina",
+    "question": {
+      "bs": "Poslanik ﷺ je bio poznat po iskrenosti i čestitosti u trgovini.",
+      "de": "Der Prophet ﷺ war für seine Aufrichtigkeit und Ehrenhaftigkeit im Handel bekannt."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Poslanik ﷺ je bio poznat po iskrenosti, povjerljivosti i čestitom ponašanju. Hatidža r.a. ga je angažovala upravo zbog tih osobina. Njegov nadimak 'El-Emin' (Povjerljivi) svjedoči o ugledu koji je uživao.",
+      "de": "Der Prophet ﷺ war für seine Aufrichtigkeit, Vertrauenswürdigkeit und sein ehrenhaftes Verhalten bekannt. Chadidscha r.a. engagierte ihn gerade wegen dieser Eigenschaften. Sein Beiname 'Al-Amin' (Der Vertrauenswürdige) zeugt von dem Ansehen, das er genoss."
+    }
+  },
+  {
+    "quiz_id": 3,
+    "question_id": 80,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Hatidža i Vereka",
+    "question": {
+      "bs": "Hatidža r.a. je otišla kod Vereke bin Nevfela čak i prije prve objave da mu ispriča o znakovima poslanstva.",
+      "de": "Chadidscha r.a. ging sogar vor der ersten Offenbarung zu Waraka bin Naufal, um ihm von den Zeichen des Prophetentums zu erzählen."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Hatidža r.a. je otišla kod svog amidžića Vereke i ispričala mu ono što joj je Mejsera kazao - o riječima isposnika i o melecima koji su pravili hlad. Vereka je tada rekao: 'Ako je to istina, onda je Muhammed poslanik ovoga naroda!'",
+      "de": "Chadidscha r.a. ging zu ihrem Cousin Waraka und erzählte ihm, was ihr Maisara gesagt hatte - über die Worte des Eremiten und über die Engel, die Schatten spendeten. Waraka sagte dann: 'Wenn das wahr ist, dann ist Muhammad der Prophet dieses Volkes!'"
+    }
+  },
+  {
+    "quiz_id": 3,
+    "question_id": 81,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Vereka - stihovi",
+    "question": {
+      "bs": "U svojim stihovima, Vereka je rekao da će Muhammed:",
+      "de": "In seinen Versen sagte Waraka, dass Muhammad:"
+    },
+    "options": {
+      "bs": [
+        "Pobijediti svakog protivnika i bljesnuti svjetlom u zemlji",
+        "Postati veliki trgovac",
+        "Otići u Šam",
+        "Postati kralj Arabije"
+      ],
+      "de": [
+        "Jeden Gegner besiegen und mit Licht im Land erstrahlen",
+        "Ein grosser Händler werden",
+        "Nach Syrien gehen",
+        "König von Arabien werden"
+      ]
+    },
+    "correct": {
+      "bs": "Pobijediti svakog protivnika i bljesnuti svjetlom u zemlji",
+      "de": "Jeden Gegner besiegen und mit Licht im Land erstrahlen"
+    },
+    "explanation": {
+      "bs": "Vereka je u svojim stihovima rekao: 'Da će Muhammed biti prvak naš i pobijediti svakog protivnika! Da će u ovoj zemlji bljesnuti svjetlom i njime izgraditi svijet da se talasa!' Ovi stihovi pokazuju koliko je Vereka jasno prepoznao znakove poslanstva.",
+      "de": "Waraka sagte in seinen Versen: 'Dass Muhammad unser Anführer sein und jeden Gegner besiegen wird! Dass er in diesem Land mit Licht erstrahlen und damit eine Welt aufbauen wird, die wogt!' Diese Verse zeigen, wie klar Waraka die Zeichen des Prophetentums erkannte."
+    }
+  },
+  {
+    "quiz_id": 3,
+    "question_id": 82,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Izgled Poslanika",
+    "question": {
+      "bs": "Kakve je oči imao Poslanik ﷺ prema Alijinom opisu?",
+      "de": "Welche Art von Augen hatte der Prophet ﷺ laut Alis Beschreibung?"
+    },
+    "options": {
+      "bs": [
+        "Plave i duboke",
+        "Krupne crne s dugim trepavicama",
+        "Smeđe i male",
+        "Male i sive"
+      ],
+      "de": [
+        "Blau und tief",
+        "Grosse schwarze mit langen Wimpern",
+        "Braun und klein",
+        "Klein und grau"
+      ]
+    },
+    "correct": {
+      "bs": "Krupne crne s dugim trepavicama",
+      "de": "Grosse schwarze mit langen Wimpern"
+    },
+    "explanation": {
+      "bs": "Prema Alijinom r.a. opisu, Poslanik ﷺ je imao 'bijel ten i krupne crne oči s dugim trepavicama.' Ovaj detaljan opis nam pomaže da vizualiziramo fizički izgled najplemenitijeg čovjeka.",
+      "de": "Laut der Beschreibung von Ali r.a. hatte der Prophet ﷺ 'einen hellen Teint und grosse schwarze Augen mit langen Wimpern.' Diese detaillierte Beschreibung hilft uns, das körperliche Erscheinungsbild des edelsten Menschen zu visualisieren."
+    }
+  },
+  {
+    "quiz_id": 3,
+    "question_id": 83,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Poslanikove osobine",
+    "question": {
+      "bs": "Kako je Alijin opisivač završio opis Poslanika ﷺ?",
+      "de": "Wie beendete Alis Beschreiber die Beschreibung des Propheten ﷺ?"
+    },
+    "options": {
+      "bs": [
+        "Bio je najbolji trgovac",
+        "Ni prije ni poslije njega nisam vidio nikoga sličnog njemu",
+        "Bio je najpametniji čovjek",
+        "Bio je najhrabriji čovjek"
+      ],
+      "de": [
+        "Er war der beste Händler",
+        "Weder vor noch nach ihm habe ich jemanden gesehen, der ihm ähnlich war",
+        "Er war der klügste Mann",
+        "Er war der tapferste Mann"
+      ]
+    },
+    "correct": {
+      "bs": "Ni prije ni poslije njega nisam vidio nikoga sličnog njemu",
+      "de": "Weder vor noch nach ihm habe ich jemanden gesehen, der ihm ähnlich war"
+    },
+    "explanation": {
+      "bs": "Opisivač Poslanika ﷺ je završio riječima: 'Ni prije ni poslije njega nisam vidio nikoga sličnog njemu. Mir i blagoslovi Božiji neka su na njega!' Ovo pokazuje koliko je Poslanik ﷺ bio jedinstven i neponovljiv.",
+      "de": "Der Beschreiber des Propheten ﷺ schloss mit den Worten: 'Weder vor noch nach ihm habe ich jemanden gesehen, der ihm ähnlich war. Friede und Segen Gottes seien auf ihm!' Dies zeigt, wie einzigartig und unwiederholbar der Prophet ﷺ war."
+    }
+  },
+  {
+    "quiz_id": 3,
+    "question_id": 84,
+    "type": "true_false",
+    "difficulty": "hard",
+    "source_section": "Indžil o Poslaniku",
+    "question": {
+      "bs": "U Indžilu se spominje 'Munhamenna' što na sirijanskom znači Muhammed.",
+      "de": "Im Indschil wird 'Munhamenna' erwähnt, was auf Syrisch Muhammad bedeutet."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Ibn Ishak prenosi da se u Indžilu (Evanđelju) spominje 'Munhamenna' što na sirijanskom znači Muhammed, a na grčkom Paraklitos (mnogo hvaljeni). Ovo je bilo navještenje o dolasku posljednjeg poslanika u ranijim Svetim knjigama.",
+      "de": "Ibn Ishaq überliefert, dass im Indschil (Evangelium) 'Munhamenna' erwähnt wird, was auf Syrisch Muhammad bedeutet, und auf Griechisch Paraklet (der Vielgepriesene). Dies war eine Ankündigung des Kommens des letzten Propheten in früheren Heiligen Schriften."
+    }
+  },
+  {
+    "quiz_id": 3,
+    "question_id": 85,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Priprema za poslanstvo",
+    "question": {
+      "bs": "Poslanik ﷺ je bio potpuno nesvjestan onoga što mu predstoji dok se osamljivao u pećini Hira.",
+      "de": "Der Prophet ﷺ war sich völlig unbewusst dessen, was ihm bevorstand, während er sich in der Höhle Hira zurückzog."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Poslanik ﷺ je bio siguran da njegov narod pogrešno obožava Allaha, ali on 'nema jasan put kojim bi krenuo, nema program koji bi provodio u djelo, a niti određeni cilj kojim bi bio zadovoljan i smiren.' Allah ga je pripremao bez da je on bio svjestan šta mu predstoji.",
+      "de": "Der Prophet ﷺ war sich sicher, dass sein Volk Allah falsch anbetete, aber er 'hatte keinen klaren Weg, dem er folgen konnte, kein Programm, das er umsetzen konnte, und kein bestimmtes Ziel, mit dem er zufrieden und ruhig sein konnte.' Allah bereitete ihn vor, ohne dass er wusste, was ihm bevorstand."
+    }
+  },
+  {
+    "quiz_id": 3,
+    "question_id": 86,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Arapski vraćevi",
+    "question": {
+      "bs": "Kako su arapski vraćevi saznali o dolasku poslanika?",
+      "de": "Wie erfuhren die arabischen Wahrsager vom Kommen des Propheten?"
+    },
+    "options": {
+      "bs": [
+        "Iz knjiga",
+        "Iz snova",
+        "Od jevrejskih rabina",
+        "Preko džina koji su prisluškivali na nebesima"
+      ],
+      "de": [
+        "Aus Büchern",
+        "Aus Träumen",
+        "Von jüdischen Rabbinern",
+        "Durch Dschinn, die im Himmel lauschten"
+      ]
+    },
+    "correct": {
+      "bs": "Preko džina koji su prisluškivali na nebesima",
+      "de": "Durch Dschinn, die im Himmel lauschten"
+    },
+    "explanation": {
+      "bs": "Arapski vraćevi su saznavali o dolasku poslanika preko džina koji su prisluškivali na nebesima. Kada se približilo vrijeme poslanstva, šejtanima je onemogućeno prisluškivanje, između njih i busija koje su zauzimali stavljena je pregrada, a oni su gađani zvijezdama.",
+      "de": "Die arabischen Wahrsager erfuhren vom Kommen des Propheten durch Dschinn, die im Himmel lauschten. Als die Zeit des Prophetentums nahte, wurde den Satanen das Lauschen verwehrt, zwischen ihnen und den Posten, die sie einnahmen, wurde eine Barriere errichtet, und sie wurden mit Sternen beworfen."
+    }
+  },
+  {
+    "quiz_id": 3,
+    "question_id": 87,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Nagovještenja poslanstva",
+    "question": {
+      "bs": "Iz kojih izvora su jevrejski rabini i kršćanski svećenici znali o dolasku poslanika?",
+      "de": "Aus welchen Quellen wussten jüdische Rabbiner und christliche Priester vom Kommen des Propheten?"
+    },
+    "options": {
+      "bs": [
+        "Iz snova",
+        "Iz svojih knjiga",
+        "Iz zvijezda",
+        "Od arapskih vraćeva"
+      ],
+      "de": [
+        "Aus Träumen",
+        "Aus ihren Büchern",
+        "Aus den Sternen",
+        "Von arabischen Wahrsagern"
+      ]
+    },
+    "correct": {
+      "bs": "Iz svojih knjiga",
+      "de": "Aus ihren Büchern"
+    },
+    "explanation": {
+      "bs": "Jevrejski rabini i kršćanski svećenici su govorili o dolasku Božijeg Poslanika ﷺ na temelju svojih knjiga u kojima su nalazili njegova obilježja i obilježja vremena u kojem će se pojaviti. Zato su Behira i Nestura prepoznali znakove poslanstva.",
+      "de": "Jüdische Rabbiner und christliche Priester sprachen vom Kommen des Gesandten Gottes ﷺ auf der Grundlage ihrer Bücher, in denen sie seine Merkmale und die Merkmale der Zeit, in der er erscheinen würde, fanden. Deshalb erkannten Bahira und Nestura die Zeichen des Prophetentums."
+    }
+  },
+  {
+    "quiz_id": 3,
+    "question_id": 88,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Predskazivač iz plemena Lihb",
+    "question": {
+      "bs": "Šta je rekao predskazivač iz plemena Lihb kada je vidio mladog Muhameda ﷺ?",
+      "de": "Was sagte der Wahrsager vom Stamm Lihb, als er den jungen Muhammad ﷺ sah?"
+    },
+    "options": {
+      "bs": [
+        "Da će biti značajna ličnost",
+        "Da će postati pjesnik",
+        "Da će umrijeti mlad",
+        "Da će biti bogat trgovac"
+      ],
+      "de": [
+        "Dass er eine bedeutende Persönlichkeit werden würde",
+        "Dass er ein Dichter werden würde",
+        "Dass er jung sterben würde",
+        "Dass er ein reicher Händler werden würde"
+      ]
+    },
+    "correct": {
+      "bs": "Da će biti značajna ličnost",
+      "de": "Dass er eine bedeutende Persönlichkeit werden würde"
+    },
+    "explanation": {
+      "bs": "U plemenu Benu Lihb bio je čovjek čuven po predskazanjima. Kada je vidio mladog Muhameda ﷺ, tražio je da mu ga dovedu i rekao: 'Za Boga miloga, vratite mi onog dječaka kojeg sam maloprije vidio! On će, Boga mi, biti značajna ličnost!' Ebu Talib ga je prikrio.",
+      "de": "Im Stamm Banu Lihb gab es einen Mann, der für seine Prophezeiungen berühmt war. Als er den jungen Muhammad ﷺ sah, bat er darum, ihn zu bringen, und sagte: 'Um Gottes willen, bringt mir den Jungen zurück, den ich gerade gesehen habe! Er wird, bei Gott, eine bedeutende Persönlichkeit sein!' Abu Talib verbarg ihn."
+    }
+  },
+  {
+    "quiz_id": 3,
+    "question_id": 89,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Poslanikova mladost",
+    "question": {
+      "bs": "Poslanik ﷺ je imao visoki koeficijent inteligencije koji se odražavao u svakom njegovom pokretu.",
+      "de": "Der Prophet ﷺ hatte einen hohen Intelligenzquotienten, der sich in jeder seiner Bewegungen widerspiegelte."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Poslanik ﷺ je u svojoj mladosti bio obdaren najboljim vrlinama. Imao je visoki koeficijent inteligencije što se odražavalo u svakom njegovom pokretu ili poduhvatu. Nije volio mnogo pričati i volio je osamu za razmišljanje.",
+      "de": "Der Prophet ﷺ war in seiner Jugend mit den besten Tugenden begabt. Er hatte einen hohen Intelligenzquotienten, der sich in jeder seiner Bewegungen oder Unternehmungen widerspiegelte. Er redete nicht gern viel und liebte die Einsamkeit zum Nachdenken."
+    }
+  },
+  {
+    "quiz_id": 3,
+    "question_id": 90,
+    "type": "true_false",
+    "difficulty": "hard",
+    "source_section": "Osamljivanje",
+    "question": {
+      "bs": "Osamljivanje u pećini Hira bio je običaj koji je praktikovao samo Poslanik ﷺ.",
+      "de": "Die Zurückgezogenheit in der Höhle Hira war eine Praxis, die nur der Prophet ﷺ ausübte."
+    },
+    "correct": false,
+    "explanation": {
+      "bs": "Osamljivanje radi pobožnosti bio je inače običaj Kurejšija u vremenu prije islama (tehannuth). Poslanik ﷺ je ovo praktikovao svake godine u istom mjesecu (ramazanu), hraneći svakog siromaha koji bi naišao.",
+      "de": "Die Zurückgezogenheit zur Frömmigkeit war ohnehin ein Brauch der Quraisch in der Zeit vor dem Islam (Tahannuth). Der Prophet ﷺ praktizierte dies jedes Jahr im selben Monat (Ramadan) und speiste jeden Armen, der vorbeikam."
+    }
+  },
+  {
+    "quiz_id": 3,
+    "question_id": 91,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Poslanikove vrline",
+    "question": {
+      "bs": "Šta bi Poslanik ﷺ radio kada bi vidio da se negdje radi dobro?",
+      "de": "Was tat der Prophet ﷺ, wenn er sah, dass irgendwo Gutes getan wurde?"
+    },
+    "options": {
+      "bs": [
+        "Otišao bi svojim poslom",
+        "Posmatrao iz daljine",
+        "Pritekao bi u pomoć",
+        "Pričao bi o tome drugima"
+      ],
+      "de": [
+        "Er würde seiner Arbeit nachgehen",
+        "Aus der Ferne beobachten",
+        "Er würde zu Hilfe eilen",
+        "Er würde anderen davon erzählen"
+      ]
+    },
+    "correct": {
+      "bs": "Pritekao bi u pomoć",
+      "de": "Er würde zu Hilfe eilen"
+    },
+    "explanation": {
+      "bs": "Poslanik ﷺ bi, ako bi vidio da se negdje radi dobro, pritekao u pomoć. Sa druge strane, zla se strogo klonio. Ove osobine su bile vidljive još od njegove mladosti, prije poslanstva.",
+      "de": "Wenn der Prophet ﷺ sah, dass irgendwo Gutes getan wurde, eilte er zu Hilfe. Andererseits mied er das Böse streng. Diese Eigenschaften waren schon in seiner Jugend, vor dem Prophetentum, sichtbar."
+    }
+  },
+  {
+    "quiz_id": 3,
+    "question_id": 92,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Gradnja Kabe - zmija",
+    "question": {
+      "bs": "Šta se desilo sa zmijom koja je čuvala Kabu prije obnove?",
+      "de": "Was geschah mit der Schlange, die die Kaaba vor dem Wiederaufbau bewachte?"
+    },
+    "options": {
+      "bs": [
+        "Kurejšije su je ubili",
+        "Sama je otišla",
+        "Ostala je u Kabi",
+        "Ptica ju je zgrabila i odnijela"
+      ],
+      "de": [
+        "Die Quraisch töteten sie",
+        "Sie ging von selbst",
+        "Sie blieb in der Kaaba",
+        "Ein Vogel packte sie und trug sie weg"
+      ]
+    },
+    "correct": {
+      "bs": "Ptica ju je zgrabila i odnijela",
+      "de": "Ein Vogel packte sie und trug sie weg"
+    },
+    "explanation": {
+      "bs": "Iz udubine Kabe izlazila je zmija koja se sunčala na njenom zidu. Jednog dana, Allah je poslao pticu koja ju je zgrabila i odnijela. Kurejšije su to protumačile kao znak da je Allah zadovoljan njihovom namjerom da obnove Kabu.",
+      "de": "Aus einer Höhlung der Kaaba kam eine Schlange, die sich an ihrer Mauer sonnte. Eines Tages sandte Allah einen Vogel, der sie packte und wegtrug. Die Quraisch deuteten dies als Zeichen, dass Allah mit ihrer Absicht, die Kaaba wieder aufzubauen, zufrieden war."
+    }
+  },
+  {
+    "quiz_id": 3,
+    "question_id": 93,
+    "type": "multiple_choice",
+    "difficulty": "medium",
+    "source_section": "Poslanikove osobine",
+    "question": {
+      "bs": "Koje su osobine krasile Poslanika ﷺ prema Hatidžinom opisu? (Odaberi sve tačne)",
+      "de": "Welche Eigenschaften schmückten den Propheten ﷺ laut Chadidschas Beschreibung? (Wähle alle richtigen)"
+    },
+    "options": {
+      "bs": [
+        "Bogat",
+        "Gostoljubiv",
+        "Pazi sirotinju",
+        "Posjećuje rodbinu"
+      ],
+      "de": [
+        "Reich",
+        "Gastfreundlich",
+        "Er kümmert sich um die Armen",
+        "Er besucht Verwandte"
+      ]
+    },
+    "correct": {
+      "bs": [
+        "Posjećuje rodbinu",
+        "Pazi sirotinju",
+        "Gostoljubiv"
+      ],
+      "de": [
+        "Er besucht Verwandte",
+        "Er kümmert sich um die Armen",
+        "Gastfreundlich"
+      ]
+    },
+    "explanation": {
+      "bs": "Hatidža r.a. je rekla za Poslanika ﷺ: 'Ti si čovjek koji posjećuje rodbinu, paziš sirotinju, stječeš za siromahe, gostiš gosta, uvijek pomažeš i ustrajaš na istini.' Bogatstvo nije bila jedna od karakteristika koje je spomenula.",
+      "de": "Chadidscha r.a. sagte über den Propheten ﷺ: 'Du bist ein Mann, der Verwandte besucht, sich um die Armen kümmert, für die Bedürftigen erwirbt, Gäste bewirtet, immer hilft und auf der Wahrheit beharrt.' Reichtum war keine der Eigenschaften, die sie erwähnte."
+    }
+  },
+  {
+    "quiz_id": 3,
+    "question_id": 94,
+    "type": "ordering",
+    "difficulty": "hard",
+    "source_section": "Hronologija djece",
+    "question": {
+      "bs": "Poredaj Poslanikovu ﷺ djecu po redoslijedu rođenja:",
+      "de": "Ordne die Kinder des Propheten ﷺ nach der Reihenfolge ihrer Geburt:"
+    },
+    "options": {
+      "bs": [
+        "Zejneba",
+        "Rukajja",
+        "Kasim",
+        "Fatima"
+      ],
+      "de": [
+        "Zainab",
+        "Ruqajja",
+        "Qasim",
+        "Fatima"
+      ]
+    },
+    "correct": {
+      "bs": [
+        "Kasim",
+        "Zejneba",
+        "Rukajja",
+        "Fatima"
+      ],
+      "de": [
+        "Qasim",
+        "Zainab",
+        "Ruqajja",
+        "Fatima"
+      ]
+    },
+    "explanation": {
+      "bs": "Redoslijed rođenja Poslanikove ﷺ djece od Hatidže bio je: prvo Kasim (sin), zatim Zejneba i Rukajja, pa Ummu Kulsum i Fatima (kćerke), pa opet sin Abdullah. Kasim i Abdullah su umrli u djetinjstvu.",
+      "de": "Die Reihenfolge der Geburt der Kinder des Propheten ﷺ von Chadidscha war: zuerst Qasim (Sohn), dann Zainab und Ruqajja, dann Umm Kulthum und Fatima (Töchter), dann wieder der Sohn Abdullah. Qasim und Abdullah starben in der Kindheit."
+    }
+  },
+  {
+    "quiz_id": 3,
+    "question_id": 95,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Šazrevan",
+    "question": {
+      "bs": "Šta je Šazrevan koji okružuje Kabu?",
+      "de": "Was ist der Schasrawan, der die Kaaba umgibt?"
+    },
+    "options": {
+      "bs": [
+        "Obruč od kamenih blokova od prve građevine",
+        "Zavjesa",
+        "Zlatni okvir",
+        "Vrata"
+      ],
+      "de": [
+        "Ein Ring aus Steinblöcken vom ersten Gebäude",
+        "Ein Vorhang",
+        "Ein goldener Rahmen",
+        "Eine Tür"
+      ]
+    },
+    "correct": {
+      "bs": "Obruč od kamenih blokova od prve građevine",
+      "de": "Ein Ring aus Steinblöcken vom ersten Gebäude"
+    },
+    "explanation": {
+      "bs": "Kabu okružuje s vanjske strane obruč od kamenih blokova visine 25 cm i širine 30 cm. To su blokovi od prve građevine (od vremena Ibrahima a.s.), pa su sačuvani na taj način i zovu se Šazrevan.",
+      "de": "Die Kaaba ist von aussen von einem Ring aus Steinblöcken umgeben, der 25 cm hoch und 30 cm breit ist. Dies sind Blöcke vom ersten Gebäude (aus der Zeit Ibrahims a.s.), die auf diese Weise erhalten wurden und Schasrawan genannt werden."
+    }
+  },
+  {
+    "quiz_id": 3,
+    "question_id": 96,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Položaj Crnog kamena",
+    "question": {
+      "bs": "Na kojoj visini se nalazi Crni kamen (Hadžerul-esved) od tla?",
+      "de": "In welcher Höhe befindet sich der Schwarze Stein (Hadscharul-Aswad) vom Boden?"
+    },
+    "options": {
+      "bs": [
+        "0,5 metra",
+        "1 metar",
+        "1,5 metar",
+        "2 metra"
+      ],
+      "de": [
+        "0,5 Meter",
+        "1 Meter",
+        "1,5 Meter",
+        "2 Meter"
+      ]
+    },
+    "correct": {
+      "bs": "1,5 metar",
+      "de": "1,5 Meter"
+    },
+    "explanation": {
+      "bs": "Crni kamen (Hadžerul-esved) se nalazi na visini od 1,5 metra od tla kuda se vrši tavaf. Dužina zida na kome se nalazi Crni kamen iznosi 10,10 metara.",
+      "de": "Der Schwarze Stein (Hadscharul-Aswad) befindet sich auf einer Höhe von 1,5 Metern vom Boden, wo der Tawaf durchgeführt wird. Die Länge der Wand, an der sich der Schwarze Stein befindet, beträgt 10,10 Meter."
+    }
+  },
+  {
+    "quiz_id": 3,
+    "question_id": 97,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Vrata Kabe",
+    "question": {
+      "bs": "Vrata Kabe su postavljena na visini od dva metra iznad zemlje.",
+      "de": "Die Tür der Kaaba ist auf einer Höhe von zwei Metern über dem Boden angebracht."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Kurejšije su uzdigle vrata Kabe od zemlje na visinu od dva metra, da ne može bilo ko ući, već samo onaj kome dozvole. Ovo je bilo učinjeno prilikom obnove Kabe kada je Poslanik ﷺ imao 35 godina.",
+      "de": "Die Quraisch hoben die Tür der Kaaba vom Boden auf eine Höhe von zwei Metern an, damit nicht jeder eintreten konnte, sondern nur diejenigen, denen sie es erlaubten. Dies wurde beim Wiederaufbau der Kaaba gemacht, als der Prophet ﷺ 35 Jahre alt war."
+    }
+  },
+  {
+    "quiz_id": 3,
+    "question_id": 98,
+    "type": "true_false",
+    "difficulty": "hard",
+    "source_section": "Temelji Kabe",
+    "question": {
+      "bs": "Prilikom rušenja stare Kabe, Kurejšije su naišle na zeleno kamenje poput kamilinih grba na temeljima Ibrahima a.s.",
+      "de": "Beim Abriss der alten Kaaba stiessen die Quraisch auf grüne Steine wie Kamelhöcker auf den Fundamenten Ibrahims a.s."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Kada su Kurejšije porušile sve do temelja - temelja Ibrahimovih a.s. - naišli su na nekakvo zeleno kamenje koje je bilo poput kamilinih grba i koje je međusobno bilo čvrsto povezano. To je bio znak svetosti ovih drevnih temelja.",
+      "de": "Als die Quraisch alles bis zu den Fundamenten - den Fundamenten Ibrahims a.s. - abrissen, stiessen sie auf grüne Steine, die wie Kamelhöcker aussahen und fest miteinander verbunden waren. Dies war ein Zeichen der Heiligkeit dieser alten Fundamente."
+    }
+  },
+  {
+    "quiz_id": 3,
+    "question_id": 99,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "El-Velid bin Mugire",
+    "question": {
+      "bs": "Šta je El-Velid rekao prije nego što je počeo rušiti Kabu?",
+      "de": "Was sagte Al-Walid, bevor er begann, die Kaaba abzureissen?"
+    },
+    "options": {
+      "bs": [
+        "Da se boji Allahovog gnjeva",
+        "Bože, ne odstupamo od Tvoje vjere, mi samo želimo dobro",
+        "Da će postati najslavniji čovjek",
+        "Da će donijeti slavu svom plemenu"
+      ],
+      "de": [
+        "Dass er Allahs Zorn fürchte",
+        "Gott, wir weichen nicht von Deiner Religion ab, wir wollen nur Gutes",
+        "Dass er der berühmteste Mann werden würde",
+        "Dass er seinem Stamm Ruhm bringen würde"
+      ]
+    },
+    "correct": {
+      "bs": "Bože, ne odstupamo od Tvoje vjere, mi samo želimo dobro",
+      "de": "Gott, wir weichen nicht von Deiner Religion ab, wir wollen nur Gutes"
+    },
+    "explanation": {
+      "bs": "El-Velid bin Mugire je uzeo budak, prišao Kabi i rekao: 'Bože, ne odstupamo od Tvoje vjere! Bože, mi samo želimo dobro!' Tek nakon toga je počeo rušiti, a ostali su čekali da vide hoće li mu se nešto desiti.",
+      "de": "Al-Walid bin al-Mughira nahm eine Spitzhacke, näherte sich der Kaaba und sagte: 'Gott, wir weichen nicht von Deiner Religion ab! Gott, wir wollen nur Gutes!' Erst danach begann er mit dem Abriss, und die anderen warteten, um zu sehen, ob ihm etwas zustossen würde."
+    }
+  },
+  {
+    "quiz_id": 3,
+    "question_id": 100,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "source_section": "Nadimak Poslanika",
+    "question": {
+      "bs": "Koji nadimak je Poslanik ﷺ dobio po svom prvom sinu?",
+      "de": "Welchen Beinamen erhielt der Prophet ﷺ nach seinem ersten Sohn?"
+    },
+    "options": {
+      "bs": [
+        "Ebu-l-Kasim",
+        "Ebu Abdullah",
+        "Ebu Ibrahim",
+        "Ebu Talib"
+      ],
+      "de": [
+        "Abu-l-Qasim",
+        "Abu Abdullah",
+        "Abu Ibrahim",
+        "Abu Talib"
+      ]
+    },
+    "correct": {
+      "bs": "Ebu-l-Kasim",
+      "de": "Abu-l-Qasim"
+    },
+    "explanation": {
+      "bs": "Poslanik ﷺ je dobio nadimak Ebu-l-Kasim (otac Kasimov) po svom prvom sinu Kasimu. Kasim je bio prvo dijete koje mu je Hatidža r.a. rodila, ali je nažalost umro u djetinjstvu, prije poslanstva.",
+      "de": "Der Prophet ﷺ erhielt den Beinamen Abu-l-Qasim (Vater von Qasim) nach seinem ersten Sohn Qasim. Qasim war das erste Kind, das ihm Chadidscha r.a. gebar, aber er starb leider in der Kindheit, vor dem Prophetentum."
+    }
+  }
+]

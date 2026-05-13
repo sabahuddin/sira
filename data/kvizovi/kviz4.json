@@ -1,0 +1,2595 @@
+[
+  {
+    "quiz_id": 4,
+    "question_id": 1,
+    "type": "true_false",
+    "difficulty": "easy",
+    "source_section": "Prva objava",
+    "question": {
+      "bs": "Prva objava Poslaniku ﷺ došla je u pećini Hira na brdu Nur.",
+      "de": "Die erste Offenbarung kam zum Propheten ﷺ in der Höhle Hira auf dem Berg Nur."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Poslanik ﷺ se osamljivao u pećini Hira koja se nalazi na brdu Nur, približno 2 milje od Mekke. Tu mu je došao melek Džibril a.s. sa prvom objavom u mjesecu ramazanu.",
+      "de": "Der Prophet ﷺ zog sich in die Höhle Hira auf dem Berg Nur zurück, etwa 2 Meilen von Mekka entfernt. Dort kam der Engel Gabriel a.s. mit der ersten Offenbarung im Monat Ramadan zu ihm."
+    }
+  },
+  {
+    "quiz_id": 4,
+    "question_id": 2,
+    "type": "true_false",
+    "difficulty": "easy",
+    "source_section": "Prva objava",
+    "question": {
+      "bs": "Poslanik ﷺ je imao 40 godina kada je primio prvu objavu.",
+      "de": "Der Prophet ﷺ war 40 Jahre alt, als er die erste Offenbarung empfing."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Poslanik ﷺ je napunio četrdesetu godinu života kada je primio prvu objavu. Četrdeseta godina se smatra godinom čovjekove zrelosti i u tim godinama su poslanici dobivali objave.",
+      "de": "Der Prophet ﷺ vollendete sein vierzigstes Lebensjahr, als er die erste Offenbarung empfing. Das vierzigste Jahr gilt als Jahr der Reife eines Menschen, und in diesem Alter erhielten Propheten ihre Offenbarungen."
+    }
+  },
+  {
+    "quiz_id": 4,
+    "question_id": 3,
+    "type": "true_false",
+    "difficulty": "easy",
+    "source_section": "Prva objava",
+    "question": {
+      "bs": "Prva objava se dogodila u mjesecu ramazanu.",
+      "de": "Die erste Offenbarung ereignete sich im Monat Ramadan."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Objava Kur'ana je započeta u mjesecu ramazanu, kako Allah dž.š. kaže: 'U mjesecu ramazanu počelo je objavljivanje Kur'ana.' Bila je to noć Kadr, 21. ramazana.",
+      "de": "Die Offenbarung des Korans begann im Monat Ramadan, wie Allah sagt: 'Im Monat Ramadan begann die Offenbarung des Korans.' Es war die Nacht der Bestimmung (Lailat al-Qadr), am 21. Ramadan."
+    }
+  },
+  {
+    "quiz_id": 4,
+    "question_id": 4,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Prva objava",
+    "question": {
+      "bs": "Prva objava se dogodila 10. augusta 610. godine po gregorijanskom kalendaru.",
+      "de": "Die erste Offenbarung ereignete sich am 10. August 610 n. Chr. nach dem gregorianischen Kalender."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Prema kalendarskim proračunima, objavljivanje Kur'ana je počelo u ponedjeljak, 21. ramazana, što odgovara 10. augustu 610. godine po gregorijanskom kalendaru.",
+      "de": "Nach Kalenderberechnungen begann die Offenbarung des Korans am Montag, dem 21. Ramadan, was dem 10. August 610 n. Chr. nach dem gregorianischen Kalender entspricht."
+    }
+  },
+  {
+    "quiz_id": 4,
+    "question_id": 5,
+    "type": "true_false",
+    "difficulty": "easy",
+    "source_section": "Prva objava",
+    "question": {
+      "bs": "Melek Džibril a.s. je donio prvu objavu Poslaniku ﷺ.",
+      "de": "Der Engel Gabriel a.s. brachte die erste Offenbarung zum Propheten ﷺ."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Džibril a.s., povjerenik objave, donio je Poslaniku ﷺ prve ajete iz Kur'ana u pećini Hira. On je Allahov povjerenik koji je dolazio i prijašnjim poslanicima poput Musaa a.s.",
+      "de": "Gabriel a.s., der Überbringer der Offenbarung, brachte dem Propheten ﷺ die ersten Verse des Korans in der Höhle Hira. Er ist Allahs Vertrauter, der auch zu früheren Propheten wie Moses a.s. kam."
+    }
+  },
+  {
+    "quiz_id": 4,
+    "question_id": 6,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Prva objava",
+    "question": {
+      "bs": "Prve riječi koje je Džibril a.s. rekao Poslaniku ﷺ bile su 'Ikre!' - 'Uči, čitaj!'",
+      "de": "Die ersten Worte, die Gabriel a.s. zum Propheten ﷺ sagte, waren 'Iqra!' - 'Lies, rezitiere!'"
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Džibril a.s. je rekao Poslaniku ﷺ 'Ikre!' (Uči, čitaj!), a Poslanik ﷺ je odgovorio da ne zna učiti. Nakon što ga je Džibril tri puta pritisnuo, objavio mu je prve ajete sure El-Alek.",
+      "de": "Gabriel a.s. sagte zum Propheten ﷺ 'Iqra!' (Lies, rezitiere!), und der Prophet ﷺ antwortete, dass er nicht lesen könne. Nachdem Gabriel ihn dreimal gedrückt hatte, offenbarte er ihm die ersten Verse der Sure Al-Alaq."
+    }
+  },
+  {
+    "quiz_id": 4,
+    "question_id": 7,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Prva objava",
+    "question": {
+      "bs": "Džibril a.s. je tri puta snažno pritisnuo Poslanika ﷺ prije nego što mu je objavio ajete.",
+      "de": "Gabriel a.s. drückte den Propheten ﷺ dreimal fest, bevor er ihm die Verse offenbarte."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Poslanik ﷺ je opisao kako ga je Džibril uzeo, privukao sebi, a zatim odmaknuo od sebe - to je uradio jako i snažno tri puta. Nakon trećeg puta objavio mu je prve ajete sure El-Alek.",
+      "de": "Der Prophet ﷺ beschrieb, wie Gabriel ihn nahm, zu sich zog und dann von sich entfernte - dies tat er stark und kräftig dreimal. Nach dem dritten Mal offenbarte er ihm die ersten Verse der Sure Al-Alaq."
+    }
+  },
+  {
+    "quiz_id": 4,
+    "question_id": 8,
+    "type": "true_false",
+    "difficulty": "easy",
+    "source_section": "Prva objava",
+    "question": {
+      "bs": "Poslanik ﷺ je odmah nakon objave otišao kod svoje supruge Hatidže r.a.",
+      "de": "Der Prophet ﷺ ging unmittelbar nach der Offenbarung zu seiner Frau Khadidscha r.a."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Poslanik ﷺ se vratio uzbuđen i usplahiren kući i rekao Hatidži: 'Prekrijte me, prekrijte me!' Kada se smirio, ispričao joj je šta se dogodilo.",
+      "de": "Der Prophet ﷺ kehrte aufgeregt und erschrocken nach Hause zurück und sagte zu Khadidscha: 'Bedeckt mich, bedeckt mich!' Als er sich beruhigt hatte, erzählte er ihr, was geschehen war."
+    }
+  },
+  {
+    "quiz_id": 4,
+    "question_id": 9,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Prva objava",
+    "question": {
+      "bs": "Hatidža r.a. je odmah povjerovala Poslaniku ﷺ i uvjerila ga da ga Allah neće osramotiti.",
+      "de": "Khadidscha r.a. glaubte dem Propheten ﷺ sofort und versicherte ihm, dass Allah ihn nicht beschämen würde."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Hatidža r.a. je rekla: 'Ne, ne tako mi Allaha, Allah te nikad neće osramotiti. Ti si čovjek koji posjećuje rodbinu, pazi sirotinju, stječe za siromahe, ugosti gosta, uvijek pomaže i ustrajava na istini.'",
+      "de": "Khadidscha r.a. sagte: 'Nein, bei Allah, Allah wird dich niemals beschämen. Du bist ein Mann, der die Verwandtschaft besucht, für die Armen sorgt, für die Bedürftigen erwirbt, Gäste bewirtet und stets der Wahrheit beistehst.'"
+    }
+  },
+  {
+    "quiz_id": 4,
+    "question_id": 10,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Vereka bin Nevfel",
+    "question": {
+      "bs": "Vereka bin Nevfel je bio Hatidžin amidžić i kršćanin koji je poznavao ranije svete knjige.",
+      "de": "Waraqa ibn Nawfal war Khadidschas Cousin und ein Christ, der die früheren heiligen Schriften kannte."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Vereka bin Nevfel je bio Hatidžin amidžić koji je primio kršćanstvo u predislamsko doba. Znao je pisati na hebrejskom i prepisivao je Evanđelje. Bio je star i slijep čovjek.",
+      "de": "Waraqa ibn Nawfal war Khadidschas Cousin, der das Christentum in vorislamischer Zeit angenommen hatte. Er konnte Hebräisch schreiben und kopierte das Evangelium. Er war ein alter, blinder Mann."
+    }
+  },
+  {
+    "quiz_id": 4,
+    "question_id": 11,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Vereka bin Nevfel",
+    "question": {
+      "bs": "Vereka je rekao da je Poslaniku ﷺ došao isti melek koji je dolazio Musau a.s.",
+      "de": "Waraqa sagte, dass zum Propheten ﷺ derselbe Engel kam, der auch zu Moses a.s. gekommen war."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Vereka je prepoznao znakove poslanstva i rekao: 'Ovo je bio Božiji povjerenik kojeg je Allah poslao i Musau. Ti si poslanik ovoga naroda!' Time je potvrdio da je Džibril dolazio i ranijim poslanicima.",
+      "de": "Waraqa erkannte die Zeichen des Prophetentums und sagte: 'Dies war der Vertraute Gottes, den Allah auch zu Moses gesandt hat. Du bist der Prophet dieses Volkes!' Damit bestätigte er, dass Gabriel auch zu früheren Propheten kam."
+    }
+  },
+  {
+    "quiz_id": 4,
+    "question_id": 12,
+    "type": "true_false",
+    "difficulty": "hard",
+    "source_section": "Vereka bin Nevfel",
+    "question": {
+      "bs": "Vereka je predvidio da će Poslanika ﷺ njegov narod progoniti.",
+      "de": "Waraqa sagte voraus, dass der Prophet ﷺ von seinem Volk verfolgt werden würde."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Vereka je rekao: 'Kamo sreće da sam mlađi! Ako dočekam taj dan kada te tvoj narod bude progonio, svesrdno ću ti pomoći!' Znao je iz ranijih knjiga da poslanici bivaju proganjani.",
+      "de": "Waraqa sagte: 'Wäre ich doch jünger! Wenn ich den Tag erlebe, an dem dein Volk dich vertreiben wird, werde ich dir von ganzem Herzen helfen!' Er wusste aus früheren Schriften, dass Propheten verfolgt werden."
+    }
+  },
+  {
+    "quiz_id": 4,
+    "question_id": 13,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Vereka bin Nevfel",
+    "question": {
+      "bs": "Vereka bin Nevfel je umro ubrzo nakon susreta sa Poslanikom ﷺ, prije početka javnog poziva.",
+      "de": "Waraqa ibn Nawfal starb kurz nach seinem Treffen mit dem Propheten ﷺ, vor Beginn des öffentlichen Aufrufs."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Vereka je umro uskoro nakon što je potvrdio poslanstvo Muhammeda ﷺ, prije nego što je počeo javni poziv u islam. Obećao je pomoć, ali nije doživio taj period.",
+      "de": "Waraqa starb kurz nachdem er das Prophetentum Muhammads ﷺ bestätigt hatte, bevor der öffentliche Aufruf zum Islam begann. Er versprach Hilfe, erlebte diese Zeit aber nicht mehr."
+    }
+  },
+  {
+    "quiz_id": 4,
+    "question_id": 14,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Prekid objave",
+    "question": {
+      "bs": "Nakon prve objave uslijedio je period prekida objave (fetre) koji je rastužio Poslanika ﷺ.",
+      "de": "Nach der ersten Offenbarung folgte eine Pause (Fatra), die den Propheten ﷺ betrübte."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Poslaniku ﷺ je neko vrijeme obustavljena objava, što ga je veoma opteretilo i rastužilo. Ovaj period je služio da se Poslanik ﷺ oslobodi straha i stekne samopouzdanje.",
+      "de": "Dem Propheten ﷺ wurde für einige Zeit die Offenbarung unterbrochen, was ihn sehr belastete und betrübte. Diese Periode diente dazu, dass der Prophet ﷺ seine Angst überwand und Selbstvertrauen gewann."
+    }
+  },
+  {
+    "quiz_id": 4,
+    "question_id": 15,
+    "type": "true_false",
+    "difficulty": "hard",
+    "source_section": "Prekid objave",
+    "question": {
+      "bs": "Za vrijeme prekida objave, Džibril a.s. se više puta ukazivao Poslaniku ﷺ da ga ohrabri.",
+      "de": "Während der Pause der Offenbarung erschien Gabriel a.s. dem Propheten ﷺ mehrmals, um ihn zu ermutigen."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Kada bi se Poslaniku ﷺ odužio period prekida objave i popeo na brdo, ukazao bi mu se Džibril govoreći: 'O Muhammede, ti si uistinu Allahov poslanik!' Te riječi bi mu dale snagu i volju da nastavi.",
+      "de": "Wenn sich die Pause der Offenbarung für den Propheten ﷺ verlängerte und er auf einen Berg stieg, erschien ihm Gabriel und sagte: 'O Muhammad, du bist wahrlich Allahs Gesandter!' Diese Worte gaben ihm Kraft und Willen weiterzumachen."
+    }
+  },
+  {
+    "quiz_id": 4,
+    "question_id": 16,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Sura Ed-Duha",
+    "question": {
+      "bs": "Sura Ed-Duha je objavljena da utješi Poslanika ﷺ nakon prekida objave.",
+      "de": "Die Sure Ad-Duha wurde offenbart, um den Propheten ﷺ nach der Pause der Offenbarung zu trösten."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Allah dž.š. je objavio suru Ed-Duha u kojoj se kune jutrom i noći: 'Gospodar tvoj, zbilja, nije te napustio ni omrznuo!' Time je Poslanik ﷺ utješen da ga Allah nije ostavio.",
+      "de": "Allah offenbarte die Sure Ad-Duha, in der Er beim Morgen und der Nacht schwört: 'Dein Herr hat dich wahrlich nicht verlassen noch dich gehasst!' Damit wurde der Prophet ﷺ getröstet, dass Allah ihn nicht verlassen hat."
+    }
+  },
+  {
+    "quiz_id": 4,
+    "question_id": 17,
+    "type": "true_false",
+    "difficulty": "easy",
+    "source_section": "Druga objava",
+    "question": {
+      "bs": "Druga objava Poslaniku ﷺ bile su riječi 'Ja ejjuhel-muddesir' - 'O ti pokriveni'.",
+      "de": "Die zweite Offenbarung an den Propheten ﷺ waren die Worte 'Ya ayyuhal-muddathir' - 'O du Bedeckter'."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Džibril a.s. je došao drugi put dok je Poslanik ﷺ sjedio na stolici između neba i zemlje, i objavio mu: 'O ti pokriveni, ustani i opominji!' (Sura El-Muddesir). Time je počela misija pozivanja.",
+      "de": "Gabriel a.s. kam ein zweites Mal, als der Prophet ﷺ auf einem Stuhl zwischen Himmel und Erde sass, und offenbarte ihm: 'O du Bedeckter, steh auf und warne!' (Sure Al-Muddathir). Damit begann die Missionsarbeit."
+    }
+  },
+  {
+    "quiz_id": 4,
+    "question_id": 18,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Druga objava",
+    "question": {
+      "bs": "Nakon objave sure El-Muddesir, objava je počela redovno dolaziti.",
+      "de": "Nach der Offenbarung der Sure Al-Muddathir begann die Offenbarung regelmässig zu kommen."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Poslanik ﷺ je ispričao: 'Zatim je Objava poslije toga redovno dolazila!' Nakon sure El-Muddesir nije bilo dužih prekida, već je objava kontinuirano stizala.",
+      "de": "Der Prophet ﷺ erzählte: 'Danach kam die Offenbarung regelmässig!' Nach der Sure Al-Muddathir gab es keine längeren Pausen mehr, sondern die Offenbarung kam kontinuierlich."
+    }
+  },
+  {
+    "quiz_id": 4,
+    "question_id": 19,
+    "type": "true_false",
+    "difficulty": "easy",
+    "source_section": "Tajni poziv",
+    "question": {
+      "bs": "Period tajnog pozivanja u islam trajao je tri godine.",
+      "de": "Die Phase des geheimen Aufrufs zum Islam dauerte drei Jahre."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Prošle su tri godine dok je Poslanikov ﷺ rad na islamu još uvijek bio tajan i pojedinačan. U ovom periodu oformila se skupina vjernika zasnova na bratstvu i međusobnom pomaganju.",
+      "de": "Drei Jahre vergingen, während die Arbeit des Propheten ﷺ am Islam noch geheim und individuell war. In dieser Zeit bildete sich eine Gruppe von Gläubigen, die auf Brüderlichkeit und gegenseitiger Hilfe basierte."
+    }
+  },
+  {
+    "quiz_id": 4,
+    "question_id": 20,
+    "type": "true_false",
+    "difficulty": "easy",
+    "source_section": "Hatidžin islam",
+    "question": {
+      "bs": "Hatidža r.a. je bila prva osoba koja je povjerovala u Poslanika ﷺ i primila islam.",
+      "de": "Khadidscha r.a. war die erste Person, die an den Propheten ﷺ glaubte und den Islam annahm."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Hatidža bint Huvejlid r.a. je povjerovala u Poslanika ﷺ kao poslanika i držala za istinito sve što mu je dolazilo od Allaha. Ona je bila prva koja je povjerovala u Allaha i Njegova Poslanika.",
+      "de": "Khadidscha bint Chuwailid r.a. glaubte an den Propheten ﷺ als Gesandten und hielt alles für wahr, was ihm von Allah kam. Sie war die erste, die an Allah und Seinen Gesandten glaubte."
+    }
+  },
+  {
+    "quiz_id": 4,
+    "question_id": 21,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Hatidžin islam",
+    "question": {
+      "bs": "Allah je obradovao Hatidžu r.a. kućom od biserja u Džennetu.",
+      "de": "Allah gab Khadidscha r.a. die frohe Botschaft eines Hauses aus Perlen im Paradies."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Poslanik ﷺ je rekao: 'Naređeno mi je da Hatidžu obradujem kućom od brušenog biserja, u kojoj nema ni buke ni muke!' To je nagrada za njenu bezrezervnu podršku.",
+      "de": "Der Prophet ﷺ sagte: 'Mir wurde befohlen, Khadidscha mit einem Haus aus geschliffenen Perlen frohe Botschaft zu bringen, in dem es weder Lärm noch Mühe gibt!' Dies ist die Belohnung für ihre bedingungslose Unterstützung."
+    }
+  },
+  {
+    "quiz_id": 4,
+    "question_id": 22,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Prvi muslimani",
+    "question": {
+      "bs": "Ali ibn Ebi Talib r.a. je imao 10 godina kada je primio islam kao prvo dijete musliman.",
+      "de": "Ali ibn Abi Talib r.a. war 10 Jahre alt, als er als erstes Kind den Islam annahm."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Ali ibn Ebi Talib r.a. je živio u kući Poslanika ﷺ koji ga je odgajao. Primio je islam kada je imao samo 10 godina, čime je postao prvo dijete koje je postalo musliman.",
+      "de": "Ali ibn Abi Talib r.a. lebte im Haus des Propheten ﷺ, der ihn erzog. Er nahm den Islam im Alter von nur 10 Jahren an und wurde damit das erste Kind, das Muslim wurde."
+    }
+  },
+  {
+    "quiz_id": 4,
+    "question_id": 23,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Prvi muslimani",
+    "question": {
+      "bs": "Ebu Bekr es-Siddik r.a. je bio prvi odrasli muškarac koji je primio islam.",
+      "de": "Abu Bakr as-Siddiq r.a. war der erste erwachsene Mann, der den Islam annahm."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Ebu Bekr r.a. je bio vjerni prijatelj Poslanika ﷺ. Kada mu je Poslanik ﷺ predočio islam, odmah je povjerovao bez oklijevanja. Bio je blizak svom narodu, veoma omiljen i pristupaćan.",
+      "de": "Abu Bakr r.a. war der treue Freund des Propheten ﷺ. Als ihm der Prophet ﷺ den Islam vorstellte, glaubte er sofort ohne Zögern. Er war seinem Volk nahe, sehr beliebt und zugänglich."
+    }
+  },
+  {
+    "quiz_id": 4,
+    "question_id": 24,
+    "type": "true_false",
+    "difficulty": "easy",
+    "source_section": "Prvi muslimani",
+    "question": {
+      "bs": "Zejd bin Haris r.a. je bio oslobođeni rob koji je primio islam među prvima.",
+      "de": "Zaid ibn Haritha r.a. war ein freigelassener Sklave, der zu den ersten gehörte, die den Islam annahmen."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Zejd bin Haris r.a. je bio štićenik Poslanika ﷺ kojeg je Hatidža poklonila Poslaniku, a on ga je oslobodio i posinio. Primio je islam prvog dana Resulullahovog djelovanja.",
+      "de": "Zaid ibn Haritha r.a. war der Schützling des Propheten ﷺ, den Khadidscha dem Propheten geschenkt hatte, und dieser befreite und adoptierte ihn. Er nahm den Islam am ersten Tag der Prophetschaft an."
+    }
+  },
+  {
+    "quiz_id": 4,
+    "question_id": 25,
+    "type": "true_false",
+    "difficulty": "hard",
+    "source_section": "Ebu Bekrova da'va",
+    "question": {
+      "bs": "Ebu Bekr r.a. je bio najbolji poznavalac kurejšijske genealogije.",
+      "de": "Abu Bakr r.a. war der beste Kenner der quraischitischen Genealogie."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Ebu Bekr r.a. je bio najbolji poznavalac kurejšijske genealogije i najviše je znao o njima, i dobro i loše. Bio je trgovac poznat po svojoj moralnosti i dobročinstvu.",
+      "de": "Abu Bakr r.a. war der beste Kenner der quraischitischen Genealogie und wusste am meisten über sie, sowohl Gutes als auch Schlechtes. Er war ein Händler, bekannt für seine Moral und Wohltätigkeit."
+    }
+  },
+  {
+    "quiz_id": 4,
+    "question_id": 26,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Ebu Bekrova da'va",
+    "question": {
+      "bs": "Putem Ebu Bekra r.a. islam su primili Osman bin Affan, Zubejr, Abdurrahman bin Auf, Sa'd bin Ebi Vekkas i Talha.",
+      "de": "Durch Abu Bakr r.a. nahmen Uthman ibn Affan, Zubair, Abdurrahman ibn Awf, Sa'd ibn Abi Waqqas und Talha den Islam an."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Ebu Bekr r.a. je odmah počeo pozivati u islam one u koje je imao povjerenje. Na taj način su islam primili Osman, Zubejr, Abdurrahman, Sa'd i Talha. Ova osmerica su bili prva prethodnica ostalima.",
+      "de": "Abu Bakr r.a. begann sofort, diejenigen zum Islam einzuladen, denen er vertraute. Auf diese Weise nahmen Uthman, Zubair, Abdurrahman, Sa'd und Talha den Islam an. Diese acht waren die ersten Vorreiter."
+    }
+  },
+  {
+    "quiz_id": 4,
+    "question_id": 27,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Bilal r.a.",
+    "question": {
+      "bs": "Bilal bin Rebbah r.a., Abesinac, bio je među prvim muslimanima.",
+      "de": "Bilal ibn Rabah r.a., ein Abessinier, gehörte zu den ersten Muslimen."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Bilal bin Rebbah r.a. je bio Abesinac koji je primio islam među prvima. Kasnije je postao prvi mujezin u islamu, poznat po svom lijepom glasu i izdržljivosti tokom progona.",
+      "de": "Bilal ibn Rabah r.a. war ein Abessinier, der zu den ersten gehörte, die den Islam annahmen. Später wurde er der erste Gebetsrufer im Islam, bekannt für seine schöne Stimme und Ausdauer während der Verfolgung."
+    }
+  },
+  {
+    "quiz_id": 4,
+    "question_id": 28,
+    "type": "true_false",
+    "difficulty": "hard",
+    "source_section": "Prvi muslimani",
+    "question": {
+      "bs": "Ibn Hišam je nabrojao više od četrdeset prvih muslimana iz različitih kurejšijskih porodica.",
+      "de": "Ibn Hischam zählte mehr als vierzig der ersten Muslime aus verschiedenen quraischitischen Familien auf."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Ibn Hišam je u svojoj Siri nabrojao više od četrdeset prvih muslimana. Oni su bili iz svih kurejšijskih porodica, a oko ubrajanja nekih ljudi u prve muslimane ne postoji potpuna sigurnost.",
+      "de": "Ibn Hischam zählte in seiner Sira mehr als vierzig der ersten Muslime auf. Sie kamen aus allen quraischitischen Familien, und bei der Zuordnung einiger Personen zu den ersten Muslimen besteht keine vollständige Sicherheit."
+    }
+  },
+  {
+    "quiz_id": 4,
+    "question_id": 29,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Tajni sastanci",
+    "question": {
+      "bs": "Poslanik ﷺ se sastajao sa prvim muslimanima na tajnim mjestima, daleko od očiju javnosti.",
+      "de": "Der Prophet ﷺ traf sich mit den ersten Muslimen an geheimen Orten, fern von der Öffentlichkeit."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Svi prvi muslimani su primili islam tajno. Poslanik ﷺ se sastajao s njima na određenim mjestima i tumačio im islam daleko od očiju javnosti. Njegova misija je još uvijek bila tajna.",
+      "de": "Alle ersten Muslime nahmen den Islam im Geheimen an. Der Prophet ﷺ traf sich mit ihnen an bestimmten Orten und erklärte ihnen den Islam fern von der Öffentlichkeit. Seine Mission war noch geheim."
+    }
+  },
+  {
+    "quiz_id": 4,
+    "question_id": 30,
+    "type": "true_false",
+    "difficulty": "hard",
+    "source_section": "Kuća Erkama",
+    "question": {
+      "bs": "Kuća El-Erkama bin Ebi-l-Erkama na brežuljku Safa bila je mjesto tajnih sastanaka muslimana.",
+      "de": "Das Haus von Al-Arqam ibn Abi-l-Arqam auf dem Hügel Safa war der Ort der geheimen Treffen der Muslime."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "U kući El-Erkama bin Ebi-l-Erkama na brežuljku Safa se Poslanik ﷺ skrivao od mekanskih Kurejšija i u njoj pozivao ljude u islam. Tako je trajalo sve dok broj muslimana nije dostigao četrdeset.",
+      "de": "Im Haus von Al-Arqam ibn Abi-l-Arqam auf dem Hügel Safa verbarg sich der Prophet ﷺ vor den mekkanischen Quraisch und lud dort Menschen zum Islam ein. Dies dauerte, bis die Zahl der Muslime vierzig erreichte."
+    }
+  },
+  {
+    "quiz_id": 4,
+    "question_id": 31,
+    "type": "true_false",
+    "difficulty": "hard",
+    "source_section": "Kuća Erkama",
+    "question": {
+      "bs": "Muslimani su izašli iz kuće Erkama tek kada je njihov broj sa Omerovim islamom dostigao četrdeset.",
+      "de": "Die Muslime verliessen das Haus von Arqam erst, als ihre Zahl mit Omars Islam vierzig erreichte."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "U kući Erkama su se skrivali sve dok broj muslimana, s Omerovim prihvaćanjem islama, nije dostigao četrdeset ljudi. Nakon toga su izašli iz te kuće i počeli javno prakticirati vjeru.",
+      "de": "Sie versteckten sich im Haus von Arqam, bis die Zahl der Muslime mit Omars Annahme des Islams vierzig Menschen erreichte. Danach verliessen sie das Haus und begannen, ihren Glauben öffentlich zu praktizieren."
+    }
+  },
+  {
+    "quiz_id": 4,
+    "question_id": 32,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Namaz",
+    "question": {
+      "bs": "Namaz je bio među prvim naredbama koje su objavljene na početku islama.",
+      "de": "Das Gebet gehörte zu den ersten Geboten, die zu Beginn des Islams offenbart wurden."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Među prvim naredbama koje su objavljene početkom silaska Objave bila je naredba o klanjanju namaza. Propisana su dva rekata dnevno i dva noćna rekata, prije propisa pet dnevnih namaza.",
+      "de": "Zu den ersten Geboten, die zu Beginn der Offenbarung offenbart wurden, gehörte das Gebot des Gebets. Es wurden zwei Gebetseinheiten am Tag und zwei in der Nacht vorgeschrieben, vor der Vorschrift der fünf täglichen Gebete."
+    }
+  },
+  {
+    "quiz_id": 4,
+    "question_id": 33,
+    "type": "true_false",
+    "difficulty": "hard",
+    "source_section": "Namaz",
+    "question": {
+      "bs": "Džibril a.s. je došao Poslaniku ﷺ i naučio ga uzimanju abdesta na početku Objave.",
+      "de": "Gabriel a.s. kam zum Propheten ﷺ und lehrte ihn zu Beginn der Offenbarung die rituelle Waschung (Wudu)."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Haris bin Usama prenosi da je Poslaniku ﷺ s početka Objave došao Džibril, pa ga naučio uzimanju abdesta. Ovo je bila jedna od prvih naredbi u islamu.",
+      "de": "Harith ibn Usama überliefert, dass Gabriel zu Beginn der Offenbarung zum Propheten ﷺ kam und ihn die rituelle Waschung lehrte. Dies war eines der ersten Gebote im Islam."
+    }
+  },
+  {
+    "quiz_id": 4,
+    "question_id": 34,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Tajni namaz",
+    "question": {
+      "bs": "Poslanik ﷺ je sa ashabima odlazio u klance Mekke da kriomice obavljaju namaz.",
+      "de": "Der Prophet ﷺ ging mit den Gefährten in die Schluchten Mekkas, um heimlich das Gebet zu verrichten."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Poslanik ﷺ je sa svojim drugovima odlazio u vrijeme namaza u klanac, te bi kriomice klanjali da ih narod ne bi vidio. Tako su činili danima u periodu tajnog pozivanja.",
+      "de": "Der Prophet ﷺ ging mit seinen Gefährten zur Gebetszeit in eine Schlucht und sie beteten heimlich, damit das Volk sie nicht sah. So taten sie es tagelang in der Zeit des geheimen Aufrufs."
+    }
+  },
+  {
+    "quiz_id": 4,
+    "question_id": 35,
+    "type": "true_false",
+    "difficulty": "hard",
+    "source_section": "Ebu Talib",
+    "question": {
+      "bs": "Ebu Talib je jednom vidio Poslanika ﷺ i Aliju r.a. kako klanjaju, ali im je rekao da budu ustrajni.",
+      "de": "Abu Talib sah einmal den Propheten ﷺ und Ali r.a. beim Gebet, aber er sagte ihnen, sie sollten standhaft bleiben."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Ebu Talib je vidio Poslanika ﷺ i Aliju kako klanjaju u klancu. Kada je saznao o čemu se radi, naložio im je da budu ustrajni i nepokolebljivi, obećavši da ih štiti dok je živ.",
+      "de": "Abu Talib sah den Propheten ﷺ und Ali in einer Schlucht beten. Als er erfuhr, worum es ging, befahl er ihnen, standhaft und unbeugsam zu bleiben, und versprach, sie zu beschützen, solange er lebt."
+    }
+  },
+  {
+    "quiz_id": 4,
+    "question_id": 36,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "source_section": "Prva objava",
+    "question": {
+      "bs": "U kojoj pećini je Poslanik ﷺ primio prvu objavu?",
+      "de": "In welcher Höhle empfing der Prophet ﷺ die erste Offenbarung?"
+    },
+    "options": {
+      "bs": [
+        "Pećina Arafat",
+        "Pećina Hira",
+        "Pećina Sevr",
+        "Pećina Kahf"
+      ],
+      "de": [
+        "Höhle Arafat",
+        "Höhle Hira",
+        "Höhle Thawr",
+        "Höhle Kahf"
+      ]
+    },
+    "correct": {
+      "bs": "Pećina Hira",
+      "de": "Höhle Hira"
+    },
+    "explanation": {
+      "bs": "Prva objava je došla u pećini Hira na brdu Nur, približno 2 milje od Mekke. Poslanik ﷺ se tamo osamljivao svake godine u mjesecu ramazanu prije početka poslanstva.",
+      "de": "Die erste Offenbarung kam in der Höhle Hira auf dem Berg Nur, etwa 2 Meilen von Mekka entfernt. Der Prophet ﷺ zog sich dort jedes Jahr im Monat Ramadan vor Beginn des Prophetentums zurück."
+    }
+  },
+  {
+    "quiz_id": 4,
+    "question_id": 37,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "source_section": "Prva objava",
+    "question": {
+      "bs": "Koliko je godina imao Poslanik ﷺ kada je primio prvu objavu?",
+      "de": "Wie alt war der Prophet ﷺ, als er die erste Offenbarung empfing?"
+    },
+    "options": {
+      "bs": [
+        "35 godina",
+        "50 godina",
+        "40 godina",
+        "45 godina"
+      ],
+      "de": [
+        "35 Jahre",
+        "50 Jahre",
+        "40 Jahre",
+        "45 Jahre"
+      ]
+    },
+    "correct": {
+      "bs": "40 godina",
+      "de": "40 Jahre"
+    },
+    "explanation": {
+      "bs": "Poslanik ﷺ je napunio četrdesetu godinu života kada je primio prvu objavu. Četrdeseta godina se smatra godinom potpune zrelosti čovjeka.",
+      "de": "Der Prophet ﷺ vollendete sein vierzigstes Lebensjahr, als er die erste Offenbarung empfing. Das vierzigste Jahr gilt als Jahr der vollständigen Reife des Menschen."
+    }
+  },
+  {
+    "quiz_id": 4,
+    "question_id": 38,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "source_section": "Prva objava",
+    "question": {
+      "bs": "Koji melek je donio prvu objavu Poslaniku ﷺ?",
+      "de": "Welcher Engel brachte die erste Offenbarung zum Propheten ﷺ?"
+    },
+    "options": {
+      "bs": [
+        "Mikail",
+        "Džibril",
+        "Azrail",
+        "Israfil"
+      ],
+      "de": [
+        "Mikail",
+        "Gabriel",
+        "Azrail",
+        "Israfil"
+      ]
+    },
+    "correct": {
+      "bs": "Džibril",
+      "de": "Gabriel"
+    },
+    "explanation": {
+      "bs": "Džibril a.s., Allahov povjerenik, donio je prvu objavu Poslaniku ﷺ. On je isti melek koji je dolazio i ranijim poslanicima poput Musaa a.s.",
+      "de": "Gabriel a.s., der Vertraute Allahs, brachte die erste Offenbarung zum Propheten ﷺ. Er ist derselbe Engel, der auch zu früheren Propheten wie Moses a.s. kam."
+    }
+  },
+  {
+    "quiz_id": 4,
+    "question_id": 39,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Prva objava",
+    "question": {
+      "bs": "U kojem mjesecu je došla prva objava?",
+      "de": "In welchem Monat kam die erste Offenbarung?"
+    },
+    "options": {
+      "bs": [
+        "Ševval",
+        "Redžeb",
+        "Ša'ban",
+        "Ramazan"
+      ],
+      "de": [
+        "Schawwal",
+        "Radschab",
+        "Schaban",
+        "Ramadan"
+      ]
+    },
+    "correct": {
+      "bs": "Ramazan",
+      "de": "Ramadan"
+    },
+    "explanation": {
+      "bs": "Objava Kur'ana je započeta u mjesecu ramazanu, u noći Kadr (Lejletul-Kadr). Allah dž.š. kaže: 'U mjesecu ramazanu počelo je objavljivanje Kur'ana.'",
+      "de": "Die Offenbarung des Korans begann im Monat Ramadan, in der Nacht der Bestimmung (Lailat al-Qadr). Allah sagt: 'Im Monat Ramadan begann die Offenbarung des Korans.'"
+    }
+  },
+  {
+    "quiz_id": 4,
+    "question_id": 40,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Prva objava",
+    "question": {
+      "bs": "Koja sura sadrži prve objavljene ajete?",
+      "de": "Welche Sure enthält die ersten offenbarten Verse?"
+    },
+    "options": {
+      "bs": [
+        "El-Alek (Ikre)",
+        "El-Fatiha",
+        "El-Muddesir",
+        "El-Bekara"
+      ],
+      "de": [
+        "Al-Alaq (Iqra)",
+        "Al-Fatiha",
+        "Al-Muddathir",
+        "Al-Baqara"
+      ]
+    },
+    "correct": {
+      "bs": "El-Alek (Ikre)",
+      "de": "Al-Alaq (Iqra)"
+    },
+    "explanation": {
+      "bs": "Prvi objavljeni ajeti su iz sure El-Alek: 'Uči, čitaj, u ime tvoga Gospodara koji stvara, stvara čovjeka od ugruška. Čitaj, plemenit je Gospodar tvoj, koji poučava peru...'",
+      "de": "Die ersten offenbarten Verse stammen aus der Sure Al-Alaq: 'Lies, im Namen deines Herrn, der erschuf, erschuf den Menschen aus einem Blutklumpen. Lies, und dein Herr ist der Edelmütige, der durch die Feder lehrte...'"
+    }
+  },
+  {
+    "quiz_id": 4,
+    "question_id": 41,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Prva objava",
+    "question": {
+      "bs": "Prema kalendarskim proračunima, kojeg datuma po gregorijanskom kalendaru je počela objava?",
+      "de": "Nach Kalenderberechnungen, an welchem Datum nach dem gregorianischen Kalender begann die Offenbarung?"
+    },
+    "options": {
+      "bs": [
+        "21. jula 610. godine",
+        "10. augusta 610. godine",
+        "15. septembra 610. godine",
+        "1. januara 611. godine"
+      ],
+      "de": [
+        "21. Juli 610 n. Chr.",
+        "10. August 610 n. Chr.",
+        "15. September 610 n. Chr.",
+        "1. Januar 611 n. Chr."
+      ]
+    },
+    "correct": {
+      "bs": "10. augusta 610. godine",
+      "de": "10. August 610 n. Chr."
+    },
+    "explanation": {
+      "bs": "Prema kalendarskim proračunima, objavljivanje Kur'ana je počelo u ponedjeljak, 21. ramazana, što odgovara 10. augustu 610. godine po gregorijanskom kalendaru.",
+      "de": "Nach Kalenderberechnungen begann die Offenbarung des Korans am Montag, dem 21. Ramadan, was dem 10. August 610 n. Chr. nach dem gregorianischen Kalender entspricht."
+    }
+  },
+  {
+    "quiz_id": 4,
+    "question_id": 42,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Prva objava",
+    "question": {
+      "bs": "Šta je Poslanik ﷺ rekao Hatidži r.a. kada se vratio kući nakon prve objave?",
+      "de": "Was sagte der Prophet ﷺ zu Khadidscha r.a., als er nach der ersten Offenbarung nach Hause kam?"
+    },
+    "options": {
+      "bs": [
+        "'Prekrijte me, prekrijte me!'",
+        "'Ostavite me na miru!'",
+        "'Donesite mi vode!'",
+        "'Nahranite me!'"
+      ],
+      "de": [
+        "'Bedeckt mich, bedeckt mich!'",
+        "'Lasst mich in Ruhe!'",
+        "'Bringt mir Wasser!'",
+        "'Gebt mir zu essen!'"
+      ]
+    },
+    "correct": {
+      "bs": "'Prekrijte me, prekrijte me!'",
+      "de": "'Bedeckt mich, bedeckt mich!'"
+    },
+    "explanation": {
+      "bs": "Poslanik ﷺ se vratio uzbuđen i usplahiren i rekao: 'Zemmiluni, zemmiluni!' (Prekrijte me, prekrijte me!). Kada se smirio, ispričao je Hatidži šta se dogodilo.",
+      "de": "Der Prophet ﷺ kehrte aufgeregt und erschrocken zurück und sagte: 'Zammiluni, zammiluni!' (Bedeckt mich, bedeckt mich!). Als er sich beruhigt hatte, erzählte er Khadidscha, was geschehen war."
+    }
+  },
+  {
+    "quiz_id": 4,
+    "question_id": 43,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Vereka bin Nevfel",
+    "question": {
+      "bs": "Ko je bio Vereka bin Nevfel u odnosu na Hatidžu r.a.?",
+      "de": "Wer war Waraqa ibn Nawfal in Bezug auf Khadidscha r.a.?"
+    },
+    "options": {
+      "bs": [
+        "Njen djed",
+        "Njen brat",
+        "Njen amidžić",
+        "Njen otac"
+      ],
+      "de": [
+        "Ihr Grossvater",
+        "Ihr Bruder",
+        "Ihr Cousin",
+        "Ihr Vater"
+      ]
+    },
+    "correct": {
+      "bs": "Njen amidžić",
+      "de": "Ihr Cousin"
+    },
+    "explanation": {
+      "bs": "Vereka bin Nevfel je bio Hatidžin amidžić (sin njenog amidže). Bio je kršćanin koji je znao pisati na hebrejskom i prepisivao je Evanđelje.",
+      "de": "Waraqa ibn Nawfal war Khadidschas Cousin (Sohn ihres Onkels väterlicherseits). Er war ein Christ, der Hebräisch schreiben konnte und das Evangelium kopierte."
+    }
+  },
+  {
+    "quiz_id": 4,
+    "question_id": 44,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Vereka bin Nevfel",
+    "question": {
+      "bs": "Na kojem jeziku je Vereka bin Nevfel prepisivao Evanđelje?",
+      "de": "In welcher Sprache kopierte Waraqa ibn Nawfal das Evangelium?"
+    },
+    "options": {
+      "bs": [
+        "Arapskom",
+        "Latinskom",
+        "Grčkom",
+        "Hebrejskom"
+      ],
+      "de": [
+        "Arabisch",
+        "Latein",
+        "Griechisch",
+        "Hebräisch"
+      ]
+    },
+    "correct": {
+      "bs": "Hebrejskom",
+      "de": "Hebräisch"
+    },
+    "explanation": {
+      "bs": "Vereka bin Nevfel je znao pisati na hebrejskom jeziku i prepisivao je Evanđelje (Indžil) na hebrejski. Bio je slijep i sijed starac.",
+      "de": "Waraqa ibn Nawfal konnte Hebräisch schreiben und kopierte das Evangelium (Indschil) ins Hebräische. Er war ein blinder, grauhaariger alter Mann."
+    }
+  },
+  {
+    "quiz_id": 4,
+    "question_id": 45,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Vereka bin Nevfel",
+    "question": {
+      "bs": "Šta je Vereka rekao kada je čuo za Poslanikovo ﷺ iskustvo u pećini Hira?",
+      "de": "Was sagte Waraqa, als er von der Erfahrung des Propheten ﷺ in der Höhle Hira hörte?"
+    },
+    "options": {
+      "bs": [
+        "'Ovo je bio Božiji povjerenik koji je dolazio i Musau'",
+        "'Treba se bojati'",
+        "'Ne znam šta je ovo'",
+        "'Ovo nije ništa važno'"
+      ],
+      "de": [
+        "'Dies war der Vertraute Gottes, der auch zu Moses kam'",
+        "'Man sollte sich fürchten'",
+        "'Ich weiss nicht, was das ist'",
+        "'Das ist nichts Wichtiges'"
+      ]
+    },
+    "correct": {
+      "bs": "'Ovo je bio Božiji povjerenik koji je dolazio i Musau'",
+      "de": "'Dies war der Vertraute Gottes, der auch zu Moses kam'"
+    },
+    "explanation": {
+      "bs": "Vereka je prepoznao znakove poslanstva i rekao: 'Ovo je bio Božiji povjerenik kojeg je Allah poslao i Musau. Ti si poslanik ovoga naroda!'",
+      "de": "Waraqa erkannte die Zeichen des Prophetentums und sagte: 'Dies war der Vertraute Gottes, den Allah auch zu Moses gesandt hat. Du bist der Prophet dieses Volkes!'"
+    }
+  },
+  {
+    "quiz_id": 4,
+    "question_id": 46,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Sura Ed-Duha",
+    "question": {
+      "bs": "Koja sura je objavljena da utješi Poslanika ﷺ nakon prekida objave?",
+      "de": "Welche Sure wurde offenbart, um den Propheten ﷺ nach der Pause der Offenbarung zu trösten?"
+    },
+    "options": {
+      "bs": [
+        "Sura El-Fatiha",
+        "Sura En-Nas",
+        "Sura Ed-Duha",
+        "Sura El-Ihlas"
+      ],
+      "de": [
+        "Sure Al-Fatiha",
+        "Sure An-Nas",
+        "Sure Ad-Duha",
+        "Sure Al-Ikhlas"
+      ]
+    },
+    "correct": {
+      "bs": "Sura Ed-Duha",
+      "de": "Sure Ad-Duha"
+    },
+    "explanation": {
+      "bs": "Sura Ed-Duha je objavljena da utješi Poslanika ﷺ riječima: 'Gospodar tvoj, zbilja, nije te napustio ni omrznuo!' Allah se kune jutrom i noći da nije ostavio Svoga Poslanika.",
+      "de": "Die Sure Ad-Duha wurde offenbart, um den Propheten ﷺ mit den Worten zu trösten: 'Dein Herr hat dich wahrlich nicht verlassen noch dich gehasst!' Allah schwört beim Morgen und der Nacht, dass Er Seinen Gesandten nicht verlassen hat."
+    }
+  },
+  {
+    "quiz_id": 4,
+    "question_id": 47,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "source_section": "Druga objava",
+    "question": {
+      "bs": "Koja sura sadrži riječi 'O ti pokriveni, ustani i opominji!'?",
+      "de": "Welche Sure enthält die Worte 'O du Bedeckter, steh auf und warne!'?"
+    },
+    "options": {
+      "bs": [
+        "Sura El-Alek",
+        "Sura El-Muzzemmil",
+        "Sura El-Muddesir",
+        "Sura El-Fatiha"
+      ],
+      "de": [
+        "Sure Al-Alaq",
+        "Sure Al-Muzzammil",
+        "Sure Al-Muddathir",
+        "Sure Al-Fatiha"
+      ]
+    },
+    "correct": {
+      "bs": "Sura El-Muddesir",
+      "de": "Sure Al-Muddathir"
+    },
+    "explanation": {
+      "bs": "Sura El-Muddesir sadrži riječi: 'O ti pokriveni (muddesir), ustani i opominji!' Ovo je bila druga objava nakon prekida i označila je početak misije javnog pozivanja.",
+      "de": "Die Sure Al-Muddathir enthält die Worte: 'O du Bedeckter (Muddathir), steh auf und warne!' Dies war die zweite Offenbarung nach der Pause und markierte den Beginn der Mission des öffentlichen Aufrufs."
+    }
+  },
+  {
+    "quiz_id": 4,
+    "question_id": 48,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "source_section": "Tajni poziv",
+    "question": {
+      "bs": "Koliko je trajao period tajnog pozivanja u islam?",
+      "de": "Wie lange dauerte die Phase des geheimen Aufrufs zum Islam?"
+    },
+    "options": {
+      "bs": [
+        "2 godine",
+        "1 godinu",
+        "3 godine",
+        "5 godina"
+      ],
+      "de": [
+        "2 Jahre",
+        "1 Jahr",
+        "3 Jahre",
+        "5 Jahre"
+      ]
+    },
+    "correct": {
+      "bs": "3 godine",
+      "de": "3 Jahre"
+    },
+    "explanation": {
+      "bs": "Period tajnog pozivanja u islam trajao je tri godine. U tom periodu Poslanik ﷺ je pozivao najbliže ljude i one u koje je imao povjerenje, daleko od očiju javnosti.",
+      "de": "Die Phase des geheimen Aufrufs zum Islam dauerte drei Jahre. In dieser Zeit rief der Prophet ﷺ die ihm nahestehenden Menschen und jene, denen er vertraute, fern von der Öffentlichkeit."
+    }
+  },
+  {
+    "quiz_id": 4,
+    "question_id": 49,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "source_section": "Prvi muslimani",
+    "question": {
+      "bs": "Ko je bila prva osoba koja je primila islam?",
+      "de": "Wer war die erste Person, die den Islam annahm?"
+    },
+    "options": {
+      "bs": [
+        "Ali ibn Ebi Talib r.a.",
+        "Ebu Bekr r.a.",
+        "Hatidža r.a.",
+        "Zejd bin Haris r.a."
+      ],
+      "de": [
+        "Ali ibn Abi Talib r.a.",
+        "Abu Bakr r.a.",
+        "Khadidscha r.a.",
+        "Zaid ibn Haritha r.a."
+      ]
+    },
+    "correct": {
+      "bs": "Hatidža r.a.",
+      "de": "Khadidscha r.a."
+    },
+    "explanation": {
+      "bs": "Hatidža bint Huvejlid r.a. je bila prva osoba koja je povjerovala u Poslanika ﷺ kao poslanika i primila islam. Bila je njegova supruga i najjača podrška.",
+      "de": "Khadidscha bint Chuwailid r.a. war die erste Person, die an den Propheten ﷺ als Gesandten glaubte und den Islam annahm. Sie war seine Ehefrau und stärkste Unterstützung."
+    }
+  },
+  {
+    "quiz_id": 4,
+    "question_id": 50,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "source_section": "Prvi muslimani",
+    "question": {
+      "bs": "Ko je bio prvi odrasli muškarac koji je primio islam?",
+      "de": "Wer war der erste erwachsene Mann, der den Islam annahm?"
+    },
+    "options": {
+      "bs": [
+        "Omer ibn el-Hattab r.a.",
+        "Hamza r.a.",
+        "Ebu Bekr es-Siddik r.a.",
+        "Osman bin Affan r.a."
+      ],
+      "de": [
+        "Omar ibn al-Chattab r.a.",
+        "Hamza r.a.",
+        "Abu Bakr as-Siddiq r.a.",
+        "Uthman ibn Affan r.a."
+      ]
+    },
+    "correct": {
+      "bs": "Ebu Bekr es-Siddik r.a.",
+      "de": "Abu Bakr as-Siddiq r.a."
+    },
+    "explanation": {
+      "bs": "Ebu Bekr es-Siddik r.a. je bio prvi odrasli muškarac (slobodnjak) koji je primio islam. Bio je vjerni prijatelj Poslanika ﷺ i odmah je povjerovao bez oklijevanja.",
+      "de": "Abu Bakr as-Siddiq r.a. war der erste erwachsene freie Mann, der den Islam annahm. Er war der treue Freund des Propheten ﷺ und glaubte sofort ohne Zögern."
+    }
+  },
+  {
+    "quiz_id": 4,
+    "question_id": 51,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Prvi muslimani",
+    "question": {
+      "bs": "Koliko je godina imao Ali ibn Ebi Talib r.a. kada je primio islam?",
+      "de": "Wie alt war Ali ibn Abi Talib r.a., als er den Islam annahm?"
+    },
+    "options": {
+      "bs": [
+        "15 godina",
+        "7 godina",
+        "10 godina",
+        "13 godina"
+      ],
+      "de": [
+        "15 Jahre",
+        "7 Jahre",
+        "10 Jahre",
+        "13 Jahre"
+      ]
+    },
+    "correct": {
+      "bs": "10 godina",
+      "de": "10 Jahre"
+    },
+    "explanation": {
+      "bs": "Ali ibn Ebi Talib r.a. je primio islam kada je imao samo 10 godina. Živio je u kući Poslanika ﷺ koji ga je odgajao, i bio je prvo dijete koje je postalo musliman.",
+      "de": "Ali ibn Abi Talib r.a. nahm den Islam im Alter von nur 10 Jahren an. Er lebte im Haus des Propheten ﷺ, der ihn erzog, und war das erste Kind, das Muslim wurde."
+    }
+  },
+  {
+    "quiz_id": 4,
+    "question_id": 52,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Ali kod Poslanika",
+    "question": {
+      "bs": "Zašto je Ali ibn Ebi Talib r.a. živio u kući Poslanika ﷺ?",
+      "de": "Warum lebte Ali ibn Abi Talib r.a. im Haus des Propheten ﷺ?"
+    },
+    "options": {
+      "bs": [
+        "Jer je želio učiti od Poslanika ﷺ",
+        "Jer je Ebu Talib imao puno djece i bila je nestašica",
+        "Jer je bio siroče",
+        "Jer su ga roditelji napustili"
+      ],
+      "de": [
+        "Weil er vom Propheten ﷺ lernen wollte",
+        "Weil Abu Talib viele Kinder hatte und es eine Krise gab",
+        "Weil er eine Waise war",
+        "Weil seine Eltern ihn verlassen hatten"
+      ]
+    },
+    "correct": {
+      "bs": "Jer je Ebu Talib imao puno djece i bila je nestašica",
+      "de": "Weil Abu Talib viele Kinder hatte und es eine Krise gab"
+    },
+    "explanation": {
+      "bs": "Kurejšije su jednom bile zapale u veliku krizu, a Ebu Talib je imao puno djece. Poslanik ﷺ je predložio da pomognu Ebu Talibu, pa je uzeo Aliju k sebi, a Abbas je uzeo Džafera.",
+      "de": "Die Quraisch gerieten einmal in eine grosse Krise, und Abu Talib hatte viele Kinder. Der Prophet ﷺ schlug vor, Abu Talib zu helfen, also nahm er Ali zu sich, und Abbas nahm Dschafar."
+    }
+  },
+  {
+    "quiz_id": 4,
+    "question_id": 53,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Zejd bin Haris",
+    "question": {
+      "bs": "Ko je poklonio Zejda bin Harisa r.a. Poslaniku ﷺ?",
+      "de": "Wer schenkte Zaid ibn Haritha r.a. dem Propheten ﷺ?"
+    },
+    "options": {
+      "bs": [
+        "Hatidža r.a.",
+        "Abbas r.a.",
+        "Ebu Bekr r.a.",
+        "Ebu Talib"
+      ],
+      "de": [
+        "Khadidscha r.a.",
+        "Abbas r.a.",
+        "Abu Bakr r.a.",
+        "Abu Talib"
+      ]
+    },
+    "correct": {
+      "bs": "Hatidža r.a.",
+      "de": "Khadidscha r.a."
+    },
+    "explanation": {
+      "bs": "Zejda bin Harisa je doveo Hakim bin Hizam kao roba iz Šama. Hatidža ga je odabrala od njega, a zatim ga poklonila Poslaniku ﷺ koji ga je oslobodio i posinio.",
+      "de": "Zaid ibn Haritha wurde von Hakim ibn Hizam als Sklave aus Syrien gebracht. Khadidscha wählte ihn aus und schenkte ihn dann dem Propheten ﷺ, der ihn befreite und adoptierte."
+    }
+  },
+  {
+    "quiz_id": 4,
+    "question_id": 54,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Ebu Bekrova da'va",
+    "question": {
+      "bs": "Koliko je prvih muslimana primilo islam putem Ebu Bekrovog r.a. pozivanja?",
+      "de": "Wie viele der ersten Muslime nahmen den Islam durch Abu Bakrs r.a. Aufruf an?"
+    },
+    "options": {
+      "bs": [
+        "10",
+        "3",
+        "7",
+        "5"
+      ],
+      "de": [
+        "10",
+        "3",
+        "7",
+        "5"
+      ]
+    },
+    "correct": {
+      "bs": "5",
+      "de": "5"
+    },
+    "explanation": {
+      "bs": "Putem Ebu Bekra r.a. islam su primili Osman bin Affan, Zubejr bin el-Avvam, Abdurrahman bin Auf, Sa'd bin Ebi Vekkas i Talha bin Ubejdullah - ukupno petero.",
+      "de": "Durch Abu Bakr r.a. nahmen Uthman ibn Affan, Zubair ibn al-Awwam, Abdurrahman ibn Awf, Sa'd ibn Abi Waqqas und Talha ibn Ubaidullah den Islam an - insgesamt fünf."
+    }
+  },
+  {
+    "quiz_id": 4,
+    "question_id": 55,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Kuća Erkama",
+    "question": {
+      "bs": "Gdje se nalazila kuća El-Erkama u kojoj su se tajno sastajali muslimani?",
+      "de": "Wo befand sich das Haus von Al-Arqam, in dem sich die Muslime heimlich trafen?"
+    },
+    "options": {
+      "bs": [
+        "U dolini Mine",
+        "Na brežuljku Safa",
+        "Na brdu Uhud",
+        "Na brdu Nur"
+      ],
+      "de": [
+        "Im Tal von Mina",
+        "Auf dem Hügel Safa",
+        "Auf dem Berg Uhud",
+        "Auf dem Berg Nur"
+      ]
+    },
+    "correct": {
+      "bs": "Na brežuljku Safa",
+      "de": "Auf dem Hügel Safa"
+    },
+    "explanation": {
+      "bs": "Kuća El-Erkama bin Ebi-l-Erkama se nalazila na brežuljku Safa. Tu se Poslanik ﷺ skrivao od Kurejšija i u njoj pozivao ljude u islam tokom perioda tajnog poziva.",
+      "de": "Das Haus von Al-Arqam ibn Abi-l-Arqam befand sich auf dem Hügel Safa. Dort verbarg sich der Prophet ﷺ vor den Quraisch und lud dort Menschen zum Islam ein während der Zeit des geheimen Aufrufs."
+    }
+  },
+  {
+    "quiz_id": 4,
+    "question_id": 56,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Kuća Erkama",
+    "question": {
+      "bs": "Koliko je muslimana bilo kada su izašli iz kuće Erkama?",
+      "de": "Wie viele Muslime gab es, als sie das Haus von Arqam verliessen?"
+    },
+    "options": {
+      "bs": [
+        "50",
+        "40",
+        "30",
+        "20"
+      ],
+      "de": [
+        "50",
+        "40",
+        "30",
+        "20"
+      ]
+    },
+    "correct": {
+      "bs": "40",
+      "de": "40"
+    },
+    "explanation": {
+      "bs": "Muslimani su izašli iz kuće Erkama tek kada je njihov broj, s Omerovim prihvaćanjem islama, dostigao četrdeset ljudi. To je bio prelomni momenat za javni nastup.",
+      "de": "Die Muslime verliessen das Haus von Arqam erst, als ihre Zahl mit Omars Annahme des Islams vierzig Menschen erreichte. Dies war der Wendepunkt für den öffentlichen Auftritt."
+    }
+  },
+  {
+    "quiz_id": 4,
+    "question_id": 57,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Namaz",
+    "question": {
+      "bs": "Koliko je rekata namaza bilo propisano na početku islama prije Isra'a?",
+      "de": "Wie viele Gebetseinheiten waren zu Beginn des Islams vor der Nachtreise vorgeschrieben?"
+    },
+    "options": {
+      "bs": [
+        "5 dnevnih namaza",
+        "1 rekat dnevno",
+        "3 rekata ujutro i 3 navečer",
+        "2 rekata dnevno i 2 noćna"
+      ],
+      "de": [
+        "5 tägliche Gebete",
+        "1 Einheit pro Tag",
+        "3 Einheiten morgens und 3 abends",
+        "2 Einheiten am Tag und 2 nachts"
+      ]
+    },
+    "correct": {
+      "bs": "2 rekata dnevno i 2 noćna",
+      "de": "2 Einheiten am Tag und 2 nachts"
+    },
+    "explanation": {
+      "bs": "Allah dž.š. je propisao namaz početkom islama - dva rekata dnevno i dva noćna rekata, prije propisa pet dnevnih namaza koji je došao na Isra'u i Mi'radžu.",
+      "de": "Allah schrieb das Gebet zu Beginn des Islams vor - zwei Einheiten am Tag und zwei in der Nacht, bevor die fünf täglichen Gebete bei der Nachtreise und Himmelfahrt vorgeschrieben wurden."
+    }
+  },
+  {
+    "quiz_id": 4,
+    "question_id": 58,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Prva krv u islamu",
+    "question": {
+      "bs": "Ko je prolijo prvu krv u islamu branivši muslimane?",
+      "de": "Wer vergoss das erste Blut im Islam bei der Verteidigung der Muslime?"
+    },
+    "options": {
+      "bs": [
+        "Omer r.a.",
+        "Ali r.a.",
+        "Hamza r.a.",
+        "Sa'd bin Ebi Vekkas r.a."
+      ],
+      "de": [
+        "Omar r.a.",
+        "Ali r.a.",
+        "Hamza r.a.",
+        "Sa'd ibn Abi Waqqas r.a."
+      ]
+    },
+    "correct": {
+      "bs": "Sa'd bin Ebi Vekkas r.a.",
+      "de": "Sa'd ibn Abi Waqqas r.a."
+    },
+    "explanation": {
+      "bs": "Dok je Sa'd bin Ebi Vekkas r.a. klanjao u klancu Mekke s grupom ashaba, mnogoboščai su ih napali. Sa'd je udario jednog od njih devinom viličnom kosti - bila je to prva proljevena krv u islamu.",
+      "de": "Während Sa'd ibn Abi Waqqas r.a. in einer Schlucht Mekkas mit einer Gruppe von Gefährten betete, griffen sie Götzendiener an. Sa'd schlug einen von ihnen mit einem Kamelknochen - dies war das erste vergossene Blut im Islam."
+    }
+  },
+  {
+    "quiz_id": 4,
+    "question_id": 59,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Ebu Talib",
+    "question": {
+      "bs": "Šta je Ebu Talib rekao kada je saznao da Poslanik ﷺ ispovijeda novu vjeru?",
+      "de": "Was sagte Abu Talib, als er erfuhr, dass der Prophet ﷺ eine neue Religion praktiziert?"
+    },
+    "options": {
+      "bs": [
+        "Progonio ga je",
+        "Neka bude ustrajan, njemu nikad ništa nažao neće biti",
+        "Nije ga zanimalo",
+        "Zabranio mu je da to čini"
+      ],
+      "de": [
+        "Er verfolgte ihn",
+        "Er solle standhaft bleiben, ihm werde nie etwas angetan",
+        "Es interessierte ihn nicht",
+        "Er verbot es ihm"
+      ]
+    },
+    "correct": {
+      "bs": "Neka bude ustrajan, njemu nikad ništa nažao neće biti",
+      "de": "Er solle standhaft bleiben, ihm werde nie etwas angetan"
+    },
+    "explanation": {
+      "bs": "Ebu Talib je rekao da se ne može odvojiti od vjere svojih predaka, ali je Poslaniku ﷺ obećao: 'Tebi, Boga mi, dok sam ja živ ništa nažao neće biti učinjeno!'",
+      "de": "Abu Talib sagte, er könne sich nicht von der Religion seiner Vorfahren trennen, aber er versprach dem Propheten ﷺ: 'Dir, bei Allah, solange ich lebe, wird nichts Böses angetan!'"
+    }
+  },
+  {
+    "quiz_id": 4,
+    "question_id": 60,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Objava ajeta",
+    "question": {
+      "bs": "Kako su se karakteristike prvih objavljenih ajeta odnosile na vjernike?",
+      "de": "Wie bezogen sich die Eigenschaften der ersten offenbarten Verse auf die Gläubigen?"
+    },
+    "options": {
+      "bs": [
+        "Bili su na stranom jeziku",
+        "Govorili su samo o kaznama",
+        "Bili su kratki, topli i razumljivi - za odgoj vjernika",
+        "Bili su dugački i teški za razumijevanje"
+      ],
+      "de": [
+        "Sie waren in einer fremden Sprache",
+        "Sie sprachen nur von Strafen",
+        "Sie waren kurz, warm und verständlich - zur Erziehung der Gläubigen",
+        "Sie waren lang und schwer verständlich"
+      ]
+    },
+    "correct": {
+      "bs": "Bili su kratki, topli i razumljivi - za odgoj vjernika",
+      "de": "Sie waren kurz, warm und verständlich - zur Erziehung der Gläubigen"
+    },
+    "explanation": {
+      "bs": "Na početku su objavljivani kratki ajeti. Značenje je bilo veličanstveno, toplo, razumljivo i prihvatljivo, a osnovni zadatak im je bio odgajanje i pripremanje čovjeka da bude pravi vjernik.",
+      "de": "Am Anfang wurden kurze Verse offenbart. Die Bedeutung war grossartig, warm, verständlich und annehmbar, und ihre Hauptaufgabe war die Erziehung und Vorbereitung des Menschen zum wahren Gläubigen."
+    }
+  },
+  {
+    "quiz_id": 4,
+    "question_id": 61,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Vijest o objavi",
+    "question": {
+      "bs": "Šta su Kurejšije mislile o Poslaniku ﷺ kada je vijest o objavi stigla do njih u prvom periodu?",
+      "de": "Was dachten die Quraisch über den Propheten ﷺ, als die Nachricht von der Offenbarung in der ersten Periode zu ihnen kam?"
+    },
+    "options": {
+      "bs": [
+        "Da je veliki vođa",
+        "Da je jedan od samostalnih pobožnika",
+        "Da ih želi napasti",
+        "Da je lud"
+      ],
+      "de": [
+        "Dass er ein grosser Führer sei",
+        "Dass er einer der unabhängigen Frommen sei",
+        "Dass er sie angreifen wolle",
+        "Dass er verrückt sei"
+      ]
+    },
+    "correct": {
+      "bs": "Da je jedan od samostalnih pobožnika",
+      "de": "Dass er einer der unabhängigen Frommen sei"
+    },
+    "explanation": {
+      "bs": "Kurejšije nisu pridavale važnost vijesti. Smatrali su Muhammeda ﷺ jednim od samostalnih pobožnika koji govori o božanstvenosti, slično kao Umejjet bin Salt ili Kus bin Saide.",
+      "de": "Die Quraisch massen der Nachricht keine Bedeutung bei. Sie hielten Muhammad ﷺ für einen der unabhängigen Frommen, der über Göttliches spricht, ähnlich wie Umayya ibn Salt oder Qus ibn Sa'ida."
+    }
+  },
+  {
+    "quiz_id": 4,
+    "question_id": 62,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Mekanski period",
+    "question": {
+      "bs": "Koliko je ukupno trajao mekanski period Objave?",
+      "de": "Wie lange dauerte die mekkanische Periode der Offenbarung insgesamt?"
+    },
+    "options": {
+      "bs": [
+        "13 godina",
+        "10 godina",
+        "15 godina",
+        "20 godina"
+      ],
+      "de": [
+        "13 Jahre",
+        "10 Jahre",
+        "15 Jahre",
+        "20 Jahre"
+      ]
+    },
+    "correct": {
+      "bs": "13 godina",
+      "de": "13 Jahre"
+    },
+    "explanation": {
+      "bs": "Mekanski period Objave je trajao trinaest godina. Dijelio se na tri razdoblja: tajno pozivanje (3 godine), javno pozivanje u Meki (7 godina) i pozivanje izvan Mekke.",
+      "de": "Die mekkanische Periode der Offenbarung dauerte dreizehn Jahre. Sie war in drei Phasen unterteilt: geheimer Aufruf (3 Jahre), öffentlicher Aufruf in Mekka (7 Jahre) und Aufruf ausserhalb Mekkas."
+    }
+  },
+  {
+    "quiz_id": 4,
+    "question_id": 63,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Istiniti snovi",
+    "question": {
+      "bs": "Koliko je trajao period istinitih snova (er-ru'ja es-salika) prije prve objave?",
+      "de": "Wie lange dauerte die Periode der wahren Träume (ar-ru'ya as-saliqa) vor der ersten Offenbarung?"
+    },
+    "options": {
+      "bs": [
+        "6 mjeseci",
+        "1 godinu",
+        "2 godine",
+        "3 mjeseca"
+      ],
+      "de": [
+        "6 Monate",
+        "1 Jahr",
+        "2 Jahre",
+        "3 Monate"
+      ]
+    },
+    "correct": {
+      "bs": "6 mjeseci",
+      "de": "6 Monate"
+    },
+    "explanation": {
+      "bs": "Istiniti snovi (er-ru'ja es-salika) su se Poslaniku ﷺ javljali punih šest mjeseci prije prve objave. Snovi su bili jasni kao jutarnje svitanje i predstavljaju jedan dio od 46 dijelova poslanstva.",
+      "de": "Die wahren Träume (ar-ru'ya as-saliqa) kamen dem Propheten ﷺ volle sechs Monate vor der ersten Offenbarung. Die Träume waren klar wie das Morgengrauen und stellen einen von 46 Teilen des Prophetentums dar."
+    }
+  },
+  {
+    "quiz_id": 4,
+    "question_id": 64,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Suhejb er-Rumi",
+    "question": {
+      "bs": "Zašto su Suhejba bin Sinana r.a. zvali 'er-Rumi' (Bizantinac)?",
+      "de": "Warum wurde Suhaib ibn Sinan r.a. 'ar-Rumi' (der Byzantiner) genannt?"
+    },
+    "options": {
+      "bs": [
+        "Bizantijci su ga kao dijete odveli u roblje",
+        "Bio je trgovac sa Bizantijcima",
+        "Bio je rođen u Bizantiji",
+        "Govorio je grčki jezik"
+      ],
+      "de": [
+        "Die Byzantiner nahmen ihn als Kind gefangen",
+        "Er war ein Händler mit den Byzantinern",
+        "Er wurde in Byzanz geboren",
+        "Er sprach Griechisch"
+      ]
+    },
+    "correct": {
+      "bs": "Bizantijci su ga kao dijete odveli u roblje",
+      "de": "Die Byzantiner nahmen ihn als Kind gefangen"
+    },
+    "explanation": {
+      "bs": "Suhejb je bio Arapin, ali su ga Bizantijci kao dječaka odveli u roblje, pa je skoro zaboravio arapski jezik. Zatim ga je kupio čovjek iz plemena Kelb i prodao u Mekki.",
+      "de": "Suhaib war ein Araber, aber die Byzantiner nahmen ihn als Kind gefangen, sodass er fast die arabische Sprache vergass. Dann kaufte ihn ein Mann vom Stamm Kalb und verkaufte ihn in Mekka."
+    }
+  },
+  {
+    "quiz_id": 4,
+    "question_id": 65,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Javni poziv",
+    "question": {
+      "bs": "Šta su Kurejšije radile sve dok Poslanik ﷺ nije počeo napadati njihova božanstva?",
+      "de": "Was taten die Quraisch, solange der Prophet ﷺ ihre Götter nicht angriff?"
+    },
+    "options": {
+      "bs": [
+        "Ignorirali su ga potpuno",
+        "Nisu se distancirali od njega niti mu protivriječili",
+        "Progonili su ga od prvog dana",
+        "Podržavali su ga javno"
+      ],
+      "de": [
+        "Sie ignorierten ihn völlig",
+        "Sie distanzierten sich nicht von ihm und widersprachen ihm nicht",
+        "Sie verfolgten ihn vom ersten Tag an",
+        "Sie unterstützten ihn öffentlich"
+      ]
+    },
+    "correct": {
+      "bs": "Nisu se distancirali od njega niti mu protivriječili",
+      "de": "Sie distanzierten sich nicht von ihm und widersprachen ihm nicht"
+    },
+    "explanation": {
+      "bs": "Kada je Poslanik ﷺ počeo javno pozivati u islam, njegov narod se nije distancirao od njega sve dok nije počeo spominjati i napadati njihova božanstva. Tek tada su mu se okrenuli protiv.",
+      "de": "Als der Prophet ﷺ begann, öffentlich zum Islam zu rufen, distanzierte sich sein Volk nicht von ihm, bis er begann, ihre Götter zu erwähnen und anzugreifen. Erst dann wandten sie sich gegen ihn."
+    }
+  },
+  {
+    "quiz_id": 4,
+    "question_id": 66,
+    "type": "multiple_choice",
+    "difficulty": "medium",
+    "source_section": "Prva četvorka",
+    "question": {
+      "bs": "Ko čini 'prvu četvorku' muslimana koji su primili islam prvog dana poslanstva? (Odaberite sve tačne)",
+      "de": "Wer bildet die 'ersten Vier' der Muslime, die am ersten Tag des Prophetentums den Islam annahmen? (Wählen Sie alle richtigen)"
+    },
+    "options": {
+      "bs": [
+        "Hatidža r.a.",
+        "Ebu Bekr r.a.",
+        "Ali ibn Ebi Talib r.a.",
+        "Zejd bin Haris r.a."
+      ],
+      "de": [
+        "Khadidscha r.a.",
+        "Abu Bakr r.a.",
+        "Ali ibn Abi Talib r.a.",
+        "Zaid ibn Haritha r.a."
+      ]
+    },
+    "correct": {
+      "bs": [
+        "Hatidža r.a.",
+        "Zejd bin Haris r.a.",
+        "Ali ibn Ebi Talib r.a.",
+        "Ebu Bekr r.a."
+      ],
+      "de": [
+        "Khadidscha r.a.",
+        "Zaid ibn Haritha r.a.",
+        "Ali ibn Abi Talib r.a.",
+        "Abu Bakr r.a."
+      ]
+    },
+    "explanation": {
+      "bs": "Prva četvorka muslimana su: Hatidža r.a. (supruga), Zejd bin Haris r.a. (štićenik), Ali ibn Ebi Talib r.a. (amidžić - dijete) i Ebu Bekr r.a. (vjerni prijatelj). Svi su primili islam prvog dana.",
+      "de": "Die ersten vier Muslime waren: Khadidscha r.a. (Ehefrau), Zaid ibn Haritha r.a. (Schützling), Ali ibn Abi Talib r.a. (Cousin - Kind) und Abu Bakr r.a. (treuer Freund). Alle nahmen den Islam am ersten Tag an."
+    }
+  },
+  {
+    "quiz_id": 4,
+    "question_id": 67,
+    "type": "multiple_choice",
+    "difficulty": "hard",
+    "source_section": "Ebu Bekrova da'va",
+    "question": {
+      "bs": "Koje su osobe primile islam putem Ebu Bekrovog r.a. pozivanja? (Odaberite sve tačne)",
+      "de": "Welche Personen nahmen den Islam durch Abu Bakrs r.a. Einladung an? (Wählen Sie alle richtigen)"
+    },
+    "options": {
+      "bs": [
+        "Osman bin Affan",
+        "Talha bin Ubejdullah",
+        "Omer ibn el-Hattab",
+        "Zubejr bin el-Avvam"
+      ],
+      "de": [
+        "Uthman ibn Affan",
+        "Talha ibn Ubaidullah",
+        "Omar ibn al-Chattab",
+        "Zubair ibn al-Awwam"
+      ]
+    },
+    "correct": {
+      "bs": [
+        "Osman bin Affan",
+        "Zubejr bin el-Avvam",
+        "Talha bin Ubejdullah"
+      ],
+      "de": [
+        "Uthman ibn Affan",
+        "Zubair ibn al-Awwam",
+        "Talha ibn Ubaidullah"
+      ]
+    },
+    "explanation": {
+      "bs": "Putem Ebu Bekra r.a. islam su primili: Osman bin Affan, Zubejr bin el-Avvam, Abdurrahman bin Auf, Sa'd bin Ebi Vekkas i Talha bin Ubejdullah. Omer r.a. je primio islam kasnije.",
+      "de": "Durch Abu Bakr r.a. nahmen Islam an: Uthman ibn Affan, Zubair ibn al-Awwam, Abdurrahman ibn Awf, Sa'd ibn Abi Waqqas und Talha ibn Ubaidullah. Omar r.a. nahm den Islam später an."
+    }
+  },
+  {
+    "quiz_id": 4,
+    "question_id": 68,
+    "type": "multiple_choice",
+    "difficulty": "hard",
+    "source_section": "Hatidžine vrline",
+    "question": {
+      "bs": "Koje vrline je Hatidža r.a. navela kada je tješila Poslanika ﷺ? (Odaberite sve tačne)",
+      "de": "Welche Tugenden erwähnte Khadidscha r.a., als sie den Propheten ﷺ tröstete? (Wählen Sie alle richtigen)"
+    },
+    "options": {
+      "bs": [
+        "Pazi sirotinju",
+        "Ugošćuje goste",
+        "Posjećuje rodbinu",
+        "Ima puno imetka"
+      ],
+      "de": [
+        "Sorgt für die Armen",
+        "Bewirtet Gäste",
+        "Besucht die Verwandtschaft",
+        "Hat viel Besitz"
+      ]
+    },
+    "correct": {
+      "bs": [
+        "Posjećuje rodbinu",
+        "Pazi sirotinju",
+        "Ugošćuje goste"
+      ],
+      "de": [
+        "Besucht die Verwandtschaft",
+        "Sorgt für die Armen",
+        "Bewirtet Gäste"
+      ]
+    },
+    "explanation": {
+      "bs": "Hatidža r.a. je rekla: 'Ti si čovjek koji posjećuje rodbinu, pazi sirotinju, stječe za siromahe, ugosti gosta, uvijek pomaže i ustrajava na istini.' Nije spominjala imetak.",
+      "de": "Khadidscha r.a. sagte: 'Du bist ein Mann, der die Verwandtschaft besucht, für die Armen sorgt, für die Bedürftigen erwirbt, Gäste bewirtet und stets der Wahrheit beistehst.' Sie erwähnte keinen Besitz."
+    }
+  },
+  {
+    "quiz_id": 4,
+    "question_id": 69,
+    "type": "multiple_choice",
+    "difficulty": "medium",
+    "source_section": "Prve sure",
+    "question": {
+      "bs": "Koje sure su među prvim objavljenim? (Odaberite sve tačne)",
+      "de": "Welche Suren gehören zu den ersten offenbarten? (Wählen Sie alle richtigen)"
+    },
+    "options": {
+      "bs": [
+        "El-Alek",
+        "Ed-Duha",
+        "El-Bekara",
+        "El-Muddesir"
+      ],
+      "de": [
+        "Al-Alaq",
+        "Ad-Duha",
+        "Al-Baqara",
+        "Al-Muddathir"
+      ]
+    },
+    "correct": {
+      "bs": [
+        "El-Alek",
+        "El-Muddesir",
+        "Ed-Duha"
+      ],
+      "de": [
+        "Al-Alaq",
+        "Al-Muddathir",
+        "Ad-Duha"
+      ]
+    },
+    "explanation": {
+      "bs": "El-Alek je prva objavljena sura, El-Muddesir je druga objava nakon prekida, a Ed-Duha je objavljena da utješi Poslanika ﷺ. El-Bekara je medinska sura, objavljena kasnije.",
+      "de": "Al-Alaq war die erste offenbarte Sure, Al-Muddathir die zweite Offenbarung nach der Pause, und Ad-Duha wurde offenbart, um den Propheten ﷺ zu trösten. Al-Baqara ist eine medinensische Sure, später offenbart."
+    }
+  },
+  {
+    "quiz_id": 4,
+    "question_id": 70,
+    "type": "multiple_choice",
+    "difficulty": "hard",
+    "source_section": "Periodi objave",
+    "question": {
+      "bs": "Koji su periodi mekanskog poziva u islam? (Odaberite sve tačne)",
+      "de": "Welche Perioden umfasste der mekkanische Aufruf zum Islam? (Wählen Sie alle richtigen)"
+    },
+    "options": {
+      "bs": [
+        "Osnivanje islamske države",
+        "Javno pozivanje u Meki",
+        "Tajno pozivanje (3 godine)",
+        "Pozivanje izvan Mekke"
+      ],
+      "de": [
+        "Gründung des islamischen Staates",
+        "Öffentlicher Aufruf in Mekka",
+        "Geheimer Aufruf (3 Jahre)",
+        "Aufruf ausserhalb Mekkas"
+      ]
+    },
+    "correct": {
+      "bs": [
+        "Tajno pozivanje (3 godine)",
+        "Javno pozivanje u Meki",
+        "Pozivanje izvan Mekke"
+      ],
+      "de": [
+        "Geheimer Aufruf (3 Jahre)",
+        "Öffentlicher Aufruf in Mekka",
+        "Aufruf ausserhalb Mekkas"
+      ]
+    },
+    "explanation": {
+      "bs": "Mekanski period ima tri razdoblja: 1) tajno pozivanje (3 godine), 2) javno pozivanje u Meki (od 4. do 10. godine poslanstva), 3) pozivanje izvan Mekke do Hidžre. Islamska država je osnovana u Medini.",
+      "de": "Die mekkanische Periode hat drei Phasen: 1) geheimer Aufruf (3 Jahre), 2) öffentlicher Aufruf in Mekka (vom 4. bis 10. Jahr des Prophetentums), 3) Aufruf ausserhalb Mekkas bis zur Hidschra. Der islamische Staat wurde in Medina gegründet."
+    }
+  },
+  {
+    "quiz_id": 4,
+    "question_id": 71,
+    "type": "ordering",
+    "difficulty": "easy",
+    "source_section": "Prva objava",
+    "question": {
+      "bs": "Poredajte događaje po redoslijedu kako su se desili:",
+      "de": "Ordnen Sie die Ereignisse in der Reihenfolge ihres Geschehens:"
+    },
+    "options": {
+      "bs": [
+        "Odlazak kod Vereke bin Nevfela",
+        "Osamljivanje u pećini Hira",
+        "Dolazak Džibrila a.s.",
+        "Povratak kući Hatidži r.a."
+      ],
+      "de": [
+        "Gang zu Waraqa ibn Nawfal",
+        "Zurückziehen in die Höhle Hira",
+        "Ankunft Gabriels a.s.",
+        "Rückkehr nach Hause zu Khadidscha r.a."
+      ]
+    },
+    "correct": {
+      "bs": [
+        "Osamljivanje u pećini Hira",
+        "Dolazak Džibrila a.s.",
+        "Povratak kući Hatidži r.a.",
+        "Odlazak kod Vereke bin Nevfela"
+      ],
+      "de": [
+        "Zurückziehen in die Höhle Hira",
+        "Ankunft Gabriels a.s.",
+        "Rückkehr nach Hause zu Khadidscha r.a.",
+        "Gang zu Waraqa ibn Nawfal"
+      ]
+    },
+    "explanation": {
+      "bs": "Poslanik ﷺ se prvo osamljivao u Hiri, zatim mu je došao Džibril a.s. sa objavom, nakon toga se vratio kući kod Hatidže r.a. koja ga je utješila, a onda su zajedno otišli kod Vereke.",
+      "de": "Der Prophet ﷺ zog sich zuerst in Hira zurück, dann kam Gabriel a.s. mit der Offenbarung, danach kehrte er zu Khadidscha r.a. zurück, die ihn tröstete, und dann gingen sie zusammen zu Waraqa."
+    }
+  },
+  {
+    "quiz_id": 4,
+    "question_id": 72,
+    "type": "ordering",
+    "difficulty": "medium",
+    "source_section": "Periodi objave",
+    "question": {
+      "bs": "Poredajte periode Objave hronološkim redom:",
+      "de": "Ordnen Sie die Perioden der Offenbarung in chronologischer Reihenfolge:"
+    },
+    "options": {
+      "bs": [
+        "Prva objava u Hiri",
+        "Objava sure El-Muddesir",
+        "Istiniti snovi",
+        "Prekid objave"
+      ],
+      "de": [
+        "Erste Offenbarung in Hira",
+        "Offenbarung der Sure Al-Muddathir",
+        "Wahre Träume",
+        "Pause der Offenbarung"
+      ]
+    },
+    "correct": {
+      "bs": [
+        "Istiniti snovi",
+        "Prva objava u Hiri",
+        "Prekid objave",
+        "Objava sure El-Muddesir"
+      ],
+      "de": [
+        "Wahre Träume",
+        "Erste Offenbarung in Hira",
+        "Pause der Offenbarung",
+        "Offenbarung der Sure Al-Muddathir"
+      ]
+    },
+    "explanation": {
+      "bs": "Redoslijed: 1) Istiniti snovi 6 mjeseci prije objave, 2) Prva objava (sura El-Alek), 3) Prekid objave (fetre), 4) Druga objava (sura El-Muddesir) koja je označila početak misije.",
+      "de": "Reihenfolge: 1) Wahre Träume 6 Monate vor der Offenbarung, 2) Erste Offenbarung (Sure Al-Alaq), 3) Pause der Offenbarung (Fatra), 4) Zweite Offenbarung (Sure Al-Muddathir), die den Beginn der Mission markierte."
+    }
+  },
+  {
+    "quiz_id": 4,
+    "question_id": 73,
+    "type": "ordering",
+    "difficulty": "hard",
+    "source_section": "Prvi muslimani",
+    "question": {
+      "bs": "Poredajte primanje islama po redoslijedu:",
+      "de": "Ordnen Sie die Annahme des Islams in der richtigen Reihenfolge:"
+    },
+    "options": {
+      "bs": [
+        "Ebu Bekr r.a. i prva četvorka",
+        "Dostizanje broja od 40 muslimana",
+        "Hatidža r.a.",
+        "Muslimani putem Ebu Bekra"
+      ],
+      "de": [
+        "Abu Bakr r.a. und die ersten Vier",
+        "Erreichen der Zahl von 40 Muslimen",
+        "Khadidscha r.a.",
+        "Muslime durch Abu Bakr"
+      ]
+    },
+    "correct": {
+      "bs": [
+        "Hatidža r.a.",
+        "Ebu Bekr r.a. i prva četvorka",
+        "Muslimani putem Ebu Bekra",
+        "Dostizanje broja od 40 muslimana"
+      ],
+      "de": [
+        "Khadidscha r.a.",
+        "Abu Bakr r.a. und die ersten Vier",
+        "Muslime durch Abu Bakr",
+        "Erreichen der Zahl von 40 Muslimen"
+      ]
+    },
+    "explanation": {
+      "bs": "Hatidža r.a. je bila prva, zatim su istog dana primili Ali, Zejd i Ebu Bekr. Ebu Bekr je potom pozivao druge, a kada je broj muslimana s Omerovim islamom dostigao 40, izašli su iz kuće Erkama.",
+      "de": "Khadidscha r.a. war die erste, dann nahmen am selben Tag Ali, Zaid und Abu Bakr an. Abu Bakr lud dann andere ein, und als die Zahl der Muslime mit Omars Islam 40 erreichte, verliessen sie das Haus von Arqam."
+    }
+  },
+  {
+    "quiz_id": 4,
+    "question_id": 74,
+    "type": "ordering",
+    "difficulty": "medium",
+    "source_section": "Mekanski periodi",
+    "question": {
+      "bs": "Poredajte faze mekanskog perioda:",
+      "de": "Ordnen Sie die Phasen der mekkanischen Periode:"
+    },
+    "options": {
+      "bs": [
+        "Hidžra u Medinu",
+        "Pozivanje ljudi izvan Mekke",
+        "Tajni poziv",
+        "Javni poziv stanovnicima Meke"
+      ],
+      "de": [
+        "Hidschra nach Medina",
+        "Aufruf von Menschen ausserhalb Mekkas",
+        "Geheimer Aufruf",
+        "Öffentlicher Aufruf an die Bewohner Mekkas"
+      ]
+    },
+    "correct": {
+      "bs": [
+        "Tajni poziv",
+        "Javni poziv stanovnicima Meke",
+        "Pozivanje ljudi izvan Mekke",
+        "Hidžra u Medinu"
+      ],
+      "de": [
+        "Geheimer Aufruf",
+        "Öffentlicher Aufruf an die Bewohner Mekkas",
+        "Aufruf von Menschen ausserhalb Mekkas",
+        "Hidschra nach Medina"
+      ]
+    },
+    "explanation": {
+      "bs": "Mekanski period: 1) Tajni poziv 3 godine, 2) Javni poziv u Meki od 4. do 10. godine, 3) Pozivanje izvan Mekke od 10. godine do Hidžre. Hidžra u Medinu je označila kraj mekanskog perioda.",
+      "de": "Mekkanische Periode: 1) Geheimer Aufruf 3 Jahre, 2) Öffentlicher Aufruf in Mekka vom 4. bis 10. Jahr, 3) Aufruf ausserhalb Mekkas vom 10. Jahr bis zur Hidschra. Die Hidschra nach Medina markierte das Ende der mekkanischen Periode."
+    }
+  },
+  {
+    "quiz_id": 4,
+    "question_id": 75,
+    "type": "true_false",
+    "difficulty": "hard",
+    "source_section": "Vereka bin Nevfel",
+    "question": {
+      "bs": "Vereka bin Nevfel je poljubio Poslanika ﷺ u tjeme kada mu je potvrdio poslanstvo.",
+      "de": "Waraqa ibn Nawfal küsste den Propheten ﷺ auf die Stirn, als er ihm das Prophetentum bestätigte."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Vereka je, nakon što je čuo Poslanikovu ﷺ priču, rekao da je on poslanik ovoga naroda, spustio svoju glavu prema njemu i poljubio ga u tjeme iz poštovanja.",
+      "de": "Waraqa sagte, nachdem er die Geschichte des Propheten ﷺ gehört hatte, dass er der Prophet dieses Volkes sei, senkte seinen Kopf zu ihm und küsste ihn aus Respekt auf die Stirn."
+    }
+  },
+  {
+    "quiz_id": 4,
+    "question_id": 76,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Noć Kadr",
+    "question": {
+      "bs": "Objava Kur'ana je započeta u noći Kadr (Lejletul-Kadr).",
+      "de": "Die Offenbarung des Korans begann in der Nacht der Bestimmung (Lailat al-Qadr)."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Allah dž.š. kaže: 'Zbilja, Mi smo ga počeli objavljivati u noći Kadr!' Noć Kadr je bolja od hiljadu mjeseci i u njoj meleki silaze sa svakom odlukom.",
+      "de": "Allah sagt: 'Wahrlich, Wir haben ihn in der Nacht der Bestimmung herabgesandt!' Die Nacht der Bestimmung ist besser als tausend Monate, und in ihr steigen die Engel mit jeder Entscheidung herab."
+    }
+  },
+  {
+    "quiz_id": 4,
+    "question_id": 77,
+    "type": "true_false",
+    "difficulty": "hard",
+    "source_section": "Prva objava",
+    "question": {
+      "bs": "Poslanik ﷺ je u momentu prve objave imao tačno 40 mjesečevih godina, 6 mjeseci i 12 dana.",
+      "de": "Der Prophet ﷺ hatte zum Zeitpunkt der ersten Offenbarung genau 40 Mondjahre, 6 Monate und 12 Tage."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Prema preciznim proračunima, Poslanik ﷺ je tada imao tačno 40 mjesečevih godina, 6 mjeseci i 12 dana, ili oko 39 sunčanih godina, 3 mjeseca i 22 dana.",
+      "de": "Nach genauen Berechnungen war der Prophet ﷺ damals genau 40 Mondjahre, 6 Monate und 12 Tage alt, oder etwa 39 Sonnenjahre, 3 Monate und 22 Tage."
+    }
+  },
+  {
+    "quiz_id": 4,
+    "question_id": 78,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Hira",
+    "question": {
+      "bs": "Osamljivanje u pećini Hira je bio običaj Kurejšija poznat kao 'tehannuth' (pobožnost).",
+      "de": "Das Zurückziehen in die Höhle Hira war ein Brauch der Quraisch, bekannt als 'Tahannuth' (Frömmigkeit)."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Poslanik ﷺ je svake godine odlazio u Hiru u mjesecu ramazanu. To je bio običaj Kurejšija - tehannuth, što znači pobožno osamljivanje i razmišljanje o Stvoritelju.",
+      "de": "Der Prophet ﷺ ging jedes Jahr im Monat Ramadan nach Hira. Dies war ein Brauch der Quraisch - Tahannuth, was fromme Zurückgezogenheit und Nachdenken über den Schöpfer bedeutet."
+    }
+  },
+  {
+    "quiz_id": 4,
+    "question_id": 79,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Prva objava",
+    "question": {
+      "bs": "Prva objava se dogodila u ponedjeljak, 21. ramazana.",
+      "de": "Die erste Offenbarung geschah am Montag, dem 21. Ramadan."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Prema kalendarskim proračunima, objavljivanje Kur'ana je počelo u ponedjeljak, 21. ramazana, treće godine Poslanikove ﷺ osame u pećini Hira.",
+      "de": "Nach Kalenderberechnungen begann die Offenbarung des Korans am Montag, dem 21. Ramadan, im dritten Jahr der Zurückgezogenheit des Propheten ﷺ in der Höhle Hira."
+    }
+  },
+  {
+    "quiz_id": 4,
+    "question_id": 80,
+    "type": "true_false",
+    "difficulty": "hard",
+    "source_section": "Poslanstvo",
+    "question": {
+      "bs": "Istiniti snovi predstavljaju 1/46 dio poslanstva, jer je poslanstvo trajalo 23 godine, a snovi 6 mjeseci.",
+      "de": "Wahre Träume stellen 1/46 des Prophetentums dar, da das Prophetentum 23 Jahre dauerte und die Träume 6 Monate."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Istiniti snovi (er-ru'ja es-salika) su trajali 6 mjeseci, a poslanstvo ukupno 23 godine (276 mjeseci). 6 mjeseci je 1/46 dio od 276 mjeseci, što potvrđuje hadis da je ru'ja jedan od 46 dijelova poslanstva.",
+      "de": "Die wahren Träume (ar-ru'ya as-saliqa) dauerten 6 Monate, und das Prophetentum insgesamt 23 Jahre (276 Monate). 6 Monate sind 1/46 von 276 Monaten, was den Hadith bestätigt, dass Ru'ya ein von 46 Teilen des Prophetentums ist."
+    }
+  },
+  {
+    "quiz_id": 4,
+    "question_id": 81,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "source_section": "Javni poziv",
+    "question": {
+      "bs": "Koji je ajet naložio Poslaniku ﷺ da javno poziva u islam?",
+      "de": "Welcher Vers befahl dem Propheten ﷺ, öffentlich zum Islam aufzurufen?"
+    },
+    "options": {
+      "bs": [
+        "'Reci: On Allah je Jedan'",
+        "'I opominji rodbinu svoju najbližu'",
+        "'Hvala Allahu, Gospodaru svjetova'",
+        "'Uči u ime Gospodara svog'"
+      ],
+      "de": [
+        "'Sag: Er ist Allah, der Eine'",
+        "'Und warne deine nächsten Verwandten'",
+        "'Lob sei Allah, dem Herrn der Welten'",
+        "'Lies im Namen deines Herrn'"
+      ]
+    },
+    "correct": {
+      "bs": "'I opominji rodbinu svoju najbližu'",
+      "de": "'Und warne deine nächsten Verwandten'"
+    },
+    "explanation": {
+      "bs": "Allah dž.š. je naredio: 'I opominji rodbinu svoju najbližu.' (26:214) Ovaj ajet iz sure Eš-Šu'ara je označio početak javnog pozivanja nakon tri godine tajnog djelovanja.",
+      "de": "Allah befahl: 'Und warne deine nächsten Verwandten.' (26:214) Dieser Vers aus der Sure Asch-Schu'ara markierte den Beginn des öffentlichen Aufrufs nach drei Jahren geheimer Tätigkeit."
+    }
+  },
+  {
+    "quiz_id": 4,
+    "question_id": 82,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Sura Eš-Šu'ara",
+    "question": {
+      "bs": "Koja sura opširno govori o Musau a.s. i prethodi ajetu o javnom opominjanju?",
+      "de": "Welche Sure spricht ausführlich über Moses a.s. und geht dem Vers über die öffentliche Warnung voraus?"
+    },
+    "options": {
+      "bs": [
+        "El-Kehf",
+        "Merjam",
+        "Eš-Šu'ara",
+        "El-Bekara"
+      ],
+      "de": [
+        "Al-Kahf",
+        "Maryam",
+        "Asch-Schu'ara",
+        "Al-Baqara"
+      ]
+    },
+    "correct": {
+      "bs": "Eš-Šu'ara",
+      "de": "Asch-Schu'ara"
+    },
+    "explanation": {
+      "bs": "Sura Eš-Šu'ara opširno govori o Musau a.s. i njegovoj misiji u Egiptu, od početka poslanstva do spasa Benu Israilćana. To je bilo kao vodič Poslaniku ﷺ šta će doživjeti od svog naroda.",
+      "de": "Die Sure Asch-Schu'ara spricht ausführlich über Moses a.s. und seine Mission in Ägypten, vom Beginn des Prophetentums bis zur Rettung der Kinder Israels. Dies diente als Leitfaden für den Propheten ﷺ, was er von seinem Volk erleben würde."
+    }
+  },
+  {
+    "quiz_id": 4,
+    "question_id": 83,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Ebu Ubejde",
+    "question": {
+      "bs": "Koji ashab je nazvan 'povjerenik ovog ummeta'?",
+      "de": "Welcher Gefährte wurde 'der Vertraute dieser Umma' genannt?"
+    },
+    "options": {
+      "bs": [
+        "Bilal r.a.",
+        "Ebu Bekr r.a.",
+        "Ebu Ubejde bin el-Džerrah r.a.",
+        "Osman bin Affan r.a."
+      ],
+      "de": [
+        "Bilal r.a.",
+        "Abu Bakr r.a.",
+        "Abu Ubaida ibn al-Dscharrah r.a.",
+        "Uthman ibn Affan r.a."
+      ]
+    },
+    "correct": {
+      "bs": "Ebu Ubejde bin el-Džerrah r.a.",
+      "de": "Abu Ubaida ibn al-Dscharrah r.a."
+    },
+    "explanation": {
+      "bs": "Ebu Ubejde Amir bin el-Džerrah r.a. iz plemena Beni Haris bin Fihr je bio nazvan 'povjerenik ovog ummeta' (emin hadžel-umme). Bio je među prvim muslimanima.",
+      "de": "Abu Ubaida Amir ibn al-Dscharrah r.a. vom Stamm Bani Harith ibn Fihr wurde 'der Vertraute dieser Umma' (Amin Hadschal-Umma) genannt. Er war unter den ersten Muslimen."
+    }
+  },
+  {
+    "quiz_id": 4,
+    "question_id": 84,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Osman bin Mez'un",
+    "question": {
+      "bs": "Osman bin Mez'un je primio islam zajedno sa koja dva svoja brata?",
+      "de": "Uthman ibn Maz'un nahm zusammen mit welchen zwei Brüdern den Islam an?"
+    },
+    "options": {
+      "bs": [
+        "Sa'd i Talha",
+        "Kudame i Abdullah",
+        "Zejd i Ammar",
+        "Hamza i Abbas"
+      ],
+      "de": [
+        "Sa'd und Talha",
+        "Qudama und Abdullah",
+        "Zaid und Ammar",
+        "Hamza und Abbas"
+      ]
+    },
+    "correct": {
+      "bs": "Kudame i Abdullah",
+      "de": "Qudama und Abdullah"
+    },
+    "explanation": {
+      "bs": "Osman bin Mez'un je bio među prvim muslimanima, a zajedno s njim su islam primila i njegova dva brata: Kudame i Abdullah. Sva trojica su postali istaknuti ashabi.",
+      "de": "Uthman ibn Maz'un gehörte zu den ersten Muslimen, und zusammen mit ihm nahmen auch seine beiden Brüder den Islam an: Qudama und Abdullah. Alle drei wurden bedeutende Gefährten."
+    }
+  },
+  {
+    "quiz_id": 4,
+    "question_id": 85,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Seid i Fatima",
+    "question": {
+      "bs": "Seid bin Zejd r.a. je primio islam zajedno sa svojom ženom Fatimom koja je bila čija sestra?",
+      "de": "Sa'id ibn Zaid r.a. nahm den Islam zusammen mit seiner Frau Fatima an, die wessen Schwester war?"
+    },
+    "options": {
+      "bs": [
+        "Alijeva",
+        "Ebu Bekrova",
+        "Osmanova",
+        "Omerova"
+      ],
+      "de": [
+        "Alis",
+        "Abu Bakrs",
+        "Uthmans",
+        "Omars"
+      ]
+    },
+    "correct": {
+      "bs": "Omerova",
+      "de": "Omars"
+    },
+    "explanation": {
+      "bs": "Seid bin Zejd el-Adevijj r.a. i njegova žena Fatima, kći Hattaba el-Adevije, sestra Omer bin Hattaba r.a., bili su među prvim muslimanima. Omer r.a. je kasnije primio islam u njihovoj kući.",
+      "de": "Sa'id ibn Zaid al-Adawi r.a. und seine Frau Fatima, Tochter von Chattab al-Adawi, Schwester von Omar ibn al-Chattab r.a., gehörten zu den ersten Muslimen. Omar r.a. nahm später in ihrem Haus den Islam an."
+    }
+  },
+  {
+    "quiz_id": 4,
+    "question_id": 86,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Prekid objave",
+    "question": {
+      "bs": "Koliko je prema ispravnijem mišljenju trajao prekid objave (fetre)?",
+      "de": "Wie lange dauerte nach der richtigen Meinung die Pause der Offenbarung (Fatra)?"
+    },
+    "options": {
+      "bs": [
+        "Tri godine",
+        "Nekoliko mjeseci",
+        "Nekoliko dana",
+        "Šest mjeseci"
+      ],
+      "de": [
+        "Drei Jahre",
+        "Einige Monate",
+        "Einige Tage",
+        "Sechs Monate"
+      ]
+    },
+    "correct": {
+      "bs": "Nekoliko dana",
+      "de": "Einige Tage"
+    },
+    "explanation": {
+      "bs": "Ibn Sa'd prenosi od Ibn Abbasa da je prekid trajao danima. Ovo mišljenje je najjače i najispravnije. Mišljenje da je trajao dvije i pol ili tri godine je netačno.",
+      "de": "Ibn Sa'd überliefert von Ibn Abbas, dass die Pause Tage dauerte. Diese Meinung ist die stärkste und richtigste. Die Meinung, dass sie zweieinhalb oder drei Jahre dauerte, ist falsch."
+    }
+  },
+  {
+    "quiz_id": 4,
+    "question_id": 87,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Sura El-Hakka",
+    "question": {
+      "bs": "Koju suru je Poslanik ﷺ učio kada je Omer r.a. prvi put čuo Kur'an kod Kabe?",
+      "de": "Welche Sure rezitierte der Prophet ﷺ, als Omar r.a. zum ersten Mal den Koran bei der Kaaba hörte?"
+    },
+    "options": {
+      "bs": [
+        "El-Hakka",
+        "Jasin",
+        "El-Ihlas",
+        "El-Fatiha"
+      ],
+      "de": [
+        "Al-Haqqa",
+        "Yasin",
+        "Al-Ikhlas",
+        "Al-Fatiha"
+      ]
+    },
+    "correct": {
+      "bs": "El-Hakka",
+      "de": "Al-Haqqa"
+    },
+    "explanation": {
+      "bs": "Omer r.a. je došao u harem Kabe i zatekao Poslanika ﷺ na namazu kako uči suru El-Hakka. To ga je duboko dirnulo i bilo je to početak njegovog puta ka islamu.",
+      "de": "Omar r.a. kam zum Heiligtum der Kaaba und fand den Propheten ﷺ beim Gebet, wie er die Sure Al-Haqqa rezitierte. Das berührte ihn tief und war der Beginn seines Weges zum Islam."
+    }
+  },
+  {
+    "quiz_id": 4,
+    "question_id": 88,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Karakteristike objave",
+    "question": {
+      "bs": "Šta su opisivali ajeti objavljeni u tajnom periodu?",
+      "de": "Was beschrieben die in der geheimen Periode offenbarten Verse?"
+    },
+    "options": {
+      "bs": [
+        "Džennet, Džehennem i odgoj vjernika",
+        "Samo priče o prijašnjim narodima",
+        "Samo pravne propise",
+        "Samo ratne propise"
+      ],
+      "de": [
+        "Paradies, Hölle und Erziehung der Gläubigen",
+        "Nur Geschichten früherer Völker",
+        "Nur Rechtsvorschriften",
+        "Nur Kriegsvorschriften"
+      ]
+    },
+    "correct": {
+      "bs": "Džennet, Džehennem i odgoj vjernika",
+      "de": "Paradies, Hölle und Erziehung der Gläubigen"
+    },
+    "explanation": {
+      "bs": "U tajnom periodu su objavljivani kratki ajeti. Mnogi su opisivali Džennet i njegove ljepote, kao i Džehennem sa svim strahotama. Osnovni zadatak im je bio odgajanje i pripremanje čovjeka da bude pravi vjernik.",
+      "de": "In der geheimen Periode wurden kurze Verse offenbart. Viele beschrieben das Paradies und seine Schönheiten sowie die Hölle mit all ihren Schrecken. Ihre Hauptaufgabe war die Erziehung und Vorbereitung des Menschen zum wahren Gläubigen."
+    }
+  },
+  {
+    "quiz_id": 4,
+    "question_id": 89,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Abdullah bin Mes'ud",
+    "question": {
+      "bs": "Kojem plemenu je pripadao Abdullah bin Mes'ud r.a.?",
+      "de": "Zu welchem Stamm gehörte Abdullah ibn Mas'ud r.a.?"
+    },
+    "options": {
+      "bs": [
+        "Benu Hašim",
+        "Hezli",
+        "Temim",
+        "Esed"
+      ],
+      "de": [
+        "Banu Haschim",
+        "Hudhail",
+        "Tamim",
+        "Asad"
+      ]
+    },
+    "correct": {
+      "bs": "Hezli",
+      "de": "Hudhail"
+    },
+    "explanation": {
+      "bs": "Abdullah bin Mes'ud el-Hezli r.a. je pripadao plemenu Hezli (Hudhail). Bio je među prvim muslimanima i postao je jedan od najvećih učenjaka među ashabima.",
+      "de": "Abdullah ibn Mas'ud al-Hudhali r.a. gehörte zum Stamm Hudhail. Er war unter den ersten Muslimen und wurde einer der grössten Gelehrten unter den Gefährten."
+    }
+  },
+  {
+    "quiz_id": 4,
+    "question_id": 90,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Habbab bin el-Eret",
+    "question": {
+      "bs": "Ko je od prvih muslimana bio kovač?",
+      "de": "Wer von den ersten Muslimen war Schmied?"
+    },
+    "options": {
+      "bs": [
+        "Suhejb r.a.",
+        "Bilal r.a.",
+        "Ammar bin Jasir r.a.",
+        "Habbab bin el-Eret r.a."
+      ],
+      "de": [
+        "Suhaib r.a.",
+        "Bilal r.a.",
+        "Ammar ibn Yasir r.a.",
+        "Chabbab ibn al-Aratt r.a."
+      ]
+    },
+    "correct": {
+      "bs": "Habbab bin el-Eret r.a.",
+      "de": "Chabbab ibn al-Aratt r.a."
+    },
+    "explanation": {
+      "bs": "Habbab bin el-Eret r.a. je bio kovač i bio je među prvim muslimanima. Pretrpio je velika mučenja od strane mušrika, a na njegovim leđima su ostali tragovi od užarenog uglja.",
+      "de": "Chabbab ibn al-Aratt r.a. war Schmied und gehörte zu den ersten Muslimen. Er erlitt grosse Folterungen durch die Götzendiener, und auf seinem Rücken blieben Spuren von glühender Kohle."
+    }
+  },
+  {
+    "quiz_id": 4,
+    "question_id": 91,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Sura El-Hidžr",
+    "question": {
+      "bs": "Ajet 'Ti javno ispovijedaj ono što ti se naređuje i mnogoboščaca se okani' je iz sure El-Hidžr.",
+      "de": "Der Vers 'Verkünde öffentlich, was dir befohlen wird, und wende dich von den Götzendienern ab' stammt aus der Sure Al-Hidschr."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Allah dž.š. je objavio u suri El-Hidžr (15:94): 'Ti javno ispovijedaj ono što ti se naređuje i mnogoboščaca se okani!' Ovaj ajet je naložio javno pozivanje u islam.",
+      "de": "Allah offenbarte in der Sure Al-Hidschr (15:94): 'Verkünde öffentlich, was dir befohlen wird, und wende dich von den Götzendienern ab!' Dieser Vers befahl den öffentlichen Aufruf zum Islam."
+    }
+  },
+  {
+    "quiz_id": 4,
+    "question_id": 92,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Osamljivanje",
+    "question": {
+      "bs": "Poslanik ﷺ bi prije odlaska u Hiru opskrbio se kod kuće i obišao Kabu, a zatim otišao u osamu.",
+      "de": "Der Prophet ﷺ versorgte sich vor dem Gang nach Hira zu Hause und umrundete die Kaaba, bevor er in die Einsamkeit ging."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Poslanik ﷺ bi svaki put prije odlaska u Hiru opskrbio se kod kuće, obišao Hatidžu r.a., a zatim otišao u osamu. Nakon povratka iz osame bi tavafio oko Kabe pa se vratio kući.",
+      "de": "Der Prophet ﷺ versorgte sich jedes Mal vor dem Gang nach Hira zu Hause, besuchte Khadidscha r.a. und ging dann in die Einsamkeit. Nach der Rückkehr aus der Einsamkeit umrundete er die Kaaba und kehrte dann nach Hause zurück."
+    }
+  },
+  {
+    "quiz_id": 4,
+    "question_id": 93,
+    "type": "true_false",
+    "difficulty": "hard",
+    "source_section": "Džafer",
+    "question": {
+      "bs": "Abbas r.a. je uzeo Džafera bin Ebi Taliba k sebi istovremeno kada je Poslanik ﷺ uzeo Aliju.",
+      "de": "Abbas r.a. nahm Dschafar ibn Abi Talib zu sich, als der Prophet ﷺ gleichzeitig Ali aufnahm."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Kada su Poslanik ﷺ i Abbas r.a. htjeli pomoći Ebu Talibu zbog nestašice, Poslanik ﷺ je uzeo Aliju k sebi, a Abbas je uzeo Džafera. Ebu Talib je zadržao samo Ukajla.",
+      "de": "Als der Prophet ﷺ und Abbas r.a. Abu Talib wegen der Knappheit helfen wollten, nahm der Prophet ﷺ Ali zu sich, und Abbas nahm Dschafar. Abu Talib behielt nur Uqail."
+    }
+  },
+  {
+    "quiz_id": 4,
+    "question_id": 94,
+    "type": "true_false",
+    "difficulty": "hard",
+    "source_section": "Suhejb",
+    "question": {
+      "bs": "U hadisu se navodi da je Suhejb r.a. 'prethodnik Bizantinaca' u islamu.",
+      "de": "Im Hadith wird erwähnt, dass Suhaib r.a. 'der Vorreiter der Byzantiner' im Islam ist."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "U jednom hadisu stoji: 'Suhejb je prethodnik Bizantinaca (u islam)!' Iako je bio Arapin po porijeklu, zvali su ga Rumijj jer su ga Bizantijci kao dijete odveli u roblje.",
+      "de": "In einem Hadith heisst es: 'Suhaib ist der Vorreiter der Byzantiner (im Islam)!' Obwohl er arabischer Herkunft war, nannte man ihn ar-Rumi, weil die Byzantiner ihn als Kind gefangen genommen hatten."
+    }
+  },
+  {
+    "quiz_id": 4,
+    "question_id": 95,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Aiša r.a.",
+    "question": {
+      "bs": "Aiša r.a., kći Ebu Bekra r.a., je bila među prvim muslimanima iako je tada bila mala djevojčica.",
+      "de": "Aischa r.a., Tochter von Abu Bakr r.a., gehörte zu den ersten Muslimen, obwohl sie damals ein kleines Mädchen war."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Aiša, kći Ebu Bekrova r.a., je primila islam među prvima, iako je tada bila mala djevojčica. Kasnije je postala supruga Poslanika ﷺ i jedna od najvećih učenjakinja.",
+      "de": "Aischa, Tochter von Abu Bakr r.a., nahm den Islam zu den ersten an, obwohl sie damals ein kleines Mädchen war. Später wurde sie die Ehefrau des Propheten ﷺ und eine der grössten Gelehrten."
+    }
+  },
+  {
+    "quiz_id": 4,
+    "question_id": 96,
+    "type": "true_false",
+    "difficulty": "hard",
+    "source_section": "Esma r.a.",
+    "question": {
+      "bs": "Esma bint Ebi Bekr r.a. je primila islam zajedno sa svojom sestrom Aišom r.a. među prvim muslimanima.",
+      "de": "Asma bint Abi Bakr r.a. nahm zusammen mit ihrer Schwester Aischa r.a. unter den ersten Muslimen den Islam an."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Esma bint Ebi Bekr r.a. i njena sestra Aiša r.a. su bile među prvim muslimanima. Esma r.a. je kasnije poznata kao 'Zatu-n-nitakajn' (vlasnica dva pojasa) zbog pomoći pri Hidžri.",
+      "de": "Asma bint Abi Bakr r.a. und ihre Schwester Aischa r.a. gehörten zu den ersten Muslimen. Asma r.a. wurde später als 'Dhat un-Nitaqain' (die mit den zwei Gürteln) bekannt wegen ihrer Hilfe bei der Hidschra."
+    }
+  },
+  {
+    "quiz_id": 4,
+    "question_id": 97,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Abdullah bin Džed'an",
+    "question": {
+      "bs": "Ko je oslobodio Suhejba er-Rumija r.a. u Mekki?",
+      "de": "Wer befreite Suhaib ar-Rumi r.a. in Mekka?"
+    },
+    "options": {
+      "bs": [
+        "Abdullah bin Džed'an",
+        "Ebu Bekr r.a.",
+        "Ebu Talib",
+        "Poslanik ﷺ"
+      ],
+      "de": [
+        "Abdullah ibn Dschud'an",
+        "Abu Bakr r.a.",
+        "Abu Talib",
+        "Der Prophet ﷺ"
+      ]
+    },
+    "correct": {
+      "bs": "Abdullah bin Džed'an",
+      "de": "Abdullah ibn Dschud'an"
+    },
+    "explanation": {
+      "bs": "Suhejba je kupio čovjek iz plemena Kelb i prodao ga u Mekki. Kupio ga je Abdullah bin Džed'an i oslobodio ga. Abdullah bin Džed'an je bio isti čovjek u čijoj kući je sklopljen Hilful-fudul.",
+      "de": "Suhaib wurde von einem Mann vom Stamm Kalb gekauft und in Mekka verkauft. Abdullah ibn Dschud'an kaufte und befreite ihn. Abdullah ibn Dschud'an war derselbe Mann, in dessen Haus der Hilf al-Fudul geschlossen wurde."
+    }
+  },
+  {
+    "quiz_id": 4,
+    "question_id": 98,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Zejd bin Haris",
+    "question": {
+      "bs": "Ko je doveo Zejda bin Harisa r.a. kao roba iz Šama?",
+      "de": "Wer brachte Zaid ibn Haritha r.a. als Sklaven aus Syrien?"
+    },
+    "options": {
+      "bs": [
+        "Velid bin Mugire",
+        "Hakim bin Hizam bin Huvejlid",
+        "Abdullah bin Džed'an",
+        "El-As bin Vail"
+      ],
+      "de": [
+        "Walid ibn Mughira",
+        "Hakim ibn Hizam ibn Chuwailid",
+        "Abdullah ibn Dschud'an",
+        "Al-As ibn Wail"
+      ]
+    },
+    "correct": {
+      "bs": "Hakim bin Hizam bin Huvejlid",
+      "de": "Hakim ibn Hizam ibn Chuwailid"
+    },
+    "explanation": {
+      "bs": "Zejda bin Harisa je, kao roba iz Šama, doveo Hakim bin Hizam bin Huvejlid. Kada je kod njega došla tetka mu Hatidža r.a., ona je odabrala Zejda, a zatim ga poklonila Poslaniku ﷺ.",
+      "de": "Zaid ibn Haritha wurde als Sklave aus Syrien von Hakim ibn Hizam ibn Chuwailid gebracht. Als seine Tante Khadidscha r.a. zu ihm kam, wählte sie Zaid aus und schenkte ihn dann dem Propheten ﷺ."
+    }
+  },
+  {
+    "quiz_id": 4,
+    "question_id": 99,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Džafer i Esma",
+    "question": {
+      "bs": "Ko je bila žena Džafera bin Ebi Taliba r.a.?",
+      "de": "Wer war die Ehefrau von Dschafar ibn Abi Talib r.a.?"
+    },
+    "options": {
+      "bs": [
+        "Rukajja bint Muhammed",
+        "Esma bint Umejs",
+        "Fatima bint Muhammed",
+        "Esma bint Ebi Bekr"
+      ],
+      "de": [
+        "Ruqayya bint Muhammad",
+        "Asma bint Umais",
+        "Fatima bint Muhammad",
+        "Asma bint Abi Bakr"
+      ]
+    },
+    "correct": {
+      "bs": "Esma bint Umejs",
+      "de": "Asma bint Umais"
+    },
+    "explanation": {
+      "bs": "Džafer bin Ebi Talib r.a. i njegova žena Esma bint Umejs su bili među prvim muslimanima. Kasnije su učinili Hidžru u Abesiniju, a Džafer r.a. je postao poznat po svojoj hrabrosti u bici kod Mute.",
+      "de": "Dschafar ibn Abi Talib r.a. und seine Frau Asma bint Umais gehörten zu den ersten Muslimen. Später wanderten sie nach Abessinien aus, und Dschafar r.a. wurde für seine Tapferkeit in der Schlacht von Muta bekannt."
+    }
+  },
+  {
+    "quiz_id": 4,
+    "question_id": 100,
+    "type": "ordering",
+    "difficulty": "hard",
+    "source_section": "Sure",
+    "question": {
+      "bs": "Poredajte sure po redoslijedu objave:",
+      "de": "Ordnen Sie die Suren in der Reihenfolge ihrer Offenbarung:"
+    },
+    "options": {
+      "bs": [
+        "El-Alek (Ikre)",
+        "El-Hidžr",
+        "El-Muddesir",
+        "Ed-Duha"
+      ],
+      "de": [
+        "Al-Alaq (Iqra)",
+        "Al-Hidschr",
+        "Al-Muddathir",
+        "Ad-Duha"
+      ]
+    },
+    "correct": {
+      "bs": [
+        "El-Alek (Ikre)",
+        "El-Muddesir",
+        "Ed-Duha",
+        "El-Hidžr"
+      ],
+      "de": [
+        "Al-Alaq (Iqra)",
+        "Al-Muddathir",
+        "Ad-Duha",
+        "Al-Hidschr"
+      ]
+    },
+    "explanation": {
+      "bs": "Redoslijed: 1) El-Alek - prva objava, 2) El-Muddesir - druga objava nakon prekida, 3) Ed-Duha - utjeha nakon prekida, 4) El-Hidžr - sadrži naredbu o javnom pozivu. Sve su mekanske sure.",
+      "de": "Reihenfolge: 1) Al-Alaq - erste Offenbarung, 2) Al-Muddathir - zweite Offenbarung nach der Pause, 3) Ad-Duha - Trost nach der Pause, 4) Al-Hidschr - enthält den Befehl zum öffentlichen Aufruf. Alle sind mekkanische Suren."
+    }
+  }
+]

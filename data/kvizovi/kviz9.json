@@ -1,0 +1,2988 @@
+[
+  {
+    "quiz_id": 9,
+    "question_id": 1,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Bitka na Hajberu",
+    "question": {
+      "bs": "Abdullah bin Ubejj, vođa licemjera, poslao je izvještaj jevrejima u Hajber da ih upozori na dolazak muslimana.",
+      "de": "Abdullah bin Ubayy, der Anführer der Heuchler, schickte einen Bericht an die Juden in Khaybar, um sie vor der Ankunft der Muslime zu warnen."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Abdullah bin Ubejj poslao je poruku u Hajber: 'Muhammed je krenuo direktno na vas, pazite se dobro i ne bojte ga se. Vi ste brojniji i spremniji.' Ovo pokazuje izdajničku ulogu licemjera u Medini.",
+      "de": "Richtig! Abdullah bin Ubayy sandte eine Nachricht nach Khaybar: 'Muhammad kommt direkt zu euch, passt gut auf und fürchtet ihn nicht. Ihr seid zahlreicher und besser vorbereitet.' Dies zeigt die verräterische Rolle der Heuchler in Medina."
+    }
+  },
+  {
+    "quiz_id": 9,
+    "question_id": 2,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Bitka na Hajberu",
+    "question": {
+      "bs": "Šta su hajberski jevreji obećali plemenu Gatafan u zamjenu za pomoć protiv muslimana?",
+      "de": "Was versprachen die Juden von Khaybar dem Stamm Ghatafan als Gegenleistung für ihre Hilfe gegen die Muslime?"
+    },
+    "options": {
+      "bs": [
+        "Trećinu ljetine Hajbera",
+        "Svo oružje koje imaju",
+        "Pola ljetine Hajbera",
+        "Četvrtinu ljetine Hajbera"
+      ],
+      "de": [
+        "Ein Drittel der Ernte von Khaybar",
+        "Alle Waffen die sie haben",
+        "Die Hälfte der Ernte von Khaybar",
+        "Ein Viertel der Ernte von Khaybar"
+      ]
+    },
+    "correct": {
+      "bs": "Pola ljetine Hajbera",
+      "de": "Die Hälfte der Ernte von Khaybar"
+    },
+    "explanation": {
+      "bs": "Hajberci su obećali pola ljetine Hajbera plemenu Gatafan ako pobijede muslimane. Gatafanci su bili saveznici hajberskih jevreja i štitili su njihovo zaleđe od muslimana.",
+      "de": "Die Bewohner von Khaybar versprachen dem Stamm Ghatafan die Hälfte der Ernte von Khaybar, falls sie die Muslime besiegen würden. Die Ghatafan waren Verbündete der Juden von Khaybar und schützten ihr Hinterland vor den Muslimen."
+    }
+  },
+  {
+    "quiz_id": 9,
+    "question_id": 3,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Bitka na Hajberu",
+    "question": {
+      "bs": "Zašto se pleme Gatafan vratilo kući umjesto da pomogne jevrejima u Hajberu?",
+      "de": "Warum kehrte der Stamm Ghatafan nach Hause zurück, anstatt den Juden in Khaybar zu helfen?"
+    },
+    "options": {
+      "bs": [
+        "Poslanik ﷺ ih je potkupio",
+        "Čuli su veliku buku iza sebe i pomislili da su muslimani napali njihove porodice",
+        "Primili su islam na putu",
+        "Izgubili su u bici prije dolaska u Hajber"
+      ],
+      "de": [
+        "Der Prophet ﷺ bestach sie",
+        "Sie hörten grossen Lärm hinter sich und dachten, die Muslime hätten ihre Familien angegriffen",
+        "Sie nahmen unterwegs den Islam an",
+        "Sie verloren in einer Schlacht vor der Ankunft in Khaybar"
+      ]
+    },
+    "correct": {
+      "bs": "Čuli su veliku buku iza sebe i pomislili da su muslimani napali njihove porodice",
+      "de": "Sie hörten grossen Lärm hinter sich und dachten, die Muslime hätten ihre Familien angegriffen"
+    },
+    "explanation": {
+      "bs": "Gatafanci su se spremili i krenuli u Hajber, ali kad su bili na putu, čuli su iza sebe veliku buku i galamu. Pomislili su da su muslimani napali njihove porodice i imetke, te se vratiše nazad. Tako je put između Resulullaha ﷺ i Hajbera bio slobodan.",
+      "de": "Die Ghatafan machten sich bereit und zogen nach Khaybar, aber unterwegs hörten sie grossen Lärm hinter sich. Sie dachten, die Muslime hätten ihre Familien und ihren Besitz angegriffen und kehrten zurück. So war der Weg zwischen dem Gesandten Allahs ﷺ und Khaybar frei."
+    }
+  },
+  {
+    "quiz_id": 9,
+    "question_id": 4,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Bitka na Hajberu",
+    "question": {
+      "bs": "Koliko je iznosila udaljenost od Er-Redžia do Gatafana?",
+      "de": "Wie gross war die Entfernung von Er-Raji bis Ghatafan?"
+    },
+    "options": {
+      "bs": [
+        "Šest sati hoda",
+        "Četrdeset osam sati hoda",
+        "Dvadeset četiri sata hoda",
+        "Dvanaest sati hoda"
+      ],
+      "de": [
+        "Sechs Stunden zu Fuss",
+        "Achtundvierzig Stunden zu Fuss",
+        "Vierundzwanzig Stunden zu Fuss",
+        "Zwölf Stunden zu Fuss"
+      ]
+    },
+    "correct": {
+      "bs": "Dvadeset četiri sata hoda",
+      "de": "Vierundzwanzig Stunden zu Fuss"
+    },
+    "explanation": {
+      "bs": "Od Er-Redžia pa do Gatafana udaljenost je bila dvadeset četiri sata hoda. Resulullah ﷺ je krenuo u Hajber preko brda Isra, zatim preko Es-Suhbe, pa putem preko doline Er-Redžia.",
+      "de": "Von Er-Raji bis Ghatafan betrug die Entfernung vierundzwanzig Stunden zu Fuss. Der Gesandte Allahs ﷺ zog nach Khaybar über den Berg Isra, dann über Es-Suhba und durch das Tal Er-Raji."
+    }
+  },
+  {
+    "quiz_id": 9,
+    "question_id": 5,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Bitka na Hajberu",
+    "question": {
+      "bs": "Na raskrsnici pred Hajberom, koji put je Resulullah ﷺ izabrao?",
+      "de": "An der Kreuzung vor Khaybar, welchen Weg wählte der Gesandte Allahs ﷺ?"
+    },
+    "options": {
+      "bs": [
+        "Put Šaš",
+        "Put Hatib",
+        "Put Huzn",
+        "Put Merhab"
+      ],
+      "de": [
+        "Den Weg Schasch",
+        "Den Weg Hatib",
+        "Den Weg Huzn",
+        "Den Weg Merhab"
+      ]
+    },
+    "correct": {
+      "bs": "Put Merhab",
+      "de": "Den Weg Merhab"
+    },
+    "explanation": {
+      "bs": "Na raskrsnici su bila četiri puta: Huzn, Šaš, Hatib i Husejl. Resulullah ﷺ nije htio krenuti ni jednim od tih puteva zbog njihovih negativnih značenja. Kad je Omer r.a. upitao za peti put, vodič je rekao 'Merhab' (što znači 'dobrodošlica'), te Resulullah ﷺ odabra da idu tim putem.",
+      "de": "An der Kreuzung gab es vier Wege: Huzn, Schasch, Hatib und Husejl. Der Gesandte Allahs ﷺ wollte keinen dieser Wege nehmen wegen ihrer negativen Bedeutungen. Als Omar r.a. nach dem fünften Weg fragte, sagte der Führer 'Merhab' (was 'Willkommen' bedeutet), und der Gesandte Allahs ﷺ wählte diesen Weg."
+    }
+  },
+  {
+    "quiz_id": 9,
+    "question_id": 6,
+    "type": "true_false",
+    "difficulty": "easy",
+    "source_section": "Bitka na Hajberu",
+    "question": {
+      "bs": "Amir bin el-Ekve'a je bio pjesnik koji je pjevao stihove na putu za Hajber.",
+      "de": "Amir bin al-Akwa war ein Dichter, der auf dem Weg nach Khaybar Verse sang."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Amir bin el-Ekve'a je bio pjesnik. Na putu za Hajber pjevao je: 'O Allahu, da nije Tebe ne bi bili upućeni, ne bi dijelili sadaku i ne bi bili klanjači...' Resulullah ﷺ je upitao ko pjeva, a kada su mu rekli da je to Amir, rekao je: 'Smilovao mu se Allah.'",
+      "de": "Richtig! Amir bin al-Akwa war ein Dichter. Auf dem Weg nach Khaybar sang er: 'O Allah, ohne Dich wären wir nicht rechtgeleitet, würden keine Almosen geben und nicht beten...' Der Gesandte Allahs ﷺ fragte, wer singt, und als man ihm sagte, es sei Amir, sagte er: 'Möge Allah ihm gnädig sein.'"
+    }
+  },
+  {
+    "quiz_id": 9,
+    "question_id": 7,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Bitka na Hajberu",
+    "question": {
+      "bs": "Šta je Resulullah ﷺ rekao ashabima kada su glasno učili tekbire ugledavši Hajber?",
+      "de": "Was sagte der Gesandte Allahs ﷺ zu den Gefährten, als sie laut Takbir riefen beim Anblick von Khaybar?"
+    },
+    "options": {
+      "bs": [
+        "'Budite pažljivi prema sebi, vi ne dozivate gluhoga, a ni odsutnoga'",
+        "'Šutite dok ne stignemo'",
+        "'Učite tekbire tiho'",
+        "'Glasnije učite tekbire'"
+      ],
+      "de": [
+        "'Seid achtsam mit euch selbst, ihr ruft weder einen Tauben noch einen Abwesenden'",
+        "'Schweigt bis wir ankommen'",
+        "'Sprecht Takbir leise'",
+        "'Ruft lauter Takbir'"
+      ]
+    },
+    "correct": {
+      "bs": "'Budite pažljivi prema sebi, vi ne dozivate gluhoga, a ni odsutnoga'",
+      "de": "'Seid achtsam mit euch selbst, ihr ruft weder einen Tauben noch einen Abwesenden'"
+    },
+    "explanation": {
+      "bs": "Kada je vojska ugledala dolinu Hajbera, svi u jedan glas zaučiše tekbire. Resulullah ﷺ im je rekao: 'Budite pažljivi prema sebi, vi ne dozivate gluhoga, a ni odsutnoga, vi dozivate Onoga Koji sve čuje i koji je najbliži vama.' Ovo je pouka o skrušenosti u zikru.",
+      "de": "Als die Armee das Tal von Khaybar sah, riefen alle gemeinsam Takbir. Der Gesandte Allahs ﷺ sagte ihnen: 'Seid achtsam mit euch selbst, ihr ruft weder einen Tauben noch einen Abwesenden, ihr ruft Den an, Der alles hört und euch am nächsten ist.' Dies ist eine Lehre über Demut im Gedenken."
+    }
+  },
+  {
+    "quiz_id": 9,
+    "question_id": 8,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Bitka na Hajberu",
+    "question": {
+      "bs": "Resulullah ﷺ je imao običaj da kada dođe naveče blizu neprijatelja, ne napada dok ne svane.",
+      "de": "Der Gesandte Allahs ﷺ hatte die Gewohnheit, wenn er abends in der Nähe des Feindes ankam, nicht anzugreifen bis es dämmerte."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! To je bio Poslanikov ﷺ običaj u ratovanju - strpljivo čekanje do zore. Kod Hajbera, muslimani su prespavali posljednju noć uoči bitke blizu Hajbera, a da ih jevreji nisu primijetili. Kad je osvanulo jutro, Resulullah ﷺ je klanjao sabah, a još je bila tama, a onda su uzjahali i krenuli.",
+      "de": "Richtig! Das war die Gewohnheit des Propheten ﷺ in der Kriegsführung - geduldiges Warten bis zur Morgendämmerung. Bei Khaybar übernachteten die Muslime die letzte Nacht vor der Schlacht in der Nähe von Khaybar, ohne dass die Juden sie bemerkten. Als der Morgen anbrach, betete der Gesandte Allahs ﷺ das Fajr-Gebet, als es noch dunkel war, dann ritten sie los."
+    }
+  },
+  {
+    "quiz_id": 9,
+    "question_id": 9,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "source_section": "Bitka na Hajberu",
+    "question": {
+      "bs": "Šta su jevreji Hajbera nosili kada su izašli ujutro i ugledali muslimansku vojsku?",
+      "de": "Was trugen die Juden von Khaybar bei sich, als sie morgens herauskamen und die muslimische Armee sahen?"
+    },
+    "options": {
+      "bs": [
+        "Zlato i srebro",
+        "Hranu i vodu",
+        "Lopate i korpe",
+        "Oružje i štitove"
+      ],
+      "de": [
+        "Gold und Silber",
+        "Essen und Wasser",
+        "Schaufeln und Körbe",
+        "Waffen und Schilde"
+      ]
+    },
+    "correct": {
+      "bs": "Lopate i korpe",
+      "de": "Schaufeln und Körbe"
+    },
+    "explanation": {
+      "bs": "Stanovnici Hajbera izišli su s lopatama i korpama na svoja imanja, a da nisu ništa primijetili. Kad su ugledali muslimansku vojsku, rekli su: 'Muhammed, tako nam Boga, Muhammed i vojska!' Bježeći, vratili su se u grad. Ovo pokazuje kako su bili iznenađeni.",
+      "de": "Die Bewohner von Khaybar kamen mit Schaufeln und Körben zu ihren Feldern, ohne etwas zu bemerken. Als sie die muslimische Armee sahen, sagten sie: 'Muhammad, bei Gott, Muhammad und die Armee!' Fliehend kehrten sie in die Stadt zurück. Dies zeigt, wie überrascht sie waren."
+    }
+  },
+  {
+    "quiz_id": 9,
+    "question_id": 10,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Bitka na Hajberu",
+    "question": {
+      "bs": "Ko je savjetovao Resulullaha ﷺ da promijeni mjesto logora kod Hajbera?",
+      "de": "Wer riet dem Gesandten Allahs ﷺ, den Lagerplatz bei Khaybar zu wechseln?"
+    },
+    "options": {
+      "bs": [
+        "Alija bin Ebi Talib",
+        "Omer bin el-Hattab",
+        "Habab bin el-Munzir",
+        "Sa'd bin Ubade"
+      ],
+      "de": [
+        "Ali bin Abi Talib",
+        "Omar bin al-Khattab",
+        "Habbab bin al-Mundhir",
+        "Sa'd bin Ubada"
+      ]
+    },
+    "correct": {
+      "bs": "Habab bin el-Munzir",
+      "de": "Habbab bin al-Mundhir"
+    },
+    "explanation": {
+      "bs": "Habab bin el-Munzir je došao kod Resulullaha ﷺ i upitao: 'Da li ti je Allah naredio da se tu ulogorimo ili je to po tvom ratnom planu?' Kada je Resulullah ﷺ rekao da je to njegov izbor, Habab je predložio drugo mjesto između palmi, kamuflirano, gdje se mogu razapeti šatori. Resulullah ﷺ je prihvatio njegov savjet.",
+      "de": "Habbab bin al-Mundhir kam zum Gesandten Allahs ﷺ und fragte: 'Hat Allah dir befohlen, hier zu lagern, oder ist es dein Kriegsplan?' Als der Gesandte Allahs ﷺ sagte, es sei seine Wahl, schlug Habbab einen anderen Platz zwischen den Palmen vor, getarnt, wo man Zelte aufschlagen könnte. Der Gesandte Allahs ﷺ akzeptierte seinen Rat."
+    }
+  },
+  {
+    "quiz_id": 9,
+    "question_id": 11,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Bitka na Hajberu - utvrđenja",
+    "question": {
+      "bs": "Koliko je ukupno utvrđenja imao Hajber?",
+      "de": "Wie viele Festungen hatte Khaybar insgesamt?"
+    },
+    "options": {
+      "bs": [
+        "Osam utvrđenja",
+        "Šest utvrđenja",
+        "Deset utvrđenja",
+        "Pet utvrđenja"
+      ],
+      "de": [
+        "Acht Festungen",
+        "Sechs Festungen",
+        "Zehn Festungen",
+        "Fünf Festungen"
+      ]
+    },
+    "correct": {
+      "bs": "Osam utvrđenja",
+      "de": "Acht Festungen"
+    },
+    "explanation": {
+      "bs": "Hajber je imao osam glavnih utvrđenja podijeljenih u dva dijela. Prvi dio (En-Netat i Eš-Šekku) imao je pet utvrđenja: Naim, Es-Sa'b, Ez-Zubejr, Ebij i En-Nezar. Drugi dio (El-Kutejbet) imao je tri utvrđenja: El-Kamus, El-Vetih i Es-Selalim.",
+      "de": "Khaybar hatte acht Hauptfestungen in zwei Teilen. Der erste Teil (En-Netat und Eš-Šekku) hatte fünf Festungen: Naim, Es-Sa'b, Ez-Zubejr, Ebij und En-Nezar. Der zweite Teil (El-Kutejbet) hatte drei Festungen: El-Kamus, El-Vetih und Es-Selalim."
+    }
+  },
+  {
+    "quiz_id": 9,
+    "question_id": 12,
+    "type": "ordering",
+    "difficulty": "hard",
+    "source_section": "Bitka na Hajberu - utvrđenja",
+    "question": {
+      "bs": "Poredaj utvrđenja Hajbera po redoslijedu osvajanja:",
+      "de": "Ordne die Festungen von Khaybar nach der Reihenfolge ihrer Eroberung:"
+    },
+    "options": {
+      "bs": [
+        "Naim",
+        "Ebij",
+        "Ez-Zubejr",
+        "Es-Sa'b"
+      ],
+      "de": [
+        "Naim",
+        "Ebij",
+        "Ez-Zubejr",
+        "Es-Sa'b"
+      ]
+    },
+    "correct": {
+      "bs": [
+        "Naim",
+        "Es-Sa'b",
+        "Ez-Zubejr",
+        "Ebij"
+      ],
+      "de": [
+        "Naim",
+        "Es-Sa'b",
+        "Ez-Zubejr",
+        "Ebij"
+      ]
+    },
+    "explanation": {
+      "bs": "Redoslijed osvajanja utvrđenja Hajbera bio je: 1) Naim - prva utvrda gdje je poginuo Murehhab, 2) Es-Sa'b - drugo po veličini i važnosti, 3) Ez-Zubejr - na stjenovitim uzvisinama, 4) Ebij - nakon čijeg pada su se jevreji povukli u En-Nezar.",
+      "de": "Die Reihenfolge der Eroberung der Festungen von Khaybar war: 1) Naim - die erste Festung, wo Marhab fiel, 2) Es-Sa'b - die zweitgrösste und wichtigste, 3) Ez-Zubejr - auf felsigen Anhöhen, 4) Ebij - nach dessen Fall sich die Juden nach En-Nezar zurückzogen."
+    }
+  },
+  {
+    "quiz_id": 9,
+    "question_id": 13,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "source_section": "Bitka na Hajberu - bajrak",
+    "question": {
+      "bs": "Šta je Resulullah ﷺ rekao uoči bitke o čovjeku koji će ponijeti islamski bajrak?",
+      "de": "Was sagte der Gesandte Allahs ﷺ am Vorabend der Schlacht über den Mann, der das islamische Banner tragen wird?"
+    },
+    "options": {
+      "bs": [
+        "'Najhrabriji ratnik među vama'",
+        "'Onaj ko prvi ustane'",
+        "'Najstariji ashab'",
+        "'Čovjek koji voli Allaha i Njegovog Poslanika i kojeg vole Allah i Njegov Poslanik'"
+      ],
+      "de": [
+        "'Der tapferste Krieger unter euch'",
+        "'Derjenige, der zuerst aufsteht'",
+        "'Der älteste Gefährte'",
+        "'Ein Mann, der Allah und Seinen Gesandten liebt und den Allah und Sein Gesandter lieben'"
+      ]
+    },
+    "correct": {
+      "bs": "'Čovjek koji voli Allaha i Njegovog Poslanika i kojeg vole Allah i Njegov Poslanik'",
+      "de": "'Ein Mann, der Allah und Seinen Gesandten liebt und den Allah und Sein Gesandter lieben'"
+    },
+    "explanation": {
+      "bs": "Resulullah ﷺ je rekao: 'Sutra će ovaj islamski bajrak ponijeti čovjek koji voli Allaha i Njegovog Poslanika i kojeg vole Allah i Njegov Poslanik.' Svi ashabi su željeli da budu taj čovjek. Sutradan je bajrak povjeren Aliji r.a. koji se žalio na oči.",
+      "de": "Der Gesandte Allahs ﷺ sagte: 'Morgen wird dieses islamische Banner ein Mann tragen, der Allah und Seinen Gesandten liebt und den Allah und Sein Gesandter lieben.' Alle Gefährten wollten dieser Mann sein. Am nächsten Tag wurde das Banner Ali r.a. anvertraut, der über Augenschmerzen klagte."
+    }
+  },
+  {
+    "quiz_id": 9,
+    "question_id": 14,
+    "type": "true_false",
+    "difficulty": "easy",
+    "source_section": "Bitka na Hajberu - bajrak",
+    "question": {
+      "bs": "Alija r.a. je dobio bajrak na Hajberu iako se žalio na bolne oči.",
+      "de": "Ali r.a. erhielt das Banner bei Khaybar, obwohl er über schmerzende Augen klagte."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Kada je Resulullah ﷺ upitao gdje je Alija bin Ebi Talib, ashabi su odgovorili da se žali na oči. Resulullah ﷺ je naredio da ga dovedu. Kada su ga doveli, Resulullah ﷺ mu je dao bajrak, a prema nekim predanjima, pljunuo mu je u oči i one su ozdravile.",
+      "de": "Richtig! Als der Gesandte Allahs ﷺ fragte, wo Ali bin Abi Talib sei, antworteten die Gefährten, dass er über Augenschmerzen klage. Der Gesandte Allahs ﷺ befahl, ihn zu bringen. Als sie ihn brachten, gab ihm der Gesandte Allahs ﷺ das Banner, und gemäss einigen Überlieferungen spuckte er in seine Augen und sie wurden geheilt."
+    }
+  },
+  {
+    "quiz_id": 9,
+    "question_id": 15,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Bitka na Hajberu - Murehhab",
+    "question": {
+      "bs": "Ko je bio Murehhab?",
+      "de": "Wer war Marhab?"
+    },
+    "options": {
+      "bs": [
+        "Zapovjednik jevrejske vojske",
+        "Glavni rabin Hajbera",
+        "Jevrejski junak koji se smatrao ravnim hiljadu boraca",
+        "Vladar Hajbera"
+      ],
+      "de": [
+        "Der Kommandant der jüdischen Armee",
+        "Der Oberrabbiner von Khaybar",
+        "Ein jüdischer Held, der als tausend Kämpfern ebenbürtig galt",
+        "Der Herrscher von Khaybar"
+      ]
+    },
+    "correct": {
+      "bs": "Jevrejski junak koji se smatrao ravnim hiljadu boraca",
+      "de": "Ein jüdischer Held, der als tausend Kämpfern ebenbürtig galt"
+    },
+    "explanation": {
+      "bs": "Murehhab je bio jevrejski junak koji je vladao utvrđenjem Naim i smatrao se ravnim hiljadu boraca. Izašao je na dvoboj pjevajući: 'Cio Hajber zna da sam Murehhab ja, ne žalim se na oružje, sposoban sam junak znaj.' Prvo je ubio Amira, a zatim je njega ubio Alija r.a.",
+      "de": "Marhab war ein jüdischer Held, der die Festung Naim beherrschte und als tausend Kämpfern ebenbürtig galt. Er kam zum Duell und sang: 'Ganz Khaybar weiss, dass ich Marhab bin, ich klage nicht über Waffen, wisse, ich bin ein fähiger Held.' Er tötete zuerst Amir, dann tötete ihn Ali r.a."
+    }
+  },
+  {
+    "quiz_id": 9,
+    "question_id": 16,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Bitka na Hajberu - Murehhab",
+    "question": {
+      "bs": "Kako je Amir bin el-Ekve'a poginuo u dvoboju s Murehhabom?",
+      "de": "Wie starb Amir bin al-Akwa im Duell mit Marhab?"
+    },
+    "options": {
+      "bs": [
+        "Njegova sablja se odbila od Murehhabove noge i udarila ga u vrat",
+        "Murehhab ga je proboo kopljem",
+        "Pao je s konja",
+        "Pogođen je strijelom"
+      ],
+      "de": [
+        "Sein Schwert prallte von Marhabs Bein ab und traf ihn am Hals",
+        "Marhab durchbohrte ihn mit einem Speer",
+        "Er fiel vom Pferd",
+        "Er wurde von einem Pfeil getroffen"
+      ]
+    },
+    "correct": {
+      "bs": "Njegova sablja se odbila od Murehhabove noge i udarila ga u vrat",
+      "de": "Sein Schwert prallte von Marhabs Bein ab und traf ihn am Hals"
+    },
+    "explanation": {
+      "bs": "U dvoboju s Murehhabom, Amir je imao kratku sablju. Pokušao je udariti Murehhaba po nozi, ali se sablja odbila i vratila nazad, udarivši ga direktno u vrat. Od tog udarca pao je mrtav. Resulullah ﷺ je rekao: 'On će dobiti duplu nagradu. On je marljiv vojnik i pravi borac za vjeru.'",
+      "de": "Im Duell mit Marhab hatte Amir ein kurzes Schwert. Er versuchte, Marhab am Bein zu treffen, aber das Schwert prallte ab und kam zurück und traf ihn direkt am Hals. Von diesem Schlag fiel er tot um. Der Gesandte Allahs ﷺ sagte: 'Er wird doppelte Belohnung erhalten. Er ist ein fleissiger Soldat und ein wahrer Kämpfer für den Glauben.'"
+    }
+  },
+  {
+    "quiz_id": 9,
+    "question_id": 17,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Bitka na Hajberu - Murehhab",
+    "question": {
+      "bs": "Koji nadimak je Alija r.a. izgovorio u stihovima prije dvoboja s Murehhabom?",
+      "de": "Welchen Beinamen sprach Ali r.a. in seinen Versen vor dem Duell mit Marhab aus?"
+    },
+    "options": {
+      "bs": [
+        "Sejfullah (Allahov mač)",
+        "Hajdera (Lav)",
+        "Esedullah (Allahov lav)",
+        "El-Faris (Vitez)"
+      ],
+      "de": [
+        "Saifullah (Schwert Allahs)",
+        "Haydara (Löwe)",
+        "Asadullah (Löwe Allahs)",
+        "Al-Faris (Ritter)"
+      ]
+    },
+    "correct": {
+      "bs": "Hajdera (Lav)",
+      "de": "Haydara (Löwe)"
+    },
+    "explanation": {
+      "bs": "Alija r.a. je odgovorio Murehhabu stihovima: 'Mene majka prozva da sam Hajdera, car svih gustih šuma, ružnog manzara (izgleda).' Hajdera znači lav. Nakon ovih stihova, Alija r.a. je zamahnu sabljom, udario Murehhaba po glavi i na mjestu ga ubio.",
+      "de": "Ali r.a. antwortete Marhab mit Versen: 'Meine Mutter nannte mich Haydara, König aller dichten Wälder, von furchteinflössendem Aussehen.' Haydara bedeutet Löwe. Nach diesen Versen schwang Ali r.a. sein Schwert, traf Marhab am Kopf und tötete ihn auf der Stelle."
+    }
+  },
+  {
+    "quiz_id": 9,
+    "question_id": 18,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Bitka na Hajberu - Jaser",
+    "question": {
+      "bs": "Zubejr bin el-Avvam je ubio Jasera, Murehhabovog brata, u dvoboju.",
+      "de": "Zubayr bin al-Awwam tötete Yasir, Marhabs Bruder, im Duell."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Poslije pogibije Murehhaba, njegov brat Jaser je izašao na dvoboj. Pred njega je izišao Zubejr. Zubejrova majka Safija se zabrinula i rekla Resulullahu ﷺ: 'A zar da pogine moj sin?' On je odgovorio: 'Ne, nego će tvoj sin njega ubiti.' I Zubejr ga je stvarno ubio.",
+      "de": "Richtig! Nach dem Tod von Marhab kam sein Bruder Yasir zum Duell. Zubayr trat ihm entgegen. Zubayrs Mutter Safiyya war besorgt und sagte zum Gesandten Allahs ﷺ: 'Soll mein Sohn etwa sterben?' Er antwortete: 'Nein, dein Sohn wird ihn töten.' Und Zubayr tötete ihn tatsächlich."
+    }
+  },
+  {
+    "quiz_id": 9,
+    "question_id": 19,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Bitka na Hajberu - utvrđenje Es-Sa'b",
+    "question": {
+      "bs": "Šta je Resulullah ﷺ zabranio vojnicima da jedu nakon osvajanja utvrđenja Es-Sa'b?",
+      "de": "Was verbot der Gesandte Allahs ﷺ den Soldaten zu essen nach der Eroberung der Festung Es-Sa'b?"
+    },
+    "options": {
+      "bs": [
+        "Meso domaćeg magarca",
+        "Plodove palmi",
+        "Meso divlje svinje",
+        "Zarobljenu hranu"
+      ],
+      "de": [
+        "Fleisch von Hauseseln",
+        "Palmenfrüchte",
+        "Fleisch von Wildschweinen",
+        "Erbeutete Nahrung"
+      ]
+    },
+    "correct": {
+      "bs": "Meso domaćeg magarca",
+      "de": "Fleisch von Hauseseln"
+    },
+    "explanation": {
+      "bs": "Zbog prevelike gladi u muslimanskoj vojsci, vojnici su zaklali nekoliko magaraca i pekli ih u loncima. Kad je saznao Resulullah ﷺ za to, zabranio je jedenje mesa domaćeg magarca. Ova zabrana je ostala trajna u islamskom pravu.",
+      "de": "Wegen des grossen Hungers in der muslimischen Armee schlachteten die Soldaten einige Esel und kochten sie in Töpfen. Als der Gesandte Allahs ﷺ davon erfuhr, verbot er das Essen von Hauseselsfleisch. Dieses Verbot blieb im islamischen Recht dauerhaft bestehen."
+    }
+  },
+  {
+    "quiz_id": 9,
+    "question_id": 20,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Bitka na Hajberu - utvrđenje Ez-Zubejr",
+    "question": {
+      "bs": "Kako su muslimani uspjeli osvojiti utvrđenje Ez-Zubejr?",
+      "de": "Wie gelang es den Muslimen, die Festung Ez-Zubejr zu erobern?"
+    },
+    "options": {
+      "bs": [
+        "Presjekli su dovod vode na savjet jednog jevreja",
+        "Ušli su tajnim prolazom",
+        "Jevreji su se predali bez borbe",
+        "Probili su zidine katapultima"
+      ],
+      "de": [
+        "Sie schnitten die Wasserversorgung auf Rat eines Juden ab",
+        "Sie kamen durch einen geheimen Gang",
+        "Die Juden ergaben sich ohne Kampf",
+        "Sie durchbrachen die Mauern mit Katapulten"
+      ]
+    },
+    "correct": {
+      "bs": "Presjekli su dovod vode na savjet jednog jevreja",
+      "de": "Sie schnitten die Wasserversorgung auf Rat eines Juden ab"
+    },
+    "explanation": {
+      "bs": "Utvrđenje Ez-Zubejr bilo je na stjenovitim uzvisinama. Nakon tri dana opsade, jedan jevrej je rekao Resulullahu ﷺ da jevreji imaju podzemne izvore i noću izlaze po vodu. Savjetovao je da presijeku dovod vode. Resulullah ﷺ je to učinio i jevreji su morali izaći u borbu.",
+      "de": "Die Festung Ez-Zubejr befand sich auf felsigen Anhöhen. Nach drei Tagen Belagerung sagte ein Jude dem Gesandten Allahs ﷺ, dass die Juden unterirdische Quellen hätten und nachts Wasser holten. Er riet, die Wasserversorgung abzuschneiden. Der Gesandte Allahs ﷺ tat dies und die Juden mussten in den Kampf ziehen."
+    }
+  },
+  {
+    "quiz_id": 9,
+    "question_id": 21,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Bitka na Hajberu - utvrđenje Ebij",
+    "question": {
+      "bs": "Koji poznati ashab je izvršio juriš na utvrđenje Ebij?",
+      "de": "Welcher bekannte Gefährte führte den Sturm auf die Festung Ebij an?"
+    },
+    "options": {
+      "bs": [
+        "Alija bin Ebi Talib",
+        "Omer bin el-Hattab",
+        "Halid bin Velid",
+        "Ebu Dudžanet Semak el-Ensari"
+      ],
+      "de": [
+        "Ali bin Abi Talib",
+        "Omar bin al-Khattab",
+        "Khalid bin Walid",
+        "Abu Dudschana Simak al-Ansari"
+      ]
+    },
+    "correct": {
+      "bs": "Ebu Dudžanet Semak el-Ensari",
+      "de": "Abu Dudschana Simak al-Ansari"
+    },
+    "explanation": {
+      "bs": "Ebu Dudžanet, poznat po nošenju crvenog poveza na glavi u vrijeme bitaka, načini juriš na utvrđenje Ebij, a za njim krenu i muslimanska vojska. Vodila se žestoka bitka cio jedan sat unutar utvrđenja, dok se jevreji nisu povukli u posljednje utvrđenje En-Nezar.",
+      "de": "Abu Dudschana, bekannt für das Tragen eines roten Stirnbandes während der Schlachten, stürmte die Festung Ebij, und die muslimische Armee folgte ihm. Es tobte eine heftige Schlacht eine Stunde lang innerhalb der Festung, bis sich die Juden in die letzte Festung En-Nezar zurückzogen."
+    }
+  },
+  {
+    "quiz_id": 9,
+    "question_id": 22,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Bitka na Hajberu - utvrđenje En-Nezar",
+    "question": {
+      "bs": "Utvrđenje En-Nezar bilo je mjesto gdje su jevreji sklonili svoju djecu i žene iz ostalih utvrđenja.",
+      "de": "Die Festung En-Nezar war der Ort, an dem die Juden ihre Kinder und Frauen aus anderen Festungen versteckten."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! En-Nezar je bilo najnepristupačnije utvrđenje u tom dijelu Hajbera, na visokom brdu. Jevreji su bili gotovo sigurni da muslimani neće moći prodrijeti u to utvrđenje, pa su tu sklonili svoju djecu i žene iz prethodne četiri utvrde.",
+      "de": "Richtig! En-Nezar war die unzugänglichste Festung in diesem Teil von Khaybar, auf einem hohen Hügel. Die Juden waren fast sicher, dass die Muslime nicht in diese Festung eindringen könnten, also versteckten sie dort ihre Kinder und Frauen aus den vorherigen vier Festungen."
+    }
+  },
+  {
+    "quiz_id": 9,
+    "question_id": 23,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Bitka na Hajberu - otrovna ovca",
+    "question": {
+      "bs": "Ko je zatrovao ovcu koju je poklonila Resulullahu ﷺ nakon osvajanja Hajbera?",
+      "de": "Wer vergiftete das Schaf, das dem Gesandten Allahs ﷺ nach der Eroberung von Khaybar geschenkt wurde?"
+    },
+    "options": {
+      "bs": [
+        "Zejneba, kćerka El-Harisa, žena Selama bin Miškema",
+        "Safija bint Hujejj",
+        "Jedna robinja",
+        "Murehhabova sestra"
+      ],
+      "de": [
+        "Zaynab, Tochter von Al-Harith, Frau von Salam bin Mischkam",
+        "Safiyya bint Huyayy",
+        "Eine Sklavin",
+        "Marhabs Schwester"
+      ]
+    },
+    "correct": {
+      "bs": "Zejneba, kćerka El-Harisa, žena Selama bin Miškema",
+      "de": "Zaynab, Tochter von Al-Harith, Frau von Salam bin Mischkam"
+    },
+    "explanation": {
+      "bs": "Zejneba, kćerka El-Harisa, žena Selama bin Miškema, natrpala je otrova u plećku i ostalo meso pečene ovce. Resulullah ﷺ je zagrizao zalogaj, osjetio gorak okus i ispljunuo. Rekao je: 'To mi govori da je meso zatrovano.' Ona je priznala i rekla da je htjela ispitati je li on pravi poslanik.",
+      "de": "Zaynab, Tochter von Al-Harith, Frau von Salam bin Mischkam, füllte die Schulter und den Rest des gebratenen Schaffleisches mit Gift. Der Gesandte Allahs ﷺ biss einen Bissen ab, schmeckte Bitterkeit und spuckte ihn aus. Er sagte: 'Das sagt mir, dass das Fleisch vergiftet ist.' Sie gestand und sagte, sie wollte testen, ob er ein echter Prophet sei."
+    }
+  },
+  {
+    "quiz_id": 9,
+    "question_id": 24,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Bitka na Hajberu - otrovna ovca",
+    "question": {
+      "bs": "Koji ashab je umro zbog jedenja otrovane ovce na Hajberu?",
+      "de": "Welcher Gefährte starb durch das Essen des vergifteten Schafes bei Khaybar?"
+    },
+    "options": {
+      "bs": [
+        "Amir bin el-Ekve'a",
+        "Bišr bin el-Berra bin Ma'rur",
+        "Zejd bin Haris",
+        "Habab bin el-Munzir"
+      ],
+      "de": [
+        "Amir bin al-Akwa",
+        "Bischr bin al-Barra bin Ma'rur",
+        "Zayd bin Haritha",
+        "Habbab bin al-Mundhir"
+      ]
+    },
+    "correct": {
+      "bs": "Bišr bin el-Berra bin Ma'rur",
+      "de": "Bischr bin al-Barra bin Ma'rur"
+    },
+    "explanation": {
+      "bs": "Bišr bin el-Berra bin Ma'rur je bio s Resulullahom ﷺ i uzeo je zalogaj zatrovane ovce. Za razliku od Resulullaha ﷺ koji je ispljunuo, Bišr je progutao zalogaj, otrovao se i umro. Prema nekim predanjima, nakon njegove smrti Resulullah ﷺ je naredio da se Zejneba pogubi.",
+      "de": "Bischr bin al-Barra bin Ma'rur war beim Gesandten Allahs ﷺ und ass einen Bissen des vergifteten Schafes. Im Gegensatz zum Gesandten Allahs ﷺ, der ausspuckte, schluckte Bischr den Bissen, wurde vergiftet und starb. Laut einigen Überlieferungen befahl der Gesandte Allahs ﷺ nach seinem Tod, Zaynab hinzurichten."
+    }
+  },
+  {
+    "quiz_id": 9,
+    "question_id": 25,
+    "type": "multiple_choice",
+    "difficulty": "hard",
+    "source_section": "Bitka na Hajberu - gubici",
+    "question": {
+      "bs": "Koliko je bilo gubitaka na obje strane u bici na Hajberu? (odaberi dva tačna odgovora)",
+      "de": "Wie viele Verluste gab es auf beiden Seiten in der Schlacht von Khaybar? (wähle zwei richtige Antworten)"
+    },
+    "options": {
+      "bs": [
+        "50 muslimanskih šehida",
+        "16-23 muslimanskih šehida",
+        "23 jevrejska poginula",
+        "93 jevrejska poginula"
+      ],
+      "de": [
+        "50 muslimische Märtyrer",
+        "16-23 muslimische Märtyrer",
+        "23 jüdische Gefallene",
+        "93 jüdische Gefallene"
+      ]
+    },
+    "correct": {
+      "bs": [
+        "16-23 muslimanskih šehida",
+        "93 jevrejska poginula"
+      ],
+      "de": [
+        "16-23 muslimische Märtyrer",
+        "93 jüdische Gefallene"
+      ]
+    },
+    "explanation": {
+      "bs": "Na Hajberu je poginulo 16-23 muslimanskih šehida (izvori se razlikuju): četvorica Kurejšija, jedan iz plemena Ešdžea, jedan konvertit, jedan stanovnik Hajbera, a ostali su ensarije. Na jevrejskoj strani poginula su 93 čovjeka.",
+      "de": "Bei Khaybar fielen 16-23 muslimische Märtyrer (Quellen unterscheiden sich): vier Quraysh, einer vom Stamm Aschdscha, ein Konvertit, ein Bewohner von Khaybar, und der Rest waren Ansar. Auf jüdischer Seite fielen 93 Männer."
+    }
+  },
+  {
+    "quiz_id": 9,
+    "question_id": 26,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Fedk",
+    "question": {
+      "bs": "Selo Fedk se predalo Resulullahu ﷺ bez borbe nakon pada Hajbera.",
+      "de": "Das Dorf Fedek ergab sich dem Gesandten Allahs ﷺ ohne Kampf nach dem Fall von Khaybar."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Kad je Allah omogućio muslimanima zauzimanje Hajbera, strah se uselio među stanovnike Fedka. Poslaše poruku Resulullahu ﷺ da se žele pomiriti s njim i da mu daju pola Fedka. Fedk je pripao lično Resulullahu ﷺ jer ga nije osvojila ni konjica ni pješadija.",
+      "de": "Richtig! Als Allah den Muslimen ermöglichte, Khaybar zu erobern, erfasste Angst die Bewohner von Fedek. Sie sandten eine Nachricht an den Gesandten Allahs ﷺ, dass sie Frieden schliessen und ihm die Hälfte von Fedek geben wollten. Fedek gehörte persönlich dem Gesandten Allahs ﷺ, da es weder von Kavallerie noch von Infanterie erobert wurde."
+    }
+  },
+  {
+    "quiz_id": 9,
+    "question_id": 27,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Vadi-l-Kura",
+    "question": {
+      "bs": "Šta se desilo sa slugom Resulullaha ﷺ koji je poginuo u Vadi-l-Kuri?",
+      "de": "Was geschah mit dem Diener des Gesandten Allahs ﷺ, der in Wadi al-Qura starb?"
+    },
+    "options": {
+      "bs": [
+        "Resulullah ﷺ je rekao da će ogrtač koji je ukrao izgorjeti na njemu u Džehennemu",
+        "Sahranjen je s počastima",
+        "Resulullah ﷺ je klanjao dženazu za njega",
+        "Proglašen je šehidom"
+      ],
+      "de": [
+        "Der Gesandte Allahs ﷺ sagte, dass der Mantel, den er gestohlen hatte, im Höllenfeuer auf ihm brennen wird",
+        "Er wurde mit Ehren begraben",
+        "Der Gesandte Allahs ﷺ betete das Totengebet für ihn",
+        "Er wurde zum Märtyrer erklärt"
+      ]
+    },
+    "correct": {
+      "bs": "Resulullah ﷺ je rekao da će ogrtač koji je ukrao izgorjeti na njemu u Džehennemu",
+      "de": "Der Gesandte Allahs ﷺ sagte, dass der Mantel, den er gestohlen hatte, im Höllenfeuer auf ihm brennen wird"
+    },
+    "explanation": {
+      "bs": "Kada su ušli u Vadi-l-Kuru, jedna strijela ubi Resulullahovog ﷺ slugu. Muslimani povikaše: 'Prijatan mu bio Džennet.' Resulullah ﷺ povika: 'Ne, tako mi Allaha, ogrtač koji je uzeo iz nepodijeljenog plijena (ukrao) izgorjet će na njemu u Džehennemu.' Ovo je ozbiljna opomena protiv krađe iz ratnog plijena.",
+      "de": "Als sie Wadi al-Qura betraten, tötete ein Pfeil den Diener des Gesandten Allahs ﷺ. Die Muslime riefen: 'Möge ihm das Paradies angenehm sein.' Der Gesandte Allahs ﷺ rief: 'Nein, bei Allah, der Mantel, den er von der ungeteilten Beute (gestohlen) nahm, wird im Höllenfeuer auf ihm brennen.' Dies ist eine ernste Warnung vor dem Diebstahl von Kriegsbeute."
+    }
+  },
+  {
+    "quiz_id": 9,
+    "question_id": 28,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Vadi-l-Kura",
+    "question": {
+      "bs": "Koliko jevrejskih boraca je poginulo u dvobojima u Vadi-l-Kuri?",
+      "de": "Wie viele jüdische Kämpfer starben in Duellen in Wadi al-Qura?"
+    },
+    "options": {
+      "bs": [
+        "Jedanaest",
+        "Pet",
+        "Dvadeset",
+        "Sedam"
+      ],
+      "de": [
+        "Elf",
+        "Fünf",
+        "Zwanzig",
+        "Sieben"
+      ]
+    },
+    "correct": {
+      "bs": "Jedanaest",
+      "de": "Elf"
+    },
+    "explanation": {
+      "bs": "U Vadi-l-Kuri je u dvobojima poginulo jedanaest jevrejskih boraca. Zubejr bin el-Avvam je ubio jednog, Alija r.a. je ubio drugog, i tako redom. Nakon svakog dvoboja Resulullah ﷺ je pozivao ostale u islam, ali su odbijali. Tek sutradan su se predali.",
+      "de": "In Wadi al-Qura starben elf jüdische Kämpfer in Duellen. Zubayr bin al-Awwam tötete einen, Ali r.a. tötete einen anderen, und so weiter. Nach jedem Duell rief der Gesandte Allahs ﷺ die anderen zum Islam, aber sie lehnten ab. Erst am nächsten Tag ergaben sie sich."
+    }
+  },
+  {
+    "quiz_id": 9,
+    "question_id": 29,
+    "type": "true_false",
+    "difficulty": "easy",
+    "source_section": "Tejma",
+    "question": {
+      "bs": "Jevreji Tejme su se dobrovoljno predali nakon pada Hajbera, Fedka i Vadi-l-Kure.",
+      "de": "Die Juden von Tayma ergaben sich freiwillig nach dem Fall von Khaybar, Fedek und Wadi al-Qura."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Kad su jevreji Tejme čuli za pad Hajbera, Fedka i Vadi-l-Kure, odustali su od namjere da pruže bilo kakav otpor muslimanima. Sami od sebe poslaše predstavnika koji su ponudili predaju. Resulullah ﷺ to prihvati i ostavi im pismenu garanciju o njihovom statusu.",
+      "de": "Richtig! Als die Juden von Tayma vom Fall von Khaybar, Fedek und Wadi al-Qura hörten, gaben sie ihre Absicht auf, den Muslimen Widerstand zu leisten. Sie sandten von sich aus Vertreter, die die Kapitulation anboten. Der Gesandte Allahs ﷺ akzeptierte dies und hinterliess ihnen eine schriftliche Garantie über ihren Status."
+    }
+  },
+  {
+    "quiz_id": 9,
+    "question_id": 30,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Povratak iz Hajbera",
+    "question": {
+      "bs": "Šta se desilo na povratku iz Hajbera kada je Bilal trebao probuditi vojsku na sabah?",
+      "de": "Was geschah auf dem Rückweg von Khaybar, als Bilal die Armee zum Fajr-Gebet wecken sollte?"
+    },
+    "options": {
+      "bs": [
+        "Resulullah ﷺ se probudio prije Bilala",
+        "Bilal je na vrijeme probudio sve",
+        "Bilala je savladao san i niko se nije probudio do izlaska sunca",
+        "Vojska je klanjala prije zore"
+      ],
+      "de": [
+        "Der Gesandte Allahs ﷺ wachte vor Bilal auf",
+        "Bilal weckte alle rechtzeitig",
+        "Bilal übermannte der Schlaf und niemand wachte bis Sonnenaufgang auf",
+        "Die Armee betete vor der Morgendämmerung"
+      ]
+    },
+    "correct": {
+      "bs": "Bilala je savladao san i niko se nije probudio do izlaska sunca",
+      "de": "Bilal übermannte der Schlaf und niemand wachte bis Sonnenaufgang auf"
+    },
+    "explanation": {
+      "bs": "Na povratku u Medinu, vojska je putovala cijelu noć. Resulullah ﷺ je rekao Bilalu: 'Odspavat ćemo malo, probudi nas na sabah.' Međutim, Bilala je savladao san na devi, pa se niko nije probudio dok sunce nije izašlo. Prvi se probudio Resulullah ﷺ. Izašli su iz te doline i klanjali sabah.",
+      "de": "Auf dem Rückweg nach Medina reiste die Armee die ganze Nacht. Der Gesandte Allahs ﷺ sagte zu Bilal: 'Wir werden etwas schlafen, weck uns zum Fajr.' Jedoch übermannte Bilal auf dem Kamel der Schlaf, und niemand wachte auf, bis die Sonne aufging. Der Gesandte Allahs ﷺ wachte als erster auf. Sie verliessen das Tal und beteten Fajr."
+    }
+  },
+  {
+    "quiz_id": 9,
+    "question_id": 31,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Naknadna umra",
+    "question": {
+      "bs": "Koliko je muslimana krenulo na Umretul-kadi (naknadnu umru) 7. godine po Hidžri?",
+      "de": "Wie viele Muslime brachen zur Umrat al-Qada (Nachholungs-Umra) im Jahr 7 nach der Hidschra auf?"
+    },
+    "options": {
+      "bs": [
+        "2000 muškaraca",
+        "1400 muškaraca",
+        "3000 muškaraca",
+        "1000 muškaraca"
+      ],
+      "de": [
+        "2000 Männer",
+        "1400 Männer",
+        "3000 Männer",
+        "1000 Männer"
+      ]
+    },
+    "correct": {
+      "bs": "2000 muškaraca",
+      "de": "2000 Männer"
+    },
+    "explanation": {
+      "bs": "Na naknadnu umru je, osim žena i djece, krenulo 2000 muškaraca. Dogovoreno je da svi živi učesnici Hudejbije krenu zajedno, a da im se mogu pridružiti i drugi. Resulullah ﷺ je poveo 60 kurbana o kojima je vodio brigu Nadžibe bin Džendeb el-Eslemi.",
+      "de": "Zur Nachholungs-Umra brachen, abgesehen von Frauen und Kindern, 2000 Männer auf. Es wurde vereinbart, dass alle lebenden Teilnehmer von Hudaybiyya gemeinsam gehen sollten, und andere konnten sich anschliessen. Der Gesandte Allahs ﷺ führte 60 Opfertiere mit, um die sich Nadschiba bin Dschundub al-Aslami kümmerte."
+    }
+  },
+  {
+    "quiz_id": 9,
+    "question_id": 32,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Naknadna umra",
+    "question": {
+      "bs": "Gdje je Resulullah ﷺ ostavio oružje prije ulaska u Meku na naknadnoj umri?",
+      "de": "Wo liess der Gesandte Allahs ﷺ die Waffen vor dem Eintritt in Mekka bei der Nachholungs-Umra zurück?"
+    },
+    "options": {
+      "bs": [
+        "U Medini",
+        "Na Hudejbiji",
+        "U Zul-Hulejfi",
+        "Na Jedžedžu, s 200 ensarija pod vodstvom Evsa bin Hulije"
+      ],
+      "de": [
+        "In Medina",
+        "Bei Hudaybiyya",
+        "In Dhul-Hulayfa",
+        "Bei Jadschadsch, mit 200 Ansar unter der Führung von Aws bin Hulayya"
+      ]
+    },
+    "correct": {
+      "bs": "Na Jedžedžu, s 200 ensarija pod vodstvom Evsa bin Hulije",
+      "de": "Bei Jadschadsch, mit 200 Ansar unter der Führung von Aws bin Hulayya"
+    },
+    "explanation": {
+      "bs": "Resulullah ﷺ se opremio borbenim oružjem, bojeći se da ih ne bi Kurejšije obmanule. Kad su stigli na Jedžedž, ostavio je svo oružje: kožne štitove, oklopne štitove, strijele, koplja, s Evsom bin Hulijom, ensarijom, i 200 ljudi. U Meku su krenuli samo sa putničkim oružjem i sabljama u koricama.",
+      "de": "Der Gesandte Allahs ﷺ rüstete sich mit Kampfwaffen aus, aus Sorge, dass die Quraysh sie täuschen könnten. Als sie Jadschadsch erreichten, liess er alle Waffen zurück: Lederschilde, Rüstungsschilde, Pfeile, Speere, bei Aws bin Hulayya, dem Ansari, und 200 Männern. Nach Mekka gingen sie nur mit Reisewaffen und Schwertern in Scheiden."
+    }
+  },
+  {
+    "quiz_id": 9,
+    "question_id": 33,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Naknadna umra",
+    "question": {
+      "bs": "Mušrici su govorili da muslimane koji dolaze na umru trese 'jesribska groznica'.",
+      "de": "Die Götzendiener sagten, dass die Muslime, die zur Umra kamen, vom 'Yathrib-Fieber' geschüttelt werden."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Mušrici su izišli na brdo Kajkaan na sjevernom dijelu Meke da gledaju muslimane. Međusobno su govorili: 'Dolazi vam delegacija koju trese jesribska groznica.' Zato je Resulullah ﷺ naredio ashabima da žurno pređu tri kruga (reml) kako bi pokazali snagu i opovrgli ovu glasinu.",
+      "de": "Richtig! Die Götzendiener stiegen auf den Berg Qaiqaan im nördlichen Teil Mekkas, um die Muslime zu beobachten. Sie sagten zueinander: 'Eine Delegation kommt zu euch, die vom Yathrib-Fieber geschüttelt wird.' Deshalb befahl der Gesandte Allahs ﷺ den Gefährten, drei Runden schnell zu gehen (Raml), um Stärke zu zeigen und dieses Gerücht zu widerlegen."
+    }
+  },
+  {
+    "quiz_id": 9,
+    "question_id": 34,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Naknadna umra",
+    "question": {
+      "bs": "Šta je 'reml' koji je Resulullah ﷺ naredio ashabima da čine tokom tavafa?",
+      "de": "Was ist 'Raml', das der Gesandte Allahs ﷺ den Gefährten während des Tawaf zu tun befahl?"
+    },
+    "options": {
+      "bs": [
+        "Podizanje ruku",
+        "Tiho učenje dove",
+        "Polutrčanje s tresenjem ramenima",
+        "Hodanje unatrag"
+      ],
+      "de": [
+        "Heben der Hände",
+        "Leises Bittgebet",
+        "Halblaufen mit Schulterschütteln",
+        "Rückwärtsgehen"
+      ]
+    },
+    "correct": {
+      "bs": "Polutrčanje s tresenjem ramenima",
+      "de": "Halblaufen mit Schulterschütteln"
+    },
+    "explanation": {
+      "bs": "Reml je polutrčanje s tresenjem ramenima. Resulullah ﷺ je s muslimanima u prva tri kruga oko Kabe činio reml kako bi pokazao Kurejšijama snagu muslimana. Kad ih ugledaše mušrici tako čile i kreposne, povikaše: 'Jesu li to oni ljudi za koje ste rekli da ih drme jesribska groznica? Oni su snažniji od bilo koga drugog.'",
+      "de": "Raml ist Halblaufen mit Schulterschütteln. Der Gesandte Allahs ﷺ machte mit den Muslimen in den ersten drei Runden um die Kaaba Raml, um den Quraysh die Stärke der Muslime zu zeigen. Als die Götzendiener sie so vital und kräftig sahen, riefen sie: 'Sind das die Leute, von denen ihr sagtet, sie hätten Yathrib-Fieber? Sie sind stärker als alle anderen.'"
+    }
+  },
+  {
+    "quiz_id": 9,
+    "question_id": 35,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Naknadna umra",
+    "question": {
+      "bs": "Koji ashab je pjevušio stihove pred Resulullahom ﷺ tokom tavafa na naknadnoj umri?",
+      "de": "Welcher Gefährte sang Verse vor dem Gesandten Allahs ﷺ während des Tawaf bei der Nachholungs-Umra?"
+    },
+    "options": {
+      "bs": [
+        "Ka'b bin Malik",
+        "Abdullah bin Revaha",
+        "Amir bin el-Ekve'a",
+        "Hassan bin Sabit"
+      ],
+      "de": [
+        "Ka'b bin Malik",
+        "Abdullah bin Rawaha",
+        "Amir bin al-Akwa",
+        "Hassan bin Thabit"
+      ]
+    },
+    "correct": {
+      "bs": "Abdullah bin Revaha",
+      "de": "Abdullah bin Rawaha"
+    },
+    "explanation": {
+      "bs": "Abdullah bin Revaha je pjevušio stihove ispred Resulullaha ﷺ tokom tavafa: 'Sklonite se nevjernici s njegovoga puta... Najljepša je časna smrt, na Allahovom putu...' Omer r.a. ga je prekorio što pjeva u Allahovom haremu, ali je Resulullah ﷺ rekao: 'Pusti ga, Omere, stihovi će na njih brže djelovati nego odapete strijele!'",
+      "de": "Abdullah bin Rawaha sang Verse vor dem Gesandten Allahs ﷺ während des Tawaf: 'Weicht aus dem Weg, Ungläubige... Der schönste Tod ist der ehrenvolle Tod auf Allahs Weg...' Omar r.a. tadelte ihn dafür, dass er im Heiligtum Allahs sang, aber der Gesandte Allahs ﷺ sagte: 'Lass ihn, Omar, Verse werden schneller auf sie wirken als abgeschossene Pfeile!'"
+    }
+  },
+  {
+    "quiz_id": 9,
+    "question_id": 36,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Naknadna umra",
+    "question": {
+      "bs": "Koliko je dana Resulullah ﷺ ostao u Meki na naknadnoj umri?",
+      "de": "Wie viele Tage blieb der Gesandte Allahs ﷺ bei der Nachholungs-Umra in Mekka?"
+    },
+    "options": {
+      "bs": [
+        "Deset dana",
+        "Tri dana",
+        "Sedam dana",
+        "Jedan dan"
+      ],
+      "de": [
+        "Zehn Tage",
+        "Drei Tage",
+        "Sieben Tage",
+        "Einen Tag"
+      ]
+    },
+    "correct": {
+      "bs": "Tri dana",
+      "de": "Drei Tage"
+    },
+    "explanation": {
+      "bs": "Prema ugovoru na Hudejbiji, Resulullah ﷺ je ostao u Meki tri dana. Četvrtog dana izjutra, mušrici su došli kod Alije r.a. i rekli: 'Kaži svome drugu (Resulullahu ﷺ), neka ide od nas, vrijeme mu je isteklo.' Resulullah ﷺ se spremi i napusti s muslimanima Meku.",
+      "de": "Gemäss dem Vertrag von Hudaybiyya blieb der Gesandte Allahs ﷺ drei Tage in Mekka. Am vierten Tag, morgens, kamen die Götzendiener zu Ali r.a. und sagten: 'Sag deinem Gefährten (dem Gesandten Allahs ﷺ), er soll von uns gehen, seine Zeit ist abgelaufen.' Der Gesandte Allahs ﷺ bereitete sich vor und verliess mit den Muslimen Mekka."
+    }
+  },
+  {
+    "quiz_id": 9,
+    "question_id": 37,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Naknadna umra",
+    "question": {
+      "bs": "Kome je Resulullah ﷺ dodijelio Hamzinu kćerku siroticu nakon naknadne umre?",
+      "de": "Wem vertraute der Gesandte Allahs ﷺ die verwaiste Tochter von Hamza nach der Nachholungs-Umra an?"
+    },
+    "options": {
+      "bs": [
+        "Aliji bin Ebi Talibu",
+        "Zejdu bin Harisi",
+        "Džaferu bin Ebi Talibu",
+        "Omeru bin el-Hattabu"
+      ],
+      "de": [
+        "Ali bin Abi Talib",
+        "Zayd bin Haritha",
+        "Dscha'far bin Abi Talib",
+        "Omar bin al-Khattab"
+      ]
+    },
+    "correct": {
+      "bs": "Džaferu bin Ebi Talibu",
+      "de": "Dscha'far bin Abi Talib"
+    },
+    "explanation": {
+      "bs": "Dok je Resulullah ﷺ kretao iz Meke, za njim je krenula Hamzina kćerka dozivajući: 'O amidža, o amidža!' Alija r.a. ju je htio uzeti kod sebe, ali i Džafer i Zejd. Resulullah ﷺ ju je dodijelio Džaferu jer joj je majčina sestra bila Džaferova žena, pa će je ona bolje paziti i njegovati.",
+      "de": "Als der Gesandte Allahs ﷺ aus Mekka aufbrach, folgte ihm Hamzas Tochter und rief: 'O Onkel, o Onkel!' Ali r.a. wollte sie aufnehmen, aber auch Dscha'far und Zayd. Der Gesandte Allahs ﷺ vertraute sie Dscha'far an, da ihre Tante mütterlicherseits Dscha'fars Frau war und sie sie besser pflegen würde."
+    }
+  },
+  {
+    "quiz_id": 9,
+    "question_id": 38,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Naknadna umra",
+    "question": {
+      "bs": "Resulullah ﷺ je oženio Mejmunu na naknadnoj umri.",
+      "de": "Der Gesandte Allahs ﷺ heiratete Maymuna bei der Nachholungs-Umra."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Na naknadnoj umri Resulullah ﷺ je oženio Mejmunu, kćerku El-Harisa el-Amirijja. Resulullah ﷺ je prije ulaska u Meku poslao Džafera bin Ebi Taliba da mu zaprosi Mejmunu. Mejmuna je uzela El-Abbasa za staratelja jer joj je sestra bila Abbasova žena. Resulullah ﷺ se s njom sastao u Serefu na povratku iz Meke.",
+      "de": "Richtig! Bei der Nachholungs-Umra heiratete der Gesandte Allahs ﷺ Maymuna, die Tochter von Al-Harith al-Amiri. Der Gesandte Allahs ﷺ hatte vor dem Eintritt in Mekka Dscha'far bin Abi Talib geschickt, um Maymuna für ihn zu werben. Maymuna nahm Al-Abbas als ihren Vormund, da ihre Schwester Abbas' Frau war. Der Gesandte Allahs ﷺ traf sie in Sarif auf dem Rückweg aus Mekka."
+    }
+  },
+  {
+    "quiz_id": 9,
+    "question_id": 39,
+    "type": "multiple_choice",
+    "difficulty": "hard",
+    "source_section": "Naknadna umra",
+    "question": {
+      "bs": "Koja su četiri imena za naknadnu umru? (odaberi sve tačne)",
+      "de": "Was sind die vier Namen für die Nachholungs-Umra? (wähle alle richtigen)"
+    },
+    "options": {
+      "bs": [
+        "Umretul-kada'",
+        "Umretul-kasas",
+        "Umretul-kadijjet",
+        "Umretus-sulh"
+      ],
+      "de": [
+        "Umrat al-Qada'",
+        "Umrat al-Qisas",
+        "Umrat al-Qadiyya",
+        "Umrat as-Sulh"
+      ]
+    },
+    "correct": {
+      "bs": [
+        "Umretul-kada'",
+        "Umretul-kadijjet",
+        "Umretul-kasas",
+        "Umretus-sulh"
+      ],
+      "de": [
+        "Umrat al-Qada'",
+        "Umrat al-Qadiyya",
+        "Umrat al-Qisas",
+        "Umrat as-Sulh"
+      ]
+    },
+    "explanation": {
+      "bs": "Naknadna umra ima četiri imena: 1) Umretul-kada' - jer je došla kao dug za neobavljenu umru na Hudejbiji, 2) Umretul-kadijjet - zbog istog razloga, 3) Umretul-kasas - odmah nakon primirja, 4) Umretus-sulh - jer je padala u vrijeme primirja sklopljenog prethodne godine na Hudejbiji.",
+      "de": "Die Nachholungs-Umra hat vier Namen: 1) Umrat al-Qada' - weil sie als Schuld für die nicht durchgeführte Umra bei Hudaybiyya kam, 2) Umrat al-Qadiyya - aus demselben Grund, 3) Umrat al-Qisas - direkt nach dem Waffenstillstand, 4) Umrat as-Sulh - weil sie während des im Vorjahr bei Hudaybiyya geschlossenen Waffenstillstands fiel."
+    }
+  },
+  {
+    "quiz_id": 9,
+    "question_id": 40,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "source_section": "Bitka na Mu'ti",
+    "question": {
+      "bs": "Koji je bio povod za bitku na Mu'ti?",
+      "de": "Was war der Anlass für die Schlacht von Mu'ta?"
+    },
+    "options": {
+      "bs": [
+        "Napad na trgovački karavan",
+        "Prekršaj Hudejbijskog ugovora",
+        "Zavjera protiv Resulullaha ﷺ",
+        "Ubistvo Harisa bin Umejra, Resulullahovog ﷺ izaslanika"
+      ],
+      "de": [
+        "Ein Angriff auf eine Handelskarawane",
+        "Verletzung des Hudaybiyya-Vertrags",
+        "Eine Verschwörung gegen den Gesandten Allahs ﷺ",
+        "Die Ermordung von Harith bin Umayra, dem Gesandten des Propheten ﷺ"
+      ]
+    },
+    "correct": {
+      "bs": "Ubistvo Harisa bin Umejra, Resulullahovog ﷺ izaslanika",
+      "de": "Die Ermordung von Harith bin Umayra, dem Gesandten des Propheten ﷺ"
+    },
+    "explanation": {
+      "bs": "Resulullah ﷺ je poslao Harisa bin Umejra el-Ezdija da odnese pismo velikodostojniku Basre. Njemu se ispriječio Šerhabil bin Amr el-Gassani, carev namjesnik u Belki, koji ga je zarobio i poslao u Basru gdje je ubijen. Ubistvo izaslanika se smatralo najvećim zločinom i razlogom za rat.",
+      "de": "Der Gesandte Allahs ﷺ sandte Harith bin Umayra al-Azdi, um einen Brief an den Würdenträger von Basra zu überbringen. Scharhabil bin Amr al-Ghassani, der Statthalter des Kaisers in Balqa, fing ihn ab, nahm ihn gefangen und schickte ihn nach Basra, wo er getötet wurde. Die Ermordung von Gesandten galt als grösstes Verbrechen und Kriegsgrund."
+    }
+  },
+  {
+    "quiz_id": 9,
+    "question_id": 41,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "source_section": "Bitka na Mu'ti",
+    "question": {
+      "bs": "Koliko je muslimana učestvovalo u bici na Mu'ti?",
+      "de": "Wie viele Muslime nahmen an der Schlacht von Mu'ta teil?"
+    },
+    "options": {
+      "bs": [
+        "10.000 vojnika",
+        "1000 vojnika",
+        "3000 vojnika",
+        "5000 vojnika"
+      ],
+      "de": [
+        "10.000 Soldaten",
+        "1000 Soldaten",
+        "3000 Soldaten",
+        "5000 Soldaten"
+      ]
+    },
+    "correct": {
+      "bs": "3000 vojnika",
+      "de": "3000 Soldaten"
+    },
+    "explanation": {
+      "bs": "Resulullah ﷺ je pripremio 3000 vojnika za bitku na Mu'ti. To je bila najveća muslimanska vojska koja je do tad krenula u bitku, osim one koja se borila protiv 'ahzaba' (udruženog neprijatelja). Naspram njih stajalo je 200.000 Bizantijaca i njihovih arapskih saveznika.",
+      "de": "Der Gesandte Allahs ﷺ bereitete 3000 Soldaten für die Schlacht von Mu'ta vor. Das war die grösste muslimische Armee, die bis dahin in die Schlacht zog, ausser der, die gegen die 'Ahzab' (vereinten Feinde) kämpfte. Ihnen standen 200.000 Byzantiner und ihre arabischen Verbündeten gegenüber."
+    }
+  },
+  {
+    "quiz_id": 9,
+    "question_id": 42,
+    "type": "ordering",
+    "difficulty": "medium",
+    "source_section": "Bitka na Mu'ti",
+    "question": {
+      "bs": "Poredaj zapovjednike muslimanske vojske na Mu'ti po redoslijedu kako ih je odredio Resulullah ﷺ:",
+      "de": "Ordne die Kommandeure der muslimischen Armee bei Mu'ta in der Reihenfolge, wie sie der Gesandte Allahs ﷺ bestimmte:"
+    },
+    "options": {
+      "bs": [
+        "Abdullah bin Revvaha",
+        "Zejd bin Haris",
+        "Džafer bin Ebi Talib",
+        "Halid bin Velid"
+      ],
+      "de": [
+        "Abdullah bin Rawaha",
+        "Zayd bin Haritha",
+        "Dscha'far bin Abi Talib",
+        "Khalid bin Walid"
+      ]
+    },
+    "correct": {
+      "bs": [
+        "Zejd bin Haris",
+        "Džafer bin Ebi Talib",
+        "Abdullah bin Revvaha"
+      ],
+      "de": [
+        "Zayd bin Haritha",
+        "Dscha'far bin Abi Talib",
+        "Abdullah bin Rawaha"
+      ]
+    },
+    "explanation": {
+      "bs": "Resulullah ﷺ je postavio na čelo vojske Zejda bin Harisa i rekao: 'Ako pogine Zejd, nasljeđuje ga Džafer, a ako pogine Džafer, onda ga zamjenjuje Abdullah bin Revvaha.' Halid bin Velid nije bio u ovom nizu - njega su vojnici izabrali nakon pogibije sve trojice.",
+      "de": "Der Gesandte Allahs ﷺ setzte Zayd bin Haritha an die Spitze der Armee und sagte: 'Wenn Zayd fällt, folgt ihm Dscha'far, und wenn Dscha'far fällt, ersetzt ihn Abdullah bin Rawaha.' Khalid bin Walid war nicht in dieser Reihe - ihn wählten die Soldaten nach dem Tod aller drei."
+    }
+  },
+  {
+    "quiz_id": 9,
+    "question_id": 43,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Bitka na Mu'ti",
+    "question": {
+      "bs": "Abdullah bin Revvaha je plakao prije bitke na Mu'ti jer se bojao smrti.",
+      "de": "Abdullah bin Rawaha weinte vor der Schlacht von Mu'ta, weil er den Tod fürchtete."
+    },
+    "correct": false,
+    "explanation": {
+      "bs": "Netačno! Abdullah bin Revvaha je plakao, ali ne zbog straha od smrti. Kada su ga upitali zašto plače, odgovorio je: 'Čuo sam Resulullaha ﷺ kako uči ajet iz Kur'ana u kome se spominje Džehennem: I svaki od vas će do njega stići! A ja ne znam kako ću se odmaknuti od Džehennema, nakon što mu se budem primakao.' Plakao je iz bogobojaznosti, ne iz straha od bitke.",
+      "de": "Falsch! Abdullah bin Rawaha weinte, aber nicht aus Angst vor dem Tod. Als man ihn fragte, warum er weine, antwortete er: 'Ich hörte den Gesandten Allahs ﷺ einen Vers aus dem Koran rezitieren, in dem die Hölle erwähnt wird: Und jeder von euch wird dorthin gelangen! Und ich weiss nicht, wie ich mich von der Hölle entfernen werde, nachdem ich ihr nahe gekommen bin.' Er weinte aus Gottesfurcht, nicht aus Angst vor der Schlacht."
+    }
+  },
+  {
+    "quiz_id": 9,
+    "question_id": 44,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Bitka na Mu'ti",
+    "question": {
+      "bs": "Koliko je bilo ukupno neprijateljskih vojnika na Mu'ti?",
+      "de": "Wie viele feindliche Soldaten gab es insgesamt bei Mu'ta?"
+    },
+    "options": {
+      "bs": [
+        "200.000 vojnika",
+        "100.000 vojnika",
+        "50.000 vojnika",
+        "300.000 vojnika"
+      ],
+      "de": [
+        "200.000 Soldaten",
+        "100.000 Soldaten",
+        "50.000 Soldaten",
+        "300.000 Soldaten"
+      ]
+    },
+    "correct": {
+      "bs": "200.000 vojnika",
+      "de": "200.000 Soldaten"
+    },
+    "explanation": {
+      "bs": "Ukupno je bilo 200.000 neprijateljskih vojnika: 100.000 Bizantijaca (Heraklijeva vojska) i 100.000 iz arapskih plemena (Laham, Džezam, Bulejk i Belij). Muslimani su sa samo 3.000 vojnika stajali protiv ove ogromne sile - odnos 1:67.",
+      "de": "Insgesamt gab es 200.000 feindliche Soldaten: 100.000 Byzantiner (Heraklius' Armee) und 100.000 aus arabischen Stämmen (Laham, Dschuzam, Bulayk und Bali). Die Muslime standen mit nur 3.000 Soldaten dieser gewaltigen Streitmacht gegenüber - ein Verhältnis von 1:67."
+    }
+  },
+  {
+    "quiz_id": 9,
+    "question_id": 45,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Bitka na Mu'ti",
+    "question": {
+      "bs": "Šta je Abdullah bin Revvaha rekao vojnicima kada su predložili da obavijeste Resulullaha ﷺ o broju neprijatelja?",
+      "de": "Was sagte Abdullah bin Rawaha zu den Soldaten, als sie vorschlugen, den Gesandten Allahs ﷺ über die Zahl der Feinde zu informieren?"
+    },
+    "options": {
+      "bs": [
+        "'Moramo se povući'",
+        "'Čekajmo pojačanje'",
+        "'Pregovarajmo s njima'",
+        "'Nećemo biti uskraćeni za jedno od dva dobra: ili pobjeda ili šehadet'"
+      ],
+      "de": [
+        "'Wir müssen uns zurückziehen'",
+        "'Warten wir auf Verstärkung'",
+        "'Verhandeln wir mit ihnen'",
+        "'Uns wird eines von zwei Gütern nicht vorenthalten: entweder Sieg oder Märtyrertod'"
+      ]
+    },
+    "correct": {
+      "bs": "'Nećemo biti uskraćeni za jedno od dva dobra: ili pobjeda ili šehadet'",
+      "de": "'Uns wird eines von zwei Gütern nicht vorenthalten: entweder Sieg oder Märtyrertod'"
+    },
+    "explanation": {
+      "bs": "Abdullah bin Revvaha se suprotstavio ideji o povratku i ohrabrio ljude govoreći: 'O narode, ne možete sada mrziti ono što ste tražili. Željeli ste da budete šehidi, a mi se nećemo boriti ni mnoštom, ni snagom, ni brojem. Mi ćemo se boriti snagom ove naše vjere. Krenimo! Nećemo biti uskraćeni za jedno od dva dobra: ili pobjeda ili šehadet.'",
+      "de": "Abdullah bin Rawaha widersprach der Idee der Rückkehr und ermutigte die Leute: 'O Leute, ihr könnt jetzt nicht hassen, was ihr gesucht habt. Ihr wolltet Märtyrer sein, und wir werden nicht mit Menge, Stärke oder Zahl kämpfen. Wir werden mit der Stärke unseres Glaubens kämpfen. Lasst uns gehen! Uns wird eines von zwei Gütern nicht vorenthalten: entweder Sieg oder Märtyrertod.'"
+    }
+  },
+  {
+    "quiz_id": 9,
+    "question_id": 46,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Bitka na Mu'ti",
+    "question": {
+      "bs": "Zašto je Džafer r.a. nazvan 'dženetska ptica'?",
+      "de": "Warum wurde Dscha'far r.a. 'der Paradiesvogel' genannt?"
+    },
+    "options": {
+      "bs": [
+        "Jer je letio na konju",
+        "Jer mu je Allah darovao krila u Džennetu nakon što su mu odsječene obje ruke",
+        "Jer je volio ptice",
+        "Jer je bio brz kao ptica"
+      ],
+      "de": [
+        "Weil er auf einem Pferd flog",
+        "Weil Allah ihm Flügel im Paradies gab, nachdem ihm beide Hände abgeschnitten wurden",
+        "Weil er Vögel liebte",
+        "Weil er schnell wie ein Vogel war"
+      ]
+    },
+    "correct": {
+      "bs": "Jer mu je Allah darovao krila u Džennetu nakon što su mu odsječene obje ruke",
+      "de": "Weil Allah ihm Flügel im Paradies gab, nachdem ihm beide Hände abgeschnitten wurden"
+    },
+    "explanation": {
+      "bs": "Džafer r.a. je u bici izgubio desnu ruku dok je nosio bajrak. Prihvatio ga je lijevom, pa mu i nju odsjekoše. Zatim ga je nosio nadlakticama dok nije pao. Na njegovom tijelu su pronašli preko 50 rana, sve sprijeda. Allah mu je za nagradu darovao krila u Džennetu, pa je nazvan Džafer et-Tajjar (Džafer koji leti).",
+      "de": "Dscha'far r.a. verlor in der Schlacht seine rechte Hand, während er das Banner trug. Er nahm es mit der linken, dann wurde auch sie abgeschnitten. Dann trug er es mit den Oberarmen, bis er fiel. Auf seinem Körper fanden sie über 50 Wunden, alle von vorne. Allah gab ihm als Belohnung Flügel im Paradies, daher wird er Dscha'far at-Tayyar (der fliegende Dscha'far) genannt."
+    }
+  },
+  {
+    "quiz_id": 9,
+    "question_id": 47,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Bitka na Mu'ti",
+    "question": {
+      "bs": "Koliko je rana prebrojano na tijelu Džafera r.a.?",
+      "de": "Wie viele Wunden wurden am Körper von Dscha'far r.a. gezählt?"
+    },
+    "options": {
+      "bs": [
+        "Deset rana",
+        "Sto rana",
+        "Dvadeset rana",
+        "Pedeset do devedeset rana, sve sprijeda"
+      ],
+      "de": [
+        "Zehn Wunden",
+        "Hundert Wunden",
+        "Zwanzig Wunden",
+        "Fünfzig bis neunzig Wunden, alle von vorne"
+      ]
+    },
+    "correct": {
+      "bs": "Pedeset do devedeset rana, sve sprijeda",
+      "de": "Fünfzig bis neunzig Wunden, alle von vorne"
+    },
+    "explanation": {
+      "bs": "Ibn Omer pripovijeda da je stajao kraj ubijenog Džafera i prebrojao na njemu pedeset rana i uboda, sve sprijeda. S leđa nije imao ni jedne rane. U drugom predanju stoji da su prebrojali preko devedeset uboda i rana. Ovo pokazuje nevjerovatnu hrabrost Džafera r.a. - nikada se nije okrenuo od neprijatelja.",
+      "de": "Ibn Omar berichtet, dass er neben dem gefallenen Dscha'far stand und fünfzig Wunden und Stiche an ihm zählte, alle von vorne. Auf dem Rücken hatte er keine einzige Wunde. In einer anderen Überlieferung heisst es, dass sie über neunzig Stiche und Wunden zählten. Dies zeigt den unglaublichen Mut von Dscha'far r.a. - er wandte sich nie vom Feind ab."
+    }
+  },
+  {
+    "quiz_id": 9,
+    "question_id": 48,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "source_section": "Bitka na Mu'ti",
+    "question": {
+      "bs": "Kako je Resulullah ﷺ nazvao Halida bin Velida nakon bitke na Mu'ti?",
+      "de": "Wie nannte der Gesandte Allahs ﷺ Khalid bin Walid nach der Schlacht von Mu'ta?"
+    },
+    "options": {
+      "bs": [
+        "Farisul-Islam (Vitez islama)",
+        "Esedullah (Allahov lav)",
+        "Sejfullah (Allahov mač)",
+        "El-Emin (Povjerljivi)"
+      ],
+      "de": [
+        "Faris al-Islam (Ritter des Islam)",
+        "Asadullah (Löwe Allahs)",
+        "Saifullah (Schwert Allahs)",
+        "Al-Amin (Der Vertrauenswürdige)"
+      ]
+    },
+    "correct": {
+      "bs": "Sejfullah (Allahov mač)",
+      "de": "Saifullah (Schwert Allahs)"
+    },
+    "explanation": {
+      "bs": "Resulullah ﷺ je, obaviješten vahjom, rekao u Medini o bici na Mu'ti: 'Zejd je uzeo bajrak i poginuo, zatim Džafer, pa je i on poginuo, zatim Ibn Revvaha, pa je i on poginuo - dok je to govorio plakao je - i tako sve dok sablju nije uzeo Allahov mač - Halid, pa su tako s Allahovom dozvolom pobijedili.'",
+      "de": "Der Gesandte Allahs ﷺ, durch Offenbarung informiert, sagte in Medina über die Schlacht von Mu'ta: 'Zayd nahm das Banner und fiel, dann Dscha'far, auch er fiel, dann Ibn Rawaha, auch er fiel - während er dies sagte, weinte er - bis das Schwert Allahs - Khalid - das Schwert nahm, und so siegten sie mit Allahs Erlaubnis.'"
+    }
+  },
+  {
+    "quiz_id": 9,
+    "question_id": 49,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Bitka na Mu'ti",
+    "question": {
+      "bs": "Koliko je sablji Halid bin Velid polomio na Mu'ti?",
+      "de": "Wie viele Schwerter zerbrach Khalid bin Walid bei Mu'ta?"
+    },
+    "options": {
+      "bs": [
+        "Sedam sablji",
+        "Tri sablje",
+        "Pet sablji",
+        "Devet sablji"
+      ],
+      "de": [
+        "Sieben Schwerter",
+        "Drei Schwerter",
+        "Fünf Schwerter",
+        "Neun Schwerter"
+      ]
+    },
+    "correct": {
+      "bs": "Devet sablji",
+      "de": "Neun Schwerter"
+    },
+    "explanation": {
+      "bs": "Halid bin Velid je pripovijedao: 'Devet sam sablji polomio na dan Mu'te, jedino je izdržao jemenski mač.' Ovo pokazuje intenzitet borbe koju je vodio. Halid je svojom vještinom i hrabrošću uspio spasiti preostale muslimane iz gotovo nemoguće situacije.",
+      "de": "Khalid bin Walid berichtete: 'Neun Schwerter zerbrach ich am Tag von Mu'ta, nur das jemenitische Schwert hielt stand.' Dies zeigt die Intensität des Kampfes, den er führte. Khalid gelang es durch sein Können und seinen Mut, die verbliebenen Muslime aus einer fast unmöglichen Situation zu retten."
+    }
+  },
+  {
+    "quiz_id": 9,
+    "question_id": 50,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Bitka na Mu'ti",
+    "question": {
+      "bs": "Koju ratnu varku je Halid bin Velid upotrijebio da spasi muslimane na Mu'ti?",
+      "de": "Welche Kriegslist wandte Khalid bin Walid an, um die Muslime bei Mu'ta zu retten?"
+    },
+    "options": {
+      "bs": [
+        "Zapalio je logor",
+        "Povukao se noću",
+        "Promijenio je raspored vojske da neprijatelj pomisli da im je došlo pojačanje",
+        "Napao je po noći"
+      ],
+      "de": [
+        "Er setzte das Lager in Brand",
+        "Er zog sich nachts zurück",
+        "Er änderte die Aufstellung der Armee, damit der Feind dachte, Verstärkung sei eingetroffen",
+        "Er griff nachts an"
+      ]
+    },
+    "correct": {
+      "bs": "Promijenio je raspored vojske da neprijatelj pomisli da im je došlo pojačanje",
+      "de": "Er änderte die Aufstellung der Armee, damit der Feind dachte, Verstärkung sei eingetroffen"
+    },
+    "explanation": {
+      "bs": "Kad osvanu drugi dan, Halid promijeni raspored vojske: prethodnicu postavi u pozadinu, desno krilo na lijevo, a lijevo na desno. Neprijatelj je pomislio da im je došlo pojačanje. Prestrašeni, Bizantijci odustadoše od potjere, bojeći se da ih muslimani ne zavuku u pustinju u neku zamku.",
+      "de": "Als der zweite Tag anbrach, änderte Khalid die Aufstellung der Armee: die Vorhut nach hinten, den rechten Flügel nach links und den linken nach rechts. Der Feind dachte, Verstärkung sei eingetroffen. Verängstigt gaben die Byzantiner die Verfolgung auf, aus Angst, die Muslime würden sie in eine Falle in der Wüste locken."
+    }
+  },
+  {
+    "quiz_id": 9,
+    "question_id": 51,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Oslobođenje Meke - povod",
+    "question": {
+      "bs": "Koji je bio povod za oslobođenje Meke?",
+      "de": "Was war der Anlass für die Eroberung Mekkas?"
+    },
+    "options": {
+      "bs": [
+        "Poslanik ﷺ je dobio objavu da osvoji Meku",
+        "Benu Bekr, saveznici Kurejšija, napali su pleme Huza'a, saveznike muslimana",
+        "Kurejšije su napale Medinu",
+        "Muslimanski trgovci su ubijeni u Meki"
+      ],
+      "de": [
+        "Der Prophet ﷺ erhielt die Offenbarung, Mekka zu erobern",
+        "Die Banu Bakr, Verbündete der Quraysh, griffen den Stamm Khuza'a an, Verbündete der Muslime",
+        "Die Quraysh griffen Medina an",
+        "Muslimische Händler wurden in Mekka getötet"
+      ]
+    },
+    "correct": {
+      "bs": "Benu Bekr, saveznici Kurejšija, napali su pleme Huza'a, saveznike muslimana",
+      "de": "Die Banu Bakr, Verbündete der Quraysh, griffen den Stamm Khuza'a an, Verbündete der Muslime"
+    },
+    "explanation": {
+      "bs": "Prema Hudejbijskom ugovoru, plemena su mogla birati saveze. Huza'a su se pridružili muslimanima, a Benu Bekr Kurejšijama. Benu Bekr su napali Huza'u, a Kurejšije su im pomogle oružjem i ljudstvom. Ovo je bio očiti prekršaj ugovora i povod za oslobođenje Meke.",
+      "de": "Gemäss dem Vertrag von Hudaybiyya konnten Stämme ihre Bündnisse wählen. Die Khuza'a schlossen sich den Muslimen an, die Banu Bakr den Quraysh. Die Banu Bakr griffen die Khuza'a an, und die Quraysh halfen ihnen mit Waffen und Männern. Dies war ein offensichtlicher Vertragsbruch und Anlass für die Eroberung Mekkas."
+    }
+  },
+  {
+    "quiz_id": 9,
+    "question_id": 52,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Oslobođenje Meke - Ebu Sufjan",
+    "question": {
+      "bs": "Resulullah ﷺ je unaprijed obavijestio ashabe da će im doći Ebu Sufjan da obnovi primirje.",
+      "de": "Der Gesandte Allahs ﷺ informierte die Gefährten im Voraus, dass Abu Sufyan kommen würde, um den Waffenstillstand zu erneuern."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Resulullah ﷺ je rekao ashabima: 'Znajte da će vam doći Ebu Sufjan da učvrsti primirje i produži njegov rok.' I doista, nakon što su Kurejšije shvatile ozbiljnost prekršaja ugovora, poslale su Ebu Sufjana u Medinu da pokuša obnoviti primirje.",
+      "de": "Richtig! Der Gesandte Allahs ﷺ sagte zu den Gefährten: 'Wisset, dass Abu Sufyan zu euch kommen wird, um den Waffenstillstand zu festigen und seine Frist zu verlängern.' Und tatsächlich, nachdem die Quraysh die Ernsthaftigkeit des Vertragsbruchs erkannt hatten, sandten sie Abu Sufyan nach Medina, um zu versuchen, den Waffenstillstand zu erneuern."
+    }
+  },
+  {
+    "quiz_id": 9,
+    "question_id": 53,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Oslobođenje Meke - Ebu Sufjan",
+    "question": {
+      "bs": "Šta je Ummu Habiba, kćerka Ebu Sufjana i žena Resulullaha ﷺ, učinila kada je njen otac htio sjesti na Poslanikovu ﷺ postelju?",
+      "de": "Was tat Umm Habiba, die Tochter von Abu Sufyan und Frau des Gesandten Allahs ﷺ, als ihr Vater sich auf das Bett des Propheten ﷺ setzen wollte?"
+    },
+    "options": {
+      "bs": [
+        "Napustila je sobu",
+        "Zabranila mu je, rekavši da je on nevjernik i nečist",
+        "Pokrila je postelju ćilimom",
+        "Pozvala ga je da sjedne"
+      ],
+      "de": [
+        "Sie verliess das Zimmer",
+        "Sie verbot es ihm und sagte, er sei ein Ungläubiger und unrein",
+        "Sie bedeckte das Bett mit einem Teppich",
+        "Sie lud ihn ein zu sitzen"
+      ]
+    },
+    "correct": {
+      "bs": "Zabranila mu je, rekavši da je on nevjernik i nečist",
+      "de": "Sie verbot es ihm und sagte, er sei ein Ungläubiger und unrein"
+    },
+    "explanation": {
+      "bs": "Kada je Ebu Sufjan došao u Medinu, ušao je u sobu svoje kćerke Ummu Habibe. Krenuo je da sjedne na Resulullahovu ﷺ postelju, a ona mu je zabranila. Upitao ju je: 'Pretpostavljaš mene postelji, ili postelju meni?' Ona je odgovorila: 'To je postelja Resulullaha ﷺ, a ti si nevjernik i nečist.'",
+      "de": "Als Abu Sufyan nach Medina kam, betrat er das Zimmer seiner Tochter Umm Habiba. Er wollte sich auf das Bett des Gesandten Allahs ﷺ setzen, aber sie verbot es ihm. Er fragte sie: 'Ziehst du mich dem Bett vor, oder das Bett mir?' Sie antwortete: 'Das ist das Bett des Gesandten Allahs ﷺ, und du bist ein Ungläubiger und unrein.'"
+    }
+  },
+  {
+    "quiz_id": 9,
+    "question_id": 54,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Oslobođenje Meke - Ebu Sufjan",
+    "question": {
+      "bs": "Šta je Omer r.a. rekao Ebu Sufjanu kada ga je ovaj molio da posreduje kod Resulullaha ﷺ?",
+      "de": "Was sagte Omar r.a. zu Abu Sufyan, als dieser ihn bat, beim Gesandten Allahs ﷺ zu vermitteln?"
+    },
+    "options": {
+      "bs": [
+        "'Pitaj nekog drugog'",
+        "'Da nemam ništa drugo osim jednu sjemenku, s njom bih se borio protiv vas'",
+        "'Posredovat ću, ali bez garancije'",
+        "'Pomoći ću ti'"
+      ],
+      "de": [
+        "'Frag jemand anderen'",
+        "'Hätte ich nichts ausser einem Samenkorn, würde ich damit gegen euch kämpfen'",
+        "'Ich werde vermitteln, aber ohne Garantie'",
+        "'Ich werde dir helfen'"
+      ]
+    },
+    "correct": {
+      "bs": "'Da nemam ništa drugo osim jednu sjemenku, s njom bih se borio protiv vas'",
+      "de": "'Hätte ich nichts ausser einem Samenkorn, würde ich damit gegen euch kämpfen'"
+    },
+    "explanation": {
+      "bs": "Ebu Sufjan je tražio posrednike. Ebu Bekr r.a. je odbio, a Omer r.a. mu je rekao: 'Zar da se ja zauzimam kod Resulullaha ﷺ za vas? Tako mi Allaha, da nemam ništa drugo osim jednu sjemenku, s njom bih se borio protiv vas.' Ni Alija r.a. ni Fatima r.a. nisu mu pomogli.",
+      "de": "Abu Sufyan suchte Vermittler. Abu Bakr r.a. lehnte ab, und Omar r.a. sagte ihm: 'Soll ich mich beim Gesandten Allahs ﷺ für euch einsetzen? Bei Allah, hätte ich nichts ausser einem Samenkorn, würde ich damit gegen euch kämpfen.' Weder Ali r.a. noch Fatima r.a. halfen ihm."
+    }
+  },
+  {
+    "quiz_id": 9,
+    "question_id": 55,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Oslobođenje Meke - Hatib",
+    "question": {
+      "bs": "Gdje je žena sakrila Hatibovo pismo koje je nosila Kurejšijama?",
+      "de": "Wo versteckte die Frau Hatibs Brief, den sie zu den Quraysh trug?"
+    },
+    "options": {
+      "bs": [
+        "U torbi",
+        "U pojasu",
+        "U cipeli",
+        "U svojoj pletinici (kosi)"
+      ],
+      "de": [
+        "In einer Tasche",
+        "In ihrem Gürtel",
+        "In ihrem Schuh",
+        "In ihrem Zopf (Haar)"
+      ]
+    },
+    "correct": {
+      "bs": "U svojoj pletinici (kosi)",
+      "de": "In ihrem Zopf (Haar)"
+    },
+    "explanation": {
+      "bs": "Hatib Ibn Belte'a je poslao pismo Kurejšijama s jednom ženom koja ga je sakrila u svoju pletenicu. Resulullah ﷺ je bio obaviješten Objavom i poslao je Aliju r.a. i Mikdada da je presretnu. Nakon pretrage, žena je raspletla pletenicu i izvadila pismo koje je otkrivalo muslimanske planove.",
+      "de": "Hatib Ibn Balta'a sandte einen Brief an die Quraysh mit einer Frau, die ihn in ihrem Zopf versteckte. Der Gesandte Allahs ﷺ wurde durch Offenbarung informiert und sandte Ali r.a. und Miqdad, um sie abzufangen. Nach der Durchsuchung flocht die Frau ihren Zopf auf und holte den Brief heraus, der die Pläne der Muslime enthüllte."
+    }
+  },
+  {
+    "quiz_id": 9,
+    "question_id": 56,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Oslobođenje Meke - Hatib",
+    "question": {
+      "bs": "Zašto je Resulullah ﷺ oprostio Hatibu ibn Belte'i izdaju?",
+      "de": "Warum vergab der Gesandte Allahs ﷺ Hatib ibn Balta'a seinen Verrat?"
+    },
+    "options": {
+      "bs": [
+        "Zato što je bio učesnik Bedra",
+        "Zato što se pokajao",
+        "Zato što je bio star",
+        "Zato što je bio siromašan"
+      ],
+      "de": [
+        "Weil er Teilnehmer von Badr war",
+        "Weil er bereute",
+        "Weil er alt war",
+        "Weil er arm war"
+      ]
+    },
+    "correct": {
+      "bs": "Zato što je bio učesnik Bedra",
+      "de": "Weil er Teilnehmer von Badr war"
+    },
+    "explanation": {
+      "bs": "Omer r.a. je tražio dozvolu da ubije Hatiba kao izdajnika. Resulullah ﷺ je rekao: 'On je učesnik Bedra. A šta znaš, Omere, možda je Allah pogledao učesnike Bedra i rekao: Radite što hoćete, ja sam vam oprostio.' Hatib je objasnio da je htio zaštititi porodicu u Meki, ne izdati islam.",
+      "de": "Omar r.a. bat um Erlaubnis, Hatib als Verräter zu töten. Der Gesandte Allahs ﷺ sagte: 'Er ist Teilnehmer von Badr. Und was weisst du, Omar, vielleicht hat Allah auf die Teilnehmer von Badr geschaut und gesagt: Tut was ihr wollt, ich habe euch vergeben.' Hatib erklärte, er wollte seine Familie in Mekka schützen, nicht den Islam verraten."
+    }
+  },
+  {
+    "quiz_id": 9,
+    "question_id": 57,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "source_section": "Oslobođenje Meke - vojska",
+    "question": {
+      "bs": "Koliko je vojnika imala muslimanska vojska prilikom oslobođenja Meke?",
+      "de": "Wie viele Soldaten hatte die muslimische Armee bei der Eroberung Mekkas?"
+    },
+    "options": {
+      "bs": [
+        "10.000 vojnika",
+        "20.000 vojnika",
+        "5.000 vojnika",
+        "3.000 vojnika"
+      ],
+      "de": [
+        "10.000 Soldaten",
+        "20.000 Soldaten",
+        "5.000 Soldaten",
+        "3.000 Soldaten"
+      ]
+    },
+    "correct": {
+      "bs": "10.000 vojnika",
+      "de": "10.000 Soldaten"
+    },
+    "explanation": {
+      "bs": "Muslimanska vojska koja je krenula na oslobođenje Meke brojala je oko 10.000 vojnika. To je bila najveća vojska koju je Resulullah ﷺ ikada predvodio. Krenuli su u ramazanu 8. godine po Hidžri, u tajnosti, kako Kurejšije ne bi saznale za njihov dolazak.",
+      "de": "Die muslimische Armee, die zur Eroberung Mekkas aufbrach, zählte etwa 10.000 Soldaten. Das war die grösste Armee, die der Gesandte Allahs ﷺ jemals anführte. Sie brachen im Ramadan des 8. Jahres nach der Hidschra auf, in Geheimhaltung, damit die Quraysh nichts von ihrem Kommen erfahren würden."
+    }
+  },
+  {
+    "quiz_id": 9,
+    "question_id": 58,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Oslobođenje Meke - Abbas i Ebu Sufjan",
+    "question": {
+      "bs": "Gdje je Abbas r.a. sreo Ebu Sufjana prije ulaska muslimana u Meku?",
+      "de": "Wo traf Abbas r.a. Abu Sufyan vor dem Einmarsch der Muslime in Mekka?"
+    },
+    "options": {
+      "bs": [
+        "U Džedi",
+        "U Merri-Zahranu",
+        "U Hudejbiji",
+        "U Taifu"
+      ],
+      "de": [
+        "In Dschidda",
+        "In Marr az-Zahran",
+        "In Hudaybiyya",
+        "In Taif"
+      ]
+    },
+    "correct": {
+      "bs": "U Merri-Zahranu",
+      "de": "In Marr az-Zahran"
+    },
+    "explanation": {
+      "bs": "Abbas r.a. je sreo Ebu Sufjana u Merri-Zahranu, blizu Meke. Ebu Sufjan je bio izašao da izvidi situaciju. Abbas ga je uzeo na mazgu Resulullaha ﷺ i doveo ga u muslimanski logor. Ebu Sufjan je vidio veličinu muslimanske vojske i shvatio da otpor nema smisla.",
+      "de": "Abbas r.a. traf Abu Sufyan in Marr az-Zahran, nahe Mekka. Abu Sufyan war ausgegangen, um die Lage zu erkunden. Abbas nahm ihn auf das Maultier des Gesandten Allahs ﷺ und brachte ihn ins muslimische Lager. Abu Sufyan sah die Grösse der muslimischen Armee und erkannte, dass Widerstand sinnlos war."
+    }
+  },
+  {
+    "quiz_id": 9,
+    "question_id": 59,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Oslobođenje Meke - vojska prolazi",
+    "question": {
+      "bs": "Šta je Ebu Sufjan rekao kada je vidio Resulullaha ﷺ s muhadžirima i ensarijama?",
+      "de": "Was sagte Abu Sufyan, als er den Gesandten Allahs ﷺ mit den Muhadschirin und Ansar sah?"
+    },
+    "options": {
+      "bs": [
+        "'Moramo se boriti'",
+        "'Niko ovima neće biti ravan, ni po broju ni po snazi... Danas je kraljevstvo tvoga bratića ogromno'",
+        "'Bježimo'",
+        "'Ovo je prevara'"
+      ],
+      "de": [
+        "'Wir müssen kämpfen'",
+        "'Niemand wird ihnen ebenbürtig sein, weder an Zahl noch an Stärke... Heute ist das Königreich deines Cousins gewaltig'",
+        "'Fliehen wir'",
+        "'Das ist ein Trick'"
+      ]
+    },
+    "correct": {
+      "bs": "'Niko ovima neće biti ravan, ni po broju ni po snazi... Danas je kraljevstvo tvoga bratića ogromno'",
+      "de": "'Niemand wird ihnen ebenbürtig sein, weder an Zahl noch an Stärke... Heute ist das Königreich deines Cousins gewaltig'"
+    },
+    "explanation": {
+      "bs": "Resulullah ﷺ je naredio Abbasu da zadrži Ebu Sufjana u tjesnacu dok ne prođu svi borci. Kada je prošla vojska muhadžira i ensarija, Ebu Sufjan je rekao: 'Niko ovima neće biti ravan, ni po broju ni po snazi. O Ebu Fadle, danas je kraljevstvo tvoga bratića ogromno.' Abbas je odgovorio: 'To su rezultati poslanstva.'",
+      "de": "Der Gesandte Allahs ﷺ befahl Abbas, Abu Sufyan in der Engstelle festzuhalten, bis alle Kämpfer vorbeigezogen waren. Als die Armee der Muhadschirin und Ansar vorbeizog, sagte Abu Sufyan: 'Niemand wird ihnen ebenbürtig sein, weder an Zahl noch an Stärke. O Abu Fadl, heute ist das Königreich deines Cousins gewaltig.' Abbas antwortete: 'Das sind die Ergebnisse des Prophetentums.'"
+    }
+  },
+  {
+    "quiz_id": 9,
+    "question_id": 60,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Oslobođenje Meke - raspored",
+    "question": {
+      "bs": "Ko je vodio desno krilo muslimanske vojske pri ulasku u Meku?",
+      "de": "Wer führte den rechten Flügel der muslimischen Armee beim Einmarsch in Mekka?"
+    },
+    "options": {
+      "bs": [
+        "Halid bin Velid",
+        "Sa'd bin Ubade",
+        "Alija bin Ebi Talib",
+        "Zubejr bin el-Avvam"
+      ],
+      "de": [
+        "Khalid bin Walid",
+        "Sa'd bin Ubada",
+        "Ali bin Abi Talib",
+        "Zubayr bin al-Awwam"
+      ]
+    },
+    "correct": {
+      "bs": "Halid bin Velid",
+      "de": "Khalid bin Walid"
+    },
+    "explanation": {
+      "bs": "Na Zi Tuvau, Resulullah ﷺ je izvršio raspored vojske. Halida bin Velida je postavio na desno krilo s plemenima Eslem, Sulejm, Gaffar, Muzejne i Džuhejna. Naredio mu je da uđe u Meku s donje strane. Zubejr bin el-Avvam je predvodio lijevo krilo i nosio Resulullahov ﷺ bajrak.",
+      "de": "Bei Dhi Tuwa ordnete der Gesandte Allahs ﷺ die Armee. Er setzte Khalid bin Walid an den rechten Flügel mit den Stämmen Aslam, Sulaym, Ghaffar, Muzayna und Dschuhaina. Er befahl ihm, von der unteren Seite in Mekka einzumarschieren. Zubayr bin al-Awwam führte den linken Flügel und trug das Banner des Gesandten Allahs ﷺ."
+    }
+  },
+  {
+    "quiz_id": 9,
+    "question_id": 61,
+    "type": "true_false",
+    "difficulty": "easy",
+    "source_section": "Oslobođenje Meke - ulazak",
+    "question": {
+      "bs": "Meka je oslobođena bez većeg krvoprolića.",
+      "de": "Mekka wurde ohne grösseres Blutvergiessen erobert."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Oslobođenje Meke je prošlo mirno. Jedini sukob je bio kada je Halid bin Velid naišao na otpor na El-Handemi, gdje je ubijeno 12 mušrika. Resulullah ﷺ je rekao: 'Danas je dan u kojem se veliča i slavi Ka'ba, danas je dan u kojem će Allah uzdignuti i proslaviti Kurejšije!'",
+      "de": "Richtig! Die Eroberung Mekkas verlief friedlich. Der einzige Zusammenstoss war, als Khalid bin Walid bei El-Handema auf Widerstand stiess, wo 12 Götzendiener getötet wurden. Der Gesandte Allahs ﷺ sagte: 'Heute ist der Tag, an dem die Kaaba verherrlicht wird, heute ist der Tag, an dem Allah die Quraysh erhöhen und ehren wird!'"
+    }
+  },
+  {
+    "quiz_id": 9,
+    "question_id": 62,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "source_section": "Oslobođenje Meke - kipovi",
+    "question": {
+      "bs": "Koliko je kipova bilo oko Ka'be koje je Resulullah ﷺ srušio?",
+      "de": "Wie viele Götzen standen um die Kaaba, die der Gesandte Allahs ﷺ zerstörte?"
+    },
+    "options": {
+      "bs": [
+        "100 kipova",
+        "500 kipova",
+        "360 kipova",
+        "200 kipova"
+      ],
+      "de": [
+        "100 Götzen",
+        "500 Götzen",
+        "360 Götzen",
+        "200 Götzen"
+      ]
+    },
+    "correct": {
+      "bs": "360 kipova",
+      "de": "360 Götzen"
+    },
+    "explanation": {
+      "bs": "Oko Ka'be je stajalo 360 kipova. Resulullah ﷺ ih je počeo rušiti lukom govoreći: 'Došla je Istina, a nestalo je laži; laž, zaista, nestaje!' (17:81) Kipovi su se rušili jedan za drugim padajući na lice. Tako je Ka'ba očišćena od idolopoklonstva.",
+      "de": "Um die Kaaba standen 360 Götzen. Der Gesandte Allahs ﷺ begann sie mit seinem Bogen zu zerstören und sagte: 'Die Wahrheit ist gekommen, und die Falschheit ist verschwunden; die Falschheit verschwindet wahrlich!' (17:81) Die Götzen fielen einer nach dem anderen auf ihr Gesicht. So wurde die Kaaba vom Götzendienst gereinigt."
+    }
+  },
+  {
+    "quiz_id": 9,
+    "question_id": 63,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Oslobođenje Meke - govor",
+    "question": {
+      "bs": "Koji je ajet Resulullah ﷺ proučio u govoru Kurejšijama na dan oslobođenja Meke?",
+      "de": "Welchen Vers rezitierte der Gesandte Allahs ﷺ in seiner Ansprache an die Quraysh am Tag der Eroberung Mekkas?"
+    },
+    "options": {
+      "bs": [
+        "'Reci: On, Allah, jedan je!' (112:1)",
+        "'O ljudi, Mi vas od jednog čovjeka i jedne žene stvaramo...' (49:13)",
+        "'Čitaj u ime Gospodara tvoga...' (96:1)",
+        "'Inna fetahna leke fethan mubina' (48:1)"
+      ],
+      "de": [
+        "'Sprich: Er ist Allah, der Eine!' (112:1)",
+        "'O ihr Menschen, Wir haben euch aus Mann und Frau erschaffen...' (49:13)",
+        "'Lies im Namen deines Herrn...' (96:1)",
+        "'Inna fatahna laka fathan mubina' (48:1)"
+      ]
+    },
+    "correct": {
+      "bs": "'O ljudi, Mi vas od jednog čovjeka i jedne žene stvaramo...' (49:13)",
+      "de": "'O ihr Menschen, Wir haben euch aus Mann und Frau erschaffen...' (49:13)"
+    },
+    "explanation": {
+      "bs": "Resulullah ﷺ je rekao: 'Allah vas je oslobodio džahilijske oholosti i predislamskog veličanja predaka. Svi su ljudi od Adema rodom, a Adem je od zemlje.' Zatim je proučio ajet: 'O ljudi, Mi vas od jednog čovjeka i jedne žene stvaramo, i na narode i plemena vas dijelimo da biste se upoznali. Najugledniji kod Allaha je onaj koji Ga se najviše boji.' (49:13)",
+      "de": "Der Gesandte Allahs ﷺ sagte: 'Allah hat euch vom Stolz der Unwissenheit und der vorislamischen Verherrlichung der Vorfahren befreit. Alle Menschen stammen von Adam ab, und Adam ist aus Erde.' Dann rezitierte er den Vers: 'O ihr Menschen, Wir haben euch aus Mann und Frau erschaffen und euch zu Völkern und Stämmen gemacht, damit ihr einander kennenlernt. Der Geehrteste von euch bei Allah ist der Gottesfürchtigste.' (49:13)"
+    }
+  },
+  {
+    "quiz_id": 9,
+    "question_id": 64,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "source_section": "Oslobođenje Meke - oprost",
+    "question": {
+      "bs": "Šta je Resulullah ﷺ rekao Kurejšijama kada su ga pitali šta će učiniti s njima?",
+      "de": "Was sagte der Gesandte Allahs ﷺ zu den Quraysh, als sie ihn fragten, was er mit ihnen tun würde?"
+    },
+    "options": {
+      "bs": [
+        "'Ja vas sada neću koriti, idite, vi ste slobodni!'",
+        "'Morate napustiti Meku'",
+        "'Svi ćete biti kažnjeni'",
+        "'Morate platiti otkupninu'"
+      ],
+      "de": [
+        "'Ich werde euch jetzt nicht tadeln, geht, ihr seid frei!'",
+        "'Ihr müsst Mekka verlassen'",
+        "'Ihr werdet alle bestraft'",
+        "'Ihr müsst Lösegeld zahlen'"
+      ]
+    },
+    "correct": {
+      "bs": "'Ja vas sada neću koriti, idite, vi ste slobodni!'",
+      "de": "'Ich werde euch jetzt nicht tadeln, geht, ihr seid frei!'"
+    },
+    "explanation": {
+      "bs": "Resulullah ﷺ je upitao: 'O narode Kurejša, šta mislite šta ste zaslužili, i šta ću ja sada vama učiniti?' Odgovorili su: 'Samo dobro, plemenit brat i sin plemenitog brata si.' Resulullah ﷺ je rekao: 'Reći ću vam kao što je Jusuf a.s. rekao svojoj braći: Ja vas sada neću koriti, idite, vi ste slobodni!' (12:92)",
+      "de": "Der Gesandte Allahs ﷺ fragte: 'O Volk der Quraysh, was denkt ihr, was ihr verdient habt, und was werde ich jetzt mit euch tun?' Sie antworteten: 'Nur Gutes, du bist ein edler Bruder und Sohn eines edlen Bruders.' Der Gesandte Allahs ﷺ sagte: 'Ich werde euch sagen, was Yusuf a.s. seinen Brüdern sagte: Ich werde euch jetzt nicht tadeln, geht, ihr seid frei!' (12:92)"
+    }
+  },
+  {
+    "quiz_id": 9,
+    "question_id": 65,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Oslobođenje Meke - ključ Ka'be",
+    "question": {
+      "bs": "Kome je Resulullah ﷺ vratio ključ Ka'be nakon oslobođenja Meke?",
+      "de": "Wem gab der Gesandte Allahs ﷺ den Schlüssel der Kaaba nach der Eroberung Mekkas zurück?"
+    },
+    "options": {
+      "bs": [
+        "Ebu Sufjanu",
+        "Osmanu bin Talhi, dosadašnjem ključaru",
+        "Aliji bin Ebi Talibu",
+        "Abbasu bin Abdul-Muttalibu"
+      ],
+      "de": [
+        "Abu Sufyan",
+        "Uthman bin Talha, dem bisherigen Schlüsselbewahrer",
+        "Ali bin Abi Talib",
+        "Abbas bin Abdul-Muttalib"
+      ]
+    },
+    "correct": {
+      "bs": "Osmanu bin Talhi, dosadašnjem ključaru",
+      "de": "Uthman bin Talha, dem bisherigen Schlüsselbewahrer"
+    },
+    "explanation": {
+      "bs": "Alija r.a. i Abbas r.a. su tražili da im se dodijeli čuvanje Ka'be i napajanje hadžija. Međutim, Resulullah ﷺ je upitao: 'Gdje je Osman bin Talha?' Pozvali su ga i Resulullah ﷺ mu je vratio ključ rekavši: 'Evo ti ključ koji si imao, danas je dan za dobročinstvo i oprost.'",
+      "de": "Ali r.a. und Abbas r.a. baten darum, dass ihnen die Hüterschaft der Kaaba und die Versorgung der Pilger übertragen werde. Jedoch fragte der Gesandte Allahs ﷺ: 'Wo ist Uthman bin Talha?' Sie riefen ihn, und der Gesandte Allahs ﷺ gab ihm den Schlüssel zurück und sagte: 'Hier ist der Schlüssel, den du hattest, heute ist ein Tag für Wohltätigkeit und Vergebung.'"
+    }
+  },
+  {
+    "quiz_id": 9,
+    "question_id": 66,
+    "type": "true_false",
+    "difficulty": "easy",
+    "source_section": "Oslobođenje Meke - ezan",
+    "question": {
+      "bs": "Bilal r.a. je proučio ezan na Ka'bi na dan oslobođenja Meke.",
+      "de": "Bilal r.a. rief den Adhan auf der Kaaba am Tag der Eroberung Mekkas aus."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Došlo je vrijeme za namaz i Resulullah ﷺ je naredio Bilalu r.a. da se popne na Ka'bu i prouči ezan. Ovo je bio historijski trenutak - prvi ezan ikada proučen na Ka'bi. Neki mušrici poput Ebu Sufjana, Itaba i El-Harisa su komentarisali ovaj događaj različito.",
+      "de": "Richtig! Die Zeit für das Gebet kam, und der Gesandte Allahs ﷺ befahl Bilal r.a., auf die Kaaba zu steigen und den Adhan zu rufen. Dies war ein historischer Moment - der erste Adhan, der jemals auf der Kaaba gerufen wurde. Einige Götzendiener wie Abu Sufyan, Itab und Al-Harith kommentierten dieses Ereignis unterschiedlich."
+    }
+  },
+  {
+    "quiz_id": 9,
+    "question_id": 67,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Oslobođenje Meke - namaz pobjede",
+    "question": {
+      "bs": "Koliko je rekata Resulullah ﷺ klanjao kao namaz pobjede (salatul-feth) u kući Ummu Hani?",
+      "de": "Wie viele Rak'at betete der Gesandte Allahs ﷺ als Siegesgebet (Salat al-Fath) im Haus von Umm Hani?"
+    },
+    "options": {
+      "bs": [
+        "Osam rekata",
+        "Šest rekata",
+        "Dva rekata",
+        "Četiri rekata"
+      ],
+      "de": [
+        "Acht Rak'at",
+        "Sechs Rak'at",
+        "Zwei Rak'at",
+        "Vier Rak'at"
+      ]
+    },
+    "correct": {
+      "bs": "Osam rekata",
+      "de": "Acht Rak'at"
+    },
+    "explanation": {
+      "bs": "Resulullah ﷺ je ušao u kuću Ummu Hani, kćerke Ebu Talibove, oprao se i klanjao osam rekata. Bilo je vrijeme prijepodneva (ed-duha). Mnogi su pomislili da je to namaz duha, međutim, to je bio namaz pobjede i oslobađanja Meke, zvani 'salatul-feth'.",
+      "de": "Der Gesandte Allahs ﷺ betrat das Haus von Umm Hani, der Tochter von Abu Talib, wusch sich und betete acht Rak'at. Es war Vormittagszeit (ad-Duha). Viele dachten, es sei das Duha-Gebet, jedoch war es das Siegesgebet zur Eroberung Mekkas, genannt 'Salat al-Fath'."
+    }
+  },
+  {
+    "quiz_id": 9,
+    "question_id": 68,
+    "type": "multiple_choice",
+    "difficulty": "hard",
+    "source_section": "Oslobođenje Meke - zločinci",
+    "question": {
+      "bs": "Koji su od navedenih bili među onima kojima je naređeno pogubljenje na dan oslobođenja Meke, ali su im kasnije oprošteno? (odaberi dva)",
+      "de": "Welche der folgenden gehörten zu denen, deren Hinrichtung am Tag der Eroberung Mekkas befohlen wurde, denen aber später vergeben wurde? (wähle zwei)"
+    },
+    "options": {
+      "bs": [
+        "Ibn Hatal",
+        "Ikrime bin Ebi Džehl",
+        "Mikjes bin Subabe",
+        "Abdullah bin Ebi Serh"
+      ],
+      "de": [
+        "Ibn Hatal",
+        "Ikrima bin Abi Dschahl",
+        "Miqyas bin Subaba",
+        "Abdullah bin Abi Sarh"
+      ]
+    },
+    "correct": {
+      "bs": [
+        "Ikrime bin Ebi Džehl",
+        "Abdullah bin Ebi Serh"
+      ],
+      "de": [
+        "Ikrima bin Abi Dschahl",
+        "Abdullah bin Abi Sarh"
+      ]
+    },
+    "explanation": {
+      "bs": "Ikrime bin Ebi Džehl je pobjegao u Jemen, ali se za njega zauzela njegova žena i Resulullah ﷺ mu je oprostio. Postao je dobar musliman. Abdullah bin Ebi Serh je doveden od strane Osmana r.a. koji je molio za oprost, i Resulullah ﷺ mu je poklonio život. Ibn Hatal i Mikjes su pogubljeni.",
+      "de": "Ikrima bin Abi Dschahl floh nach Jemen, aber seine Frau setzte sich für ihn ein, und der Gesandte Allahs ﷺ vergab ihm. Er wurde ein guter Muslim. Abdullah bin Abi Sarh wurde von Uthman r.a. gebracht, der um Vergebung bat, und der Gesandte Allahs ﷺ schenkte ihm das Leben. Ibn Hatal und Miqyas wurden hingerichtet."
+    }
+  },
+  {
+    "quiz_id": 9,
+    "question_id": 69,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Bitka na Hunejnu",
+    "question": {
+      "bs": "Koja su plemena krenula u borbu protiv muslimana nakon oslobođenja Meke?",
+      "de": "Welche Stämme zogen nach der Eroberung Mekkas gegen die Muslime in den Kampf?"
+    },
+    "options": {
+      "bs": [
+        "Laham i Džezam",
+        "Gatafan i Esed",
+        "Hevazin i Sekif",
+        "Benu Nadir i Benu Kurejza"
+      ],
+      "de": [
+        "Lakhm und Dschuzam",
+        "Ghatafan und Asad",
+        "Hawazin und Thaqif",
+        "Banu Nadir und Banu Qurayza"
+      ]
+    },
+    "correct": {
+      "bs": "Hevazin i Sekif",
+      "de": "Hawazin und Thaqif"
+    },
+    "explanation": {
+      "bs": "Nakon oslobođenja Meke, plemena Hevazin i Sekif su se okupila pod vodstvom Malika bin Avfa en-Nasrija da se bore protiv muslimana. Poveli su sa sobom žene, djecu, stoku i sav imetak, računajući da će se tako borci žešće boriti.",
+      "de": "Nach der Eroberung Mekkas versammelten sich die Stämme Hawazin und Thaqif unter der Führung von Malik bin Awf an-Nasri, um gegen die Muslime zu kämpfen. Sie brachten ihre Frauen, Kinder, Vieh und allen Besitz mit, in der Annahme, dass die Kämpfer so härter kämpfen würden."
+    }
+  },
+  {
+    "quiz_id": 9,
+    "question_id": 70,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Bitka na Hunejnu",
+    "question": {
+      "bs": "Koliko je vojnika imala muslimanska vojska na Hunejnu?",
+      "de": "Wie viele Soldaten hatte die muslimische Armee bei Hunayn?"
+    },
+    "options": {
+      "bs": [
+        "3.000 vojnika",
+        "20.000 vojnika",
+        "10.000 vojnika",
+        "12.000 vojnika"
+      ],
+      "de": [
+        "3.000 Soldaten",
+        "20.000 Soldaten",
+        "10.000 Soldaten",
+        "12.000 Soldaten"
+      ]
+    },
+    "correct": {
+      "bs": "12.000 vojnika",
+      "de": "12.000 Soldaten"
+    },
+    "explanation": {
+      "bs": "Muslimanska vojska na Hunejnu brojala je 12.000 vojnika - 10.000 koji su došli iz Medine na oslobođenje Meke i 2.000 novoprimljenih muslimana iz Meke. To je bila najveća vojska koju su muslimani do tada imali, što je kod nekih izazvalo određenu samouvjerenost.",
+      "de": "Die muslimische Armee bei Hunayn zählte 12.000 Soldaten - 10.000, die aus Medina zur Eroberung Mekkas kamen, und 2.000 neu konvertierte Muslime aus Mekka. Das war die grösste Armee, die die Muslime bis dahin hatten, was bei einigen ein gewisses Selbstvertrauen hervorrief."
+    }
+  },
+  {
+    "quiz_id": 9,
+    "question_id": 71,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Bitka na Hunejnu",
+    "question": {
+      "bs": "Muslimani su na početku bitke na Hunejnu doživjeli poraz i bježanje.",
+      "de": "Die Muslime erlitten zu Beginn der Schlacht von Hunayn eine Niederlage und flohen."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Na početku bitke, neprijatelj je izveo iznenadni napad iz zasjede u dolini. Muslimani su se razbježali. Resulullah ﷺ je ostao na bojištu s malom grupom ashaba i počeo dozivati: 'O ensarije! O vi koji ste dali prisegu pod drvetom!' Ashabi su se vratili i pobjeda je na kraju pripala muslimanima.",
+      "de": "Richtig! Zu Beginn der Schlacht führte der Feind einen Überraschungsangriff aus einem Hinterhalt im Tal durch. Die Muslime flohen in alle Richtungen. Der Gesandte Allahs ﷺ blieb auf dem Schlachtfeld mit einer kleinen Gruppe von Gefährten und rief: 'O Ansar! O ihr, die ihr unter dem Baum den Treueeid geleistet habt!' Die Gefährten kehrten zurück und der Sieg gehörte schliesslich den Muslimen."
+    }
+  },
+  {
+    "quiz_id": 9,
+    "question_id": 72,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Bitka na Hunejnu - raspodjela plijena",
+    "question": {
+      "bs": "Gdje je Resulullah ﷺ podijelio ratni plijen sa Hunejna?",
+      "de": "Wo verteilte der Gesandte Allahs ﷺ die Kriegsbeute von Hunayn?"
+    },
+    "options": {
+      "bs": [
+        "U El-Dži'rani",
+        "U Taifu",
+        "U Medini",
+        "U Meki"
+      ],
+      "de": [
+        "In Al-Dschi'rana",
+        "In Taif",
+        "In Medina",
+        "In Mekka"
+      ]
+    },
+    "correct": {
+      "bs": "U El-Dži'rani",
+      "de": "In Al-Dschi'rana"
+    },
+    "explanation": {
+      "bs": "Resulullah ﷺ je podijelio ratni plijen sa Hunejna u El-Dži'rani. Davao je velikodušno poglavarima Kurejšija i arapskih plemena da pridobije njihova srca za islam (mue'llefetul-kulub). Ebu Sufjanu je dao 40 oka srebra i 100 deva, a slično je dao i drugim poglavarima.",
+      "de": "Der Gesandte Allahs ﷺ verteilte die Kriegsbeute von Hunayn in Al-Dschi'rana. Er gab grosszügig an die Häuptlinge der Quraysh und arabischen Stämme, um ihre Herzen für den Islam zu gewinnen (Mu'allafat al-Qulub). Abu Sufyan bekam 40 Unzen Silber und 100 Kamele, und ähnlich gab er anderen Häuptlingen."
+    }
+  },
+  {
+    "quiz_id": 9,
+    "question_id": 73,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Bitka na Hunejnu - ensarije",
+    "question": {
+      "bs": "Zašto su ensarije bile nezadovoljne raspodjelom plijena sa Hunejna?",
+      "de": "Warum waren die Ansar mit der Verteilung der Beute von Hunayn unzufrieden?"
+    },
+    "options": {
+      "bs": [
+        "Dobili su premalo",
+        "Raspodjela je bila nepravedna",
+        "Nisu dobili ništa od plijena, a Kurejšije su dobili velike dijelove",
+        "Nisu bili pozvani na raspodjelu"
+      ],
+      "de": [
+        "Sie bekamen zu wenig",
+        "Die Verteilung war ungerecht",
+        "Sie bekamen nichts von der Beute, während die Quraysh grosse Anteile erhielten",
+        "Sie wurden nicht zur Verteilung eingeladen"
+      ]
+    },
+    "correct": {
+      "bs": "Nisu dobili ništa od plijena, a Kurejšije su dobili velike dijelove",
+      "de": "Sie bekamen nichts von der Beute, während die Quraysh grosse Anteile erhielten"
+    },
+    "explanation": {
+      "bs": "Ensarije su bili oni koji su se borili uz Resulullaha ﷺ kada su ostali pobjegli, a sada nisu dobili ništa od plijena dok su Kurejšije, uključujući i one koji su nedavno primili islam, dobili velike dijelove. Neki su rekli: 'Resulullah ﷺ osigurao je svoj narod.'",
+      "de": "Die Ansar waren diejenigen, die an der Seite des Gesandten Allahs ﷺ kämpften, als andere flohen, und nun bekamen sie nichts von der Beute, während die Quraysh, einschliesslich derer, die erst kürzlich den Islam angenommen hatten, grosse Anteile erhielten. Einige sagten: 'Der Gesandte Allahs ﷺ hat sein Volk versorgt.'"
+    }
+  },
+  {
+    "quiz_id": 9,
+    "question_id": 74,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Bitka na Hunejnu - govor ensarijama",
+    "question": {
+      "bs": "Šta je Resulullah ﷺ rekao ensarijama kada ih je pozvao da objasni raspodjelu plijena?",
+      "de": "Was sagte der Gesandte Allahs ﷺ zu den Ansar, als er sie rief, um die Verteilung der Beute zu erklären?"
+    },
+    "options": {
+      "bs": [
+        "'Vi ste dobili dovoljno na Bedru'",
+        "'Biste li bili zadovoljni da se ljudi raziđu sa ovcama i devama, a vi se vratite sa svojim Resulullahom?'",
+        "'Plijen pripada samo muhadžirima'",
+        "'Dobit ćete svoj dio kasnije'"
+      ],
+      "de": [
+        "'Ihr habt bei Badr genug bekommen'",
+        "'Wärt ihr zufrieden, wenn die Leute mit Schafen und Kamelen weggingen und ihr mit eurem Gesandten Allahs zurückkehrtet?'",
+        "'Die Beute gehört nur den Muhadschirin'",
+        "'Ihr werdet euren Anteil später bekommen'"
+      ]
+    },
+    "correct": {
+      "bs": "'Biste li bili zadovoljni da se ljudi raziđu sa ovcama i devama, a vi se vratite sa svojim Resulullahom?'",
+      "de": "'Wärt ihr zufrieden, wenn die Leute mit Schafen und Kamelen weggingen und ihr mit eurem Gesandten Allahs zurückkehrtet?'"
+    },
+    "explanation": {
+      "bs": "Resulullah ﷺ je okupio ensarije i održao im emotivan govor. Podsjetio ih je kako su bili u zabludi pa ih je Allah uputio, siromašni pa ih je opskrbio, neprijatelji pa im je srca povezao. Zatim je upitao: 'Biste li bili zadovoljni da se ljudi raziđu sa ovcama i devama, a vi se vratite sa svojim Resulullahom?' Ensarije su zaplakali i rekli: 'Zadovoljni smo Allahovim Poslanikom.'",
+      "de": "Der Gesandte Allahs ﷺ versammelte die Ansar und hielt eine emotionale Rede. Er erinnerte sie daran, wie sie in der Irre waren und Allah sie rechtleitete, arm waren und Er sie versorgte, Feinde waren und Er ihre Herzen vereinte. Dann fragte er: 'Wärt ihr zufrieden, wenn die Leute mit Schafen und Kamelen weggingen und ihr mit eurem Gesandten Allahs zurückkehrtet?' Die Ansar weinten und sagten: 'Wir sind mit dem Gesandten Allahs zufrieden.'"
+    }
+  },
+  {
+    "quiz_id": 9,
+    "question_id": 75,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Bitka na Hunejnu - govor ensarijama",
+    "question": {
+      "bs": "Resulullah ﷺ je rekao: 'Da nije hidžre, bio bih i ja jedan od ensarija.'",
+      "de": "Der Gesandte Allahs ﷺ sagte: 'Wäre es nicht wegen der Hidschra, wäre ich auch einer der Ansar.'"
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! U svom govoru ensarijama, Resulullah ﷺ je rekao: 'Tako mi Stvoritelja, da nije hidžre, bio bih i ja jedan od ensarija. Kad bi ovi ljudi krenuli na jednu stranu, a ensarije na drugu, ja bih krenuo za ensarijama. O moj Allahu, smiluj se ensarijama, sinovima ensarija i unucima ensarija.'",
+      "de": "Richtig! In seiner Ansprache an die Ansar sagte der Gesandte Allahs ﷺ: 'Bei dem Schöpfer, wäre es nicht wegen der Hidschra, wäre ich auch einer der Ansar. Wenn diese Leute in eine Richtung gingen und die Ansar in eine andere, würde ich den Ansar folgen. O mein Allah, erbarme dich der Ansar, der Söhne der Ansar und der Enkel der Ansar.'"
+    }
+  },
+  {
+    "quiz_id": 9,
+    "question_id": 76,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Bitka na Hunejnu - Hevazin",
+    "question": {
+      "bs": "Šta su Hevazin tražili od Resulullaha ﷺ kada su došli kao muslimani nakon bitke?",
+      "de": "Was forderten die Hawazin vom Gesandten Allahs ﷺ, als sie nach der Schlacht als Muslime kamen?"
+    },
+    "options": {
+      "bs": [
+        "Da ih kazni",
+        "Da im vrati imetak",
+        "Da im da zemlju",
+        "Da im vrati zarobljene žene i djecu"
+      ],
+      "de": [
+        "Dass er sie bestraft",
+        "Dass er ihnen ihren Besitz zurückgibt",
+        "Dass er ihnen Land gibt",
+        "Dass er ihnen die gefangenen Frauen und Kinder zurückgibt"
+      ]
+    },
+    "correct": {
+      "bs": "Da im vrati zarobljene žene i djecu",
+      "de": "Dass er ihnen die gefangenen Frauen und Kinder zurückgibt"
+    },
+    "explanation": {
+      "bs": "Delegacija Hevazina od 14 ljudi, uključujući Ebu Berkama, amidžu Resulullaha ﷺ po mlijeku, došla je nakon što su primili islam. Tražili su da im se vrate zarobljeni članovi porodica. Resulullah ﷺ ih je upitao šta im je draže: sinovi i žene ili imetci? Oni su odabrali porodice, i muslimani su ih vratili.",
+      "de": "Eine Delegation von 14 Hawazin, darunter Abu Barqam, der Milchonkel des Gesandten Allahs ﷺ, kam, nachdem sie den Islam angenommen hatten. Sie baten darum, dass ihre gefangenen Familienmitglieder zurückgegeben werden. Der Gesandte Allahs ﷺ fragte sie, was ihnen lieber sei: Söhne und Frauen oder Besitz? Sie wählten die Familien, und die Muslime gaben sie zurück."
+    }
+  },
+  {
+    "quiz_id": 9,
+    "question_id": 77,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Povratak u Medinu",
+    "question": {
+      "bs": "Kada se Resulullah ﷺ vratio u Medinu nakon oslobođenja Meke i Hunejna?",
+      "de": "Wann kehrte der Gesandte Allahs ﷺ nach der Eroberung Mekkas und Hunayn nach Medina zurück?"
+    },
+    "options": {
+      "bs": [
+        "15. ramazana 8. g.H.",
+        "1. ševvala 8. g.H.",
+        "24. zul-ka'deta 8. g.H.",
+        "1. muharrema 9. g.H."
+      ],
+      "de": [
+        "15. Ramadan 8 n.H.",
+        "1. Schawwal 8 n.H.",
+        "24. Dhul-Qa'da 8 n.H.",
+        "1. Muharram 9 n.H."
+      ]
+    },
+    "correct": {
+      "bs": "24. zul-ka'deta 8. g.H.",
+      "de": "24. Dhul-Qa'da 8 n.H."
+    },
+    "explanation": {
+      "bs": "Resulullah ﷺ se vratio u Medinu 24. zul-ka'deta 8. godine po Hidžri. Prije odlaska je obavio umru u El-Dži'rani i imenirao Itaba bin Usejda za nadzornika Meke. Tako se završio jedan od najznačajnijih perioda u historiji islama.",
+      "de": "Der Gesandte Allahs ﷺ kehrte am 24. Dhul-Qa'da des 8. Jahres nach der Hidschra nach Medina zurück. Vor seiner Abreise vollzog er die Umra in Al-Dschi'rana und ernannte Itab bin Usayd zum Statthalter von Mekka. So endete eine der bedeutendsten Perioden in der Geschichte des Islam."
+    }
+  },
+  {
+    "quiz_id": 9,
+    "question_id": 78,
+    "type": "ordering",
+    "difficulty": "hard",
+    "source_section": "Hronologija",
+    "question": {
+      "bs": "Poredaj događaje hronološki:",
+      "de": "Ordne die Ereignisse chronologisch:"
+    },
+    "options": {
+      "bs": [
+        "Bitka na Hunejnu",
+        "Bitka na Mu'ti",
+        "Bitka na Hajberu",
+        "Oslobođenje Meke"
+      ],
+      "de": [
+        "Schlacht von Hunayn",
+        "Schlacht von Mu'ta",
+        "Schlacht von Khaybar",
+        "Eroberung Mekkas"
+      ]
+    },
+    "correct": {
+      "bs": [
+        "Bitka na Hajberu",
+        "Bitka na Mu'ti",
+        "Oslobođenje Meke",
+        "Bitka na Hunejnu"
+      ],
+      "de": [
+        "Schlacht von Khaybar",
+        "Schlacht von Mu'ta",
+        "Eroberung Mekkas",
+        "Schlacht von Hunayn"
+      ]
+    },
+    "explanation": {
+      "bs": "Hronološki redoslijed: 1) Bitka na Hajberu - muharrem 7. g.H., 2) Bitka na Mu'ti - džumadel-ula 8. g.H., 3) Oslobođenje Meke - ramazan 8. g.H., 4) Bitka na Hunejnu - ševval 8. g.H. Svi ovi događaji su se desili u periodu od dvije godine.",
+      "de": "Chronologische Reihenfolge: 1) Schlacht von Khaybar - Muharram 7 n.H., 2) Schlacht von Mu'ta - Dschumada al-Ula 8 n.H., 3) Eroberung Mekkas - Ramadan 8 n.H., 4) Schlacht von Hunayn - Schawwal 8 n.H. Alle diese Ereignisse fanden innerhalb von zwei Jahren statt."
+    }
+  },
+  {
+    "quiz_id": 9,
+    "question_id": 79,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Bitka na Hajberu",
+    "question": {
+      "bs": "Druga polovina Hajbera (El-Kutejbet) predala se bez borbe.",
+      "de": "Die zweite Hälfte von Khaybar (Al-Qutayba) ergab sich ohne Kampf."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Bitka je vođena u prvoj polovini Hajbera (En-Netat i Eš-Šekku) koja je imala pet utvrđenja. Druga polovina grada (El-Kutejbet), i pored velikog broja njihovih ratnika, predala se bez borbe nakon što su vidjeli sudbinu prve polovine.",
+      "de": "Richtig! Die Schlacht wurde in der ersten Hälfte von Khaybar (En-Netat und Eš-Šekku) geführt, die fünf Festungen hatte. Die zweite Hälfte der Stadt (Al-Qutayba), trotz der grossen Zahl ihrer Krieger, ergab sich ohne Kampf, nachdem sie das Schicksal der ersten Hälfte gesehen hatten."
+    }
+  },
+  {
+    "quiz_id": 9,
+    "question_id": 80,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Bitka na Hajberu",
+    "question": {
+      "bs": "Koje je utvrđenje u Hajberu pripadalo Benu Ebi el-Hukajk iz plemena Benu en-Nadir?",
+      "de": "Welche Festung in Khaybar gehörte den Banu Abi al-Huqayq vom Stamm Banu an-Nadir?"
+    },
+    "options": {
+      "bs": [
+        "El-Kamus",
+        "En-Nezar",
+        "Ez-Zubejr",
+        "Es-Sa'b"
+      ],
+      "de": [
+        "Al-Qamus",
+        "An-Nezar",
+        "Az-Zubayr",
+        "As-Sa'b"
+      ]
+    },
+    "correct": {
+      "bs": "El-Kamus",
+      "de": "Al-Qamus"
+    },
+    "explanation": {
+      "bs": "El-Kamus je bilo utvrđenje Benu Ebi el-Hukajk iz plemena Benu en-Nadir. Nalazilo se u drugom dijelu Hajbera (El-Kutejbet), zajedno s utvrđenjima El-Vetih i Es-Selalim. Ovo je bilo jedno od glavnih uporišta jevreja koji su protjerani iz Medine.",
+      "de": "Al-Qamus war die Festung der Banu Abi al-Huqayq vom Stamm Banu an-Nadir. Sie befand sich im zweiten Teil von Khaybar (Al-Qutayba), zusammen mit den Festungen Al-Watih und As-Salalim. Dies war eine der Hauptfestungen der aus Medina vertriebenen Juden."
+    }
+  },
+  {
+    "quiz_id": 9,
+    "question_id": 81,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Naknadna umra",
+    "question": {
+      "bs": "Resulullah ﷺ je obavio prvi tavaf na naknadnoj umri jašući na devi El-Kasvi.",
+      "de": "Der Gesandte Allahs ﷺ vollzog den ersten Tawaf bei der Nachholungs-Umra reitend auf der Kamelstute Al-Qaswa."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Pri ulasku u Meku, Resulullah ﷺ je jahao svoju devu El-Kasvu, a muslimani su išli uz njega naoružani sabljama, okružujući ga sa svih strana, učeći telbiju. Prvi tavaf obavio je jašući i bez ihrama.",
+      "de": "Richtig! Beim Eintritt in Mekka ritt der Gesandte Allahs ﷺ seine Kamelstute Al-Qaswa, und die Muslime gingen neben ihm, mit Schwertern bewaffnet, umgaben ihn von allen Seiten und rezitierten die Talbiya. Den ersten Tawaf vollzog er reitend und ohne Ihram."
+    }
+  },
+  {
+    "quiz_id": 9,
+    "question_id": 82,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Naknadna umra",
+    "question": {
+      "bs": "Ko je napisao garanciju za jevreje Tejme?",
+      "de": "Wer schrieb die Garantie für die Juden von Tayma?"
+    },
+    "options": {
+      "bs": [
+        "Zejd bin Sabit",
+        "Alija bin Ebi Talib",
+        "Halid bin Seid",
+        "Muavija bin Ebi Sufjan"
+      ],
+      "de": [
+        "Zayd bin Thabit",
+        "Ali bin Abi Talib",
+        "Khalid bin Sa'id",
+        "Mu'awiya bin Abi Sufyan"
+      ]
+    },
+    "correct": {
+      "bs": "Halid bin Seid",
+      "de": "Khalid bin Sa'id"
+    },
+    "explanation": {
+      "bs": "Resulullah ﷺ je ostavio jevrejima Tejme pismenu garanciju o njihovom statusu koja glasi: 'Ovo je garancija od Muhammeda, Allahovog Poslanika, narodu Benu Adija, da imaju zaštitu i da plaćaju džizju. Nema neprijateljstva, a nema ni iseljavanja, noć je za odmor, a dan je za rad.' Ovu garanciju je napisao Halid bin Seid.",
+      "de": "Der Gesandte Allahs ﷺ hinterliess den Juden von Tayma eine schriftliche Garantie über ihren Status: 'Dies ist eine Garantie von Muhammad, dem Gesandten Allahs, für das Volk der Banu Adiy, dass sie Schutz haben und Dschizya zahlen. Keine Feindschaft und keine Vertreibung, die Nacht ist zur Ruhe und der Tag zur Arbeit.' Diese Garantie wurde von Khalid bin Sa'id geschrieben."
+    }
+  },
+  {
+    "quiz_id": 9,
+    "question_id": 83,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Bitka na Mu'ti",
+    "question": {
+      "bs": "Koliko je dana udaljenost od Kudusa do Mu'te?",
+      "de": "Wie viele Tagesreisen ist es von Jerusalem bis Mu'ta?"
+    },
+    "options": {
+      "bs": [
+        "Dva dana hoda",
+        "Jedan dan hoda",
+        "Pet dana hoda",
+        "Sedam dana hoda"
+      ],
+      "de": [
+        "Zwei Tagesmärsche",
+        "Ein Tagesmarsch",
+        "Fünf Tagesmärsche",
+        "Sieben Tagesmärsche"
+      ]
+    },
+    "correct": {
+      "bs": "Dva dana hoda",
+      "de": "Zwei Tagesmärsche"
+    },
+    "explanation": {
+      "bs": "Mu'ta je selo na samom jugu Šama, udaljeno od Kudusi-š-Šerifa (Jerusalema) dva dana hoda. Bitka na Mu'ti dogodila se u mjesecu džumadel-ula 8. g.H., što odgovara augustu ili septembru 629. godine.",
+      "de": "Mu'ta ist ein Dorf im äussersten Süden von Schams, zwei Tagesmärsche von Al-Quds ash-Sharif (Jerusalem) entfernt. Die Schlacht von Mu'ta fand im Monat Dschumada al-Ula 8 n.H. statt, was August oder September 629 entspricht."
+    }
+  },
+  {
+    "quiz_id": 9,
+    "question_id": 84,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Bitka na Mu'ti",
+    "question": {
+      "bs": "Ko je uzeo bajrak odmah nakon pogibije Abdullaha bin Revvahe na Mu'ti?",
+      "de": "Wer nahm das Banner unmittelbar nach dem Tod von Abdullah bin Rawaha bei Mu'ta?"
+    },
+    "options": {
+      "bs": [
+        "Alija bin Ebi Talib",
+        "Sabit bin Erkam iz plemena Benu Udžlan",
+        "Zubejr bin el-Avvam",
+        "Halid bin Velid"
+      ],
+      "de": [
+        "Ali bin Abi Talib",
+        "Thabit bin Arqam vom Stamm Banu Udschlan",
+        "Zubayr bin al-Awwam",
+        "Khalid bin Walid"
+      ]
+    },
+    "correct": {
+      "bs": "Sabit bin Erkam iz plemena Benu Udžlan",
+      "de": "Thabit bin Arqam vom Stamm Banu Udschlan"
+    },
+    "explanation": {
+      "bs": "Nakon pogibije Abdullaha bin Revvahe, Sabit bin Erkam iz plemena Benu Udžlan je uzeo bajrak i rekao: 'O muslimani, složite se i izaberite jednog čovjeka da vas predvodi.' Ponudili su njemu, ali je odbio. Tada su izabrali Halida bin Velida koji je preuzeo komandu.",
+      "de": "Nach dem Tod von Abdullah bin Rawaha nahm Thabit bin Arqam vom Stamm Banu Udschlan das Banner und sagte: 'O Muslime, einigt euch und wählt einen Mann, der euch anführt.' Sie boten ihm an, aber er lehnte ab. Dann wählten sie Khalid bin Walid, der das Kommando übernahm."
+    }
+  },
+  {
+    "quiz_id": 9,
+    "question_id": 85,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Oslobođenje Meke",
+    "question": {
+      "bs": "Kojeg datuma je muslimanska vojska ušla u Meku?",
+      "de": "An welchem Datum marschierte die muslimische Armee in Mekka ein?"
+    },
+    "options": {
+      "bs": [
+        "20. ramazana 8. g.H.",
+        "1. ramazana 8. g.H.",
+        "10. ramazana 8. g.H.",
+        "17. ramazana 8. g.H., srijeda"
+      ],
+      "de": [
+        "20. Ramadan 8 n.H.",
+        "1. Ramadan 8 n.H.",
+        "10. Ramadan 8 n.H.",
+        "17. Ramadan 8 n.H., Mittwoch"
+      ]
+    },
+    "correct": {
+      "bs": "17. ramazana 8. g.H., srijeda",
+      "de": "17. Ramadan 8 n.H., Mittwoch"
+    },
+    "explanation": {
+      "bs": "Ujutro, u srijedu, 17. ramazana 8. g.H., muslimanska vojska je napustila Merri-Zahran i krenula u Meku. To je bio dan kada je ostvaren san svakog muslimana - povratak u sveti grad bez prolijevanja krvi.",
+      "de": "Am Morgen, am Mittwoch, dem 17. Ramadan 8 n.H., verliess die muslimische Armee Marr az-Zahran und marschierte nach Mekka. Das war der Tag, an dem sich der Traum jedes Muslims erfüllte - die Rückkehr in die heilige Stadt ohne Blutvergiessen."
+    }
+  },
+  {
+    "quiz_id": 9,
+    "question_id": 86,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Oslobođenje Meke",
+    "question": {
+      "bs": "Šta je Sa'd bin Ubade rekao Ebu Sufjanu kada je prolazio s bajrakom ensarija?",
+      "de": "Was sagte Sa'd bin Ubada zu Abu Sufyan, als er mit dem Banner der Ansar vorbeizog?"
+    },
+    "options": {
+      "bs": [
+        "'Mir s tobom'",
+        "'Danas je dan krvavog boja, danas će biti osvojene svetinje'",
+        "'Pobjedi ili pogini'",
+        "'Predaj se'"
+      ],
+      "de": [
+        "'Friede sei mit dir'",
+        "'Heute ist der Tag des blutigen Kampfes, heute werden die Heiligtümer erobert'",
+        "'Siege oder stirb'",
+        "'Ergib dich'"
+      ]
+    },
+    "correct": {
+      "bs": "'Danas je dan krvavog boja, danas će biti osvojene svetinje'",
+      "de": "'Heute ist der Tag des blutigen Kampfes, heute werden die Heiligtümer erobert'"
+    },
+    "explanation": {
+      "bs": "Sa'd bin Ubade je prolazio s bajrakom ensarija i rekao Ebu Sufjanu: 'Danas je dan krvavog boja, danas će biti osvojene svetinje, danas će Allah poniziti Kurejšije!' Ebu Sufjan se požalio Resulullahu ﷺ, koji je oduzeo bajrak Sa'du i dao ga njegovom sinu Kajsu, rekavši: 'Danas je dan u kojem se veliča i slavi Ka'ba.'",
+      "de": "Sa'd bin Ubada zog mit dem Banner der Ansar vorbei und sagte zu Abu Sufyan: 'Heute ist der Tag des blutigen Kampfes, heute werden die Heiligtümer erobert, heute wird Allah die Quraysh erniedrigen!' Abu Sufyan beschwerte sich beim Gesandten Allahs ﷺ, der das Banner von Sa'd nahm und es seinem Sohn Qays gab und sagte: 'Heute ist der Tag, an dem die Kaaba verherrlicht wird.'"
+    }
+  },
+  {
+    "quiz_id": 9,
+    "question_id": 87,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Oslobođenje Meke",
+    "question": {
+      "bs": "Zubejr bin el-Avvam je zaboo Resulullahov ﷺ bajrak u mesdžid Harema Kabe.",
+      "de": "Zubayr bin al-Awwam steckte das Banner des Gesandten Allahs ﷺ in die Moschee des Heiligtums der Kaaba."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Zubejr je predvodio lijevo krilo i nosio Resulullahov ﷺ bajrak. Njemu je naređeno da uđe s gornje strane Meke (od Keda) i da zabode bajrak u El-Hadžun, te da se ne miče s tog mjesta dok ne dođe Resulullah ﷺ. Zubejr je ušao u Meku i postavio bajrak u mesdžid Harema Kabe.",
+      "de": "Richtig! Zubayr führte den linken Flügel und trug das Banner des Gesandten Allahs ﷺ. Ihm wurde befohlen, von der oberen Seite Mekkas (von Kada) einzumarschieren und das Banner bei Al-Hadschun aufzustellen und dort zu bleiben, bis der Gesandte Allahs ﷺ kam. Zubayr marschierte in Mekka ein und stellte das Banner in der Moschee des Heiligtums der Kaaba auf."
+    }
+  },
+  {
+    "quiz_id": 9,
+    "question_id": 88,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Oslobođenje Meke",
+    "question": {
+      "bs": "Šta je Resulullah ﷺ vidio unutar Ka'be što ga je razljutilo?",
+      "de": "Was sah der Gesandte Allahs ﷺ im Inneren der Kaaba, das ihn verärgerte?"
+    },
+    "options": {
+      "bs": [
+        "Perzijski koberci",
+        "Jevrejske spise",
+        "Kipove od zlata",
+        "Slike Ibrahima a.s. i Ismaila a.s. kako gledaju strelice za igru"
+      ],
+      "de": [
+        "Persische Teppiche",
+        "Jüdische Schriften",
+        "Goldene Götzen",
+        "Bilder von Ibrahim a.s. und Ismail a.s., die Wahrsagepfeile betrachten"
+      ]
+    },
+    "correct": {
+      "bs": "Slike Ibrahima a.s. i Ismaila a.s. kako gledaju strelice za igru",
+      "de": "Bilder von Ibrahim a.s. und Ismail a.s., die Wahrsagepfeile betrachten"
+    },
+    "explanation": {
+      "bs": "Unutar Ka'be, Resulullah ﷺ je ugledao slike Ibrahima a.s. i Ismaila a.s. kako posmatraju strelice za igru (gatanje). Rekao je: 'Ubio Allah mušrike, tako mi Allaha, oni nikad nisu ni vjerovali u ove strelice.' Također je vidio drvenog goluba kojeg je zdrobio rukom i naredio da se sve slike izbrišu.",
+      "de": "Im Inneren der Kaaba sah der Gesandte Allahs ﷺ Bilder von Ibrahim a.s. und Ismail a.s., die Wahrsagepfeile betrachteten. Er sagte: 'Möge Allah die Götzendiener töten, bei Allah, sie haben nie an diese Pfeile geglaubt.' Er sah auch eine hölzerne Taube, die er mit seiner Hand zerbrach, und befahl, alle Bilder zu entfernen."
+    }
+  },
+  {
+    "quiz_id": 9,
+    "question_id": 89,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Oslobođenje Meke",
+    "question": {
+      "bs": "Koji ashabi su ostali s Resulullahom ﷺ unutar Ka'be kada je klanjao?",
+      "de": "Welche Gefährten blieben mit dem Gesandten Allahs ﷺ im Inneren der Kaaba, als er betete?"
+    },
+    "options": {
+      "bs": [
+        "Usama i Bilal",
+        "Ebu Bekr i Omer",
+        "Abbas i Hamza",
+        "Alija i Zubejr"
+      ],
+      "de": [
+        "Usama und Bilal",
+        "Abu Bakr und Omar",
+        "Abbas und Hamza",
+        "Ali und Zubayr"
+      ]
+    },
+    "correct": {
+      "bs": "Usama i Bilal",
+      "de": "Usama und Bilal"
+    },
+    "explanation": {
+      "bs": "Resulullah ﷺ je zatvorio vrata Ka'be za sobom. S njim unutra ostadoše Usama i Bilal. Resulullah ﷺ se okrenu prema zidu nasuprot vrata, na udaljenosti od tri aršina. S lijeve strane bila su mu dva stupa, a s desne jedan. Tu je klanjao, a zatim napravio krug unutar Ka'be.",
+      "de": "Der Gesandte Allahs ﷺ schloss die Tür der Kaaba hinter sich. Mit ihm blieben Usama und Bilal drinnen. Der Gesandte Allahs ﷺ wandte sich zur Wand gegenüber der Tür, in einem Abstand von drei Ellen. Auf seiner linken Seite waren zwei Säulen und auf seiner rechten eine. Dort betete er und machte dann eine Runde im Inneren der Kaaba."
+    }
+  },
+  {
+    "quiz_id": 9,
+    "question_id": 90,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Oslobođenje Meke",
+    "question": {
+      "bs": "Koliko je stupova imala Ka'ba u vrijeme Resulullaha ﷺ?",
+      "de": "Wie viele Säulen hatte die Kaaba zur Zeit des Gesandten Allahs ﷺ?"
+    },
+    "options": {
+      "bs": [
+        "Dva stupa",
+        "Šest stupova",
+        "Četiri stupa",
+        "Osam stupova"
+      ],
+      "de": [
+        "Zwei Säulen",
+        "Sechs Säulen",
+        "Vier Säulen",
+        "Acht Säulen"
+      ]
+    },
+    "correct": {
+      "bs": "Šest stupova",
+      "de": "Sechs Säulen"
+    },
+    "explanation": {
+      "bs": "Ka'ba je tada bila sagrađena na šest stupova. Kada je Resulullah ﷺ ušao unutra, stao je na udaljenosti od tri aršina od zida nasuprot vrata. S lijeve strane bila su mu dva stupa, a s desne jedan. Iza leđa su mu ostala tri stupa.",
+      "de": "Die Kaaba war damals auf sechs Säulen gebaut. Als der Gesandte Allahs ﷺ hineinging, stand er in einem Abstand von drei Ellen von der Wand gegenüber der Tür. Auf seiner linken Seite waren zwei Säulen und auf seiner rechten eine. Hinter seinem Rücken blieben drei Säulen."
+    }
+  },
+  {
+    "quiz_id": 9,
+    "question_id": 91,
+    "type": "true_false",
+    "difficulty": "hard",
+    "source_section": "Oslobođenje Meke - ezan",
+    "question": {
+      "bs": "El-Haris bin Hišam je primio islam nakon što je čuo Bilala r.a. kako uči ezan na Ka'bi.",
+      "de": "Al-Harith bin Hischam nahm den Islam an, nachdem er Bilal r.a. hörte, wie er den Adhan auf der Kaaba rief."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Kada je Bilal učio ezan, El-Haris bin Hišam je rekao: 'Kad bih znao da je to prava Istina i ja bih ih slijedio.' Resulullah ﷺ je došao i rekao: 'Znam sve što ste rekli!' El-Haris i Itab tada rekoše: 'Mi svjedočimo da si Allahov Poslanik. Znamo da to nije mogao čuti niko sa strane.'",
+      "de": "Richtig! Als Bilal den Adhan rief, sagte Al-Harith bin Hischam: 'Wenn ich wüsste, dass es die wahre Wahrheit ist, würde ich ihnen folgen.' Der Gesandte Allahs ﷺ kam und sagte: 'Ich weiss alles, was ihr gesagt habt!' Al-Harith und Itab sagten dann: 'Wir bezeugen, dass du Allahs Gesandter bist. Wir wissen, dass niemand von aussen das hätte hören können.'"
+    }
+  },
+  {
+    "quiz_id": 9,
+    "question_id": 92,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Bitka na Hunejnu",
+    "question": {
+      "bs": "Ko je bio vođa plemena Hevazin i Sekif na Hunejnu?",
+      "de": "Wer war der Anführer der Stämme Hawazin und Thaqif bei Hunayn?"
+    },
+    "options": {
+      "bs": [
+        "Durejd bin es-Simme",
+        "Malik bin Avf en-Nasri",
+        "Halid bin Sufjan",
+        "Urejna bin el-Haris"
+      ],
+      "de": [
+        "Durayd bin as-Simma",
+        "Malik bin Awf an-Nasri",
+        "Khalid bin Sufyan",
+        "Urayna bin al-Harith"
+      ]
+    },
+    "correct": {
+      "bs": "Malik bin Avf en-Nasri",
+      "de": "Malik bin Awf an-Nasri"
+    },
+    "explanation": {
+      "bs": "Plemena Hevazin i Sekif su se okupila pod vodstvom Malika bin Avfa en-Nasrija. On je naredio da dovedu žene, djecu, stoku i sav imetak na bojište, računajući da će se tako borci žešće boriti. Stari ratnik Durejd bin es-Simme je kritizirao ovu odluku.",
+      "de": "Die Stämme Hawazin und Thaqif versammelten sich unter der Führung von Malik bin Awf an-Nasri. Er befahl, dass Frauen, Kinder, Vieh und aller Besitz auf das Schlachtfeld gebracht werden, in der Annahme, dass die Kämpfer so härter kämpfen würden. Der alte Krieger Durayd bin as-Simma kritisierte diese Entscheidung."
+    }
+  },
+  {
+    "quiz_id": 9,
+    "question_id": 93,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Bitka na Hunejnu",
+    "question": {
+      "bs": "Šta je Resulullah ﷺ vikao da bi vratio muslimane kada su pobjegli na Hunejnu?",
+      "de": "Was rief der Gesandte Allahs ﷺ, um die Muslime zurückzuholen, als sie bei Hunayn flohen?"
+    },
+    "options": {
+      "bs": [
+        "'Naprijed, muslimani!'",
+        "'O ensarije! O vi koji ste dali prisegu pod drvetom!'",
+        "'Ne bježite!'",
+        "'Allahu ekber!'"
+      ],
+      "de": [
+        "'Vorwärts, Muslime!'",
+        "'O Ansar! O ihr, die ihr unter dem Baum den Treueeid geleistet habt!'",
+        "'Flieht nicht!'",
+        "'Allahu Akbar!'"
+      ]
+    },
+    "correct": {
+      "bs": "'O ensarije! O vi koji ste dali prisegu pod drvetom!'",
+      "de": "'O Ansar! O ihr, die ihr unter dem Baum den Treueeid geleistet habt!'"
+    },
+    "explanation": {
+      "bs": "Kada su se muslimani razbježali, Resulullah ﷺ je ostao na bojištu s malom grupom ashaba, uključujući Ebu Bekra, Omera i Abbasa. Počeo je dozivati: 'O ensarije! O vi koji ste dali prisegu pod drvetom!' Abbas, koji je imao jak glas, ponavljao je ove riječi. Ashabi su se vratili i pobjeda je na kraju pripala muslimanima.",
+      "de": "Als die Muslime flohen, blieb der Gesandte Allahs ﷺ auf dem Schlachtfeld mit einer kleinen Gruppe von Gefährten, darunter Abu Bakr, Omar und Abbas. Er rief: 'O Ansar! O ihr, die ihr unter dem Baum den Treueeid geleistet habt!' Abbas, der eine starke Stimme hatte, wiederholte diese Worte. Die Gefährten kehrten zurück und der Sieg gehörte schliesslich den Muslimen."
+    }
+  },
+  {
+    "quiz_id": 9,
+    "question_id": 94,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Bitka na Hunejnu - plijen",
+    "question": {
+      "bs": "Koliko je deva i ovaca bilo u plijenu sa Hunejna?",
+      "de": "Wie viele Kamele und Schafe waren in der Beute von Hunayn?"
+    },
+    "options": {
+      "bs": [
+        "24.000 deva i 40.000 ovaca",
+        "5.000 deva i 10.000 ovaca",
+        "10.000 deva i 20.000 ovaca",
+        "50.000 deva i 100.000 ovaca"
+      ],
+      "de": [
+        "24.000 Kamele und 40.000 Schafe",
+        "5.000 Kamele und 10.000 Schafe",
+        "10.000 Kamele und 20.000 Schafe",
+        "50.000 Kamele und 100.000 Schafe"
+      ]
+    },
+    "correct": {
+      "bs": "24.000 deva i 40.000 ovaca",
+      "de": "24.000 Kamele und 40.000 Schafe"
+    },
+    "explanation": {
+      "bs": "Plijen sa Hunejna bio je ogroman: 24.000 deva, 40.000 ovaca i veliki broj zarobljenika. Ovo je bio jedan od najvećih plijena u historiji islama. Resulullah ﷺ ga je podijelio u El-Dži'rani, dajući velikodušno poglavarima da pridobije njihova srca za islam.",
+      "de": "Die Beute von Hunayn war enorm: 24.000 Kamele, 40.000 Schafe und eine grosse Anzahl von Gefangenen. Dies war eine der grössten Beuten in der Geschichte des Islam. Der Gesandte Allahs ﷺ verteilte sie in Al-Dschi'rana und gab grosszügig an die Häuptlinge, um ihre Herzen für den Islam zu gewinnen."
+    }
+  },
+  {
+    "quiz_id": 9,
+    "question_id": 95,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Bitka na Hunejnu",
+    "question": {
+      "bs": "Neki muslimani su rekli prije bitke na Hunejnu: 'Nećemo biti poraženi zbog malobrojnosti.'",
+      "de": "Einige Muslime sagten vor der Schlacht von Hunayn: 'Wir werden nicht wegen geringer Zahl besiegt werden.'"
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! S vojskom od 12.000 ljudi, neki muslimani su pokazali samopouzdanje govoreći: 'Nećemo biti poraženi zbog malobrojnosti.' Međutim, na početku bitke doživjeli su poraz, što je bila pouka da pobjeda dolazi samo od Allaha, a ne od broja vojnika. Allah je objavio ajet o tome u suri Et-Tevba.",
+      "de": "Richtig! Mit einer Armee von 12.000 Mann zeigten einige Muslime Selbstvertrauen und sagten: 'Wir werden nicht wegen geringer Zahl besiegt werden.' Jedoch erlitten sie zu Beginn der Schlacht eine Niederlage, was eine Lehre war, dass der Sieg nur von Allah kommt, nicht von der Anzahl der Soldaten. Allah offenbarte einen Vers darüber in der Sure At-Tawba."
+    }
+  },
+  {
+    "quiz_id": 9,
+    "question_id": 96,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Oslobođenje Meke - zločinci",
+    "question": {
+      "bs": "Zašto je Hebbar bin el-Esved bio na listi za pogubljenje?",
+      "de": "Warum stand Habbar bin al-Aswad auf der Liste zur Hinrichtung?"
+    },
+    "options": {
+      "bs": [
+        "Pokušao je spriječiti Zejnebu, kćerku Resulullaha ﷺ, da učini hidžru, što je uzrokovalo gubitak njene trudnoće",
+        "Pjevao je satire protiv Resulullaha ﷺ",
+        "Špijunirao je za Kurejšije",
+        "Ubio je muslimanskog izaslanika"
+      ],
+      "de": [
+        "Er versuchte, Zaynab, die Tochter des Gesandten Allahs ﷺ, an der Hidschra zu hindern, was zum Verlust ihrer Schwangerschaft führte",
+        "Er sang Satiren gegen den Gesandten Allahs ﷺ",
+        "Er spionierte für die Quraysh",
+        "Er tötete einen muslimischen Gesandten"
+      ]
+    },
+    "correct": {
+      "bs": "Pokušao je spriječiti Zejnebu, kćerku Resulullaha ﷺ, da učini hidžru, što je uzrokovalo gubitak njene trudnoće",
+      "de": "Er versuchte, Zaynab, die Tochter des Gesandten Allahs ﷺ, an der Hidschra zu hindern, was zum Verlust ihrer Schwangerschaft führte"
+    },
+    "explanation": {
+      "bs": "Hebbar bin el-Esved je pokušao spriječiti Zejnebu, kćerku Resulullaha ﷺ, da učini hidžru. Otimao se s njom, pa je pala na stijenu i to je bio uzrok gubitka trudnoće. Hebbar je pobjegao iz Meke na dan oslobođenja, ali je kasnije primio islam i bio dobar vjernik, pa mu je oprošteno.",
+      "de": "Habbar bin al-Aswad versuchte, Zaynab, die Tochter des Gesandten Allahs ﷺ, an der Hidschra zu hindern. Er zerrte an ihr, sie fiel auf einen Felsen, was zum Verlust ihrer Schwangerschaft führte. Habbar floh am Tag der Eroberung aus Mekka, aber er nahm später den Islam an und war ein guter Gläubiger, daher wurde ihm vergeben."
+    }
+  },
+  {
+    "quiz_id": 9,
+    "question_id": 97,
+    "type": "ordering",
+    "difficulty": "hard",
+    "source_section": "Hronologija Hajbera",
+    "question": {
+      "bs": "Poredaj jevrejske oblasti po redoslijedu predaje muslimanima:",
+      "de": "Ordne die jüdischen Gebiete nach der Reihenfolge ihrer Kapitulation vor den Muslimen:"
+    },
+    "options": {
+      "bs": [
+        "Tejma",
+        "Hajber",
+        "Vadi-l-Kura",
+        "Fedk"
+      ],
+      "de": [
+        "Tayma",
+        "Khaybar",
+        "Wadi al-Qura",
+        "Fedek"
+      ]
+    },
+    "correct": {
+      "bs": [
+        "Hajber",
+        "Fedk",
+        "Vadi-l-Kura",
+        "Tejma"
+      ],
+      "de": [
+        "Khaybar",
+        "Fedek",
+        "Wadi al-Qura",
+        "Tayma"
+      ]
+    },
+    "explanation": {
+      "bs": "Redoslijed predaje: 1) Hajber - osvojen borbom, 2) Fedk - predao se bez borbe nakon pada Hajbera, 3) Vadi-l-Kura - osvojen nakon bitke, 4) Tejma - predala se dobrovoljno nakon pada ostalih. Sve ovo se desilo u 7. godini po Hidžri.",
+      "de": "Reihenfolge der Kapitulation: 1) Khaybar - durch Kampf erobert, 2) Fedek - ergab sich ohne Kampf nach dem Fall von Khaybar, 3) Wadi al-Qura - nach der Schlacht erobert, 4) Tayma - ergab sich freiwillig nach dem Fall der anderen. All dies geschah im 7. Jahr nach der Hidschra."
+    }
+  },
+  {
+    "quiz_id": 9,
+    "question_id": 98,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Oslobođenje Meke",
+    "question": {
+      "bs": "Koga je Resulullah ﷺ imenovao za nadzornika Meke nakon oslobođenja?",
+      "de": "Wen ernannte der Gesandte Allahs ﷺ zum Statthalter von Mekka nach der Eroberung?"
+    },
+    "options": {
+      "bs": [
+        "Muaza bin Džebela",
+        "Halida bin Velida",
+        "Ebu Sufjana",
+        "Itaba bin Usejda"
+      ],
+      "de": [
+        "Mu'adh bin Dschabal",
+        "Khalid bin Walid",
+        "Abu Sufyan",
+        "Itab bin Usayd"
+      ]
+    },
+    "correct": {
+      "bs": "Itaba bin Usejda",
+      "de": "Itab bin Usayd"
+    },
+    "explanation": {
+      "bs": "Resulullah ﷺ je imenovao Itaba bin Usejda za nadzornika Meke. Itab je bio mlad - imao je oko dvadeset godina - ali je bio povjerljiv i sposoban. Resulullah ﷺ ga je ostavio da upravlja Mekom kada se vratio u Medinu.",
+      "de": "Der Gesandte Allahs ﷺ ernannte Itab bin Usayd zum Statthalter von Mekka. Itab war jung - etwa zwanzig Jahre alt - aber er war vertrauenswürdig und fähig. Der Gesandte Allahs ﷺ liess ihn Mekka regieren, als er nach Medina zurückkehrte."
+    }
+  },
+  {
+    "quiz_id": 9,
+    "question_id": 99,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Bitka na Hunejnu",
+    "question": {
+      "bs": "Svi muslimani su dobrovoljno vratili zarobljenike plemenu Hevazin.",
+      "de": "Alle Muslime gaben die Gefangenen freiwillig an den Stamm Hawazin zurück."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Kada je delegacija Hevazina došla kao muslimani i tražila povratak svojih porodica, Resulullah ﷺ je upitao vojsku. Muhadžiri i ensarije su rekli: 'Ono što je naše dajemo Resulullahu ﷺ.' Na kraju su svi muslimani vratili zarobljenike, čak i Ujejna bin Hisn koji je isprva odbijao.",
+      "de": "Richtig! Als die Hawazin-Delegation als Muslime kam und um die Rückkehr ihrer Familien bat, fragte der Gesandte Allahs ﷺ die Armee. Die Muhadschirin und Ansar sagten: 'Was uns gehört, geben wir dem Gesandten Allahs ﷺ.' Am Ende gaben alle Muslime die Gefangenen zurück, sogar Uyayna bin Hisn, der zunächst ablehnte."
+    }
+  },
+  {
+    "quiz_id": 9,
+    "question_id": 100,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Zaključak",
+    "question": {
+      "bs": "Koliko je godina prošlo od hidžre do oslobođenja Meke?",
+      "de": "Wie viele Jahre vergingen von der Hidschra bis zur Eroberung Mekkas?"
+    },
+    "options": {
+      "bs": [
+        "Pet godina",
+        "Šest godina",
+        "Deset godina",
+        "Osam godina"
+      ],
+      "de": [
+        "Fünf Jahre",
+        "Sechs Jahre",
+        "Zehn Jahre",
+        "Acht Jahre"
+      ]
+    },
+    "correct": {
+      "bs": "Osam godina",
+      "de": "Acht Jahre"
+    },
+    "explanation": {
+      "bs": "Oslobođenje Meke se desilo u ramazanu 8. godine po Hidžri, što znači da je prošlo osam godina od kada je Resulullah ﷺ napustio Meku kao prognanik do njegovog trijumfalnog povratka kao oslobodilac. Za tih osam godina islam se proširio cijelim Arapskim poluotokom.",
+      "de": "Die Eroberung Mekkas fand im Ramadan des 8. Jahres nach der Hidschra statt, was bedeutet, dass acht Jahre vergangen waren, seit der Gesandte Allahs ﷺ Mekka als Verbannter verliess, bis zu seiner triumphalen Rückkehr als Befreier. In diesen acht Jahren hatte sich der Islam über die gesamte Arabische Halbinsel ausgebreitet."
+    }
+  }
+]

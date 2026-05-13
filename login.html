@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html lang="bs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prijava | Poslanikova sira</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/login.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Amiri:wght@400;700&family=Inter:wght@400;500;600;700&family=Poppins:wght@600;700;800&display=swap" rel="stylesheet">
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-P10X0MRPDG"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag("js", new Date());
+  gtag("config", "G-P10X0MRPDG");
+</script>
+</head>
+<body class="login-page">
+    <div class="background-pattern"></div>
+    
+    <div class="login-container">
+        <div class="login-card">
+            <div class="login-header">
+                <div class="logo-image">
+                    <img src="images/logo_sira.png" alt="Poslanikova sira" class="logo-img">
+                </div>
+                <style>
+    .home-btn {
+        width: 65px;               /* Veličina kruga */
+        height: 65px;              /* Veličina kruga */
+        border-radius: 50%;        /* Pravi savršen krug */
+        border: 3px solid #2e7d32; /* Deblja zelena ivica */
+        background-color: #fdfbf0; /* Tvoja krem/bež pozadina */
+        cursor: pointer;
+        display: inline-flex;      /* Centriranje unutar samog dugmeta */
+        align-items: center;       /* Vertikalno centriranje ikone */
+        justify-content: center;   /* Horizontalno centriranje ikone */
+        font-size: 2.2rem;         /* Veća ikona (emoji) */
+        transition: all 0.3s ease;
+        padding: 0;                /* Resetuje razmake */
+        line-height: 1;            /* Sprečava pomjeranje emojija */
+        box-shadow: 0 4px 6px rgba(0,0,0,0.1); /* Blaga sjena da "iskoči" */
+    }
+
+    .home-btn:hover {
+        background-color: #e8f5e9; /* Svijetlo zelena na hover */
+        transform: scale(1.1);     /* Blago povećanje pri prelasku mišem */
+        box-shadow: 0 6px 12px rgba(0,0,0,0.15);
+    }
+
+    /* Kontejner koji osigurava da je dugme na sredini prostora u koji ga staviš */
+    .home-wrapper {
+        display: flex;
+        justify-content: center;
+        width: 100%;
+        padding: 20px 0;
+    }
+</style>
+
+<div class="home-wrapper">
+    <button class="tab-btn home-btn" onclick="window.location.href='https://mekteb.net'" title="Početna">🏠</button>
+</div>
+                <h1>Poslanikova sira</h1>
+                <p class="subtitle">Učite o životu Allahovog Poslanika</p>
+            </div>
+
+            <!-- Login Form -->
+            <div class="form-container" id="loginForm">
+                <h2 data-translate="login">Prijava</h2>
+                <form id="loginFormElement" onsubmit="return false;">
+                <div class="form-group">
+                        <label for="loginLanguage" data-translate="selectLanguage">Odaberite jezik</label>
+                        <!-- When the language is changed, just call setUserLanguage.  applyTranslations() is invoked within that function. -->
+                        <select id="loginLanguage" class="language-select" onchange="setUserLanguage(this.value)">
+                            <option value="bs">🇧🇦 Bosanski</option>
+                            <option value="de">🇩🇪 Deutsch</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                    <label for="loginUsername" data-translate="username">Korisničko ime</label>
+                    <input type="text" id="loginUsername" data-placeholder="usernamePlaceholder" required>
+                    </div>
+                    <div class="form-group">
+                    <label for="loginPassword" data-translate="password">Šifra</label>
+                    <input type="password" id="loginPassword" data-placeholder="passwordPlaceholder" required>
+                    </div>
+                    <div class="error-message" id="loginError" style="display: none;"></div>
+                    <button type="submit" class="btn-primary" id="loginBtn" data-translate="loginButton">Prijavi se</button>
+                </form>
+                <p class="form-switch">
+                    <span data-translate="dontHaveAccount">Nemate nalog?</span>
+                    <a href="#" id="showRegister" data-translate="register">Registracija</a>
+                </p>
+            </div>
+
+            <!-- Register Form -->
+            <div class="form-container" id="registerForm" style="display: none;">
+                <h2 data-translate="register">Registracija</h2>
+                <form id="registerFormElement" onsubmit="return false;">
+                    <div class="form-group">
+                        <label for="registerLanguage" data-translate="selectLanguage">Odaberite jezik</label>
+                        <!-- When the language is changed, just call setUserLanguage.  applyTranslations() is invoked within that function. -->
+                        <select id="registerLanguage" class="language-select" onchange="setUserLanguage(this.value)">
+                            <option value="bs">🇧🇦 Bosanski</option>
+                            <option value="de">🇩🇪 Deutsch</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                    <label for="registerUsername" data-translate="username">Korisničko ime</label>
+                    <input type="text" id="registerUsername" data-placeholder="usernamePlaceholder" required minlength="3">
+                        <small data-translate="min3Chars">Minimum 3 karaktera</small>
+                    </div>
+                    <div class="form-group">
+                    <label for="registerPassword" data-translate="password">Šifra</label>
+                    <input type="password" id="registerPassword" data-placeholder="passwordPlaceholder" required minlength="4">
+                        <small data-translate="min4Chars">Minimum 4 karaktera</small>
+                    </div>
+                    <div class="form-group">
+                    <label for="registerPasswordConfirm" data-translate="confirmPassword">Potvrdite šifru</label>
+                    <input type="password" id="registerPasswordConfirm" data-placeholder="confirmPasswordPlaceholder" required>
+                    </div>
+                    <div class="form-group storage-info-group" style="margin-top: 1rem; padding: 10px; background: #f0f7f6; border-radius: 8px; border-left: 4px solid #2a7c6f;">
+                        <p style="font-size: 0.85rem; color: #444; margin-bottom: 10px;" data-translate="dataStorageInfo">Vaši podaci se čuvaju na vašem uređaju i u vašem browseru. Ako obrišete keš memoriju, moraćete se ponovo registrirati.</p>
+                        <label style="display: flex; align-items: center; gap: 10px; cursor: pointer; font-size: 0.9rem; font-weight: 600;">
+                            <input type="checkbox" id="acceptStorageTerms" style="width: auto;">
+                            <span data-translate="acceptTerms">Prihvatam uslove čuvanja podataka</span>
+                        </label>
+                    </div>
+                    <div class="error-message" id="registerError" style="display: none;"></div>
+                    <button type="submit" class="btn-primary" id="registerBtn" data-translate="registerButton" disabled style="opacity: 0.6; cursor: not-allowed;">Registriraj se</button>
+                </form>
+                <p class="form-switch">
+                    <span data-translate="alreadyHaveAccount">Već ste registrirani?</span>
+                    <a href="#" id="showLogin" data-translate="login">Prijava</a>
+                </p>
+            </div>
+
+            <div class="login-footer">
+                <!-- Add the name Muhammed before the salutation in the footer -->
+                <p class="arabic-footer">مُحَمَّدٌ صَلَّى ٱللّٰهُ عَلَيْهِ وَسَلَّمَ</p>
+            </div>
+        </div>
+    </div>
+
+    <script src="js/translations.js"></script>
+    <script src="js/auth.js"></script>
+    <script>
+        // Apply translations on page load and on language change for the login/register forms.
+        document.addEventListener('DOMContentLoaded', function () {
+            // Fallback translation for login/register forms if global applyTranslations does not update them
+            function applyLoginTranslations(lang) {
+                // Use the translations object if available
+                if (typeof translations === 'undefined' || !translations[lang]) return;
+                const t = translations[lang];
+                // Login form
+                const loginForm = document.getElementById('loginForm');
+                if (loginForm) {
+                    const loginHeading = loginForm.querySelector('h2');
+                    if (loginHeading) loginHeading.textContent = t.login;
+                    const langLabel = loginForm.querySelector('label[for="loginLanguage"]');
+                    if (langLabel) langLabel.textContent = t.selectLanguage;
+                    const userLabel = loginForm.querySelector('label[for="loginUsername"]');
+                    if (userLabel) userLabel.textContent = t.username;
+                    const userInput = document.getElementById('loginUsername');
+                    if (userInput) userInput.placeholder = t.usernamePlaceholder;
+                    const passLabel = loginForm.querySelector('label[for="loginPassword"]');
+                    if (passLabel) passLabel.textContent = t.password;
+                    const passInput = document.getElementById('loginPassword');
+                    if (passInput) passInput.placeholder = t.passwordPlaceholder;
+                    const loginBtn = document.getElementById('loginBtn');
+                    if (loginBtn) loginBtn.textContent = t.loginButton;
+                    const switchSpan = loginForm.querySelector('.form-switch span[data-translate]');
+                    if (switchSpan) switchSpan.textContent = t.dontHaveAccount;
+                    const switchLink = loginForm.querySelector('.form-switch a[data-translate]');
+                    if (switchLink) switchLink.textContent = t.register;
+                }
+                // Register form
+                const registerForm = document.getElementById('registerForm');
+                if (registerForm) {
+                    const regHeading = registerForm.querySelector('h2');
+                    if (regHeading) regHeading.textContent = t.register;
+                    const regLangLabel = registerForm.querySelector('label[for="registerLanguage"]');
+                    if (regLangLabel) regLangLabel.textContent = t.selectLanguage;
+                    const regUserLabel = registerForm.querySelector('label[for="registerUsername"]');
+                    if (regUserLabel) regUserLabel.textContent = t.username;
+                    const regUserInput = document.getElementById('registerUsername');
+                    if (regUserInput) regUserInput.placeholder = t.usernamePlaceholder;
+                    const regMin3 = registerForm.querySelector('small[data-translate="min3Chars"]');
+                    if (regMin3) regMin3.textContent = t.min3Chars;
+                    const regPassLabel = registerForm.querySelector('label[for="registerPassword"]');
+                    if (regPassLabel) regPassLabel.textContent = t.password;
+                    const regPassInput = document.getElementById('registerPassword');
+                    if (regPassInput) regPassInput.placeholder = t.passwordPlaceholder;
+                    const regMin4 = registerForm.querySelector('small[data-translate="min4Chars"]');
+                    if (regMin4) regMin4.textContent = t.min4Chars;
+                    const regConfirmLabel = registerForm.querySelector('label[for="registerPasswordConfirm"]');
+                    if (regConfirmLabel) regConfirmLabel.textContent = t.confirmPassword;
+                    const regConfirmInput = document.getElementById('registerPasswordConfirm');
+                    if (regConfirmInput) regConfirmInput.placeholder = t.confirmPasswordPlaceholder;
+                    const regBtn = document.getElementById('registerBtn');
+                    if (regBtn) regBtn.textContent = t.registerButton;
+                    const storageInfo = registerForm.querySelector('p[data-translate="dataStorageInfo"]');
+                    if (storageInfo) storageInfo.textContent = t.dataStorageInfo;
+                    const acceptLabel = registerForm.querySelector('span[data-translate="acceptTerms"]');
+                    if (acceptLabel) acceptLabel.textContent = t.acceptTerms;
+                    const switchSpanR = registerForm.querySelector('.form-switch span[data-translate]');
+                    if (switchSpanR) switchSpanR.textContent = t.alreadyHaveAccount;
+                    const switchLinkR = registerForm.querySelector('.form-switch a[data-translate]');
+                    if (switchLinkR) switchLinkR.textContent = t.login;
+                }
+            }
+            // Use global applyTranslations if available
+            if (typeof applyTranslations === 'function') {
+                applyTranslations();
+            }
+            // Also apply login translations after global translation
+            const initialLang = (typeof getUserLanguage === 'function') ? getUserLanguage() : (localStorage.getItem('selectedLanguage') || 'bs');
+            applyLoginTranslations(initialLang);
+            // Attach change handlers for selects
+            const loginLangSelect = document.getElementById('loginLanguage');
+            if (loginLangSelect) {
+                loginLangSelect.addEventListener('change', function () {
+                    const lang = this.value;
+                    if (typeof setUserLanguage === 'function') {
+                        setUserLanguage(lang);
+                    }
+                    applyLoginTranslations(lang);
+                });
+            }
+            const registerLangSelect = document.getElementById('registerLanguage');
+            if (registerLangSelect) {
+                registerLangSelect.addEventListener('change', function () {
+                    const lang = this.value;
+                    if (typeof setUserLanguage === 'function') {
+                        setUserLanguage(lang);
+                    }
+                    applyLoginTranslations(lang);
+                });
+            }
+        });
+    </script>
+</body>
+</html>

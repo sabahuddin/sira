@@ -1,0 +1,2836 @@
+[
+  {
+    "quiz_id": 5,
+    "question_id": 1,
+    "type": "true_false",
+    "difficulty": "easy",
+    "source_section": "Javni poziv na brdu Safa",
+    "question": {
+      "bs": "Poslanik ﷺ je javni poziv u islam započeo na brdu Safa.",
+      "de": "Der Prophet ﷺ begann den öffentlichen Aufruf zum Islam auf dem Berg Safa."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Nakon objave ajeta 'I opominji rodbinu svoju najbližu' (Eš-Šu'ara, 214), Poslanik ﷺ se popeo na brdo Safa i pozvao Kurejšije da se okupe kako bi im saopćio svoju poruku.",
+      "de": "Richtig! Nach der Offenbarung des Verses 'Und warne deine nächsten Verwandten' (Asch-Schuara, 214) bestieg der Prophet ﷺ den Berg Safa und rief die Quraisch zusammen, um ihnen seine Botschaft zu verkünden."
+    }
+  },
+  {
+    "quiz_id": 5,
+    "question_id": 2,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Javni poziv na brdu Safa",
+    "question": {
+      "bs": "Koji ajet je bio povod Poslaniku ﷺ da pozove rodbinu na brdo Safa?",
+      "de": "Welcher Vers war der Anlass für den Propheten ﷺ, seine Verwandten auf den Berg Safa zu rufen?"
+    },
+    "options": {
+      "bs": [
+        "'Uči u ime Gospodara svoga' (El-Alek, 1)",
+        "'I opominji rodbinu svoju najbližu' (Eš-Šu'ara, 214)",
+        "'Reci: On je Allah - Jedan' (El-Ihlas, 1)",
+        "'Ustani i opominji' (El-Muddesir, 2)"
+      ],
+      "de": [
+        "'Lies im Namen deines Herrn' (Al-Alaq, 1)",
+        "'Und warne deine nächsten Verwandten' (Asch-Schuara, 214)",
+        "'Sprich: Er ist Allah, der Eine' (Al-Ikhlas, 1)",
+        "'Steh auf und warne' (Al-Muddaththir, 2)"
+      ]
+    },
+    "correct": {
+      "bs": "'I opominji rodbinu svoju najbližu' (Eš-Šu'ara, 214)",
+      "de": "'Und warne deine nächsten Verwandten' (Asch-Schuara, 214)"
+    },
+    "explanation": {
+      "bs": "Ajet iz sure Eš-Šu'ara (26:214) 'I opominji rodbinu svoju najbližu' bio je direktna naredba Poslaniku ﷺ da započne javni poziv, počevši od svoje najbliže porodice.",
+      "de": "Der Vers aus der Sure Asch-Schuara (26:214) 'Und warne deine nächsten Verwandten' war der direkte Befehl an den Propheten ﷺ, den öffentlichen Aufruf zu beginnen, angefangen bei seiner engsten Familie."
+    }
+  },
+  {
+    "quiz_id": 5,
+    "question_id": 3,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "source_section": "Javni poziv na brdu Safa",
+    "question": {
+      "bs": "Ko je bio prvi koji je napao Poslanika ﷺ na brdu Safa i rekao: 'Propao ti ostatak dana!'?",
+      "de": "Wer war der Erste, der den Propheten ﷺ auf dem Berg Safa angriff und sagte: 'Mögest du zugrunde gehen!'?"
+    },
+    "options": {
+      "bs": [
+        "Utbe bin Rebia",
+        "Ebu Leheb",
+        "Ebu Sufjan",
+        "Ebu Džehl"
+      ],
+      "de": [
+        "Utba ibn Rabi'a",
+        "Abu Lahab",
+        "Abu Sufyan",
+        "Abu Dschahl"
+      ]
+    },
+    "correct": {
+      "bs": "Ebu Leheb",
+      "de": "Abu Lahab"
+    },
+    "explanation": {
+      "bs": "Ebu Leheb, amidža Poslanika ﷺ, bio je prvi koji ga je napao riječima: 'Propao ti ostatak dana, zar si nas zbog toga okupio?' Nakon ovoga, Allah je objavio suru El-Mesed (Leheb).",
+      "de": "Abu Lahab, der Onkel des Propheten ﷺ, war der Erste, der ihn mit den Worten angriff: 'Mögest du zugrunde gehen! Hast du uns deswegen versammelt?' Daraufhin offenbarte Allah die Sure Al-Masad (Lahab)."
+    }
+  },
+  {
+    "quiz_id": 5,
+    "question_id": 4,
+    "type": "true_false",
+    "difficulty": "easy",
+    "source_section": "Javni poziv na brdu Safa",
+    "question": {
+      "bs": "Sura El-Mesed (Leheb) objavljena je kao odgovor na Ebu Lehebov napad na Poslanika ﷺ na brdu Safa.",
+      "de": "Die Sure Al-Masad (Lahab) wurde als Antwort auf Abu Lahabs Angriff auf den Propheten ﷺ auf dem Berg Safa offenbart."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Kada je Ebu Leheb rekao 'Propao ti ostatak dana!', Allah je objavio suru El-Mesed: 'Neka propadne Ebu Leheb, i propao je!' (111:1). Ova sura je vječna opomena Ebu Lehebu.",
+      "de": "Richtig! Als Abu Lahab sagte 'Mögest du zugrunde gehen!', offenbarte Allah die Sure Al-Masad: 'Zugrunde gehen sollen die Hände Abu Lahabs!' (111:1). Diese Sure ist eine ewige Mahnung an Abu Lahab."
+    }
+  },
+  {
+    "quiz_id": 5,
+    "question_id": 5,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Pozivanje rodbine",
+    "question": {
+      "bs": "Koliko članova porodice Benu Hašim i Benu Muttalib se okupilo kada ih je Poslanik ﷺ pozvao na gozbu?",
+      "de": "Wie viele Mitglieder der Familien Banu Haschim und Banu Muttalib versammelten sich, als der Prophet ﷺ sie zum Festmahl einlud?"
+    },
+    "options": {
+      "bs": [
+        "Četrdeset pet",
+        "Pedeset",
+        "Dvadeset pet",
+        "Trideset"
+      ],
+      "de": [
+        "Fünfundvierzig",
+        "Fünfzig",
+        "Fünfundzwanzig",
+        "Dreissig"
+      ]
+    },
+    "correct": {
+      "bs": "Četrdeset pet",
+      "de": "Fünfundvierzig"
+    },
+    "explanation": {
+      "bs": "Poslanik ﷺ je prvo pozvao porodicu Benu Hašim, i došlo je četrdeset pet ljudi, uključujući i nekoliko članova porodice Benu Muttalib bin Abdi Menaf.",
+      "de": "Der Prophet ﷺ lud zuerst die Familie Banu Haschim ein, und fünfundvierzig Personen kamen, darunter auch einige Mitglieder der Familie Banu Muttalib ibn Abd Manaf."
+    }
+  },
+  {
+    "quiz_id": 5,
+    "question_id": 6,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Pozivanje rodbine",
+    "question": {
+      "bs": "Ebu Talib je obećao Poslaniku ﷺ da će ga štititi, iako nije primio islam.",
+      "de": "Abu Talib versprach dem Propheten ﷺ, ihn zu beschützen, obwohl er den Islam nicht annahm."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Ebu Talib je rekao: 'Idi, moj bratiću, i govori ono što ti je na srcu. Tako mi Boga, nikada te i nikome neću izručiti, niti te napustiti.' Štitio je Poslanika ﷺ do svoje smrti, ali nije primio islam.",
+      "de": "Richtig! Abu Talib sagte: 'Geh, mein Neffe, und sag was du auf dem Herzen hast. Bei Gott, ich werde dich niemals ausliefern noch verlassen.' Er beschützte den Propheten ﷺ bis zu seinem Tod, nahm aber den Islam nicht an."
+    }
+  },
+  {
+    "quiz_id": 5,
+    "question_id": 7,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Pozivanje rodbine",
+    "question": {
+      "bs": "Šta je Ebu Talib rekao Poslaniku ﷺ kada je ovaj izrazio brigu da će ga amidža napustiti?",
+      "de": "Was sagte Abu Talib zum Propheten ﷺ, als dieser seine Sorge äusserte, dass sein Onkel ihn verlassen würde?"
+    },
+    "options": {
+      "bs": [
+        "'Tako mi Boga, nikada te nikome neću izručiti'",
+        "'Idi svojim putem bez mene'",
+        "'Ne mogu te više štititi'",
+        "'Moraš napustiti ovu vjeru'"
+      ],
+      "de": [
+        "'Bei Gott, ich werde dich niemals ausliefern'",
+        "'Geh deinen Weg ohne mich'",
+        "'Ich kann dich nicht mehr beschützen'",
+        "'Du musst diese Religion aufgeben'"
+      ]
+    },
+    "correct": {
+      "bs": "'Tako mi Boga, nikada te nikome neću izručiti'",
+      "de": "'Bei Gott, ich werde dich niemals ausliefern'"
+    },
+    "explanation": {
+      "bs": "Kada je Poslanik ﷺ pomislio da ga se amidža odriče, ustao je da ode. Ebu Talib ga je pozvao natrag i rekao: 'Idi i čini ono što ti je naređeno! Tako mi Boga, nikada te nikome neću izručiti.'",
+      "de": "Als der Prophet ﷺ dachte, sein Onkel würde ihn verlassen, stand er auf um zu gehen. Abu Talib rief ihn zurück und sagte: 'Geh und tu was dir befohlen wurde! Bei Gott, ich werde dich niemals ausliefern.'"
+    }
+  },
+  {
+    "quiz_id": 5,
+    "question_id": 8,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Reakcije Kurejšija",
+    "question": {
+      "bs": "Kako su Kurejšije u početku reagirale na Poslanikov ﷺ poziv, prije nego je napao njihova božanstva?",
+      "de": "Wie reagierten die Quraisch anfangs auf den Aufruf des Propheten ﷺ, bevor er ihre Götzen angriff?"
+    },
+    "options": {
+      "bs": [
+        "Odmah su ga počeli proganjati",
+        "Prihvatili su islam",
+        "Nisu mu pridavali važnost",
+        "Tražili su pomoć od drugih plemena"
+      ],
+      "de": [
+        "Sie begannen sofort ihn zu verfolgen",
+        "Sie nahmen den Islam an",
+        "Sie massen ihm keine Bedeutung bei",
+        "Sie suchten Hilfe bei anderen Stämmen"
+      ]
+    },
+    "correct": {
+      "bs": "Nisu mu pridavali važnost",
+      "de": "Sie massen ihm keine Bedeutung bei"
+    },
+    "explanation": {
+      "bs": "U početku Kurejšije nisu pridavali važnost Poslanikovu ﷺ pozivu. Smatrali su ga samostalnim pobožnikom, sličnim Umejjetu bin Saltu ili Kusu bin Saidei. Tek kada je počeo napadati njihove idole, okrenuli su se protiv njega.",
+      "de": "Anfangs massen die Quraisch dem Aufruf des Propheten ﷺ keine Bedeutung bei. Sie hielten ihn für einen einzelnen Frommen, ähnlich wie Umayya ibn Salt oder Quss ibn Sa'ida. Erst als er ihre Götzen angriff, wandten sie sich gegen ihn."
+    }
+  },
+  {
+    "quiz_id": 5,
+    "question_id": 9,
+    "type": "true_false",
+    "difficulty": "easy",
+    "source_section": "Reakcije Kurejšija",
+    "question": {
+      "bs": "Kurejšije su se okrenule protiv Poslanika ﷺ tek kada je počeo napadati njihove idole.",
+      "de": "Die Quraisch wandten sich erst gegen den Propheten ﷺ, als er begann, ihre Götzen anzugreifen."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Dok Poslanik ﷺ nije napadao njihova božanstva, Kurejšije se nisu distancirale od njega. Tek kada je počeo govoriti o ništavnosti kipova i zabludjelosti onih koji ih obožavaju, oni su se okrenuli protiv njega.",
+      "de": "Richtig! Solange der Prophet ﷺ ihre Götter nicht angriff, distanzierten sich die Quraisch nicht von ihm. Erst als er begann, über die Nichtigkeit der Götzen und die Verirrung ihrer Anbeter zu sprechen, wandten sie sich gegen ihn."
+    }
+  },
+  {
+    "quiz_id": 5,
+    "question_id": 10,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Formiranje vijeća Kurejšija",
+    "question": {
+      "bs": "Ko je bio vođa savjetodavnog vijeća koje su Kurejšije formirale da bi odlučile kako predstaviti Poslanika ﷺ hodočasnicima?",
+      "de": "Wer war der Anführer des Beratungsgremiums, das die Quraisch bildeten, um zu entscheiden, wie sie den Propheten ﷺ den Pilgern darstellen sollten?"
+    },
+    "options": {
+      "bs": [
+        "Ebu Sufjan",
+        "Ebu Leheb",
+        "Ebu Džehl",
+        "El-Velid bin Mugire"
+      ],
+      "de": [
+        "Abu Sufyan",
+        "Abu Lahab",
+        "Abu Dschahl",
+        "Al-Walid ibn al-Mughira"
+      ]
+    },
+    "correct": {
+      "bs": "El-Velid bin Mugire",
+      "de": "Al-Walid ibn al-Mughira"
+    },
+    "explanation": {
+      "bs": "El-Velid bin Mugire je predsjedavao vijećem Kurejšija koje je trebalo odlučiti kako predstaviti Poslanika ﷺ hodočasnicima. On je odbacio sve prijedloge (da je vrač, luđak, pjesnik) i na kraju predložio da ga proglase čarobnjakom.",
+      "de": "Al-Walid ibn al-Mughira leitete das Gremium der Quraisch, das entscheiden sollte, wie der Prophet ﷺ den Pilgern dargestellt werden sollte. Er lehnte alle Vorschläge ab (Wahrsager, Verrückter, Dichter) und schlug schliesslich vor, ihn als Zauberer zu bezeichnen."
+    }
+  },
+  {
+    "quiz_id": 5,
+    "question_id": 11,
+    "type": "multiple_choice",
+    "difficulty": "hard",
+    "source_section": "Optužbe Kurejšija",
+    "question": {
+      "bs": "Koje optužbe su Kurejšije iznosile protiv Poslanika ﷺ? (Odaberi sve tačne)",
+      "de": "Welche Anschuldigungen erhoben die Quraisch gegen den Propheten ﷺ? (Wähle alle richtigen)"
+    },
+    "options": {
+      "bs": [
+        "Pjesnik",
+        "Luđak",
+        "Lopov",
+        "Čarobnjak"
+      ],
+      "de": [
+        "Dichter",
+        "Verrückter",
+        "Dieb",
+        "Zauberer"
+      ]
+    },
+    "correct": {
+      "bs": [
+        "Čarobnjak",
+        "Pjesnik",
+        "Luđak"
+      ],
+      "de": [
+        "Zauberer",
+        "Dichter",
+        "Verrückter"
+      ]
+    },
+    "explanation": {
+      "bs": "Kurejšije su Poslanika ﷺ optuživali da je čarobnjak (sahir), pjesnik (šair), luđak (medžnun) i vrač (kahin). El-Velid bin Mugire je na kraju predložio da ga proglase čarobnjakom jer 'rastavlja oca od sina, brata od brata'.",
+      "de": "Die Quraisch beschuldigten den Propheten ﷺ, ein Zauberer (sahir), Dichter (scha'ir), Verrückter (madschnun) und Wahrsager (kahin) zu sein. Al-Walid ibn al-Mughira schlug schliesslich vor, ihn als Zauberer zu bezeichnen, weil er 'Vater von Sohn, Bruder von Bruder trennt'."
+    }
+  },
+  {
+    "quiz_id": 5,
+    "question_id": 12,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Formiranje vijeća Kurejšija",
+    "question": {
+      "bs": "Šta je El-Velid bin Mugire na kraju predložio da kažu za Poslanika ﷺ?",
+      "de": "Was schlug Al-Walid ibn al-Mughira schliesslich vor, über den Propheten ﷺ zu sagen?"
+    },
+    "options": {
+      "bs": [
+        "Da je lažni prorok",
+        "Da je pjesnik koji traži slavu",
+        "Da je luđak kojeg treba liječiti",
+        "Da je čarobnjak koji rastavlja ljude"
+      ],
+      "de": [
+        "Dass er ein falscher Prophet ist",
+        "Dass er ein Dichter ist, der Ruhm sucht",
+        "Dass er ein Verrückter ist, der behandelt werden muss",
+        "Dass er ein Zauberer ist, der Menschen trennt"
+      ]
+    },
+    "correct": {
+      "bs": "Da je čarobnjak koji rastavlja ljude",
+      "de": "Dass er ein Zauberer ist, der Menschen trennt"
+    },
+    "explanation": {
+      "bs": "El-Velid bin Mugire je rekao: 'Riječi koje govori imaju ljepotu. Najbolje će biti da kažete da je čarobnjak - riječi koje govori su čarolija, on rastavlja oca od sina, brata od brata, muža od žene.'",
+      "de": "Al-Walid ibn al-Mughira sagte: 'Seine Worte haben Schönheit. Am besten sagt ihr, er ist ein Zauberer - seine Worte sind Zauberei, er trennt Vater von Sohn, Bruder von Bruder, Mann von Frau.'"
+    }
+  },
+  {
+    "quiz_id": 5,
+    "question_id": 13,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Kur'anski odgovor",
+    "question": {
+      "bs": "Allah je objavio šesnaest ajeta u suri El-Muddesir kao odgovor na El-Velidovo djelovanje.",
+      "de": "Allah offenbarte sechzehn Verse in der Sure Al-Muddaththir als Antwort auf Al-Walids Handeln."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! U vezi s El-Velidom bin Mugirom, Allah je objavio ajete 11-27 sure El-Muddesir, ukupno šesnaest ajeta, koji opisuju kako je El-Velid razmišljao i smišljao laži protiv Poslanika ﷺ.",
+      "de": "Richtig! Bezüglich Al-Walid ibn al-Mughira offenbarte Allah die Verse 11-27 der Sure Al-Muddaththir, insgesamt sechzehn Verse, die beschreiben, wie Al-Walid nachdachte und Lügen gegen den Propheten ﷺ ersann."
+    }
+  },
+  {
+    "quiz_id": 5,
+    "question_id": 14,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Metode opiranja",
+    "question": {
+      "bs": "Koja je bila prva metoda koju su Kurejšije koristile protiv muslimana?",
+      "de": "Was war die erste Methode, die die Quraisch gegen die Muslime einsetzten?"
+    },
+    "options": {
+      "bs": [
+        "Protjerivanje iz Mekke",
+        "Ironija, ismijavanje i izrugivanje",
+        "Fizičko nasilje",
+        "Ekonomski bojkot"
+      ],
+      "de": [
+        "Vertreibung aus Mekka",
+        "Ironie, Spott und Hohn",
+        "Körperliche Gewalt",
+        "Wirtschaftlicher Boykott"
+      ]
+    },
+    "correct": {
+      "bs": "Ironija, ismijavanje i izrugivanje",
+      "de": "Ironie, Spott und Hohn"
+    },
+    "explanation": {
+      "bs": "Prva metoda koju su Kurejšije koristile bila je ironija, ismijavanje i izrugivanje. Nazivali su muslimane pogrdnim imenima, a Poslanika ﷺ su optuživali da je lud. Tek kasnije su prešli na fizičko nasilje.",
+      "de": "Die erste Methode der Quraisch war Ironie, Spott und Hohn. Sie gaben den Muslimen Schimpfnamen und beschuldigten den Propheten ﷺ, verrückt zu sein. Erst später gingen sie zur körperlichen Gewalt über."
+    }
+  },
+  {
+    "quiz_id": 5,
+    "question_id": 15,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Metode opiranja",
+    "question": {
+      "bs": "Ko je kupovao pjevačice-robinje da bi njima odvraćao ljude od islama?",
+      "de": "Wer kaufte singende Sklavinnen, um damit Menschen vom Islam abzulenken?"
+    },
+    "options": {
+      "bs": [
+        "El-Velid bin Mugire",
+        "Umejje bin Halef",
+        "Ebu Džehl",
+        "En-Nadar bin Haris"
+      ],
+      "de": [
+        "Al-Walid ibn al-Mughira",
+        "Umayya ibn Khalaf",
+        "Abu Dschahl",
+        "An-Nadr ibn al-Harith"
+      ]
+    },
+    "correct": {
+      "bs": "En-Nadar bin Haris",
+      "de": "An-Nadr ibn al-Harith"
+    },
+    "explanation": {
+      "bs": "En-Nadar bin Haris je kupovao pjevačice-robinje i kada bi čuo da se neko vraća od Poslanika ﷺ, svratio bi ga kod sebe da ga robinja nahrani, napoji i pjeva mu. O njemu Allah objavi: 'Ima ljudi koji kupuju priče za razonodu...' (Lukman, 6).",
+      "de": "An-Nadr ibn al-Harith kaufte singende Sklavinnen, und wenn er hörte, dass jemand vom Propheten ﷺ zurückkam, lud er ihn ein, damit die Sklavin ihm vorsinge. Über ihn offenbarte Allah: 'Unter den Menschen gibt es solche, die sinnloses Gerede kaufen...' (Luqman, 6)."
+    }
+  },
+  {
+    "quiz_id": 5,
+    "question_id": 16,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Sura El-Kafirun",
+    "question": {
+      "bs": "Sura El-Kafirun objavljena je kao odgovor na prijedlog Kurejšija da Poslanik ﷺ godinu dana obožava njihove kipove, a oni će godinu dana obožavati Allaha.",
+      "de": "Die Sure Al-Kafirun wurde als Antwort auf den Vorschlag der Quraisch offenbart, dass der Prophet ﷺ ein Jahr lang ihre Götzen anbeten solle, und sie würden ein Jahr lang Allah anbeten."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Kurejšije su predložile kompromis - da Poslanik ﷺ obožava njihove kipove godinu dana, a oni njegovog Gospodara godinu. Allah je kao odgovor objavio suru El-Kafirun: 'Vama - vaša vjera, a meni - moja!'",
+      "de": "Richtig! Die Quraisch schlugen einen Kompromiss vor - der Prophet ﷺ solle ihre Götzen ein Jahr anbeten, und sie würden seinen Herrn ein Jahr anbeten. Allah offenbarte als Antwort die Sure Al-Kafirun: 'Euch eure Religion und mir meine Religion!'"
+    }
+  },
+  {
+    "quiz_id": 5,
+    "question_id": 17,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "source_section": "Zlostavljanja i progoni",
+    "question": {
+      "bs": "Ko je bio vođa komisije od dvadeset pet članova koja je donijela odluku o progonu muslimana?",
+      "de": "Wer war der Anführer der Kommission von fünfundzwanzig Mitgliedern, die den Beschluss zur Verfolgung der Muslime fasste?"
+    },
+    "options": {
+      "bs": [
+        "Ebu Leheb",
+        "El-Velid bin Mugire",
+        "Utbe bin Rebia",
+        "Ebu Džehl"
+      ],
+      "de": [
+        "Abu Lahab",
+        "Al-Walid ibn al-Mughira",
+        "Utba ibn Rabi'a",
+        "Abu Dschahl"
+      ]
+    },
+    "correct": {
+      "bs": "Ebu Leheb",
+      "de": "Abu Lahab"
+    },
+    "explanation": {
+      "bs": "Kurejšije su formirali komisiju od dvadeset pet uglednih Mekelija, a za vođu su izabrali Ebu Leheba, amidžu Poslanika ﷺ. Ova komisija je donijela definitivnu odluku o progonu Poslanika ﷺ i njegovih drugova.",
+      "de": "Die Quraisch bildeten eine Kommission von fünfundzwanzig angesehenen Mekkanern und wählten Abu Lahab, den Onkel des Propheten ﷺ, zum Anführer. Diese Kommission fasste den endgültigen Beschluss zur Verfolgung des Propheten ﷺ und seiner Gefährten."
+    }
+  },
+  {
+    "quiz_id": 5,
+    "question_id": 18,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Ebu Leheb",
+    "question": {
+      "bs": "Ebu Leheb je naredio svojim sinovima Utbetu i Utejbetu da se razvedu od kćerki Poslanika ﷺ.",
+      "de": "Abu Lahab befahl seinen Söhnen Utba und Utayba, sich von den Töchtern des Propheten ﷺ scheiden zu lassen."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Ebu Leheb je oženio svoja dva sina, Utbeta i Utejbeta, dvjema kćerkama Poslanika ﷺ - Rukajjom i Ummu Kulsumom - prije poslanstva. Kada je počela Objava, naredio im je da se razvedu.",
+      "de": "Richtig! Abu Lahab hatte seine beiden Söhne, Utba und Utayba, mit zwei Töchtern des Propheten ﷺ verheiratet - Ruqayya und Umm Kulthum - vor dem Prophetentum. Als die Offenbarung begann, befahl er ihnen, sich scheiden zu lassen."
+    }
+  },
+  {
+    "quiz_id": 5,
+    "question_id": 19,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Ummu Džemil",
+    "question": {
+      "bs": "Kako je Kur'an nazvao ženu Ebu Leheba zbog njenih spletki?",
+      "de": "Wie nannte der Koran die Frau von Abu Lahab wegen ihrer Intrigen?"
+    },
+    "options": {
+      "bs": [
+        "Ummu Džemil",
+        "Sahiretul-nar",
+        "Hammaletul-hatabi (koja spletke pravi)",
+        "Ummul-fitne"
+      ],
+      "de": [
+        "Umm Dschamil",
+        "Sahiretul-nar",
+        "Hammaletul-hatab (die Holzträgerin)",
+        "Ummul-fitna"
+      ]
+    },
+    "correct": {
+      "bs": "Hammaletul-hatabi (koja spletke pravi)",
+      "de": "Hammaletul-hatab (die Holzträgerin)"
+    },
+    "explanation": {
+      "bs": "Ummu Džemil, žena Ebu Leheba, nosila je trnje i bacala na put ispred Poslanika ﷺ i pred njegova vrata noću. Kur'an ju je nazvao 'hammaletul-hatab' (ona koja nosi drva/spletke) u suri El-Mesed.",
+      "de": "Umm Dschamil, die Frau von Abu Lahab, trug Dornen und warf sie nachts auf den Weg des Propheten ﷺ und vor seine Tür. Der Koran nannte sie 'hammaletul-hatab' (die Holzträgerin/Intrigantin) in der Sure Al-Masad."
+    }
+  },
+  {
+    "quiz_id": 5,
+    "question_id": 20,
+    "type": "true_false",
+    "difficulty": "hard",
+    "source_section": "Ummu Džemil",
+    "question": {
+      "bs": "Kada je Ummu Džemil došla da napadne Poslanika ﷺ kamenom, Allah joj je oduzeo vid tako da ga nije mogla vidjeti pored Ebu Bekra.",
+      "de": "Als Umm Dschamil kam, um den Propheten ﷺ mit einem Stein anzugreifen, nahm Allah ihr das Augenlicht, so dass sie ihn neben Abu Bakr nicht sehen konnte."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Kada je Ummu Džemil čula šta Kur'an kaže o njoj, došla je u džamiju s kamenom u ruci. Vidjela je samo Ebu Bekra i pitala ga gdje je njegov drug. Allah joj je oduzeo vid da ne vidi Poslanika ﷺ koji je sjedio pored njega.",
+      "de": "Richtig! Als Umm Dschamil hörte, was der Koran über sie sagt, kam sie mit einem Stein in der Hand zur Moschee. Sie sah nur Abu Bakr und fragte, wo sein Gefährte sei. Allah nahm ihr das Augenlicht, so dass sie den Propheten ﷺ nicht sehen konnte, der neben ihm sass."
+    }
+  },
+  {
+    "quiz_id": 5,
+    "question_id": 21,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Zlostavljanje Poslanika ﷺ",
+    "question": {
+      "bs": "Ko je bacio ovčija crijeva na Poslanika ﷺ dok je bio na sedždi kod Kabe?",
+      "de": "Wer warf Schafeingeweide auf den Propheten ﷺ, während er in der Niederwerfung bei der Kaaba war?"
+    },
+    "options": {
+      "bs": [
+        "Ebu Džehl",
+        "Utbe bin Rebia",
+        "Ukbe bin Ebi Muit",
+        "Umejje bin Halef"
+      ],
+      "de": [
+        "Abu Dschahl",
+        "Utba ibn Rabi'a",
+        "Uqba ibn Abi Mu'ayt",
+        "Umayya ibn Khalaf"
+      ]
+    },
+    "correct": {
+      "bs": "Ukbe bin Ebi Muit",
+      "de": "Uqba ibn Abi Mu'ayt"
+    },
+    "explanation": {
+      "bs": "Ukbe bin Ebi Muit je donio utrobu deve i bacio je na Poslanika ﷺ dok je bio na sedždi. Poslanik ﷺ ostao je na sedždi dok nije došla njegova kćerka Fatima i skinula mu to s leđa. Svi koje je Poslanik ﷺ proklinjao te prilike su poginuli na Bedru.",
+      "de": "Uqba ibn Abi Mu'ayt brachte Kameleingeweide und warf sie auf den Propheten ﷺ während seiner Niederwerfung. Der Prophet ﷺ blieb in der Niederwerfung, bis seine Tochter Fatima kam und es ihm vom Rücken nahm. Alle, die der Prophet ﷺ bei dieser Gelegenheit verfluchte, starben in Badr."
+    }
+  },
+  {
+    "quiz_id": 5,
+    "question_id": 22,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "source_section": "Kćerka Poslanika ﷺ",
+    "question": {
+      "bs": "Ko je skinuo nečistoću s leđa Poslanika ﷺ kada mu je Ukbe bacio utrobu deve?",
+      "de": "Wer entfernte den Schmutz vom Rücken des Propheten ﷺ, als Uqba ihm die Kameleingeweide auf den Rücken warf?"
+    },
+    "options": {
+      "bs": [
+        "Aiša",
+        "Ummu Kulsum",
+        "Hatidža",
+        "Fatima"
+      ],
+      "de": [
+        "Aischa",
+        "Umm Kulthum",
+        "Chadidscha",
+        "Fatima"
+      ]
+    },
+    "correct": {
+      "bs": "Fatima",
+      "de": "Fatima"
+    },
+    "explanation": {
+      "bs": "Poslanikova ﷺ kćerka Fatima r.a. je došla i skinula utrobu s njegovih leđa dok su se Kurejšije smijale. Poslanik ﷺ je tada podigao glavu i proklinjao nasilnike, moleći: 'Moj Allahu, Tebi prepuštam Kurejšije!'",
+      "de": "Die Tochter des Propheten ﷺ, Fatima r.a., kam und entfernte die Eingeweide von seinem Rücken, während die Quraisch lachten. Der Prophet ﷺ hob dann seinen Kopf und verfluchte die Übeltäter mit den Worten: 'Mein Allah, Dir überlasse ich die Quraisch!'"
+    }
+  },
+  {
+    "quiz_id": 5,
+    "question_id": 23,
+    "type": "ordering",
+    "difficulty": "hard",
+    "source_section": "Zlostavljanje Poslanika ﷺ",
+    "question": {
+      "bs": "Poredaj događaje vezane za napad Ukbeta bin Ebi Muita na Poslanika ﷺ:",
+      "de": "Ordne die Ereignisse im Zusammenhang mit dem Angriff von Uqba ibn Abi Mu'ayt auf den Propheten ﷺ:"
+    },
+    "options": {
+      "bs": [
+        "Ukbe baca utrobu deve na Poslanika ﷺ",
+        "Poslanik ﷺ ostaje na sedždi",
+        "Poslanik ﷺ proklinje nasilnike",
+        "Fatima dolazi i skida nečistoću"
+      ],
+      "de": [
+        "Uqba wirft Kameleingeweide auf den Propheten ﷺ",
+        "Der Prophet ﷺ bleibt in der Niederwerfung",
+        "Der Prophet ﷺ verflucht die Übeltäter",
+        "Fatima kommt und entfernt den Schmutz"
+      ]
+    },
+    "correct": {
+      "bs": [
+        "Ukbe baca utrobu deve na Poslanika ﷺ",
+        "Poslanik ﷺ ostaje na sedždi",
+        "Fatima dolazi i skida nečistoću",
+        "Poslanik ﷺ proklinje nasilnike"
+      ],
+      "de": [
+        "Uqba wirft Kameleingeweide auf den Propheten ﷺ",
+        "Der Prophet ﷺ bleibt in der Niederwerfung",
+        "Fatima kommt und entfernt den Schmutz",
+        "Der Prophet ﷺ verflucht die Übeltäter"
+      ]
+    },
+    "explanation": {
+      "bs": "Dok je Poslanik ﷺ klanjao, Ukbe je bacio utrobu deve na njegova leđa. On je ostao na sedždi dok nije došla Fatima i skinula to. Zatim je podigao glavu i proklinjao nasilnike. Svi koje je proklinjao su poginuli na Bedru.",
+      "de": "Während der Prophet ﷺ betete, warf Uqba Kameleingeweide auf seinen Rücken. Er blieb in der Niederwerfung, bis Fatima kam und es entfernte. Dann hob er seinen Kopf und verfluchte die Übeltäter. Alle, die er verfluchte, starben in Badr."
+    }
+  },
+  {
+    "quiz_id": 5,
+    "question_id": 24,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Ebu Džehl",
+    "question": {
+      "bs": "Ebu Džehl je zabranio Poslaniku ﷺ da klanja u haremu Kabe.",
+      "de": "Abu Dschahl verbot dem Propheten ﷺ, im Haram der Kaaba zu beten."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Ebu Džehl je od prvog dana zabranjivao Poslaniku ﷺ da klanja u haremu. Jednom ga je zatekao na namazu i rekao: 'O Muhammede, nisam li ti zabranio da to činiš?' Poslanik ﷺ mu je zaprijetio, a on je odgovorio da ima najviše društva u Meki.",
+      "de": "Richtig! Abu Dschahl verbot dem Propheten ﷺ von Anfang an, im Haram zu beten. Einmal fand er ihn beim Gebet und sagte: 'O Muhammad, habe ich dir nicht verboten, das zu tun?' Der Prophet ﷺ drohte ihm, und er antwortete, dass er die meisten Anhänger in Mekka habe."
+    }
+  },
+  {
+    "quiz_id": 5,
+    "question_id": 25,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Ebu Džehl i meleki",
+    "question": {
+      "bs": "Šta se dogodilo kada je Ebu Džehl htio zgaziti Poslaniku ﷺ vrat dok je klanjao?",
+      "de": "Was geschah, als Abu Dschahl dem Propheten ﷺ auf den Hals treten wollte, während er betete?"
+    },
+    "options": {
+      "bs": [
+        "Poslanik ﷺ ga je udario",
+        "Ugledao je jarak s vatrom i uzbudio se od užasa",
+        "Oslijepio je na trenutak",
+        "Pao je na zemlju od nevidljive sile"
+      ],
+      "de": [
+        "Der Prophet ﷺ schlug ihn",
+        "Er sah einen Graben mit Feuer und erschrak vor Entsetzen",
+        "Er erblindete für einen Moment",
+        "Er fiel durch eine unsichtbare Kraft zu Boden"
+      ]
+    },
+    "correct": {
+      "bs": "Ugledao je jarak s vatrom i uzbudio se od užasa",
+      "de": "Er sah einen Graben mit Feuer und erschrak vor Entsetzen"
+    },
+    "explanation": {
+      "bs": "Muslim prenosi da je Ebu Džehl zakleo se da će Poslaniku ﷺ zgaziti vrat na sedždi, ali kada mu se približio, ustuknu braneći se rukama. Rekao je: 'Ugledah između sebe i njega jarak u kojem bukti vatra, i vidjeh užas i krila.' Poslanik ﷺ je rekao da bi ga meleki razderali.",
+      "de": "Muslim berichtet, dass Abu Dschahl schwor, dem Propheten ﷺ auf den Hals zu treten während der Niederwerfung, aber als er sich näherte, wich er zurück und verteidigte sich mit den Händen. Er sagte: 'Ich sah zwischen mir und ihm einen Graben mit loderndem Feuer und Schrecken und Flügel.' Der Prophet ﷺ sagte, die Engel hätten ihn zerrissen."
+    }
+  },
+  {
+    "quiz_id": 5,
+    "question_id": 26,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "source_section": "Mučenja prvih muslimana",
+    "question": {
+      "bs": "Ko je prvi šehid islama?",
+      "de": "Wer ist der erste Märtyrer des Islam?"
+    },
+    "options": {
+      "bs": [
+        "Bilal bin Rebah",
+        "Ammar bin Jasir",
+        "Jasir bin Amir",
+        "Sumejja bint Habbat"
+      ],
+      "de": [
+        "Bilal ibn Rabah",
+        "Ammar ibn Yasir",
+        "Yasir ibn Amir",
+        "Sumayya bint Khabbat"
+      ]
+    },
+    "correct": {
+      "bs": "Sumejja bint Habbat",
+      "de": "Sumayya bint Khabbat"
+    },
+    "explanation": {
+      "bs": "Sumejja r.a., majka Ammara bin Jasira, bila je prva šehida islama. Ebu Džehl ju je ubio tako što joj je probio spolni organ kopljem. Ona i njen muž Jasir su stradali zbog svoje vjere, a Ammar je preživio.",
+      "de": "Sumayya r.a., die Mutter von Ammar ibn Yasir, war die erste Märtyrerin des Islam. Abu Dschahl tötete sie, indem er sie mit einem Speer in den Unterleib stach. Sie und ihr Mann Yasir starben für ihren Glauben, während Ammar überlebte."
+    }
+  },
+  {
+    "quiz_id": 5,
+    "question_id": 27,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Mučenja prvih muslimana",
+    "question": {
+      "bs": "Ko je ubio Sumejju r.a., prvu šehidu islama?",
+      "de": "Wer tötete Sumayya r.a., die erste Märtyrerin des Islam?"
+    },
+    "options": {
+      "bs": [
+        "Ebu Leheb",
+        "Ebu Džehl",
+        "Umejje bin Halef",
+        "Ukbe bin Ebi Muit"
+      ],
+      "de": [
+        "Abu Lahab",
+        "Abu Dschahl",
+        "Umayya ibn Khalaf",
+        "Uqba ibn Abi Mu'ayt"
+      ]
+    },
+    "correct": {
+      "bs": "Ebu Džehl",
+      "de": "Abu Dschahl"
+    },
+    "explanation": {
+      "bs": "Ebu Džehl je ubio Sumejju r.a. tako što joj je probio spolni organ kopljem. Ona je bila rob i nije imala nikakvu zaštitu. Njen muž Jasir je također podlegao mukama, a sin Ammar je preživio.",
+      "de": "Abu Dschahl tötete Sumayya r.a., indem er sie mit einem Speer in den Unterleib stach. Sie war eine Sklavin ohne jeglichen Schutz. Ihr Mann Yasir erlag ebenfalls den Qualen, während ihr Sohn Ammar überlebte."
+    }
+  },
+  {
+    "quiz_id": 5,
+    "question_id": 28,
+    "type": "true_false",
+    "difficulty": "easy",
+    "source_section": "Porodica Jasir",
+    "question": {
+      "bs": "Poslanik ﷺ je rekao porodici Jasir: 'Strpite se, porodico Jasira! Vaš boravak bit će u Džennetu.'",
+      "de": "Der Prophet ﷺ sagte zur Familie Yasir: 'Habt Geduld, Familie Yasir! Euer Aufenthalt wird im Paradies sein.'"
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Kada je Poslanik ﷺ prošao pored porodice Jasir dok su ih mučili na vrelom pustinjskom suncu, utješio ih je ovim riječima. Jasir i Sumejja su umrli kao šehidi, a Ammaru je obećan Džennet.",
+      "de": "Richtig! Als der Prophet ﷺ an der Familie Yasir vorbeikam, während sie in der heissen Wüstensonne gefoltert wurden, tröstete er sie mit diesen Worten. Yasir und Sumayya starben als Märtyrer, und Ammar wurde das Paradies versprochen."
+    }
+  },
+  {
+    "quiz_id": 5,
+    "question_id": 29,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Ammar bin Jasir",
+    "question": {
+      "bs": "Koji ajet je objavljen u vezi s Ammarom kada je pod prisilom izgovorio riječi nevjerstva?",
+      "de": "Welcher Vers wurde bezüglich Ammar offenbart, als er unter Zwang Worte des Unglaubens sprach?"
+    },
+    "options": {
+      "bs": [
+        "'I strpite se, Allah je sa strpljivima' (El-Enfal, 46)",
+        "'Ko učini zlo, bit će kažnjen za to' (En-Nisa, 123)",
+        "'Onoga koji zaniječe Allaha, nakon što je u Njega vjerovao, osim ako bude na to primoran, a srce mu ostane čvrsto u vjeri...' (En-Nahl, 106)",
+        "'Allah ne opterećuje nikoga preko njegove mogućnosti' (El-Bekara, 286)"
+      ],
+      "de": [
+        "'Und seid geduldig, Allah ist mit den Geduldigen' (Al-Anfal, 46)",
+        "'Wer Böses tut, wird dafür bestraft' (An-Nisa, 123)",
+        "'Wer Allah verleugnet, nachdem er geglaubt hat - ausser dem, der gezwungen wird, während sein Herz im Glauben fest bleibt...' (An-Nahl, 106)",
+        "'Allah belastet niemanden über sein Vermögen hinaus' (Al-Baqara, 286)"
+      ]
+    },
+    "correct": {
+      "bs": "'Onoga koji zaniječe Allaha, nakon što je u Njega vjerovao, osim ako bude na to primoran, a srce mu ostane čvrsto u vjeri...' (En-Nahl, 106)",
+      "de": "'Wer Allah verleugnet, nachdem er geglaubt hat - ausser dem, der gezwungen wird, während sein Herz im Glauben fest bleibt...' (An-Nahl, 106)"
+    },
+    "explanation": {
+      "bs": "Kada su Ammara prisilili da psuje Poslanika ﷺ i hvali njihove kipove, on je to učinio pod prisilom, a srce mu je ostalo čvrsto u vjeri. Otišao je plaćući Poslaniku ﷺ da se izvini, a Allah je objavio ovaj ajet koji dozvoljava takvu 'tekviju' (skrivanje vjere) pod prisilom.",
+      "de": "Als Ammar gezwungen wurde, den Propheten ﷺ zu verfluchen und ihre Götzen zu loben, tat er es unter Zwang, während sein Herz fest im Glauben blieb. Er ging weinend zum Propheten ﷺ, um sich zu entschuldigen, und Allah offenbarte diesen Vers, der solche 'Taqiyya' (Verbergen des Glaubens) unter Zwang erlaubt."
+    }
+  },
+  {
+    "quiz_id": 5,
+    "question_id": 30,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Mučenje Bilala",
+    "question": {
+      "bs": "Ko je bio vlasnik koji je mučio Bilala r.a.?",
+      "de": "Wer war der Besitzer, der Bilal r.a. folterte?"
+    },
+    "options": {
+      "bs": [
+        "Umejje bin Halef",
+        "Ukbe bin Ebi Muit",
+        "Ebu Džehl",
+        "Ebu Leheb"
+      ],
+      "de": [
+        "Umayya ibn Khalaf",
+        "Uqba ibn Abi Mu'ayt",
+        "Abu Dschahl",
+        "Abu Lahab"
+      ]
+    },
+    "correct": {
+      "bs": "Umejje bin Halef",
+      "de": "Umayya ibn Khalaf"
+    },
+    "explanation": {
+      "bs": "Bilal r.a. je bio rob Umejjeta bin Halefa el-Džumehije. Umejje ga je mučio tako što bi mu stavljao omču na vrat i davao djeci da ga vuku, izlagao ga vrućem suncu s ogromnim kamenom na grudima, i patio ga glađu.",
+      "de": "Bilal r.a. war ein Sklave von Umayya ibn Khalaf al-Dschumahi. Umayya folterte ihn, indem er ihm eine Schlinge um den Hals legte und Kindern gab, ihn zu ziehen, ihn der heissen Sonne mit einem riesigen Stein auf der Brust aussetzte und ihn hungern liess."
+    }
+  },
+  {
+    "quiz_id": 5,
+    "question_id": 31,
+    "type": "true_false",
+    "difficulty": "easy",
+    "source_section": "Mučenje Bilala",
+    "question": {
+      "bs": "Bilal r.a. je u najtežim mukama govorio: 'Ehad, ehad!' (Jedan je, Jedan je!).",
+      "de": "Bilal r.a. sagte unter schwersten Qualen: 'Ahad, ahad!' (Einer ist es, Einer ist es!)."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Dok je Umejje bin Halef mučio Bilala na vrućem pijesku s kamenom na grudima, govoreći mu da se odrekne Muhammeda ﷺ, Bilal je samo ponavljao: 'Ehad, ehad!' (Allah je Jedan!). Ovo je postalo simbol njegove nepokolebljive vjere.",
+      "de": "Richtig! Während Umayya ibn Khalaf Bilal auf dem heissen Sand mit einem Stein auf der Brust folterte und ihm sagte, Muhammad ﷺ zu verleugnen, wiederholte Bilal nur: 'Ahad, ahad!' (Allah ist Einer!). Dies wurde zum Symbol seines unerschütterlichen Glaubens."
+    }
+  },
+  {
+    "quiz_id": 5,
+    "question_id": 32,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "source_section": "Oslobođenje Bilala",
+    "question": {
+      "bs": "Ko je kupio i oslobodio Bilala r.a.?",
+      "de": "Wer kaufte und befreite Bilal r.a.?"
+    },
+    "options": {
+      "bs": [
+        "Ali bin Ebi Talib",
+        "Osman bin Affan",
+        "Omer bin Hattab",
+        "Ebu Bekr es-Siddik"
+      ],
+      "de": [
+        "Ali ibn Abi Talib",
+        "Uthman ibn Affan",
+        "Umar ibn al-Khattab",
+        "Abu Bakr as-Siddiq"
+      ]
+    },
+    "correct": {
+      "bs": "Ebu Bekr es-Siddik",
+      "de": "Abu Bakr as-Siddiq"
+    },
+    "explanation": {
+      "bs": "Ebu Bekr r.a. je prošao dok su mučili Bilala, vidio šta mu rade, pa ga kupio od Umejjeta. Dao je crnog mladog momka u zamjenu ili pet do sedam oka srebra, a zatim ga oslobodio. Ebu Bekr je oslobodio još nekoliko robova-muslimana.",
+      "de": "Abu Bakr r.a. kam vorbei, während sie Bilal folterten, sah was sie ihm antaten und kaufte ihn von Umayya. Er gab einen jungen schwarzen Mann als Tausch oder fünf bis sieben Unzen Silber und befreite ihn dann. Abu Bakr befreite mehrere andere muslimische Sklaven."
+    }
+  },
+  {
+    "quiz_id": 5,
+    "question_id": 33,
+    "type": "multiple_choice",
+    "difficulty": "hard",
+    "source_section": "Ebu Bekrovo oslobađanje robova",
+    "question": {
+      "bs": "Koje robove-muslimane je Ebu Bekr r.a. oslobodio? (Odaberi sve tačne)",
+      "de": "Welche muslimischen Sklaven befreite Abu Bakr r.a.? (Wähle alle richtigen)"
+    },
+    "options": {
+      "bs": [
+        "Zunejra",
+        "Amir bin Fuhejre",
+        "Bilal bin Rebah",
+        "Ammar bin Jasir"
+      ],
+      "de": [
+        "Zunaira",
+        "Amir ibn Fuhayra",
+        "Bilal ibn Rabah",
+        "Ammar ibn Yasir"
+      ]
+    },
+    "correct": {
+      "bs": [
+        "Bilal bin Rebah",
+        "Zunejra",
+        "Amir bin Fuhejre"
+      ],
+      "de": [
+        "Bilal ibn Rabah",
+        "Zunaira",
+        "Amir ibn Fuhayra"
+      ]
+    },
+    "explanation": {
+      "bs": "Ebu Bekr r.a. je kupio i oslobodio Bilala, Zunejru, En-Nehdijju s njenom kćerkom, Ummu Ubejs, robinju porodice Beni Muemmel, i Amira bin Fuhejrea. Svoje bogatstvo je trošio na oslobađanje potlačenih muslimana.",
+      "de": "Abu Bakr r.a. kaufte und befreite Bilal, Zunaira, An-Nahdiyya mit ihrer Tochter, Umm Ubays, eine Sklavin der Familie Bani Muammal und Amir ibn Fuhayra. Er gab sein Vermögen für die Befreiung unterdrückter Muslime aus."
+    }
+  },
+  {
+    "quiz_id": 5,
+    "question_id": 34,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Mučenje Habbaba",
+    "question": {
+      "bs": "Kako su mučili Habbaba bin Ereta r.a.?",
+      "de": "Wie folterten sie Khabbab ibn al-Aratt r.a.?"
+    },
+    "options": {
+      "bs": [
+        "Vukli su ga za kosu i stavljali vreli kamen na leđa",
+        "Zatvorili su ga u podrum",
+        "Izbacili su ga iz Mekke",
+        "Bičevali su ga svaki dan"
+      ],
+      "de": [
+        "Sie zogen ihn an den Haaren und legten heisse Steine auf seinen Rücken",
+        "Sie sperrten ihn in einen Keller",
+        "Sie vertrieben ihn aus Mekka",
+        "Sie peitschten ihn jeden Tag aus"
+      ]
+    },
+    "correct": {
+      "bs": "Vukli su ga za kosu i stavljali vreli kamen na leđa",
+      "de": "Sie zogen ihn an den Haaren und legten heisse Steine auf seinen Rücken"
+    },
+    "explanation": {
+      "bs": "Habbab bin Eret r.a., kovač i rob, bio je izložen strahovitim mukama. Vukli su ga za kosu dok mu vrat nije pucao, a zatim bi natovarili vreli kamen na njegova leđa da ne može ustati. Bio je rob Ummi Enmare.",
+      "de": "Khabbab ibn al-Aratt r.a., ein Schmied und Sklave, wurde schrecklichen Qualen ausgesetzt. Sie zogen ihn an den Haaren, bis sein Hals knackte, und legten dann heisse Steine auf seinen Rücken, so dass er nicht aufstehen konnte. Er war ein Sklave von Umm Anmara."
+    }
+  },
+  {
+    "quiz_id": 5,
+    "question_id": 35,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Prva prolivena krv u islamu",
+    "question": {
+      "bs": "Sa'd bin Ebi Vekkas r.a. je prolilo prvu krv u odbrani islama, udarivši mušrika devinim viličnom kosti.",
+      "de": "Sa'd ibn Abi Waqqas r.a. vergoss das erste Blut in der Verteidigung des Islam, indem er einen Götzendiener mit einem Kamelkieferknochen schlug."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Kada su muslimani tajno klanjali u klancu, napala ih je grupa mušrika. Sa'd bin Ebi Vekkas r.a. je udario jednog od njih devinim viličnom kosti i rasjekao mu glavu. To je bila prva prolivena krv u islamu.",
+      "de": "Richtig! Als die Muslime heimlich in einer Schlucht beteten, wurden sie von einer Gruppe Götzendiener angegriffen. Sa'd ibn Abi Waqqas r.a. schlug einen von ihnen mit einem Kamelkieferknochen und spaltete ihm den Kopf. Das war das erste vergossene Blut im Islam."
+    }
+  },
+  {
+    "quiz_id": 5,
+    "question_id": 36,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Kuća Erkama",
+    "question": {
+      "bs": "Gdje se nalazila kuća Erkama u kojoj su se tajno sastajali muslimani?",
+      "de": "Wo befand sich das Haus von Arqam, in dem sich die Muslime heimlich trafen?"
+    },
+    "options": {
+      "bs": [
+        "Na brdu Uhud",
+        "Kod Kabe",
+        "U dolini Mina",
+        "Na brežuljku Safa"
+      ],
+      "de": [
+        "Auf dem Berg Uhud",
+        "Bei der Kaaba",
+        "Im Tal von Mina",
+        "Auf dem Hügel Safa"
+      ]
+    },
+    "correct": {
+      "bs": "Na brežuljku Safa",
+      "de": "Auf dem Hügel Safa"
+    },
+    "explanation": {
+      "bs": "Kuća Erkama bin Ebi-l-Erkama el-Mahzumije nalazila se na brežuljku Safa. Bila je malo po strani od očiju Kurejšija. Poslanik ﷺ ju je koristio kao tajno mjesto za sastanke i podučavanje muslimana u petoj godini poslanstva.",
+      "de": "Das Haus von Arqam ibn Abi al-Arqam al-Makhzumi befand sich auf dem Hügel Safa. Es war etwas abseits von den Blicken der Quraisch. Der Prophet ﷺ nutzte es als geheimen Treffpunkt und zur Unterweisung der Muslime im fünften Jahr des Prophetentums."
+    }
+  },
+  {
+    "quiz_id": 5,
+    "question_id": 37,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "source_section": "Prva hidžra u Abesiniju",
+    "question": {
+      "bs": "U kojoj godini poslanstva je bila prva hidžra u Abesiniju?",
+      "de": "In welchem Jahr des Prophetentums fand die erste Auswanderung nach Abessinien statt?"
+    },
+    "options": {
+      "bs": [
+        "Deseta godina",
+        "Peta godina",
+        "Sedma godina",
+        "Treća godina"
+      ],
+      "de": [
+        "Zehntes Jahr",
+        "Fünftes Jahr",
+        "Siebtes Jahr",
+        "Drittes Jahr"
+      ]
+    },
+    "correct": {
+      "bs": "Peta godina",
+      "de": "Fünftes Jahr"
+    },
+    "explanation": {
+      "bs": "Prva hidžra u Abesiniju dogodila se u petoj godini poslanstva (oko 615. godine). Muslimani su bježali od progona Kurejšija. Abesiniju su odabrali jer je njom vladao pravedni kršćanski kralj - Negus (En-Nedžaši).",
+      "de": "Die erste Auswanderung nach Abessinien fand im fünften Jahr des Prophetentums statt (um 615). Die Muslime flohen vor der Verfolgung durch die Quraisch. Sie wählten Abessinien, weil dort ein gerechter christlicher König herrschte - der Negus (An-Nadschaschi)."
+    }
+  },
+  {
+    "quiz_id": 5,
+    "question_id": 38,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Prva hidžra u Abesiniju",
+    "question": {
+      "bs": "Sura El-Kehf je objavljena kao smjernica muslimanima prije prve hidžre u Abesiniju.",
+      "de": "Die Sure Al-Kahf wurde als Richtlinie für die Muslime vor der ersten Auswanderung nach Abessinien offenbart."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Sura El-Kehf sadržavala je kazivanje o mladićima iz pećine koji su pobjegli od nevjernika, što je upućivalo muslimane na hidžru. Allah kaže: 'Sklonite se u pećinu, Gospodar vaš će vas milošću Svojom obasuti.' (18:16)",
+      "de": "Richtig! Die Sure Al-Kahf enthielt die Geschichte der Jünglinge in der Höhle, die vor den Ungläubigen flohen, was die Muslime zur Auswanderung anleitete. Allah sagt: 'Zieht euch in die Höhle zurück, euer Herr wird euch Seine Barmherzigkeit zuteil werden lassen.' (18:16)"
+    }
+  },
+  {
+    "quiz_id": 5,
+    "question_id": 39,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Prva hidžra u Abesiniju",
+    "question": {
+      "bs": "Zašto su muslimani odabrali Abesiniju za hidžru?",
+      "de": "Warum wählten die Muslime Abessinien für ihre Auswanderung?"
+    },
+    "options": {
+      "bs": [
+        "Jer je bila najbliža zemlja",
+        "Jer je bila najrazvijenija zemlja",
+        "Jer je njom vladao pravedni kralj koji nije nikome činio nepravdu",
+        "Jer su tamo već živjeli muslimani"
+      ],
+      "de": [
+        "Weil es das nächstgelegene Land war",
+        "Weil es das am weitesten entwickelte Land war",
+        "Weil dort ein gerechter König herrschte, der niemandem Unrecht tat",
+        "Weil dort bereits Muslime lebten"
+      ]
+    },
+    "correct": {
+      "bs": "Jer je njom vladao pravedni kralj koji nije nikome činio nepravdu",
+      "de": "Weil dort ein gerechter König herrschte, der niemandem Unrecht tat"
+    },
+    "explanation": {
+      "bs": "Poslanik ﷺ je rekao ashabima da odu u Abesiniju jer 'u njoj vlada kralj koji nikome ne čini nepravdu'. Negus (En-Nedžaši) je bio poznat po pravednosti i kasnije je tajno primio islam.",
+      "de": "Der Prophet ﷺ sagte den Gefährten, sie sollten nach Abessinien gehen, denn 'dort herrscht ein König, der niemandem Unrecht tut'. Der Negus (An-Nadschaschi) war für seine Gerechtigkeit bekannt und nahm später heimlich den Islam an."
+    }
+  },
+  {
+    "quiz_id": 5,
+    "question_id": 40,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Delegacije kod Ebu Taliba",
+    "question": {
+      "bs": "Šta su Kurejšije ponudile Ebu Talibu u zamjenu za Poslanika ﷺ?",
+      "de": "Was boten die Quraisch Abu Talib im Tausch für den Propheten ﷺ an?"
+    },
+    "options": {
+      "bs": [
+        "Veliko bogatstvo i zlato",
+        "Mladića Imaru bin Velida da ga usvoji",
+        "Vođstvo nad Mekkom",
+        "Kontrolu nad Kabom"
+      ],
+      "de": [
+        "Grossen Reichtum und Gold",
+        "Den Jüngling Imara ibn al-Walid zur Adoption",
+        "Die Führung über Mekka",
+        "Die Kontrolle über die Kaaba"
+      ]
+    },
+    "correct": {
+      "bs": "Mladića Imaru bin Velida da ga usvoji",
+      "de": "Den Jüngling Imara ibn al-Walid zur Adoption"
+    },
+    "explanation": {
+      "bs": "Kurejšije su ponudili Ebu Talibu Imaru bin Velida bin el-Mugiru, govoreći: 'Ovaj mladić je najnapredniji i najljepši Kurejšijski mladić, uzmi ga i koristi, neka bude kao tvoj sin, a predaj nam svoga bratića da ga ubijemo.' Ebu Talib je to odlučno odbio.",
+      "de": "Die Quraisch boten Abu Talib Imara ibn al-Walid ibn al-Mughira an und sagten: 'Dieser Jüngling ist der fortschrittlichste und schönste Quraisch-Jüngling, nimm ihn und nutze ihn, er soll wie dein Sohn sein, und übergib uns deinen Neffen, damit wir ihn töten.' Abu Talib lehnte entschieden ab."
+    }
+  },
+  {
+    "quiz_id": 5,
+    "question_id": 41,
+    "type": "true_false",
+    "difficulty": "hard",
+    "source_section": "Poslanikov ﷺ odgovor Ebu Talibu",
+    "question": {
+      "bs": "Poslanik ﷺ je rekao Ebu Talibu: 'Tako mi Allaha, kad bi mi darovali sunce u desnu ruku, a mjesec u lijevu, ne odustajem od ovoga dok Allah ne učini da islam pobijedi.'",
+      "de": "Der Prophet ﷺ sagte zu Abu Talib: 'Bei Allah, wenn sie mir die Sonne in die rechte Hand und den Mond in die linke gäben, würde ich nicht aufgeben, bis Allah den Islam siegen lässt.'"
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Ovo je jedan od najpoznatijih citata Poslanika ﷺ. Kada je pomislio da ga Ebu Talib napušta, izrekao je ove riječi pokazujući svoju nepokolebljivu odlučnost. Ebu Talib ga je potom uvjerio da ga nikada neće napustiti.",
+      "de": "Richtig! Dies ist eines der berühmtesten Zitate des Propheten ﷺ. Als er dachte, Abu Talib würde ihn verlassen, sprach er diese Worte und zeigte seine unerschütterliche Entschlossenheit. Abu Talib versicherte ihm daraufhin, dass er ihn niemals verlassen würde."
+    }
+  },
+  {
+    "quiz_id": 5,
+    "question_id": 42,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Islam Hamze r.a.",
+    "question": {
+      "bs": "U kojem mjesecu i kojoj godini poslanstva je Hamza r.a. primio islam?",
+      "de": "In welchem Monat und Jahr des Prophetentums nahm Hamza r.a. den Islam an?"
+    },
+    "options": {
+      "bs": [
+        "Redžeb, četvrta godina",
+        "Ramazan, peta godina",
+        "Zul-hidždže, šesta godina",
+        "Muharrem, sedma godina"
+      ],
+      "de": [
+        "Radschab, viertes Jahr",
+        "Ramadan, fünftes Jahr",
+        "Dhul-Hiddscha, sechstes Jahr",
+        "Muharram, siebtes Jahr"
+      ]
+    },
+    "correct": {
+      "bs": "Zul-hidždže, šesta godina",
+      "de": "Dhul-Hiddscha, sechstes Jahr"
+    },
+    "explanation": {
+      "bs": "Hamza bin Abdul-Muttalib r.a. je primio islam krajem šeste godine poslanstva, u mjesecu zul-hidždže. Bio je jedan od najhrabrijih Kurejšija i njegov islam je značajno ojačao položaj muslimana.",
+      "de": "Hamza ibn Abd al-Muttalib r.a. nahm den Islam Ende des sechsten Jahres des Prophetentums im Monat Dhul-Hiddscha an. Er war einer der tapfersten Quraisch und sein Islam stärkte die Position der Muslime erheblich."
+    }
+  },
+  {
+    "quiz_id": 5,
+    "question_id": 43,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Islam Hamze r.a.",
+    "question": {
+      "bs": "Šta je bio direktni povod za Hamzin r.a. prelazak na islam?",
+      "de": "Was war der direkte Anlass für Hamzas r.a. Übertritt zum Islam?"
+    },
+    "options": {
+      "bs": [
+        "Poslanik ﷺ ga je pozvao u islam",
+        "Ebu Džehl je napao Poslanika ﷺ i udario ga kamenom u glavu",
+        "Vidio je čudo od Poslanika ﷺ",
+        "Čuo je Kur'an i bio dirnut"
+      ],
+      "de": [
+        "Der Prophet ﷺ lud ihn zum Islam ein",
+        "Abu Dschahl griff den Propheten ﷺ an und schlug ihm einen Stein an den Kopf",
+        "Er sah ein Wunder des Propheten ﷺ",
+        "Er hörte den Koran und war berührt"
+      ]
+    },
+    "correct": {
+      "bs": "Ebu Džehl je napao Poslanika ﷺ i udario ga kamenom u glavu",
+      "de": "Abu Dschahl griff den Propheten ﷺ an und schlug ihm einen Stein an den Kopf"
+    },
+    "explanation": {
+      "bs": "Hamza r.a. se vraćao s lova kada mu je robinja ispričala da je Ebu Džehl napao Poslanika ﷺ na Saffi i udario ga kamenom u glavu. Hamza se razljutio, otrčao do Ebu Džehla i udario ga lukom, rekavši: 'Ti vrijeđaš moga bratića, a ja sam vjere kao i on.'",
+      "de": "Hamza r.a. kehrte von der Jagd zurück, als ihm eine Sklavin erzählte, dass Abu Dschahl den Propheten ﷺ auf Safa angegriffen und ihm einen Stein an den Kopf geworfen hatte. Hamza wurde wütend, rannte zu Abu Dschahl und schlug ihn mit seinem Bogen und sagte: 'Du beleidigst meinen Neffen, und ich bin von seiner Religion.'"
+    }
+  },
+  {
+    "quiz_id": 5,
+    "question_id": 44,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Islam Hamze r.a.",
+    "question": {
+      "bs": "Hamza r.a. je u prvom trenutku primio islam iz inada prema Ebu Džehlu, a Allah mu je zatim prosvijetlio srce.",
+      "de": "Hamza r.a. nahm zunächst aus Trotz gegenüber Abu Dschahl den Islam an, und Allah erleuchtete dann sein Herz."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Hamzin islam je u prvom trenutku bio reakcija na nepravdu učinjenu njegovom bratiću. Bio je čovjek koji nije mogao trpjeti nepravdu. Međutim, Allah mu je zatim prosvijetlio dušu i razum, pa se čvrsto prihvatio vjere.",
+      "de": "Richtig! Hamzas Islam war zunächst eine Reaktion auf das Unrecht, das seinem Neffen angetan wurde. Er war ein Mann, der Ungerechtigkeit nicht ertragen konnte. Allah erleuchtete dann jedoch seine Seele und seinen Verstand, so dass er den Glauben fest annahm."
+    }
+  },
+  {
+    "quiz_id": 5,
+    "question_id": 45,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "source_section": "Islam Omera r.a.",
+    "question": {
+      "bs": "Koliko dana nakon Hamze je Omer r.a. primio islam?",
+      "de": "Wie viele Tage nach Hamza nahm Umar r.a. den Islam an?"
+    },
+    "options": {
+      "bs": [
+        "Sedam dana",
+        "Tri dana",
+        "Trideset dana",
+        "Istog dana"
+      ],
+      "de": [
+        "Sieben Tage",
+        "Drei Tage",
+        "Dreissig Tage",
+        "Am selben Tag"
+      ]
+    },
+    "correct": {
+      "bs": "Tri dana",
+      "de": "Drei Tage"
+    },
+    "explanation": {
+      "bs": "Omer bin el-Hattab r.a. je primio islam u zul-hidždžetu šeste godine poslanstva, samo tri dana nakon Hamzinog r.a. islama. Oba ova islama su značajno ojačala položaj muslimana u Meki.",
+      "de": "Umar ibn al-Khattab r.a. nahm den Islam im Dhul-Hiddscha des sechsten Jahres des Prophetentums an, nur drei Tage nach Hamzas r.a. Islam. Beide Übertritte stärkten die Position der Muslime in Mekka erheblich."
+    }
+  },
+  {
+    "quiz_id": 5,
+    "question_id": 46,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Dova Poslanika ﷺ za Omera",
+    "question": {
+      "bs": "Poslanik ﷺ je molio Allaha da pomogne islam s jednim od dvojice. Ko su bila ta dvojica?",
+      "de": "Der Prophet ﷺ betete zu Allah, den Islam mit einem von zweien zu stärken. Wer waren diese beiden?"
+    },
+    "options": {
+      "bs": [
+        "Hamza ili Ebu Sufjan",
+        "Omer ili Halid bin Velid",
+        "Ebu Talib ili Abbas",
+        "Omer bin Hattab ili Ebu Džehl"
+      ],
+      "de": [
+        "Hamza oder Abu Sufyan",
+        "Umar oder Khalid ibn al-Walid",
+        "Abu Talib oder Abbas",
+        "Umar ibn al-Khattab oder Abu Dschahl"
+      ]
+    },
+    "correct": {
+      "bs": "Omer bin Hattab ili Ebu Džehl",
+      "de": "Umar ibn al-Khattab oder Abu Dschahl"
+    },
+    "explanation": {
+      "bs": "Poslanik ﷺ je molio: 'Moj Allahu, pomozi islam s jednim od dvojice koji ti je draži: Omer bin Hattabom ili Ebu Džehlom bin Hišamom.' Allahu je bio draži Omer r.a., koji je postao jedan od najvećih halifa.",
+      "de": "Der Prophet ﷺ betete: 'Mein Allah, stärke den Islam mit einem von beiden, der Dir lieber ist: Umar ibn al-Khattab oder Abu Dschahl ibn Hischam.' Allah war Umar r.a. lieber, der einer der grössten Kalifen wurde."
+    }
+  },
+  {
+    "quiz_id": 5,
+    "question_id": 47,
+    "type": "ordering",
+    "difficulty": "hard",
+    "source_section": "Islam Omera r.a.",
+    "question": {
+      "bs": "Poredaj događaje koji su doveli do Omerovog r.a. prelaska na islam:",
+      "de": "Ordne die Ereignisse, die zu Umars r.a. Übertritt zum Islam führten:"
+    },
+    "options": {
+      "bs": [
+        "Saznaje da su mu sestra i zet muslimani",
+        "Odlazi Poslaniku ﷺ i izgovara šehadet",
+        "Omer kreće da ubije Poslanika ﷺ",
+        "Čita suru Ta-Ha i srce mu omekša"
+      ],
+      "de": [
+        "Er erfährt, dass seine Schwester und sein Schwager Muslime sind",
+        "Er geht zum Propheten ﷺ und spricht das Glaubensbekenntnis",
+        "Umar macht sich auf, den Propheten ﷺ zu töten",
+        "Er liest die Sure Ta-Ha und sein Herz wird weich"
+      ]
+    },
+    "correct": {
+      "bs": [
+        "Omer kreće da ubije Poslanika ﷺ",
+        "Saznaje da su mu sestra i zet muslimani",
+        "Čita suru Ta-Ha i srce mu omekša",
+        "Odlazi Poslaniku ﷺ i izgovara šehadet"
+      ],
+      "de": [
+        "Umar macht sich auf, den Propheten ﷺ zu töten",
+        "Er erfährt, dass seine Schwester und sein Schwager Muslime sind",
+        "Er liest die Sure Ta-Ha und sein Herz wird weich",
+        "Er geht zum Propheten ﷺ und spricht das Glaubensbekenntnis"
+      ]
+    },
+    "explanation": {
+      "bs": "Omer r.a. je krenuo ubiti Poslanika ﷺ, ali ga je neko obavijestio da su mu sestra Fatima i zet Said primili islam. Otišao je kod njih i čuo ih kako uče Kur'an. Nakon sukoba, pročitao je suru Ta-Ha i srce mu je omekšalo. Zatim je otišao Poslaniku ﷺ i primio islam.",
+      "de": "Umar r.a. machte sich auf, den Propheten ﷺ zu töten, aber jemand informierte ihn, dass seine Schwester Fatima und sein Schwager Said den Islam angenommen hatten. Er ging zu ihnen und hörte sie den Koran rezitieren. Nach einem Konflikt las er die Sure Ta-Ha und sein Herz wurde weich. Dann ging er zum Propheten ﷺ und nahm den Islam an."
+    }
+  },
+  {
+    "quiz_id": 5,
+    "question_id": 48,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Islam Omera r.a.",
+    "question": {
+      "bs": "Koju suru je Omer r.a. čitao kod svoje sestre prije nego je primio islam?",
+      "de": "Welche Sure las Umar r.a. bei seiner Schwester, bevor er den Islam annahm?"
+    },
+    "options": {
+      "bs": [
+        "Ja-Sin",
+        "Er-Rahman",
+        "Ta-Ha",
+        "El-Fatiha"
+      ],
+      "de": [
+        "Ya-Sin",
+        "Ar-Rahman",
+        "Ta-Ha",
+        "Al-Fatiha"
+      ]
+    },
+    "correct": {
+      "bs": "Ta-Ha",
+      "de": "Ta-Ha"
+    },
+    "explanation": {
+      "bs": "Omer r.a. je zatekao sestru i zeta dok su učili suru Ta-Ha sa Habbabom bin Eretom. Kada je pročitao ajet: 'Ja sam, uistinu, Allah, drugog Boga osim Mene nema' (20:14), rekao je: 'Divnog li govora!' i odlučio primiti islam.",
+      "de": "Umar r.a. traf seine Schwester und seinen Schwager an, während sie mit Khabbab ibn al-Aratt die Sure Ta-Ha rezitierten. Als er den Vers las: 'Ich bin wahrlich Allah, es gibt keinen Gott ausser Mir' (20:14), sagte er: 'Was für wunderbare Worte!' und entschied sich, den Islam anzunehmen."
+    }
+  },
+  {
+    "quiz_id": 5,
+    "question_id": 49,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Islam Omera r.a.",
+    "question": {
+      "bs": "Poslanik ﷺ je dao Omeru r.a. nadimak 'El-Faruk' (Onaj koji razdvaja istinu od neistine) na dan kada je primio islam.",
+      "de": "Der Prophet ﷺ gab Umar r.a. den Beinamen 'Al-Faruq' (Der die Wahrheit von der Falschheit unterscheidet) am Tag, als er den Islam annahm."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Kada je Omer r.a. primio islam, muslimani su izašli u dva reda - Hamza u prvom, Omer u drugom - i javno ušli u džamiju. Poslanik ﷺ mu je tada dao nadimak 'El-Faruk' jer je njegov islam označio razdvajanje javnog i tajnog perioda.",
+      "de": "Richtig! Als Umar r.a. den Islam annahm, zogen die Muslime in zwei Reihen aus - Hamza in der ersten, Umar in der zweiten - und betraten öffentlich die Moschee. Der Prophet ﷺ gab ihm dann den Beinamen 'Al-Faruq', weil sein Islam die Trennung zwischen der geheimen und öffentlichen Phase markierte."
+    }
+  },
+  {
+    "quiz_id": 5,
+    "question_id": 50,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Značaj Omerovog islama",
+    "question": {
+      "bs": "Šta je Abdullah bin Mesud r.a. rekao o značaju Omerovog r.a. prelaska na islam?",
+      "de": "Was sagte Abdullah ibn Mas'ud r.a. über die Bedeutung von Umars r.a. Übertritt zum Islam?"
+    },
+    "options": {
+      "bs": [
+        "'Bez Omera ne bi bilo hidžre'",
+        "'Islam je potpun tek Omerovim dolaskom'",
+        "'Omer je spasio muslimane od uništenja'",
+        "'Nismo mogli mirno klanjati kod Kabe dok Omer nije primio islam'"
+      ],
+      "de": [
+        "'Ohne Umar hätte es keine Hidschra gegeben'",
+        "'Der Islam ist erst mit Umars Ankunft vollständig'",
+        "'Umar rettete die Muslime vor der Vernichtung'",
+        "'Wir konnten nicht in Ruhe bei der Kaaba beten, bis Umar den Islam annahm'"
+      ]
+    },
+    "correct": {
+      "bs": "'Nismo mogli mirno klanjati kod Kabe dok Omer nije primio islam'",
+      "de": "'Wir konnten nicht in Ruhe bei der Kaaba beten, bis Umar den Islam annahm'"
+    },
+    "explanation": {
+      "bs": "Abdullah bin Mesud r.a. je rekao: 'Nismo mogli mirno klanjati kod Kabe, sve dok Omer nije primio islam.' Omerov islam je donio snagu i hrabrost muslimanima da javno ispovijedaju svoju vjeru.",
+      "de": "Abdullah ibn Mas'ud r.a. sagte: 'Wir konnten nicht in Ruhe bei der Kaaba beten, bis Umar den Islam annahm.' Umars Islam brachte den Muslimen die Stärke und den Mut, ihren Glauben öffentlich zu bekennen."
+    }
+  },
+  {
+    "quiz_id": 5,
+    "question_id": 51,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "source_section": "Bojkot u Ši'bu Ebi Talib",
+    "question": {
+      "bs": "Koliko je trajao bojkot muslimana u tjesnacu Ebu Taliba (Ši'b Ebi Talib)?",
+      "de": "Wie lange dauerte der Boykott der Muslime in der Schlucht von Abu Talib (Schi'b Abi Talib)?"
+    },
+    "options": {
+      "bs": [
+        "Pet godina",
+        "Tri godine",
+        "Jedna godina",
+        "Dvije godine"
+      ],
+      "de": [
+        "Fünf Jahre",
+        "Drei Jahre",
+        "Ein Jahr",
+        "Zwei Jahre"
+      ]
+    },
+    "correct": {
+      "bs": "Tri godine",
+      "de": "Drei Jahre"
+    },
+    "explanation": {
+      "bs": "Bojkot muslimana u Ši'bu Ebi Talib trajao je tri godine, od prvog muharrema sedme godine poslanstva do muharrema desete godine. Muslimani su bili izolirani bez prava na trgovinu, ženidbu ili bilo kakav kontakt s Kurejšijama.",
+      "de": "Der Boykott der Muslime in Schi'b Abi Talib dauerte drei Jahre, vom ersten Muharram des siebten Jahres des Prophetentums bis zum Muharram des zehnten Jahres. Die Muslime waren isoliert ohne Recht auf Handel, Heirat oder jeglichen Kontakt mit den Quraisch."
+    }
+  },
+  {
+    "quiz_id": 5,
+    "question_id": 52,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Bojkot u Ši'bu Ebi Talib",
+    "question": {
+      "bs": "U kojoj godini poslanstva je počeo bojkot muslimana?",
+      "de": "In welchem Jahr des Prophetentums begann der Boykott der Muslime?"
+    },
+    "options": {
+      "bs": [
+        "Deveta godina",
+        "Peta godina",
+        "Sedma godina",
+        "Treća godina"
+      ],
+      "de": [
+        "Neuntes Jahr",
+        "Fünftes Jahr",
+        "Siebtes Jahr",
+        "Drittes Jahr"
+      ]
+    },
+    "correct": {
+      "bs": "Sedma godina",
+      "de": "Siebtes Jahr"
+    },
+    "explanation": {
+      "bs": "Bojkot je počeo prvog muharrema sedme godine poslanstva. Kurejšije su napisale ugovor o bojkotu i objesile ga u Kabi, a porodice Benu Hašim i Benu Muttalib su poslane u izolaciju u tjesnac Ebu Taliba.",
+      "de": "Der Boykott begann am ersten Muharram des siebten Jahres des Prophetentums. Die Quraisch verfassten einen Boykottvertrag und hängten ihn in der Kaaba auf, und die Familien Banu Haschim und Banu Muttalib wurden in die Schlucht von Abu Talib in die Isolation geschickt."
+    }
+  },
+  {
+    "quiz_id": 5,
+    "question_id": 53,
+    "type": "multiple_choice",
+    "difficulty": "hard",
+    "source_section": "Sadržaj ugovora o bojkotu",
+    "question": {
+      "bs": "Šta je sve sadržavao ugovor o bojkotu muslimana? (Odaberi sve tačne)",
+      "de": "Was enthielt der Boykottvertrag gegen die Muslime? (Wähle alle richtigen)"
+    },
+    "options": {
+      "bs": [
+        "Zabrana ženidbe",
+        "Zabrana trgovine",
+        "Zabrana posjećivanja",
+        "Zabrana putovanja izvan Mekke"
+      ],
+      "de": [
+        "Heiratsverbot",
+        "Handelsverbot",
+        "Besuchsverbot",
+        "Verbot des Reisens ausserhalb Mekkas"
+      ]
+    },
+    "correct": {
+      "bs": [
+        "Zabrana trgovine",
+        "Zabrana ženidbe",
+        "Zabrana posjećivanja"
+      ],
+      "de": [
+        "Handelsverbot",
+        "Heiratsverbot",
+        "Besuchsverbot"
+      ]
+    },
+    "explanation": {
+      "bs": "Ugovor je sadržavao zabranu ženidbe, trgovine, druženja, sjedenja zajedno, posjećivanja i razgovora s pripadnicima Benu Hašima i Benu Muttaliba, sve dok im ne predaju Muhammeda ﷺ da ga ubiju.",
+      "de": "Der Vertrag enthielt ein Verbot der Heirat, des Handels, der Geselligkeit, des Zusammensitzens, der Besuche und der Gespräche mit Angehörigen der Banu Haschim und Banu Muttalib, bis sie Muhammad ﷺ auslieferten, damit sie ihn töten konnten."
+    }
+  },
+  {
+    "quiz_id": 5,
+    "question_id": 54,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Bojkot u Ši'bu Ebi Talib",
+    "question": {
+      "bs": "Ebu Leheb je bio jedini član porodice Benu Hašim koji nije otišao u izolaciju, već je ostao na strani Kurejšija.",
+      "de": "Abu Lahab war das einzige Mitglied der Familie Banu Haschim, das nicht in die Isolation ging, sondern auf der Seite der Quraisch blieb."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Ebu Leheb se pridružio Kurejšijama protiv svog vlastitog naroda. On je bio jedini iz porodice Benu Hašim koji nije otišao u Ši'b Ebi Talib, pokazujući time svoje neprijateljstvo prema Poslaniku ﷺ.",
+      "de": "Richtig! Abu Lahab schloss sich den Quraisch gegen sein eigenes Volk an. Er war der einzige aus der Familie Banu Haschim, der nicht nach Schi'b Abi Talib ging, und zeigte damit seine Feindschaft gegenüber dem Propheten ﷺ."
+    }
+  },
+  {
+    "quiz_id": 5,
+    "question_id": 55,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Pisanje ugovora o bojkotu",
+    "question": {
+      "bs": "Ko je napisao ugovor o bojkotu muslimana i šta mu se dogodilo?",
+      "de": "Wer schrieb den Boykottvertrag gegen die Muslime und was geschah mit ihm?"
+    },
+    "options": {
+      "bs": [
+        "En-Nadar bin Haris - izgubio je glas",
+        "Umejje bin Halef - oboljeo je od kuge",
+        "Ebu Džehl - oslijepio je",
+        "Bagid bin Amir bin Hašim - oduzeta mu je ruka"
+      ],
+      "de": [
+        "An-Nadr ibn al-Harith - er verlor seine Stimme",
+        "Umayya ibn Khalaf - er erkrankte an der Pest",
+        "Abu Dschahl - er erblindete",
+        "Baghid ibn Amir ibn Haschim - seine Hand wurde gelähmt"
+      ]
+    },
+    "correct": {
+      "bs": "Bagid bin Amir bin Hašim - oduzeta mu je ruka",
+      "de": "Baghid ibn Amir ibn Haschim - seine Hand wurde gelähmt"
+    },
+    "explanation": {
+      "bs": "Bagid bin Amir bin Hašim je napisao nepravedni ugovor. Poslanik ﷺ je zamolio Allaha da ga kazni, pa mu je oduzeta ruka - ostala je mrtva i paralirana. Ovo je bio znak Allahove kazne za pisanje takvog ugovora.",
+      "de": "Baghid ibn Amir ibn Haschim schrieb den ungerechten Vertrag. Der Prophet ﷺ bat Allah, ihn zu bestrafen, und seine Hand wurde gelähmt - sie blieb tot und gelähmt. Dies war ein Zeichen von Allahs Strafe für das Schreiben eines solchen Vertrags."
+    }
+  },
+  {
+    "quiz_id": 5,
+    "question_id": 56,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Teško stanje u izolaciji",
+    "question": {
+      "bs": "Šta su muslimani jeli tokom bojkota kada im je nestalo hrane?",
+      "de": "Was assen die Muslime während des Boykotts, als ihnen das Essen ausging?"
+    },
+    "options": {
+      "bs": [
+        "Meso divljači",
+        "Samo hljeb i vodu",
+        "Ribu iz mora",
+        "Lišće i kožu"
+      ],
+      "de": [
+        "Wildfleisch",
+        "Nur Brot und Wasser",
+        "Fisch aus dem Meer",
+        "Blätter und Leder"
+      ]
+    },
+    "correct": {
+      "bs": "Lišće i kožu",
+      "de": "Blätter und Leder"
+    },
+    "explanation": {
+      "bs": "Tokom bojkota muslimani su bili u teškoj situaciji. Nisu imali hrane, pa su počeli jesti lišće i kožu. Izvan zidina logora čuli su se jauci djece, žena i iznemoglih od gladi.",
+      "de": "Während des Boykotts waren die Muslime in einer schweren Lage. Sie hatten kein Essen und begannen, Blätter und Leder zu essen. Ausserhalb der Lagermauern hörte man die Schreie von Kindern, Frauen und Geschwächten vor Hunger."
+    }
+  },
+  {
+    "quiz_id": 5,
+    "question_id": 57,
+    "type": "true_false",
+    "difficulty": "hard",
+    "source_section": "Tajno dostavljanje hrane",
+    "question": {
+      "bs": "Hakem bin Hizam je tajno dostavljao hranu svojoj amidžinici Hatidži r.a. tokom bojkota.",
+      "de": "Hakim ibn Hizam lieferte seiner Tante Chadidscha r.a. während des Boykotts heimlich Essen."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Hakem bin Hizam je tajno dostavljao pšenicu svojoj amidžinici Hatidži r.a. Jednom ga je uhvatio Ebu Džehl i htio ga objesiti zbog toga, ali ih je rastavio Ebu el-Buhturi i omogućio mu da pšenicu odnese.",
+      "de": "Richtig! Hakim ibn Hizam lieferte seiner Tante Chadidscha r.a. heimlich Weizen. Einmal erwischte ihn Abu Dschahl und wollte ihn deswegen aufhängen, aber Abu al-Bukhturi trennte sie und ermöglichte ihm, den Weizen zu bringen."
+    }
+  },
+  {
+    "quiz_id": 5,
+    "question_id": 58,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Raskidanje ugovora o bojkotu",
+    "question": {
+      "bs": "Ko je bio inicijator prekida zavjere i raskidanja ugovora o bojkotu?",
+      "de": "Wer war der Initiator des Bruchs der Verschwörung und der Auflösung des Boykottvertrags?"
+    },
+    "options": {
+      "bs": [
+        "Ebu Talib",
+        "Hišam bin Amr",
+        "Zubejr bin el-Avvam",
+        "Mut'am bin Adijj"
+      ],
+      "de": [
+        "Abu Talib",
+        "Hischam ibn Amr",
+        "Zubair ibn al-Awwam",
+        "Mut'am ibn Adi"
+      ]
+    },
+    "correct": {
+      "bs": "Hišam bin Amr",
+      "de": "Hischam ibn Amr"
+    },
+    "explanation": {
+      "bs": "Hišam bin Amr iz porodice Benu Amir bin Lu' je bio inicijator prekida bojkota. On je noću kriomice nosio hranu u logor, a zatim je okupio petoricu uglednika koji su se pobunili protiv nepravednog ugovora.",
+      "de": "Hischam ibn Amr aus der Familie Banu Amir ibn Lu' war der Initiator des Boykottbruchs. Er brachte nachts heimlich Essen ins Lager und versammelte dann fünf Würdenträger, die sich gegen den ungerechten Vertrag auflehnten."
+    }
+  },
+  {
+    "quiz_id": 5,
+    "question_id": 59,
+    "type": "ordering",
+    "difficulty": "hard",
+    "source_section": "Raskidanje ugovora",
+    "question": {
+      "bs": "Poredaj događaje vezane za raskidanje ugovora o bojkotu:",
+      "de": "Ordne die Ereignisse im Zusammenhang mit der Auflösung des Boykottvertrags:"
+    },
+    "options": {
+      "bs": [
+        "Ebu Talib saopćava vijest o crvima",
+        "Mut'am pronalazi pojeden ugovor",
+        "Zuhejr javno traži raskid ugovora",
+        "Hišam bin Amr okuplja petoricu uglednika"
+      ],
+      "de": [
+        "Abu Talib verkündet die Nachricht über die Würmer",
+        "Mut'am findet den zerfressenen Vertrag",
+        "Zuhair fordert öffentlich die Auflösung des Vertrags",
+        "Hischam ibn Amr versammelt fünf Würdenträger"
+      ]
+    },
+    "correct": {
+      "bs": [
+        "Hišam bin Amr okuplja petoricu uglednika",
+        "Zuhejr javno traži raskid ugovora",
+        "Ebu Talib saopćava vijest o crvima",
+        "Mut'am pronalazi pojeden ugovor"
+      ],
+      "de": [
+        "Hischam ibn Amr versammelt fünf Würdenträger",
+        "Zuhair fordert öffentlich die Auflösung des Vertrags",
+        "Abu Talib verkündet die Nachricht über die Würmer",
+        "Mut'am findet den zerfressenen Vertrag"
+      ]
+    },
+    "explanation": {
+      "bs": "Hišam je okupio petoricu (Zuhejra, Mut'ama, Ebu el-Buhturija i Zem'ata). Zuhejr je javno zatražio raskid. Ebu Talib je prenio Poslanikovu ﷺ vijest da je crv pojeo ugovor. Mut'am je otišao i pronašao da je crv zaista pojeo sve osim Allahovog imena.",
+      "de": "Hischam versammelte fünf (Zuhair, Mut'am, Abu al-Bukhturi und Zam'a). Zuhair forderte öffentlich die Auflösung. Abu Talib überbrachte die Nachricht des Propheten ﷺ, dass ein Wurm den Vertrag gefressen hatte. Mut'am ging und fand heraus, dass der Wurm tatsächlich alles ausser Allahs Namen gefressen hatte."
+    }
+  },
+  {
+    "quiz_id": 5,
+    "question_id": 60,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Čudo s ugovorom",
+    "question": {
+      "bs": "Allah je poslao crva koji je pojeo ugovor o bojkotu, ali je ostavio netaknutim spomen Allahovog imena.",
+      "de": "Allah sandte einen Wurm, der den Boykottvertrag frass, aber die Erwähnung von Allahs Namen unberührt liess."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Poslanik ﷺ je obavijestio Ebu Taliba da mu je Allah javio da je crv pojeo ugovor, ostavivši samo riječi 'U ime Tebe, o moj Allahu' i spomen Allahovog imena u tekstu. Kada su provjerili, bilo je tačno kako je Poslanik ﷺ rekao.",
+      "de": "Richtig! Der Prophet ﷺ informierte Abu Talib, dass Allah ihm mitgeteilt hatte, dass ein Wurm den Vertrag gefressen hatte und nur die Worte 'In Deinem Namen, o mein Allah' und die Erwähnung von Allahs Namen im Text übrig liess. Als sie nachprüften, war es genau so, wie der Prophet ﷺ gesagt hatte."
+    }
+  },
+  {
+    "quiz_id": 5,
+    "question_id": 61,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "source_section": "Godina tuge",
+    "question": {
+      "bs": "Koja godina poslanstva se naziva 'Godina tuge' (Amul-huzn)?",
+      "de": "Welches Jahr des Prophetentums wird als 'Jahr der Trauer' (Amul-huzn) bezeichnet?"
+    },
+    "options": {
+      "bs": [
+        "Deseta godina",
+        "Sedma godina",
+        "Peta godina",
+        "Trinaesta godina"
+      ],
+      "de": [
+        "Zehntes Jahr",
+        "Siebtes Jahr",
+        "Fünftes Jahr",
+        "Dreizehntes Jahr"
+      ]
+    },
+    "correct": {
+      "bs": "Deseta godina",
+      "de": "Zehntes Jahr"
+    },
+    "explanation": {
+      "bs": "Deseta godina poslanstva nazvana je 'Godina tuge' jer su u njoj umrli Ebu Talib i Hatidža r.a. - dva najveća oslonca Poslanika ﷺ. Ebu Talib ga je štitio izvana, a Hatidža r.a. ga je podržavala iznutra.",
+      "de": "Das zehnte Jahr des Prophetentums wurde 'Jahr der Trauer' genannt, weil in ihm Abu Talib und Chadidscha r.a. starben - die zwei grössten Stützen des Propheten ﷺ. Abu Talib beschützte ihn von aussen, und Chadidscha r.a. unterstützte ihn von innen."
+    }
+  },
+  {
+    "quiz_id": 5,
+    "question_id": 62,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Smrt Ebu Taliba",
+    "question": {
+      "bs": "U kojem mjesecu desete godine poslanstva je umro Ebu Talib?",
+      "de": "In welchem Monat des zehnten Jahres des Prophetentums starb Abu Talib?"
+    },
+    "options": {
+      "bs": [
+        "Ševal",
+        "Muharrem",
+        "Ramazan",
+        "Redžeb"
+      ],
+      "de": [
+        "Schawwal",
+        "Muharram",
+        "Ramadan",
+        "Radschab"
+      ]
+    },
+    "correct": {
+      "bs": "Redžeb",
+      "de": "Radschab"
+    },
+    "explanation": {
+      "bs": "Ebu Talib je umro u mjesecu redžebu desete godine poslanstva. Neka predanja navode da je umro uz ramazan, samo tri dana prije smrti Hatidže r.a. U svakom slučaju, oboje su umrli u istoj godini.",
+      "de": "Abu Talib starb im Monat Radschab des zehnten Jahres des Prophetentums. Einige Überlieferungen besagen, dass er im Ramadan starb, nur drei Tage vor dem Tod von Chadidscha r.a. In jedem Fall starben beide im selben Jahr."
+    }
+  },
+  {
+    "quiz_id": 5,
+    "question_id": 63,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Smrt Ebu Taliba",
+    "question": {
+      "bs": "Poslanik ﷺ je pokušao pozvati Ebu Taliba u islam na smrtnoj postelji, ali Ebu Džehl i Abdullah bin Ebi Umejje su ga odvratili.",
+      "de": "Der Prophet ﷺ versuchte, Abu Talib auf seinem Sterbebett zum Islam einzuladen, aber Abu Dschahl und Abdullah ibn Abi Umayya hielten ihn davon ab."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Poslanik ﷺ je rekao: 'O amidža, reci: Nema drugog boga osim Allaha.' Ebu Džehl i Abdullah bin Ebi Umejje su govorili: 'Zar ćeš izaći iz milleta Abdul-Muttalibovog?' Ebu Talib je umro govoreći da je u vjeri Abdul-Muttaliba.",
+      "de": "Richtig! Der Prophet ﷺ sagte: 'O Onkel, sag: Es gibt keinen Gott ausser Allah.' Abu Dschahl und Abdullah ibn Abi Umayya sagten: 'Willst du den Glauben von Abd al-Muttalib verlassen?' Abu Talib starb mit den Worten, er sei im Glauben von Abd al-Muttalib."
+    }
+  },
+  {
+    "quiz_id": 5,
+    "question_id": 64,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Smrt Ebu Taliba",
+    "question": {
+      "bs": "Koje su bile posljednje riječi Ebu Taliba prije smrti?",
+      "de": "Was waren die letzten Worte von Abu Talib vor seinem Tod?"
+    },
+    "options": {
+      "bs": [
+        "'U milletu Abdul-Muttalibovom'",
+        "'Čuvajte mog bratića'",
+        "'La ilahe illallah'",
+        "'Muhammed je Allahov Poslanik'"
+      ],
+      "de": [
+        "'Im Glauben von Abd al-Muttalib'",
+        "'Beschützt meinen Neffen'",
+        "'La ilaha illallah'",
+        "'Muhammad ist Allahs Gesandter'"
+      ]
+    },
+    "correct": {
+      "bs": "'U milletu Abdul-Muttalibovom'",
+      "de": "'Im Glauben von Abd al-Muttalib'"
+    },
+    "explanation": {
+      "bs": "Ebu Talib je umro bez izgovaranja šehadeta, rekavši da je u vjeri svog oca Abdul-Muttaliba. Allah je potom objavio: 'Ti doista ne možeš uputiti na pravi put onoga koga ti želiš da uputiš.' (28:56)",
+      "de": "Abu Talib starb ohne das Glaubensbekenntnis zu sprechen und sagte, er sei im Glauben seines Vaters Abd al-Muttalib. Allah offenbarte dann: 'Du kannst nicht rechtleiten, wen du willst.' (28:56)"
+    }
+  },
+  {
+    "quiz_id": 5,
+    "question_id": 65,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Ebu Talib u ahiretu",
+    "question": {
+      "bs": "Šta je Poslanik ﷺ rekao o stanju Ebu Taliba na ahiretu?",
+      "de": "Was sagte der Prophet ﷺ über Abu Talibs Zustand im Jenseits?"
+    },
+    "options": {
+      "bs": [
+        "Da je u plićaku Džehennema i da će mu šefa'at koristiti samo da mu budu vrela stopala",
+        "Da će biti spašen zbog rodbinske veze",
+        "Da mu je oprošteno zbog dobrih djela",
+        "Da će biti u Džennetu zbog zaštite muslimana"
+      ],
+      "de": [
+        "Dass er im seichtesten Teil der Hölle ist und die Fürsprache ihm nur nützen wird, dass seine Füsse heiss sind",
+        "Dass er wegen der Verwandtschaft gerettet wird",
+        "Dass ihm wegen guter Taten vergeben wird",
+        "Dass er im Paradies sein wird wegen des Schutzes der Muslime"
+      ]
+    },
+    "correct": {
+      "bs": "Da je u plićaku Džehennema i da će mu šefa'at koristiti samo da mu budu vrela stopala",
+      "de": "Dass er im seichtesten Teil der Hölle ist und die Fürsprache ihm nur nützen wird, dass seine Füsse heiss sind"
+    },
+    "explanation": {
+      "bs": "Poslanik ﷺ je rekao: 'On je u plićaku Džehennema, a da nije mene, bio bi na dnu Džehennema.' Također je rekao: 'Možda će mu koristiti moj šefa'at na Sudnjem danu, pa da mu u vatri budu samo stopala.'",
+      "de": "Der Prophet ﷺ sagte: 'Er ist im seichtesten Teil der Hölle, und wenn ich nicht wäre, wäre er auf dem Grund der Hölle.' Er sagte auch: 'Vielleicht wird ihm meine Fürsprache am Tag des Gerichts nützen, so dass nur seine Füsse im Feuer sind.'"
+    }
+  },
+  {
+    "quiz_id": 5,
+    "question_id": 66,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Smrt Hatidže r.a.",
+    "question": {
+      "bs": "Koliko je Hatidža r.a. živjela s Poslanikom ﷺ prije svoje smrti?",
+      "de": "Wie lange lebte Chadidscha r.a. mit dem Propheten ﷺ vor ihrem Tod?"
+    },
+    "options": {
+      "bs": [
+        "Petnaest godina",
+        "Dvadeset pet godina",
+        "Deset godina",
+        "Trideset godina"
+      ],
+      "de": [
+        "Fünfzehn Jahre",
+        "Fünfundzwanzig Jahre",
+        "Zehn Jahre",
+        "Dreissig Jahre"
+      ]
+    },
+    "correct": {
+      "bs": "Dvadeset pet godina",
+      "de": "Fünfundzwanzig Jahre"
+    },
+    "explanation": {
+      "bs": "Hatidža r.a. je živjela s Poslanikom ﷺ oko dvadeset pet godina - petnaest prije poslanstva i deset godina nakon toga. Bila je prva osoba koja je povjerovala u njega i najveća podrška u najtežim trenucima.",
+      "de": "Chadidscha r.a. lebte etwa fünfundzwanzig Jahre mit dem Propheten ﷺ - fünfzehn vor dem Prophetentum und zehn Jahre danach. Sie war die erste Person, die an ihn glaubte, und die grösste Unterstützung in den schwersten Momenten."
+    }
+  },
+  {
+    "quiz_id": 5,
+    "question_id": 67,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Smrt Hatidže r.a.",
+    "question": {
+      "bs": "Hatidža r.a. je umrla u desetoj godini poslanstva, u istoj godini kada i Ebu Talib.",
+      "de": "Chadidscha r.a. starb im zehnten Jahr des Prophetentums, im selben Jahr wie Abu Talib."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Hatidža r.a. je umrla u desetoj godini poslanstva, samo nekoliko dana ili sedmica nakon smrti Ebu Taliba. Zato se ta godina naziva 'Godina tuge' jer je Poslanik ﷺ izgubio oba svoja najveća oslonca.",
+      "de": "Richtig! Chadidscha r.a. starb im zehnten Jahr des Prophetentums, nur wenige Tage oder Wochen nach dem Tod von Abu Talib. Deshalb wird dieses Jahr 'Jahr der Trauer' genannt, weil der Prophet ﷺ seine beiden grössten Stützen verlor."
+    }
+  },
+  {
+    "quiz_id": 5,
+    "question_id": 68,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "source_section": "Putovanje u Taif",
+    "question": {
+      "bs": "Kuda je Poslanik ﷺ otišao tražiti podršku nakon smrti Ebu Taliba i Hatidže r.a.?",
+      "de": "Wohin ging der Prophet ﷺ nach dem Tod von Abu Talib und Chadidscha r.a., um Unterstützung zu suchen?"
+    },
+    "options": {
+      "bs": [
+        "U Abesiniju",
+        "U Medinu",
+        "U Taif",
+        "U Jemen"
+      ],
+      "de": [
+        "Nach Abessinien",
+        "Nach Medina",
+        "Nach Taif",
+        "Nach Jemen"
+      ]
+    },
+    "correct": {
+      "bs": "U Taif",
+      "de": "Nach Taif"
+    },
+    "explanation": {
+      "bs": "Poslanik ﷺ je otišao u Taif u desetoj godini poslanstva, tražeći podršku od plemena Sekif. Taif je bio drugi najvažniji grad u regiji nakon Mekke i nalazio se oko 100 km jugoistočno od Mekke.",
+      "de": "Der Prophet ﷺ ging im zehnten Jahr des Prophetentums nach Taif und suchte Unterstützung beim Stamm Thaqif. Taif war die zweitwichtigste Stadt der Region nach Mekka und lag etwa 100 km südöstlich von Mekka."
+    }
+  },
+  {
+    "quiz_id": 5,
+    "question_id": 69,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Putovanje u Taif",
+    "question": {
+      "bs": "Ko je pratio Poslanika ﷺ na putovanju u Taif?",
+      "de": "Wer begleitete den Propheten ﷺ auf der Reise nach Taif?"
+    },
+    "options": {
+      "bs": [
+        "Zejd bin Haris",
+        "Bilal",
+        "Ebu Bekr",
+        "Ali bin Ebi Talib"
+      ],
+      "de": [
+        "Zaid ibn Haritha",
+        "Bilal",
+        "Abu Bakr",
+        "Ali ibn Abi Talib"
+      ]
+    },
+    "correct": {
+      "bs": "Zejd bin Haris",
+      "de": "Zaid ibn Haritha"
+    },
+    "explanation": {
+      "bs": "Zejd bin Haris r.a. je pratio Poslanika ﷺ na putovanju u Taif. Zajedno su proveli teške dane kada ih je narod Taifa odbio i napao, gađajući ih kamenjem.",
+      "de": "Zaid ibn Haritha r.a. begleitete den Propheten ﷺ auf der Reise nach Taif. Gemeinsam verbrachten sie schwere Tage, als das Volk von Taif sie ablehnte und angriff, indem es sie mit Steinen bewarf."
+    }
+  },
+  {
+    "quiz_id": 5,
+    "question_id": 70,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Odbijanje u Taifu",
+    "question": {
+      "bs": "Kome se Poslanik ﷺ obratio u Taifu tražeći podršku?",
+      "de": "An wen wandte sich der Prophet ﷺ in Taif und bat um Unterstützung?"
+    },
+    "options": {
+      "bs": [
+        "Vladaru Taifa",
+        "Trojici braće od plemena Sekif",
+        "Velikim trgovcima",
+        "Svećenicima hrama"
+      ],
+      "de": [
+        "Dem Herrscher von Taif",
+        "Drei Brüdern vom Stamm Thaqif",
+        "Grossen Händlern",
+        "Tempelpriestern"
+      ]
+    },
+    "correct": {
+      "bs": "Trojici braće od plemena Sekif",
+      "de": "Drei Brüdern vom Stamm Thaqif"
+    },
+    "explanation": {
+      "bs": "Poslanik ﷺ se obratio trojici braće koji su bili vođe plemena Sekif: Abd Jalil, Mes'ud i Habib, sinovi Amra bin Umejra. Sva trojica su ga odbili na najružniji način.",
+      "de": "Der Prophet ﷺ wandte sich an drei Brüder, die Anführer des Stammes Thaqif waren: Abd Yalil, Mas'ud und Habib, die Söhne von Amr ibn Umayra. Alle drei lehnten ihn auf die hässlichste Weise ab."
+    }
+  },
+  {
+    "quiz_id": 5,
+    "question_id": 71,
+    "type": "true_false",
+    "difficulty": "easy",
+    "source_section": "Napad u Taifu",
+    "question": {
+      "bs": "Stanovnici Taifa su gađali Poslanika ﷺ kamenjem dok mu krv nije potekla niz noge.",
+      "de": "Die Einwohner von Taif bewarfen den Propheten ﷺ mit Steinen, bis Blut an seinen Beinen herunterlief."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Vođe Taifa su poslale rulje i djecu da gađaju Poslanika ﷺ kamenjem. Gađali su ga sve dok mu krv nije potekla niz noge. Zejd bin Haris ga je štitio svojim tijelom i sam bio ranjen.",
+      "de": "Richtig! Die Anführer von Taif schickten Mobs und Kinder, um den Propheten ﷺ mit Steinen zu bewerfen. Sie bewarfen ihn, bis Blut an seinen Beinen herunterlief. Zaid ibn Haritha schützte ihn mit seinem Körper und wurde selbst verletzt."
+    }
+  },
+  {
+    "quiz_id": 5,
+    "question_id": 72,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Dova u Taifu",
+    "question": {
+      "bs": "Kada se Poslanik ﷺ oporavio u vinogradu nakon napada u Taifu, šta mu je Allah ponudio preko meleka?",
+      "de": "Als sich der Prophet ﷺ nach dem Angriff in Taif im Weinberg erholte, was bot Allah ihm durch den Engel an?"
+    },
+    "options": {
+      "bs": [
+        "Da ih zatre kugom",
+        "Da sruši dva brijega (El-Ahšebani) na stanovnike Taifa",
+        "Da ih oslijepi",
+        "Da ih uništi potopom"
+      ],
+      "de": [
+        "Sie mit einer Seuche auszurotten",
+        "Die zwei Berge (Al-Akhschabani) auf die Einwohner von Taif zu stürzen",
+        "Sie zu blenden",
+        "Sie mit einer Flut zu vernichten"
+      ]
+    },
+    "correct": {
+      "bs": "Da sruši dva brijega (El-Ahšebani) na stanovnike Taifa",
+      "de": "Die zwei Berge (Al-Akhschabani) auf die Einwohner von Taif zu stürzen"
+    },
+    "explanation": {
+      "bs": "Džibril a.s. je došao s melekom planina i ponudio Poslaniku ﷺ da sruši dva brijega El-Ahšebani na stanovnike Taifa. Poslanik ﷺ je odbio, moleći da Allah učini da među njihovim potomstvom bude onih koji će obožavati samo Allaha.",
+      "de": "Dschibril a.s. kam mit dem Engel der Berge und bot dem Propheten ﷺ an, die zwei Berge Al-Akhschabani auf die Einwohner von Taif zu stürzen. Der Prophet ﷺ lehnte ab und betete, dass Allah unter ihren Nachkommen solche mache, die nur Allah anbeten würden."
+    }
+  },
+  {
+    "quiz_id": 5,
+    "question_id": 73,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Dova u Taifu",
+    "question": {
+      "bs": "Poslanik ﷺ je odbio ponudu meleka da uništi Taif, moleći da među njihovim potomstvom bude muslimana.",
+      "de": "Der Prophet ﷺ lehnte das Angebot des Engels ab, Taif zu zerstören, und betete, dass es unter ihren Nachkommen Muslime geben möge."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Poslanik ﷺ je rekao: 'Ne. Nego želim da Allah učini da među njihovim potomstvom bude onih koji će obožavati samo Allaha i nečemu širk činiti.' Ovo pokazuje njegovo milosrđe čak i prema onima koji su ga zlostavljali.",
+      "de": "Richtig! Der Prophet ﷺ sagte: 'Nein. Vielmehr wünsche ich, dass Allah unter ihren Nachkommen solche mache, die nur Allah anbeten und Ihm nichts beigesellen.' Dies zeigt seine Barmherzigkeit selbst gegenüber denen, die ihn misshandelten."
+    }
+  },
+  {
+    "quiz_id": 5,
+    "question_id": 74,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Susret s džinima",
+    "question": {
+      "bs": "Gdje je Poslanik ﷺ sreo skupinu džina koji su prihvatili islam na povratku iz Taifa?",
+      "de": "Wo traf der Prophet ﷺ auf der Rückkehr von Taif eine Gruppe von Dschinn, die den Islam annahmen?"
+    },
+    "options": {
+      "bs": [
+        "U pećini Hira",
+        "Na brdu Safa",
+        "U dolini Nahla",
+        "U Meki"
+      ],
+      "de": [
+        "In der Höhle von Hira",
+        "Auf dem Berg Safa",
+        "Im Tal von Nakhla",
+        "In Mekka"
+      ]
+    },
+    "correct": {
+      "bs": "U dolini Nahla",
+      "de": "Im Tal von Nakhla"
+    },
+    "explanation": {
+      "bs": "Na povratku iz Taifa, Poslanik ﷺ je zastao u dolini Nahla. Tamo je Allah poslao skupinu džina da slušaju Kur'an. Oni su povjerovali i vratili se svom narodu kao opominjači. O ovome govori sura El-Ahkaf i sura El-Džinn.",
+      "de": "Auf der Rückkehr von Taif hielt der Prophet ﷺ im Tal von Nakhla an. Dort sandte Allah eine Gruppe von Dschinn, um den Koran zu hören. Sie glaubten und kehrten als Warner zu ihrem Volk zurück. Darüber berichten die Suren Al-Ahqaf und Al-Dschinn."
+    }
+  },
+  {
+    "quiz_id": 5,
+    "question_id": 75,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Povratak u Mekku",
+    "question": {
+      "bs": "Ko je uzeo Poslanika ﷺ pod svoju zaštitu kada se vratio u Mekku iz Taifa?",
+      "de": "Wer nahm den Propheten ﷺ unter seinen Schutz, als er aus Taif nach Mekka zurückkehrte?"
+    },
+    "options": {
+      "bs": [
+        "Mut'am bin Adijj",
+        "Ebu Sufjan",
+        "Hamza",
+        "Abbas bin Abdul-Muttalib"
+      ],
+      "de": [
+        "Mut'am ibn Adi",
+        "Abu Sufyan",
+        "Hamza",
+        "Abbas ibn Abd al-Muttalib"
+      ]
+    },
+    "correct": {
+      "bs": "Mut'am bin Adijj",
+      "de": "Mut'am ibn Adi"
+    },
+    "explanation": {
+      "bs": "Mut'am bin Adijj, iako mušrik, uzeo je Poslanika ﷺ pod svoju zaštitu i omogućio mu siguran povratak u Mekku. Poslanik ﷺ nije zaboravio ovo dobro djelo i na Bedru je rekao: 'Da je živ Mut'am i da mi je posredovao za zarobljenike, sve bih ih njemu ostavio.'",
+      "de": "Mut'am ibn Adi, obwohl Götzendiener, nahm den Propheten ﷺ unter seinen Schutz und ermöglichte ihm eine sichere Rückkehr nach Mekka. Der Prophet ﷺ vergass diese gute Tat nicht und sagte in Badr: 'Wenn Mut'am am Leben wäre und bei mir für die Gefangenen eintreten würde, würde ich sie alle ihm überlassen.'"
+    }
+  },
+  {
+    "quiz_id": 5,
+    "question_id": 76,
+    "type": "true_false",
+    "difficulty": "hard",
+    "source_section": "Povratak u Mekku",
+    "question": {
+      "bs": "Poslanik ﷺ je prvo tražio zaštitu od Ehnesa bin Šerika i Suhejla bin Amra, ali su ga obojica odbili.",
+      "de": "Der Prophet ﷺ bat zuerst Akhnas ibn Schariq und Suhail ibn Amr um Schutz, aber beide lehnten ihn ab."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Prije nego je Mut'am prihvatio, Poslanik ﷺ je poslao glasnika Ehnesu bin Šeriku koji je rekao: 'Ja nisam domaći (nego saveznik).' Zatim Suhejlu bin Amru koji je rekao: 'Porodica Benu Amir ne može štititi porodicu Benu Ka'b.' Tek je Mut'am prihvatio.",
+      "de": "Richtig! Bevor Mut'am akzeptierte, sandte der Prophet ﷺ einen Boten zu Akhnas ibn Schariq, der sagte: 'Ich bin kein Einheimischer (sondern ein Verbündeter).' Dann zu Suhail ibn Amr, der sagte: 'Die Familie Banu Amir kann die Familie Banu Ka'b nicht schützen.' Erst Mut'am akzeptierte."
+    }
+  },
+  {
+    "quiz_id": 5,
+    "question_id": 77,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Predstavljanje islama plemenima",
+    "question": {
+      "bs": "U kojem periodu je Poslanik ﷺ intenzivno pozivao arapska plemena u islam tokom sezone hadža?",
+      "de": "In welchem Zeitraum lud der Prophet ﷺ während der Hadsch-Saison intensiv die arabischen Stämme zum Islam ein?"
+    },
+    "options": {
+      "bs": [
+        "Samo nakon Omerovog islama",
+        "Samo u petoj godini",
+        "Samo u godini tuge",
+        "Od četvrte godine do Hidžre"
+      ],
+      "de": [
+        "Nur nach Umars Islam",
+        "Nur im fünften Jahr",
+        "Nur im Jahr der Trauer",
+        "Vom vierten Jahr bis zur Hidschra"
+      ]
+    },
+    "correct": {
+      "bs": "Od četvrte godine do Hidžre",
+      "de": "Vom vierten Jahr bis zur Hidschra"
+    },
+    "explanation": {
+      "bs": "Poslanik ﷺ je od četvrte godine poslanstva pa do Hidžre svake godine za vrijeme hadža obilazio arapska plemena i pozivao ih u islam. Većina plemena ga je odbijala, ali je upornost donijela plod s Ensarijama iz Medine.",
+      "de": "Der Prophet ﷺ besuchte vom vierten Jahr des Prophetentums bis zur Hidschra jedes Jahr während der Hadsch-Saison die arabischen Stämme und lud sie zum Islam ein. Die meisten Stämme lehnten ihn ab, aber seine Beharrlichkeit trug Früchte mit den Ansar aus Medina."
+    }
+  },
+  {
+    "quiz_id": 5,
+    "question_id": 78,
+    "type": "multiple_choice",
+    "difficulty": "hard",
+    "source_section": "Plemena koja su odbila islam",
+    "question": {
+      "bs": "Koja plemena su odbila Poslanikov ﷺ poziv u islam? (Odaberi sve tačne)",
+      "de": "Welche Stämme lehnten den Aufruf des Propheten ﷺ zum Islam ab? (Wähle alle richtigen)"
+    },
+    "options": {
+      "bs": [
+        "Benu Amir",
+        "Benu Hanifa",
+        "Ensarije",
+        "Benu Kelb"
+      ],
+      "de": [
+        "Banu Amir",
+        "Banu Hanifa",
+        "Ansar",
+        "Banu Kalb"
+      ]
+    },
+    "correct": {
+      "bs": [
+        "Benu Hanifa",
+        "Benu Amir",
+        "Benu Kelb"
+      ],
+      "de": [
+        "Banu Hanifa",
+        "Banu Amir",
+        "Banu Kalb"
+      ]
+    },
+    "explanation": {
+      "bs": "Mnoga plemena su odbila Poslanikov ﷺ poziv, uključujući Benu Hanifu (najružnije odbijanje), Benu Amira (tražili vlast), Benu Kelba, Fizare, Murre, Kindu i druga. Samo su Ensarije iz Medine prihvatile islam i ponudile zaštitu.",
+      "de": "Viele Stämme lehnten den Aufruf des Propheten ﷺ ab, darunter Banu Hanifa (hässlichste Ablehnung), Banu Amir (verlangten Herrschaft), Banu Kalb, Fizara, Murra, Kinda und andere. Nur die Ansar aus Medina nahmen den Islam an und boten Schutz an."
+    }
+  },
+  {
+    "quiz_id": 5,
+    "question_id": 79,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Benu Amir",
+    "question": {
+      "bs": "Šta je pleme Benu Amir tražilo kao uvjet za prihvatanje islama?",
+      "de": "Was verlangte der Stamm Banu Amir als Bedingung für die Annahme des Islam?"
+    },
+    "options": {
+      "bs": [
+        "Zaštitu od Kurejšija",
+        "Da Poslanika ﷺ naslijede u poslanstvu",
+        "Veliko bogatstvo",
+        "Kontrolu nad Kabom"
+      ],
+      "de": [
+        "Schutz vor den Quraisch",
+        "Dass sie den Propheten ﷺ im Prophetentum beerben",
+        "Grossen Reichtum",
+        "Kontrolle über die Kaaba"
+      ]
+    },
+    "correct": {
+      "bs": "Da ih Poslanik ﷺ nasljednik u poslanstvu",
+      "de": "Dass sie den Propheten ﷺ im Prophetentum beerben"
+    },
+    "explanation": {
+      "bs": "Behiret bin Firas od Benu Amira je pitao: 'Ako ti damo prisegu, zatim te Allah pomogne nad neprijateljima, hoćemo li te naslijediti?' Poslanik ﷺ je rekao: 'Odredba o tome je u Allahovim rukama.' Oni ga tada odbiše.",
+      "de": "Behiret ibn Firas von Banu Amir fragte: 'Wenn wir dir die Treue schwören und Allah dir über deine Feinde hilft, werden wir dich dann beerben?' Der Prophet ﷺ sagte: 'Die Entscheidung darüber liegt in Allahs Händen.' Daraufhin lehnten sie ihn ab."
+    }
+  },
+  {
+    "quiz_id": 5,
+    "question_id": 80,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Raniji muslimani iz Jesriba",
+    "question": {
+      "bs": "Suvejd bin Samit iz Jesriba je bio jedan od prvih ljudi izvan Mekke koji je primio islam.",
+      "de": "Suwayd ibn Samit aus Yathrib war einer der ersten Menschen ausserhalb Mekkas, der den Islam annahm."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Suvejd bin Samit, ugledni jesribski pjesnik nazvan 'Kamil' (potpun), primio je islam početkom jedanaeste godine poslanstva. Poslanik ﷺ mu je proučio Kur'an i on je izgovorio šehadet, ali je ubijen u ratu Bu'as prije Hidžre.",
+      "de": "Richtig! Suwayd ibn Samit, ein angesehener jathribischer Dichter namens 'Kamil' (vollkommen), nahm Anfang des elften Jahres des Prophetentums den Islam an. Der Prophet ﷺ rezitierte ihm den Koran und er sprach das Glaubensbekenntnis, wurde aber vor der Hidschra im Krieg von Bu'ath getötet."
+    }
+  },
+  {
+    "quiz_id": 5,
+    "question_id": 81,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Islam Ebu Zerra r.a.",
+    "question": {
+      "bs": "Ko je odveo Ebu Zerra r.a. do Poslanika ﷺ kada je došao u Mekku tražeći ga?",
+      "de": "Wer führte Abu Dharr r.a. zum Propheten ﷺ, als er nach Mekka kam und nach ihm suchte?"
+    },
+    "options": {
+      "bs": [
+        "Hamza",
+        "Ali bin Ebi Talib",
+        "Bilal",
+        "Ebu Bekr"
+      ],
+      "de": [
+        "Hamza",
+        "Ali ibn Abi Talib",
+        "Bilal",
+        "Abu Bakr"
+      ]
+    },
+    "correct": {
+      "bs": "Ali bin Ebi Talib",
+      "de": "Ali ibn Abi Talib"
+    },
+    "explanation": {
+      "bs": "Ebu Zerr r.a. je došao u Mekku ne znajući ko je Poslanik ﷺ. Spavao je u mesdžidu i pio vodu zemzem. Ali r.a. ga je primijetio i upitao je li stranac. Poveo ga je kući i sutradan ga odveo do Poslanika ﷺ gdje je Ebu Zerr primio islam.",
+      "de": "Abu Dharr r.a. kam nach Mekka, ohne zu wissen, wer der Prophet ﷺ war. Er schlief in der Moschee und trank Zamzam-Wasser. Ali r.a. bemerkte ihn und fragte, ob er ein Fremder sei. Er nahm ihn mit nach Hause und brachte ihn am nächsten Tag zum Propheten ﷺ, wo Abu Dharr den Islam annahm."
+    }
+  },
+  {
+    "quiz_id": 5,
+    "question_id": 82,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Islam Ebu Zerra r.a.",
+    "question": {
+      "bs": "Ebu Zerr r.a. je odmah nakon primanja islama otišao u harem i javno izgovorio šehadet pred Kurejšijama.",
+      "de": "Abu Dharr r.a. ging sofort nach der Annahme des Islam in den Haram und sprach öffentlich das Glaubensbekenntnis vor den Quraisch."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Iako mu je Poslanik ﷺ rekao da se vrati svom narodu i širi islam tamo, Ebu Zerr r.a. je rekao: 'Tako mi Onoga ko ti je dostavio Istinu, pred svima ću sada glasno reći!' Otišao je u mesdžid i javno izgovorio šehadet. Kurejšije su ga pretukli do smrti, ali ga je Abbas spasio.",
+      "de": "Richtig! Obwohl der Prophet ﷺ ihm sagte, er solle zu seinem Volk zurückkehren und dort den Islam verbreiten, sagte Abu Dharr r.a.: 'Bei Dem, der dir die Wahrheit überbracht hat, ich werde es jetzt laut vor allen sagen!' Er ging in die Moschee und sprach öffentlich das Glaubensbekenntnis. Die Quraisch schlugen ihn fast zu Tode, aber Abbas rettete ihn."
+    }
+  },
+  {
+    "quiz_id": 5,
+    "question_id": 83,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Islam Tufejla ed-Dusija",
+    "question": {
+      "bs": "Kako je Tufejl ed-Dusi r.a. pokušao izbjeći da čuje Kur'an kada je došao u Mekku?",
+      "de": "Wie versuchte Tufayl ad-Dawsi r.a., das Hören des Korans zu vermeiden, als er nach Mekka kam?"
+    },
+    "options": {
+      "bs": [
+        "Začepio je uši pamukom",
+        "Bježao je od Poslanika ﷺ",
+        "Zatvarao je oči",
+        "Izbjegavao je harem"
+      ],
+      "de": [
+        "Er verstopfte seine Ohren mit Baumwolle",
+        "Er floh vor dem Propheten ﷺ",
+        "Er schloss seine Augen",
+        "Er mied den Haram"
+      ]
+    },
+    "correct": {
+      "bs": "Začepio je uši pamukom",
+      "de": "Er verstopfte seine Ohren mit Baumwolle"
+    },
+    "explanation": {
+      "bs": "Tufejl ed-Dusi je bio ugledni pjesnik iz Jemena. Kurejšije su ga upozorile na Poslanika ﷺ, pa je začepio uši pamukom. Ipak je čuo neke ajete i rekao sebi: 'Ja sam daroviti pjesnik, znam razlikovati lijep govor - zašto ne da čujem?' Kada je čuo Kur'an, primio je islam.",
+      "de": "Tufayl ad-Dawsi war ein angesehener Dichter aus dem Jemen. Die Quraisch warnten ihn vor dem Propheten ﷺ, also verstopfte er seine Ohren mit Baumwolle. Dennoch hörte er einige Verse und sagte sich: 'Ich bin ein begabter Dichter, ich kann schöne Worte unterscheiden - warum sollte ich nicht hören?' Als er den Koran hörte, nahm er den Islam an."
+    }
+  },
+  {
+    "quiz_id": 5,
+    "question_id": 84,
+    "type": "true_false",
+    "difficulty": "hard",
+    "source_section": "Islam Tufejla ed-Dusija",
+    "question": {
+      "bs": "Allah je dao Tufejlu ed-Dusiju svjetlost na licu kao znak, ali je Tufejl molio da bude premještena jer se bojao da će ga nazvati čarobnjakom.",
+      "de": "Allah gab Tufayl ad-Dawsi ein Licht auf dem Gesicht als Zeichen, aber Tufayl bat darum, dass es verlegt werde, weil er befürchtete, als Zauberer bezeichnet zu werden."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Kada je Tufejl molio za znak, Allah mu je obasjao lice jarkom svjetlošću. On je rekao: 'Allahu moj, neka bude svjetlo mimo moga lica, bojim se da ne kažu: on je čarobnjak.' Svjetlost se tada pretvorila u njegov bič.",
+      "de": "Richtig! Als Tufayl um ein Zeichen bat, erleuchtete Allah sein Gesicht mit hellem Licht. Er sagte: 'Mein Allah, lass das Licht woanders sein als auf meinem Gesicht, ich fürchte, sie werden sagen: er ist ein Zauberer.' Das Licht verwandelte sich dann in seine Peitsche."
+    }
+  },
+  {
+    "quiz_id": 5,
+    "question_id": 85,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "source_section": "Periodi mekanskog poziva",
+    "question": {
+      "bs": "Koliko je ukupno trajao mekanski period poslanstva?",
+      "de": "Wie lange dauerte insgesamt die mekkanische Periode des Prophetentums?"
+    },
+    "options": {
+      "bs": [
+        "Trinaest godina",
+        "Deset godina",
+        "Petnaest godina",
+        "Dvadeset godina"
+      ],
+      "de": [
+        "Dreizehn Jahre",
+        "Zehn Jahre",
+        "Fünfzehn Jahre",
+        "Zwanzig Jahre"
+      ]
+    },
+    "correct": {
+      "bs": "Trinaest godina",
+      "de": "Dreizehn Jahre"
+    },
+    "explanation": {
+      "bs": "Mekanski period poslanstva trajao je trinaest godina - od početka Objave do Hidžre u Medinu. Dijeli se na tri razdoblja: tajno pozivanje (3 godine), javno pozivanje u Meki (7 godina) i pozivanje izvan Mekke (3 godine).",
+      "de": "Die mekkanische Periode des Prophetentums dauerte dreizehn Jahre - vom Beginn der Offenbarung bis zur Hidschra nach Medina. Sie unterteilt sich in drei Phasen: geheime Einladung (3 Jahre), öffentliche Einladung in Mekka (7 Jahre) und Einladung ausserhalb Mekkas (3 Jahre)."
+    }
+  },
+  {
+    "quiz_id": 5,
+    "question_id": 86,
+    "type": "ordering",
+    "difficulty": "medium",
+    "source_section": "Periodi mekanskog poziva",
+    "question": {
+      "bs": "Poredaj periode mekanskog poziva hronološki:",
+      "de": "Ordne die Perioden des mekkanischen Aufrufs chronologisch:"
+    },
+    "options": {
+      "bs": [
+        "Pozivanje izvan Mekke do Hidžre",
+        "Javno pozivanje u Meki",
+        "Tajno pozivanje (3 godine)"
+      ],
+      "de": [
+        "Aufruf ausserhalb Mekkas bis zur Hidschra",
+        "Öffentlicher Aufruf in Mekka",
+        "Geheimer Aufruf (3 Jahre)"
+      ]
+    },
+    "correct": {
+      "bs": [
+        "Tajno pozivanje (3 godine)",
+        "Javno pozivanje u Meki",
+        "Pozivanje izvan Mekke do Hidžre"
+      ],
+      "de": [
+        "Geheimer Aufruf (3 Jahre)",
+        "Öffentlicher Aufruf in Mekka",
+        "Aufruf ausserhalb Mekkas bis zur Hidschra"
+      ]
+    },
+    "explanation": {
+      "bs": "Mekanski period se dijeli na tri faze: 1) Tajno pozivanje od 1. do 3. godine poslanstva, 2) Javno pozivanje u Meki od 4. do 10. godine, 3) Pozivanje plemena izvan Mekke od 10. godine do Hidžre.",
+      "de": "Die mekkanische Periode unterteilt sich in drei Phasen: 1) Geheimer Aufruf vom 1. bis 3. Jahr des Prophetentums, 2) Öffentlicher Aufruf in Mekka vom 4. bis 10. Jahr, 3) Einladung der Stämme ausserhalb Mekkas vom 10. Jahr bis zur Hidschra."
+    }
+  },
+  {
+    "quiz_id": 5,
+    "question_id": 87,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Delegacija Kurejšija kod bolesnog Ebu Taliba",
+    "question": {
+      "bs": "Koliko uglednika Kurejšija je posjetilo Ebu Taliba na samrti?",
+      "de": "Wie viele Würdenträger der Quraisch besuchten Abu Talib auf seinem Sterbebett?"
+    },
+    "options": {
+      "bs": [
+        "Deset",
+        "Dvadesetak",
+        "Trideset",
+        "Pet"
+      ],
+      "de": [
+        "Zehn",
+        "Etwa zwanzig",
+        "Dreissig",
+        "Fünf"
+      ]
+    },
+    "correct": {
+      "bs": "Dvadesetak",
+      "de": "Etwa zwanzig"
+    },
+    "explanation": {
+      "bs": "Kada se Ebu Talib razbolio, dvadesetak najuglednijih Kurejšija ga je posjetilo, uključujući Utbe bin Rebiu, Šejbe bin Rebiu, Ebu Džehla, Umejje bin Halefa i Ebu Sufjana. Tražili su kompromis s Poslanikom ﷺ.",
+      "de": "Als Abu Talib krank wurde, besuchten ihn etwa zwanzig der angesehensten Quraisch, darunter Utba ibn Rabi'a, Shayba ibn Rabi'a, Abu Dschahl, Umayya ibn Khalaf und Abu Sufyan. Sie suchten einen Kompromiss mit dem Propheten ﷺ."
+    }
+  },
+  {
+    "quiz_id": 5,
+    "question_id": 88,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Poziv Kurejšija na jedinstvo",
+    "question": {
+      "bs": "Šta je Poslanik ﷺ ponudio Kurejšijama kod Ebu Taliba kao 'jednu riječ' s kojom bi zavladali Arapima?",
+      "de": "Was bot der Prophet ﷺ den Quraisch bei Abu Talib als 'ein Wort' an, mit dem sie über die Araber herrschen würden?"
+    },
+    "options": {
+      "bs": [
+        "Podjelu bogatstva",
+        "La ilahe illallah (Nema boga osim Allaha)",
+        "Da ga prihvate kao vođu",
+        "Savez protiv neprijatelja"
+      ],
+      "de": [
+        "Teilung des Reichtums",
+        "La ilaha illallah (Es gibt keinen Gott ausser Allah)",
+        "Ihn als Anführer anzuerkennen",
+        "Ein Bündnis gegen Feinde"
+      ]
+    },
+    "correct": {
+      "bs": "La ilahe illallah (Nema boga osim Allaha)",
+      "de": "La ilaha illallah (Es gibt keinen Gott ausser Allah)"
+    },
+    "explanation": {
+      "bs": "Poslanik ﷺ je rekao: 'Što mislite, ako bih vam dao riječ da je govorite, s njom bi pridobili Arape i pokorili bi vam se stranci.' Ebu Džehl je uzbuđeno pitao: 'Koja je to riječ?' A Poslanik ﷺ je rekao: 'La ilahe illallah!' Oni su to odbili.",
+      "de": "Der Prophet ﷺ sagte: 'Was meint ihr, wenn ich euch ein Wort gäbe, das ihr sprechen könntet, mit dem ihr die Araber gewinnen und die Fremden euch unterwerfen würden?' Abu Dschahl fragte aufgeregt: 'Was ist dieses Wort?' Der Prophet ﷺ sagte: 'La ilaha illallah!' Sie lehnten es ab."
+    }
+  },
+  {
+    "quiz_id": 5,
+    "question_id": 89,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Objava sure Sad",
+    "question": {
+      "bs": "Sura Sad je objavljena kao odgovor na odbijanje Kurejšija da prihvate tevhid kod bolesnog Ebu Taliba.",
+      "de": "Die Sure Sad wurde als Antwort auf die Weigerung der Quraisch offenbart, den Tawhid beim kranken Abu Talib anzunehmen."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Nakon što su Kurejšije odbili šehadet i rekli 'Zar on da bogove svede na Boga jednog?', Allah je objavio početak sure Sad: 'Sad. Tako Mi Kur'ana slavnog, doista su bahati i inađije oni koji neće da vjeruju!' (38:1-7)",
+      "de": "Richtig! Nachdem die Quraisch das Glaubensbekenntnis ablehnten und sagten 'Will er die Götter auf einen Gott reduzieren?', offenbarte Allah den Anfang der Sure Sad: 'Sad. Beim ruhmreichen Koran, wahrlich, diejenigen, die nicht glauben wollen, sind hochmütig und widerspenstig!' (38:1-7)"
+    }
+  },
+  {
+    "quiz_id": 5,
+    "question_id": 90,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Ebu Bekrova zaštita Poslanika ﷺ",
+    "question": {
+      "bs": "Kada su Kurejšije napale Poslanika ﷺ kod Kabe, ko je povikao: 'Zar ćete ubiti čovjeka zato što kaže: Moj Bog je Allah?'",
+      "de": "Als die Quraisch den Propheten ﷺ bei der Kaaba angriffen, wer rief: 'Wollt ihr einen Mann töten, nur weil er sagt: Mein Herr ist Allah?'"
+    },
+    "options": {
+      "bs": [
+        "Omer",
+        "Hamza",
+        "Ebu Bekr",
+        "Ali"
+      ],
+      "de": [
+        "Umar",
+        "Hamza",
+        "Abu Bakr",
+        "Ali"
+      ]
+    },
+    "correct": {
+      "bs": "Ebu Bekr",
+      "de": "Abu Bakr"
+    },
+    "explanation": {
+      "bs": "Ebu Bekr r.a. je citirao riječi vjernika iz faraonova naroda (sura Gafir, 28) kada je branio Poslanika ﷺ. U jednom napadu je Ukbe bin Ebi Muit davio Poslanika ﷺ, a Ebu Bekr ga je oslobodio, rekavši ove riječi. Sam je bio pretučen.",
+      "de": "Abu Bakr r.a. zitierte die Worte des Gläubigen aus Pharaos Volk (Sure Ghafir, 28), als er den Propheten ﷺ verteidigte. Bei einem Angriff würgte Uqba ibn Abi Mu'ayt den Propheten ﷺ, und Abu Bakr befreite ihn mit diesen Worten. Er selbst wurde verprügelt."
+    }
+  },
+  {
+    "quiz_id": 5,
+    "question_id": 91,
+    "type": "true_false",
+    "difficulty": "hard",
+    "source_section": "Dova Ebu Džehla",
+    "question": {
+      "bs": "Ebu Džehl je uzeo kamen s namjerom da ubije Poslanika ﷺ dok klanja, ali se vratio prestrašen, vidjevši devu s ogromnim zubima.",
+      "de": "Abu Dschahl nahm einen Stein mit der Absicht, den Propheten ﷺ während des Gebets zu töten, aber er kehrte verängstigt zurück, nachdem er ein Kamel mit riesigen Zähnen gesehen hatte."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Ebu Džehl se zakleo da će zgnječiti glavu Poslaniku ﷺ kamenom dok bude na sedždi. Kada se približio, ustuknu prestrašen. Rekao je: 'Ugledah velikog mužjaka deve s visokim nogama i ogromnim zubima koji je htio da me izgrize.' Poslanik ﷺ je rekao da je to bio Džibril a.s.",
+      "de": "Richtig! Abu Dschahl schwor, den Kopf des Propheten ﷺ mit einem Stein zu zerquetschen, während er in der Niederwerfung war. Als er sich näherte, wich er verängstigt zurück. Er sagte: 'Ich sah einen grossen Kamelhengst mit hohen Beinen und riesigen Zähnen, der mich beissen wollte.' Der Prophet ﷺ sagte, es sei Dschibril a.s. gewesen."
+    }
+  },
+  {
+    "quiz_id": 5,
+    "question_id": 92,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Utejbe bin Ebi Leheb",
+    "question": {
+      "bs": "Šta se dogodilo Utejbetu bin Ebi Lehebu nakon što je pljunuo na Poslanika ﷺ?",
+      "de": "Was geschah mit Utayba ibn Abi Lahab, nachdem er den Propheten ﷺ bespuckt hatte?"
+    },
+    "options": {
+      "bs": [
+        "Utopao se u moru",
+        "Ubio ga je lav na putu u Šam",
+        "Oslijepio je",
+        "Pogodila ga je grom"
+      ],
+      "de": [
+        "Er ertrank im Meer",
+        "Ein Löwe tötete ihn auf dem Weg nach Syrien",
+        "Er erblindete",
+        "Ein Blitz traf ihn"
+      ]
+    },
+    "correct": {
+      "bs": "Ubio ga je lav na putu u Šam",
+      "de": "Ein Löwe tötete ihn auf dem Weg nach Syrien"
+    },
+    "explanation": {
+      "bs": "Utejbe, sin Ebu Leheba, poderao je Poslanikovu ﷺ košulju i pljunuo mu u lice. Poslanik ﷺ je molio: 'Gospodaru moj, pošalji na njega jednog od Svojih pasa.' Na putu u Šam, lav je zgrabio Utejbu i rastrgao ga, kako je Poslanik ﷺ predskazao.",
+      "de": "Utayba, der Sohn von Abu Lahab, zerriss das Hemd des Propheten ﷺ und spuckte ihm ins Gesicht. Der Prophet ﷺ betete: 'Mein Herr, sende einen Deiner Hunde auf ihn.' Auf dem Weg nach Syrien packte ein Löwe Utayba und zerriss ihn, wie der Prophet ﷺ vorhergesagt hatte."
+    }
+  },
+  {
+    "quiz_id": 5,
+    "question_id": 93,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Petoro koji su napali Poslanika ﷺ",
+    "question": {
+      "bs": "Koji od Poslanikoih ﷺ komšija nije bio među onima koji su ga uznemiravali u sopstvenoj kući?",
+      "de": "Welcher der Nachbarn des Propheten ﷺ gehörte nicht zu denen, die ihn in seinem eigenen Haus belästigten?"
+    },
+    "options": {
+      "bs": [
+        "Ukbe bin Ebi Muit",
+        "Hakem bin el-As",
+        "Hamza",
+        "Ebu Leheb"
+      ],
+      "de": [
+        "Uqba ibn Abi Mu'ayt",
+        "Hakim ibn al-As",
+        "Hamza",
+        "Abu Lahab"
+      ]
+    },
+    "correct": {
+      "bs": "Hamza",
+      "de": "Hamza"
+    },
+    "explanation": {
+      "bs": "Ibn Ishak navodi da su Poslanika ﷺ u sopstvenoj kući uznemiravali: Ebu Leheb, Hakem bin el-As bin Umejje, Ukbe bin Ebi Muit, Adij bin Hamra es-Sekafi i Ibn Asdai el-Huzeli. Hamza je bio Poslanikov ﷺ amidža i musliman.",
+      "de": "Ibn Ishaq berichtet, dass der Prophet ﷺ in seinem eigenen Haus belästigt wurde von: Abu Lahab, Hakim ibn al-As ibn Umayya, Uqba ibn Abi Mu'ayt, Adi ibn Hamra as-Thaqafi und Ibn Asda al-Hudhali. Hamza war der Onkel des Propheten ﷺ und Muslim."
+    }
+  },
+  {
+    "quiz_id": 5,
+    "question_id": 94,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Uloga Ebu Leheba",
+    "question": {
+      "bs": "Ebu Leheb je pratio Poslanika ﷺ za vrijeme hadža na svetim mjestima i govorio ljudima: 'Nemojte se odazivati, on je otpadnik i lažov!'",
+      "de": "Abu Lahab folgte dem Propheten ﷺ während der Hadsch an den heiligen Stätten und sagte den Menschen: 'Hört nicht auf ihn, er ist ein Abtrünniger und Lügner!'"
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Ebu Leheb je bio nepopravljiv neprijatelj. Dok je Poslanik ﷺ obilazio plemena tokom hadža i pozivao ih u islam, Ebu Leheb bi išao za njim i vikao: 'Nemojte se odazivati, on je otpadnik i teški lažov!' Čak je gađao Poslanika ﷺ kamenjem.",
+      "de": "Richtig! Abu Lahab war ein unverbesserlicher Feind. Während der Prophet ﷺ die Stämme während der Hadsch besuchte und sie zum Islam einlud, folgte Abu Lahab ihm und rief: 'Hört nicht auf ihn, er ist ein Abtrünniger und grosser Lügner!' Er bewarf den Propheten ﷺ sogar mit Steinen."
+    }
+  },
+  {
+    "quiz_id": 5,
+    "question_id": 95,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Utbe bin Rebia",
+    "question": {
+      "bs": "Utbe bin Rebia je kao predstavnik Kurejšija ponudio Poslaniku ﷺ bogatstvo, vlast i liječenje. Šta je Poslanik ﷺ proučio kao odgovor?",
+      "de": "Utba ibn Rabi'a bot als Vertreter der Quraisch dem Propheten ﷺ Reichtum, Macht und Heilung an. Was rezitierte der Prophet ﷺ als Antwort?"
+    },
+    "options": {
+      "bs": [
+        "Suru Ja-Sin",
+        "Suru El-Fatiha",
+        "Suru El-Ihlas",
+        "Ajete iz sure Fussilet (Ha Mim)"
+      ],
+      "de": [
+        "Die Sure Ya-Sin",
+        "Die Sure Al-Fatiha",
+        "Die Sure Al-Ikhlas",
+        "Verse aus der Sure Fussilat (Ha Mim)"
+      ]
+    },
+    "correct": {
+      "bs": "Ajete iz sure Fussilet (Ha Mim)",
+      "de": "Verse aus der Sure Fussilat (Ha Mim)"
+    },
+    "explanation": {
+      "bs": "Poslanik ﷺ je kao odgovor na ponude bogatstva i vlasti proučio početak sure Fussilet: 'Ha Mim. Objava je od Milostivog, Samilosnog...' Utbe je bio zapanjen ljepotom Kur'ana i vratio se promijenjenog lica, rekavši Kurejšijama: 'Čuo sam govor kakav nikad nisam čuo.'",
+      "de": "Der Prophet ﷺ rezitierte als Antwort auf die Angebote von Reichtum und Macht den Anfang der Sure Fussilat: 'Ha Mim. Eine Offenbarung vom Barmherzigen, Gnädigen...' Utba war von der Schönheit des Korans verblüfft und kehrte mit verändertem Gesicht zurück, sagend zu den Quraisch: 'Ich hörte Worte, wie ich sie nie gehört habe.'"
+    }
+  },
+  {
+    "quiz_id": 5,
+    "question_id": 96,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Ubejj bin Halef",
+    "question": {
+      "bs": "Ubejj bin Halef je jednom prilikom zdrobio truhlu kost i prašinu puhnuo na Poslanika ﷺ.",
+      "de": "Ubayy ibn Khalaf zermahlte einmal einen morschen Knochen und blies den Staub auf den Propheten ﷺ."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Ubejj bin Halef, brat Umejje bin Halefa, bio je jedan od okorjelih neprijatelja. Jednom je zdrobio truhlu kost i prašinu puhnuo prema Poslaniku ﷺ kao izrugivanje učenju o proživljenju. Kasnije je poginuo od ruke Poslanika ﷺ na Uhudu.",
+      "de": "Richtig! Ubayy ibn Khalaf, der Bruder von Umayya ibn Khalaf, war einer der hartnäckigsten Feinde. Einmal zermahlte er einen morschen Knochen und blies den Staub auf den Propheten ﷺ als Spott über die Lehre der Auferstehung. Später starb er durch die Hand des Propheten ﷺ bei Uhud."
+    }
+  },
+  {
+    "quiz_id": 5,
+    "question_id": 97,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Karakteristike mekanskih ajeta",
+    "question": {
+      "bs": "Kako su izgledali ajeti koji su objavljivani u mekanskom periodu?",
+      "de": "Wie waren die Verse beschaffen, die in der mekkanischen Periode offenbart wurden?"
+    },
+    "options": {
+      "bs": [
+        "Kratki, topli, razumljivi, opisivali Džennet i Džehennem",
+        "Dugi, s propisima o halalu i haramu",
+        "Samo o historiji prijašnjih naroda",
+        "Samo o ratovanju"
+      ],
+      "de": [
+        "Kurz, warm, verständlich, beschrieben Paradies und Hölle",
+        "Lang, mit Vorschriften über Erlaubtes und Verbotenes",
+        "Nur über die Geschichte früherer Völker",
+        "Nur über Kriegsführung"
+      ]
+    },
+    "correct": {
+      "bs": "Kratki, topli, razumljivi, opisivali Džennet i Džehennem",
+      "de": "Kurz, warm, verständlich, beschrieben Paradies und Hölle"
+    },
+    "explanation": {
+      "bs": "Mekanski ajeti su bili kratki, topli i razumljivi. Slikovito su opisivali Džennet i Džehennem, ukazivali na ljudske nevaljalštine i stvarali atmosferu potpuno drugačiju od predislamske. Njihov zadatak je bio odgajanje i pripremanje vjernika.",
+      "de": "Die mekkanischen Verse waren kurz, warm und verständlich. Sie beschrieben bildhaft Paradies und Hölle, wiesen auf menschliche Verfehlungen hin und schufen eine Atmosphäre, die sich völlig von der vorislamischen unterschied. Ihre Aufgabe war die Erziehung und Vorbereitung der Gläubigen."
+    }
+  },
+  {
+    "quiz_id": 5,
+    "question_id": 98,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "source_section": "Koliko muslimana je izašlo iz kuće Erkama",
+    "question": {
+      "bs": "Koliko je muslimana bilo kada su izašli iz kuće Erkama s Omerovim islamom?",
+      "de": "Wie viele Muslime waren es, als sie mit Umars Islam das Haus von Arqam verliessen?"
+    },
+    "options": {
+      "bs": [
+        "Četrdeset",
+        "Dvadeset",
+        "Deset",
+        "Sto"
+      ],
+      "de": [
+        "Vierzig",
+        "Zwanzig",
+        "Zehn",
+        "Hundert"
+      ]
+    },
+    "correct": {
+      "bs": "Četrdeset",
+      "de": "Vierzig"
+    },
+    "explanation": {
+      "bs": "Kada je Omer r.a. primio islam, broj muslimana je dostigao četrdeset. To je bio momenat kada su muslimani izašli iz kuće Erkama i javno se uputili u harem Kabe da klanjaju, formirajući dva reda - s Hamzom i Omerom na čelu.",
+      "de": "Als Umar r.a. den Islam annahm, erreichte die Zahl der Muslime vierzig. Das war der Moment, als die Muslime das Haus von Arqam verliessen und sich öffentlich zum Haram der Kaaba begaben, um zu beten, in zwei Reihen - mit Hamza und Umar an der Spitze."
+    }
+  },
+  {
+    "quiz_id": 5,
+    "question_id": 99,
+    "type": "ordering",
+    "difficulty": "hard",
+    "source_section": "Hronologija ključnih događaja",
+    "question": {
+      "bs": "Poredaj ključne događaje javnog poziva hronološki:",
+      "de": "Ordne die Schlüsselereignisse des öffentlichen Aufrufs chronologisch:"
+    },
+    "options": {
+      "bs": [
+        "Islam Hamze i Omera",
+        "Poziv na brdu Safa",
+        "Bojkot u Ši'bu Ebi Talib",
+        "Smrt Ebu Taliba i Hatidže"
+      ],
+      "de": [
+        "Islam von Hamza und Umar",
+        "Aufruf auf dem Berg Safa",
+        "Boykott in Schi'b Abi Talib",
+        "Tod von Abu Talib und Chadidscha"
+      ]
+    },
+    "correct": {
+      "bs": [
+        "Poziv na brdu Safa",
+        "Islam Hamze i Omera",
+        "Bojkot u Ši'bu Ebi Talib",
+        "Smrt Ebu Taliba i Hatidže"
+      ],
+      "de": [
+        "Aufruf auf dem Berg Safa",
+        "Islam von Hamza und Umar",
+        "Boykott in Schi'b Abi Talib",
+        "Tod von Abu Talib und Chadidscha"
+      ]
+    },
+    "explanation": {
+      "bs": "Hronologija: 1) Poziv na Saffi (4. godina), 2) Islam Hamze i Omera (6. godina), 3) Bojkot (7-10. godina), 4) Smrt Ebu Taliba i Hatidže (10. godina - Godina tuge).",
+      "de": "Chronologie: 1) Aufruf auf Safa (4. Jahr), 2) Islam von Hamza und Umar (6. Jahr), 3) Boykott (7.-10. Jahr), 4) Tod von Abu Talib und Chadidscha (10. Jahr - Jahr der Trauer)."
+    }
+  },
+  {
+    "quiz_id": 5,
+    "question_id": 100,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Priprema za Hidžru",
+    "question": {
+      "bs": "Deseta godina poslanstva, nazvana 'Godina tuge', bila je ujedno i godina kada je Poslanik ﷺ počeo intenzivnije tražiti podršku izvan Mekke.",
+      "de": "Das zehnte Jahr des Prophetentums, genannt 'Jahr der Trauer', war auch das Jahr, in dem der Prophet ﷺ begann, intensiver Unterstützung ausserhalb Mekkas zu suchen."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Nakon smrti Ebu Taliba i Hatidže r.a., Poslanik ﷺ je izgubio najveće oslonce u Meki. To ga je navelo da intenzivnije traži podršku izvan grada - otišao je u Taif i počeo aktivnije pozivati plemena tokom hadža, što je na kraju dovelo do susreta s Ensarijama.",
+      "de": "Richtig! Nach dem Tod von Abu Talib und Chadidscha r.a. verlor der Prophet ﷺ seine grössten Stützen in Mekka. Das veranlasste ihn, intensiver Unterstützung ausserhalb der Stadt zu suchen - er ging nach Taif und begann, während der Hadsch die Stämme aktiver einzuladen, was schliesslich zur Begegnung mit den Ansar führte."
+    }
+  }
+]

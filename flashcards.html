@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="bs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flashcards | Poslanikova sira</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/flashcards.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Amiri:wght@400;700&family=Inter:wght@400;500;600;700&family=Poppins:wght@600;700;800&display=swap" rel="stylesheet">
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-P10X0MRPDG"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag("js", new Date());
+  gtag("config", "G-P10X0MRPDG");
+</script>
+</head>
+<body class="flashcards-page">
+    <!-- Header copied from index for consistency -->
+    <header class="header">
+        <div class="container">
+            <div class="header-content">
+                <!-- Wrap logo in a link to return home -->
+                <a href="index.html" class="logo" style="text-decoration: none; color: inherit;">
+                    <div class="logo-icon">
+                        <!-- Use the same logo image as index -->
+                        <img src="images/logo_sira.png" alt="Logo">
+                    </div>
+                    <div class="logo-text">
+                        <!-- Site title is now translatable -->
+                        <h1 data-translate="siteTitle">Poslanikova sira</h1>
+                        <p class="subtitle" data-translate="siteSubtitle">Život Allahovog Poslanika</p>
+                    </div>
+                </a>
+                <nav class="nav">
+                    <div class="user-info" id="userInfo">
+                        <span class="user-icon">👤</span>
+                        <span class="user-name" id="userName">Gost</span>
+                        <span class="user-points" id="userPoints"></span>
+                    </div>
+                    <button class="nav-btn" data-page="stats">
+                        <span class="icon">📊</span>
+                        <span data-translate="statistics">Statistika</span>
+                    </button>
+                    <button class="nav-btn" data-page="flashcards">
+                        <span class="icon">🎴</span>
+                        <span data-translate="flashcardsNav">Kartice</span>
+                    </button>
+                    <button class="nav-btn logout-btn" id="logoutBtn">
+                        <span class="icon">🚪</span>
+                        <span data-translate="logout">Odjava</span>
+                    </button>
+                </nav>
+            </div>
+        </div>
+    </header>
+
+    <main class="main-content">
+        <div class="container">
+            <!-- Categories View -->
+            <section id="categoriesView">
+                <h2 data-translate="flashcardsHeading">Kartice za učenje</h2>
+                <p data-translate="selectCategory">Odaberite kviz</p>
+                <div id="categoriesGrid" class="categories-grid"></div>
+            </section>
+            <!-- Flashcards View -->
+            <section id="flashcardsView" style="display:none;">
+                <!-- Flashcard header: shows current quiz name and known/unknown counts -->
+                <div id="flashcardHeader" class="flashcard-header">
+                    <h3 id="currentQuizName"></h3>
+                    <p id="knownUnknownCounts"></p>
+                </div>
+                <div id="flashcardProgress" class="flashcard-progress"></div>
+                <div class="progress-container">
+                    <div id="flashcardProgressBar" class="progress-bar"></div>
+                </div>
+                <div id="flashcard" class="flashcard"></div>
+                <div id="flashcardActions" class="actions">
+                    <button id="knownBtn"></button>
+                    <button id="unknownBtn"></button>
+                </div>
+                <div id="flashcardResults"></div>
+            </section>
+        </div>
+    </main>
+    <footer class="footer">
+        <div class="container">
+            <div class="support-section">
+                <p data-translate="totalQuizzesInfo">📖 Ukupno 10 kvizova • 1000 pitanja</p>
+                <p class="coffee-text" data-translate="coffeeText">☕ Budi dio dobra koje širimo dalje. Dok će mnogi samo proći pored ovog poziva, ti možeš biti onaj ko će podržati naš rad jednom kahvom. Klikni na QR kod i podrži nas!</p>
+                <a href="https://www.buymeacoffee.com/mekteb" target="_blank">
+                    <img src="images/bmc_qr.png" alt="Buy Me a Coffee QR" class="qr-code">
+                </a>
+                <p><a href="https://www.buymeacoffee.com/mekteb" target="_blank" class="support-link">buymeacoffee.com/mekteb</a></p>
+                <p data-translate="basedOnWorks">Kvizovi su zasnovani na knjigama "Das Leben des Propheten Muhammad ﷺ – Der versiegelte Nektar (Ar-Raheeq Al-Makhtum)" i "Die Prophetische Biografie Von Ibn Hisham".</p>
+                <p data-translate="contactInfo">Kontakt: <a href="mailto:info@mekteb.net">info@mekteb.net</a></p>
+                <p class="copyright">© 2026 <span data-translate="siteTitleFooter">Poslanikova sira</span>. <span data-translate="allRightsReserved">Sva prava zadržana.</span></p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="js/translations.js"></script>
+    <script src="js/auth.js"></script>
+    <script src="js/flashcards.js"></script>
+    <script src="js/app.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            // Update user info in header
+            const currentUser = JSON.parse(localStorage.getItem('currentUser') || '{}');
+            const userNameEl = document.getElementById('userName');
+            const userPointsEl = document.getElementById('userPoints');
+            if (currentUser.username) {
+                userNameEl.textContent = currentUser.username;
+            }
+            if (currentUser.points !== undefined) {
+                userPointsEl.textContent = `${currentUser.points} ${getUserLanguage() === 'de' ? 'Punkte' : 'Bodova'}`;
+            }
+            if (typeof applyTranslations === 'function') {
+                applyTranslations();
+            }
+        });
+    </script>
+</body>
+</html>

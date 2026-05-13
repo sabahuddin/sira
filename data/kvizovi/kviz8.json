@@ -1,0 +1,2829 @@
+[
+  {
+    "quiz_id": 8,
+    "question_id": 1,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Pohodi između Uhuda i Ahzaba",
+    "question": {
+      "bs": "Nakon bitke na Uhudu, ugled i autoritet muslimana su ojačali među okolnim plemenima.",
+      "de": "Nach der Schlacht von Uhud stärkten sich das Ansehen und die Autorität der Muslime unter den umliegenden Stämmen."
+    },
+    "correct": false,
+    "explanation": {
+      "bs": "Netačno. Tragične posljedice Uhuda nanijele su veliku štetu ugledu muslimana. Oslabilo je strahopoštovanje i uvažavanje, a unutrašnje i vanjske opasnosti su se povećale. Jevreji, munafici i beduini počeli su otvoreno ispoljavati neprijateljstvo.",
+      "de": "Falsch. Die tragischen Folgen von Uhud fügten dem Ansehen der Muslime grossen Schaden zu. Respekt und Anerkennung schwanden, während interne und externe Gefahren zunahmen. Juden, Heuchler und Beduinen begannen offen ihre Feindschaft zu zeigen."
+    }
+  },
+  {
+    "quiz_id": 8,
+    "question_id": 2,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Pohod na Ebu Seleme",
+    "question": {
+      "bs": "Koje pleme je prvo ustalo protiv muslimana nakon bitke na Uhudu?",
+      "de": "Welcher Stamm erhob sich zuerst gegen die Muslime nach der Schlacht von Uhud?"
+    },
+    "options": {
+      "bs": [
+        "Benu Esed bin Huzejmeta",
+        "Benu Kajnuka'",
+        "Benu Nadir",
+        "Benu Kurejza"
+      ],
+      "de": [
+        "Banu Asad bin Chuzaima",
+        "Banu Qainuqa",
+        "Banu Nadir",
+        "Banu Quraiza"
+      ]
+    },
+    "correct": {
+      "bs": "Benu Esed bin Huzejmeta",
+      "de": "Banu Asad bin Chuzaima"
+    },
+    "explanation": {
+      "bs": "Pleme Benu Esed bin Huzejmeta bilo je prvo koje je ustalo protiv muslimana nakon Uhuda. Talha i Selema, sinovi Huvejlida, krenuli su sa svojim ratnicima da napadnu Medinu i Resulullaha ﷺ.",
+      "de": "Der Stamm Banu Asad bin Chuzaima war der erste, der sich nach Uhud gegen die Muslime erhob. Talha und Salama, die Söhne von Chuwailid, marschierten mit ihren Kriegern, um Medina und den Gesandten Allahs ﷺ anzugreifen."
+    }
+  },
+  {
+    "quiz_id": 8,
+    "question_id": 3,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Pohod na Ebu Seleme",
+    "question": {
+      "bs": "Ko je predvodio izvidnicu protiv plemena Benu Esed bin Huzejmeta u muharemu 4. godine po Hidžri?",
+      "de": "Wer führte die Expedition gegen den Stamm Banu Asad bin Chuzaima im Muharram des 4. Jahres nach der Hidschra?"
+    },
+    "options": {
+      "bs": [
+        "Abdullah bin Unejs",
+        "Ebu Selema",
+        "Mersed bin Ebi Mersed",
+        "Sa'd bin Ebi Vekkas"
+      ],
+      "de": [
+        "Abdullah bin Unais",
+        "Abu Salama",
+        "Marsad bin Abi Marsad",
+        "Sa'd bin Abi Waqqas"
+      ]
+    },
+    "correct": {
+      "bs": "Ebu Selema",
+      "de": "Abu Salama"
+    },
+    "explanation": {
+      "bs": "Ebu Selema je predvodio izvidnicu od sto pedeset boraca, muhadžira i ensarija, protiv plemena Benu Esed. Muslimani su iznenadili neprijatelja i zarobili deve i ratni plijen bez borbe. Ebu Selema se vratio bolestan od rana s Uhuda i ubrzo umro.",
+      "de": "Abu Salama führte eine Expedition von hundertfünfzig Kämpfern, Muhadschirin und Ansar, gegen den Stamm Banu Asad. Die Muslime überraschten den Feind und erbeuteten Kamele und Kriegsbeute ohne Kampf. Abu Salama kehrte krank von seinen Uhud-Wunden zurück und starb bald darauf."
+    }
+  },
+  {
+    "quiz_id": 8,
+    "question_id": 4,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Pohod Abdullaha bin Unejsa",
+    "question": {
+      "bs": "Abdullah bin Unejs je bio odsutan iz Medine osamnaest noći kada je krenuo protiv Halida bin Sufjana el-Huzelija.",
+      "de": "Abdullah bin Unais war achtzehn Nächte von Medina abwesend, als er gegen Khalid bin Sufyan al-Hudhali zog."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno. Abdullah bin Unejs je krenuo 5. muharema 4. godine po Hidžri i vratio se 23. muharema, noseći Halidovu glavu. Resulullah ﷺ mu je darovao svoj štap kao znak između njih dvojice na Sudnjem danu.",
+      "de": "Richtig. Abdullah bin Unais brach am 5. Muharram des 4. Jahres nach der Hidschra auf und kehrte am 23. Muharram zurück, mit Khalids Kopf. Der Gesandte Allahs ﷺ schenkte ihm seinen Stock als Zeichen zwischen ihnen beiden am Tag des Gerichts."
+    }
+  },
+  {
+    "quiz_id": 8,
+    "question_id": 5,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Pohod Abdullaha bin Unejsa",
+    "question": {
+      "bs": "Šta je Resulullah ﷺ darovao Abdullahu bin Unejsu nakon uspješne misije?",
+      "de": "Was schenkte der Gesandte Allahs ﷺ Abdullah bin Unais nach seiner erfolgreichen Mission?"
+    },
+    "options": {
+      "bs": [
+        "Svog konja",
+        "Svoj ogrtač",
+        "Svoju sablju",
+        "Svoj štap"
+      ],
+      "de": [
+        "Sein Pferd",
+        "Seinen Mantel",
+        "Sein Schwert",
+        "Seinen Stock"
+      ]
+    },
+    "correct": {
+      "bs": "Svoj štap",
+      "de": "Seinen Stock"
+    },
+    "explanation": {
+      "bs": "Resulullah ﷺ je darovao Abdullahu bin Unejsu svoj štap i rekao: 'Taj štap će na Sudnjem danu biti znak između mene i tebe.' Kada je Abdullah umirao, oporučio je da stave štap s njim u tabut.",
+      "de": "Der Gesandte Allahs ﷺ schenkte Abdullah bin Unais seinen Stock und sagte: 'Dieser Stock wird am Tag des Gerichts ein Zeichen zwischen mir und dir sein.' Als Abdullah starb, ordnete er an, dass der Stock mit ihm in den Sarg gelegt werden sollte."
+    }
+  },
+  {
+    "quiz_id": 8,
+    "question_id": 6,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Tragedija na Er-Redži'u",
+    "question": {
+      "bs": "Koja dva plemena su zatražila od Resulullaha ﷺ ljude koji će ih podučiti islamu, a zatim ih izdala?",
+      "de": "Welche zwei Stämme baten den Gesandten Allahs ﷺ um Leute, die sie den Islam lehren sollten, und verrieten sie dann?"
+    },
+    "options": {
+      "bs": [
+        "Gatafan i Benu Esed",
+        "Huzejl i Benu Lihjan",
+        "Benu Amir i Benu Sulejm",
+        "Adal i El-Kareta"
+      ],
+      "de": [
+        "Ghatafan und Banu Asad",
+        "Hudhail und Banu Lihyan",
+        "Banu Amir und Banu Sulaim",
+        "Adal und al-Qara"
+      ]
+    },
+    "correct": {
+      "bs": "Adal i El-Kareta",
+      "de": "Adal und al-Qara"
+    },
+    "explanation": {
+      "bs": "Predstavnici plemena Adal i El-Kareta došli su kod Resulullaha ﷺ tvrdeći da naginju islamu i zatražili ljude koji će ih podučiti vjeri. Međutim, izdali su muslimane kod mjesta Er-Redži'u i pozvali pleme Huzejl-Benu Lihjan da ih napadne.",
+      "de": "Vertreter der Stämme Adal und al-Qara kamen zum Gesandten Allahs ﷺ und behaupteten, sie neigten zum Islam, und baten um Leute, die sie im Glauben unterrichten sollten. Sie verrieten jedoch die Muslime bei Er-Radschi' und riefen den Stamm Hudhail-Banu Lihyan herbei, um sie anzugreifen."
+    }
+  },
+  {
+    "quiz_id": 8,
+    "question_id": 7,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Tragedija na Er-Redži'u",
+    "question": {
+      "bs": "Ko je predvodio skupinu muslimana poslanu plemenima Adal i El-Kareta prema Ibn Ishaku?",
+      "de": "Wer führte die Gruppe der Muslime an, die zu den Stämmen Adal und al-Qara geschickt wurde, laut Ibn Ishaq?"
+    },
+    "options": {
+      "bs": [
+        "Hubejb bin Adijj",
+        "Asim bin Sabit",
+        "Mersed bin Ebi Mersed",
+        "Zejd bin ed-Desinnet"
+      ],
+      "de": [
+        "Khubayb bin Adiyy",
+        "Asim bin Thabit",
+        "Marsad bin Abi Marsad",
+        "Zaid bin ad-Dathinna"
+      ]
+    },
+    "correct": {
+      "bs": "Mersed bin Ebi Mersed",
+      "de": "Marsad bin Abi Marsad"
+    },
+    "explanation": {
+      "bs": "Prema Ibn Ishaku, Mersed bin Ebi Mersed je predvodio skupinu od šest osoba (prema Buhariji deset), dok je prema Buhariji vođa bio Asim bin Sabit, djed Asima bin Omera bin el-Hattaba. Obje predaje se prenose u izvorima.",
+      "de": "Laut Ibn Ishaq führte Marsad bin Abi Marsad eine Gruppe von sechs Personen (laut Bukhari zehn), während laut Bukhari der Anführer Asim bin Thabit war, der Grossvater von Asim bin Umar bin al-Khattab. Beide Überlieferungen werden in den Quellen erwähnt."
+    }
+  },
+  {
+    "quiz_id": 8,
+    "question_id": 8,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Tragedija na Er-Redži'u",
+    "question": {
+      "bs": "Hubejb bin Adijj je bio prvi čovjek koji je klanjao dva rekata prije pogubljenja.",
+      "de": "Khubayb bin Adiyy war der erste Mensch, der zwei Gebetseinheiten vor seiner Hinrichtung verrichtete."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno. Kada su ga Kurejšije htjeli razapeti izvan Harema, Hubejb je zatražio da klanja dva rekata. To je bila prva praksa klanjanja namaza prije pogubljenja u islamu. Rekao je: 'Da nećete reći da se plašim, klanjao bih još koji rekat.'",
+      "de": "Richtig. Als die Quraisch ihn ausserhalb des Heiligtums kreuzigen wollten, bat Khubayb darum, zwei Gebetseinheiten zu verrichten. Dies war die erste Praxis des Gebets vor der Hinrichtung im Islam. Er sagte: 'Wenn ihr nicht sagen würdet, dass ich Angst habe, würde ich noch mehr beten.'"
+    }
+  },
+  {
+    "quiz_id": 8,
+    "question_id": 9,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Tragedija na Er-Redži'u",
+    "question": {
+      "bs": "Šta je Hubejb odgovorio kada ga je Ebu Sufjan upitao bi li volio da je Muhammed ﷺ na njegovom mjestu?",
+      "de": "Was antwortete Khubayb, als Abu Sufyan ihn fragte, ob er wünschte, dass Muhammad ﷺ an seiner Stelle wäre?"
+    },
+    "options": {
+      "bs": [
+        "'Ne znam šta bih odgovorio.'",
+        "'Da, volio bih da sam kod svoje porodice.'",
+        "'Ne bi me veselilo da je Muhammed na ovome mjestu pa da ga makar i trn ubode.'",
+        "'Pustite me da razmislim.'"
+      ],
+      "de": [
+        "'Ich weiss nicht, was ich antworten soll.'",
+        "'Ja, ich wünschte, ich wäre bei meiner Familie.'",
+        "'Es würde mich nicht erfreuen, wenn Muhammad an dieser Stelle wäre, selbst wenn ihn nur ein Dorn stechen würde.'",
+        "'Lasst mich darüber nachdenken.'"
+      ]
+    },
+    "correct": {
+      "bs": "'Ne bi me veselilo da je Muhammed na ovome mjestu pa da ga makar i trn ubode.'",
+      "de": "'Es würde mich nicht erfreuen, wenn Muhammad an dieser Stelle wäre, selbst wenn ihn nur ein Dorn stechen würde.'"
+    },
+    "explanation": {
+      "bs": "Hubejb je pokazao nevjerovatnu ljubav prema Poslaniku ﷺ. Na Ebu Sufjanovo pitanje odgovorio je da ne bi volio biti kod svoje porodice ako bi to značilo da bi Muhammed ﷺ bio na njegovom mjestu čak i da ga samo trn ubode.",
+      "de": "Khubayb zeigte unglaubliche Liebe zum Propheten ﷺ. Auf Abu Sufyans Frage antwortete er, dass er nicht bei seiner Familie sein wollte, wenn das bedeuten würde, dass Muhammad ﷺ an seiner Stelle wäre, selbst wenn ihn nur ein Dorn stechen würde."
+    }
+  },
+  {
+    "quiz_id": 8,
+    "question_id": 10,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Bi'ru Meunet",
+    "question": {
+      "bs": "Koliko ashaba je poginulo u tragediji Bi'ru Meunet u mjesecu saferu 4. godine po Hidžri?",
+      "de": "Wie viele Gefährten starben bei der Tragödie von Bi'r Ma'una im Monat Safar des 4. Jahres nach der Hidschra?"
+    },
+    "options": {
+      "bs": [
+        "Sedamdeset ashaba",
+        "Pedeset ashaba",
+        "Trideset ashaba",
+        "Deset ashaba"
+      ],
+      "de": [
+        "Siebzig Gefährten",
+        "Fünfzig Gefährten",
+        "Dreissig Gefährten",
+        "Zehn Gefährten"
+      ]
+    },
+    "correct": {
+      "bs": "Sedamdeset ashaba",
+      "de": "Siebzig Gefährten"
+    },
+    "explanation": {
+      "bs": "U tragediji Bi'ru Meunet, koju je izvršilo pleme Benu Amir, poginulo je sedamdeset ashaba. Ovaj događaj se desio istog mjeseca kao i tragedija na Er-Redži'u, u saferu 4. godine po Hidžri.",
+      "de": "Bei der Tragödie von Bi'r Ma'una, die vom Stamm Banu Amir verübt wurde, starben siebzig Gefährten. Dieses Ereignis fand im selben Monat wie die Tragödie von Er-Radschi' statt, im Safar des 4. Jahres nach der Hidschra."
+    }
+  },
+  {
+    "quiz_id": 8,
+    "question_id": 11,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Benu Nadir",
+    "question": {
+      "bs": "Pleme Benu Nadir je pripremilo plan za ubistvo Resulullaha ﷺ u mjesecu rebiul-evelu 4. godine po Hidžri.",
+      "de": "Der Stamm Banu Nadir bereitete einen Plan vor, um den Gesandten Allahs ﷺ im Monat Rabi' al-Awwal des 4. Jahres nach der Hidschra zu töten."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno. Jevrejsko pleme Benu Nadir je javno ispoljavalo neprijateljstvo i u mjesecu rebiul-evelu 4. godine po Hidžri pripremili su plan za ubistvo Resulullaha ﷺ. Ovaj čin je doveo do pohoda protiv njih.",
+      "de": "Richtig. Der jüdische Stamm Banu Nadir zeigte offen Feindschaft und bereitete im Monat Rabi' al-Awwal des 4. Jahres nach der Hidschra einen Plan vor, um den Gesandten Allahs ﷺ zu töten. Diese Tat führte zu einem Feldzug gegen sie."
+    }
+  },
+  {
+    "quiz_id": 8,
+    "question_id": 12,
+    "type": "ordering",
+    "difficulty": "hard",
+    "source_section": "Pohodi između Uhuda i Ahzaba",
+    "question": {
+      "bs": "Poredaj događaje nakon Uhuda hronološkim redom:",
+      "de": "Ordne die Ereignisse nach Uhud in chronologischer Reihenfolge:"
+    },
+    "options": {
+      "bs": [
+        "Tragedija na Er-Redži'u",
+        "Pohod Ebu Seleme na Benu Esed",
+        "Pohod Abdullaha bin Unejsa",
+        "Tragedija Bi'ru Meunet"
+      ],
+      "de": [
+        "Tragödie von Er-Radschi'",
+        "Feldzug von Abu Salama gegen Banu Asad",
+        "Feldzug von Abdullah bin Unais",
+        "Tragödie von Bi'r Ma'una"
+      ]
+    },
+    "correct": {
+      "bs": [
+        "Pohod Ebu Seleme na Benu Esed",
+        "Pohod Abdullaha bin Unejsa",
+        "Tragedija na Er-Redži'u",
+        "Tragedija Bi'ru Meunet"
+      ],
+      "de": [
+        "Feldzug von Abu Salama gegen Banu Asad",
+        "Feldzug von Abdullah bin Unais",
+        "Tragödie von Er-Radschi'",
+        "Tragödie von Bi'r Ma'una"
+      ]
+    },
+    "explanation": {
+      "bs": "Pohod Ebu Seleme bio je 1. muharema, pohod Abdullaha bin Unejsa 5. muharema, a obje tragedije su se desile u saferu 4. godine po Hidžri. Er-Redži'u se spominje prije Bi'ru Meuneta u izvorima.",
+      "de": "Der Feldzug von Abu Salama war am 1. Muharram, der Feldzug von Abdullah bin Unais am 5. Muharram, und beide Tragödien ereigneten sich im Safar des 4. Jahres nach der Hidschra. Er-Radschi' wird in den Quellen vor Bi'r Ma'una erwähnt."
+    }
+  },
+  {
+    "quiz_id": 8,
+    "question_id": 13,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Hudejbija - polazak",
+    "question": {
+      "bs": "U kojem mjesecu i godini je Resulullah ﷺ krenuo na umru koja je rezultirala Hudejbijskim ugovorom?",
+      "de": "In welchem Monat und Jahr brach der Gesandte Allahs ﷺ zur Umra auf, die zum Vertrag von Hudaibiya führte?"
+    },
+    "options": {
+      "bs": [
+        "Ramazan, 6. godina po Hidžri",
+        "Zul-hidždže, 6. godina po Hidžri",
+        "Ševval, 6. godina po Hidžri",
+        "Zul-ka'de, 6. godina po Hidžri"
+      ],
+      "de": [
+        "Ramadan, 6. Jahr nach der Hidschra",
+        "Dhul-Hiddscha, 6. Jahr nach der Hidschra",
+        "Schawwal, 6. Jahr nach der Hidschra",
+        "Dhul-Qa'da, 6. Jahr nach der Hidschra"
+      ]
+    },
+    "correct": {
+      "bs": "Zul-ka'de, 6. godina po Hidžri",
+      "de": "Dhul-Qa'da, 6. Jahr nach der Hidschra"
+    },
+    "explanation": {
+      "bs": "Resulullah ﷺ je krenuo na umru u mjesecu zul-ka'de 6. godine po Hidžri. Muslimani su krenuli u ihramima, vodeći kurbane, bez namjere za ratovanje, ali su Kurejšije pokušale spriječiti njihov dolazak u Meku.",
+      "de": "Der Gesandte Allahs ﷺ brach zur Umra im Monat Dhul-Qa'da des 6. Jahres nach der Hidschra auf. Die Muslime zogen in Ihram-Kleidung los und führten Opfertiere mit, ohne Kriegsabsichten, aber die Quraisch versuchten, ihre Ankunft in Mekka zu verhindern."
+    }
+  },
+  {
+    "quiz_id": 8,
+    "question_id": 14,
+    "type": "true_false",
+    "difficulty": "easy",
+    "source_section": "Hudejbija - polazak",
+    "question": {
+      "bs": "Muslimani su krenuli na Hudejbiju naoružani i spremni za rat.",
+      "de": "Die Muslime brachen nach Hudaibiya bewaffnet und kriegsbereit auf."
+    },
+    "correct": false,
+    "explanation": {
+      "bs": "Netačno. Muslimani su krenuli u ihramima, vodeći kurbane, s namjerom da obave umru, a ne da ratuju. Resulullah ﷺ je jasno rekao: 'Mi nismo došli da ikoga ubijamo, nego smo došli da umru obavimo.'",
+      "de": "Falsch. Die Muslime brachen in Ihram-Kleidung auf und führten Opfertiere mit sich, in der Absicht, die Umra zu vollziehen, nicht um zu kämpfen. Der Gesandte Allahs ﷺ sagte klar: 'Wir sind nicht gekommen, um jemanden zu töten, sondern um die Umra zu verrichten.'"
+    }
+  },
+  {
+    "quiz_id": 8,
+    "question_id": 15,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Hudejbija - Halid bin Velid",
+    "question": {
+      "bs": "Ko je predvodio kurejšijsku konjicu koja je pokušala spriječiti muslimane na putu za Meku?",
+      "de": "Wer führte die Quraisch-Kavallerie an, die versuchte, die Muslime auf dem Weg nach Mekka aufzuhalten?"
+    },
+    "options": {
+      "bs": [
+        "Amr bin el-As",
+        "Ebu Sufjan",
+        "Halid bin Velid",
+        "Ikrime bin Ebi Džehl"
+      ],
+      "de": [
+        "Amr bin al-As",
+        "Abu Sufyan",
+        "Khalid bin Walid",
+        "Ikrimah bin Abi Dschahl"
+      ]
+    },
+    "correct": {
+      "bs": "Halid bin Velid",
+      "de": "Khalid bin Walid"
+    },
+    "explanation": {
+      "bs": "Halid bin Velid je predvodio sto konjanika u vojnoj postaji u Kurai-l-Gamimu na glavnom putu koji vodi do Meke. On je pokušavao spriječiti dolazak muslimana i planirao napad dok su muslimani bili na namazu.",
+      "de": "Khalid bin Walid führte hundert Reiter in einem Militärposten in Kura'il-Ghamim auf der Hauptstrasse nach Mekka an. Er versuchte, die Ankunft der Muslime zu verhindern, und plante einen Angriff, während die Muslime beim Gebet waren."
+    }
+  },
+  {
+    "quiz_id": 8,
+    "question_id": 16,
+    "type": "true_false",
+    "difficulty": "hard",
+    "source_section": "Hudejbija - namaz u opasnosti",
+    "question": {
+      "bs": "Propis o 'salatul-havf' (namazu u opasnosti) je objavljen kada je Halid bin Velid planirao napad na muslimane tokom namaza.",
+      "de": "Die Vorschrift über 'Salat al-Khawf' (Gebet in Gefahr) wurde offenbart, als Khalid bin Walid einen Angriff auf die Muslime während des Gebets plante."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno. Halid je vidio muslimane na podne-namazu i rekao: 'Bili su neoprezni. Da smo ih napali, nanijeli bismo im žrtve.' Planirao je napad na ikindiji, ali Allah ﷻ je objavio propis o namazu u opasnosti (salatul-havf), pa je Halidov plan propao.",
+      "de": "Richtig. Khalid sah die Muslime beim Mittagsgebet und sagte: 'Sie waren unvorsichtig. Hätten wir sie angegriffen, hätten wir ihnen Verluste zugefügt.' Er plante einen Angriff beim Nachmittagsgebet, aber Allah ﷻ offenbarte die Vorschrift über das Gebet in Gefahr (Salat al-Khawf), und Khalids Plan scheiterte."
+    }
+  },
+  {
+    "quiz_id": 8,
+    "question_id": 17,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Hudejbija - El-Kasva",
+    "question": {
+      "bs": "Kako se zvala deva Resulullaha ﷺ koja je stala kod Hudejbije?",
+      "de": "Wie hiess die Kamelstute des Gesandten Allahs ﷺ, die bei Hudaibiya stehen blieb?"
+    },
+    "options": {
+      "bs": [
+        "El-Džed'a",
+        "El-Kadisija",
+        "El-Kasva",
+        "El-Adba"
+      ],
+      "de": [
+        "Al-Dschad'a",
+        "Al-Qadisiyya",
+        "Al-Qaswa",
+        "Al-Adba"
+      ]
+    },
+    "correct": {
+      "bs": "El-Kasva",
+      "de": "Al-Qaswa"
+    },
+    "explanation": {
+      "bs": "Deva Resulullaha ﷺ zvala se El-Kasva. Kada je stala kod Senijjetul-Merara, ljudi su povikali: 'Iznevjeri El-Kasva!', ali Poslanik ﷺ je rekao: 'Nije El-Kasva iznevjerila, nije to njoj u prirodi, ali joj se ispriječio onaj koji se ispriječio i slonu.'",
+      "de": "Die Kamelstute des Gesandten Allahs ﷺ hiess Al-Qaswa. Als sie bei Saniyyat al-Murar stehen blieb, riefen die Leute: 'Al-Qaswa hat versagt!', aber der Prophet ﷺ sagte: 'Al-Qaswa hat nicht versagt, das ist nicht ihre Natur, aber derjenige hat sie aufgehalten, der auch den Elefanten aufgehalten hat.'"
+    }
+  },
+  {
+    "quiz_id": 8,
+    "question_id": 18,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Hudejbija - El-Kasva",
+    "question": {
+      "bs": "Resulullah ﷺ je uporedio zaustavljanje svoje deve El-Kasve sa događajem kada je Allah zaustavio slona da ne uđe u Meku.",
+      "de": "Der Gesandte Allahs ﷺ verglich das Stehenbleiben seiner Kamelstute Al-Qaswa mit dem Ereignis, als Allah den Elefanten daran hinderte, Mekka zu betreten."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno. Kada je El-Kasva stala, Resulullah ﷺ je rekao: 'Ali joj se ispriječio onaj koji se ispriječio i slonu' - aludirajući na Allahovu intervenciju koja je spriječila Abrahin vojsku sa slonovima da uništi Kabu.",
+      "de": "Richtig. Als Al-Qaswa stehen blieb, sagte der Gesandte Allahs ﷺ: 'Aber derjenige hat sie aufgehalten, der auch den Elefanten aufgehalten hat' - eine Anspielung auf Allahs Eingreifen, das Abrahas Elefantenarmee daran hinderte, die Kaaba zu zerstören."
+    }
+  },
+  {
+    "quiz_id": 8,
+    "question_id": 19,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Hudejbija - čudo s vodom",
+    "question": {
+      "bs": "Šta je Resulullah ﷺ učinio kada su muslimani ostali bez vode na Hudejbiji?",
+      "de": "Was tat der Gesandte Allahs ﷺ, als den Muslimen bei Hudaibiya das Wasser ausging?"
+    },
+    "options": {
+      "bs": [
+        "Stavio je strijelu iz svog tobolčeta u korito i voda je nadošla",
+        "Poslao izvidnicu da pronađe izvor",
+        "Naredio da se iskopa bunar",
+        "Molio dovu i spustila se kiša"
+      ],
+      "de": [
+        "Er legte einen Pfeil aus seinem Köcher in den Trog und das Wasser stieg an",
+        "Er schickte eine Patrouille, um eine Quelle zu finden",
+        "Er befahl, einen Brunnen zu graben",
+        "Er betete und Regen fiel"
+      ]
+    },
+    "correct": {
+      "bs": "Stavio je strijelu iz svog tobolčeta u korito i voda je nadošla",
+      "de": "Er legte einen Pfeil aus seinem Köcher in den Trog und das Wasser stieg an"
+    },
+    "explanation": {
+      "bs": "Na Hudejbiji je postojalo korito s vodom koja je polako curila. Muslimani su brzo iscrpili vodu i požalili se da su žedni. Resulullah ﷺ je izvadio strijelu iz tobolčeta i naredio da je stave u korito. Voda je nadošla, prelila korito i zapljusnula ih.",
+      "de": "Bei Hudaibiya gab es einen Trog mit Wasser, das langsam sickerte. Die Muslime schöpften das Wasser schnell aus und beklagten sich über Durst. Der Gesandte Allahs ﷺ nahm einen Pfeil aus seinem Köcher und befahl, ihn in den Trog zu legen. Das Wasser stieg an, überlief den Trog und überflutete sie."
+    }
+  },
+  {
+    "quiz_id": 8,
+    "question_id": 20,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Hudejbija - Budejl",
+    "question": {
+      "bs": "Ko je bio prvi posrednik između Resulullaha ﷺ i Kurejšija na Hudejbiji?",
+      "de": "Wer war der erste Vermittler zwischen dem Gesandten Allahs ﷺ und den Quraisch bei Hudaibiya?"
+    },
+    "options": {
+      "bs": [
+        "Mikrez bin Hafs",
+        "Urve bin Mes'ud es-Sekafi",
+        "Budejl bin Verka el-Huzai",
+        "El-Hulejs bin Alkamet"
+      ],
+      "de": [
+        "Mikraz bin Hafs",
+        "Urwa bin Mas'ud ath-Thaqafi",
+        "Budail bin Warqa al-Chuza'i",
+        "Al-Hulais bin Alqama"
+      ]
+    },
+    "correct": {
+      "bs": "Budejl bin Verka el-Huzai",
+      "de": "Budail bin Warqa al-Chuza'i"
+    },
+    "explanation": {
+      "bs": "Budejl bin Verka el-Huzai je bio prvi koji je došao kod Resulullaha ﷺ s grupom ljudi iz plemena Benu Huza'a. Ovo pleme je bilo povjerljivo Allahovom Poslaniku ﷺ. Budejl je prenio poruku Kurejšijama o namjerama muslimana.",
+      "de": "Budail bin Warqa al-Chuza'i war der erste, der zum Gesandten Allahs ﷺ mit einer Gruppe von Leuten vom Stamm Banu Chuza'a kam. Dieser Stamm war dem Gesandten Allahs ﷺ gegenüber loyal. Budail überbrachte den Quraisch die Botschaft über die Absichten der Muslime."
+    }
+  },
+  {
+    "quiz_id": 8,
+    "question_id": 21,
+    "type": "true_false",
+    "difficulty": "easy",
+    "source_section": "Hudejbija - Budejl",
+    "question": {
+      "bs": "Pleme Benu Huza'a je bilo neprijateljski nastrojeno prema Resulullahu ﷺ.",
+      "de": "Der Stamm Banu Chuza'a war dem Gesandten Allahs ﷺ gegenüber feindlich gesinnt."
+    },
+    "correct": false,
+    "explanation": {
+      "bs": "Netačno. Pleme Benu Huza'a, stanovnici Tihame, bilo je povjerljivo Allahovom Poslaniku ﷺ. Budejl bin Verka, njihov predstavnik, posredovao je između muslimana i Kurejšija.",
+      "de": "Falsch. Der Stamm Banu Chuza'a, Bewohner von Tihama, war dem Gesandten Allahs ﷺ gegenüber loyal. Budail bin Warqa, ihr Vertreter, vermittelte zwischen den Muslimen und den Quraisch."
+    }
+  },
+  {
+    "quiz_id": 8,
+    "question_id": 22,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Hudejbija - El-Hulejs",
+    "question": {
+      "bs": "Zašto je Resulullah ﷺ naredio da se El-Hulesjsu bin Alkametu pokažu kurbani?",
+      "de": "Warum befahl der Gesandte Allahs ﷺ, Al-Hulais bin Alqama die Opfertiere zu zeigen?"
+    },
+    "options": {
+      "bs": [
+        "Jer je sumnjao u iskrenost muslimana",
+        "Jer je bio trgovac životinjama",
+        "Jer je bio iz plemena koje je poštovalo kurbane",
+        "Jer je bio kurejšijski vođa"
+      ],
+      "de": [
+        "Weil er an der Aufrichtigkeit der Muslime zweifelte",
+        "Weil er ein Tierhändler war",
+        "Weil er aus einem Stamm war, der Opfertiere verehrte",
+        "Weil er ein Anführer der Quraisch war"
+      ]
+    },
+    "correct": {
+      "bs": "Jer je bio iz plemena koje je poštovalo kurbane",
+      "de": "Weil er aus einem Stamm war, der Opfertiere verehrte"
+    },
+    "explanation": {
+      "bs": "Resulullah ﷺ je prepoznao El-Hulejsa i rekao: 'On je iz plemena koje obožava devu. Pokažite mu ih, izvedite pred njega kurbane.' Muslimani su ga dočekali s telbijom, a El-Hulejs je rekao: 'Slava Allahu, ovom narodu ne treba zabranjivati dolazak u Kabu.'",
+      "de": "Der Gesandte Allahs ﷺ erkannte Al-Hulais und sagte: 'Er ist aus einem Stamm, der Kamele verehrt. Zeigt sie ihm, bringt die Opfertiere vor ihn.' Die Muslime empfingen ihn mit der Talbiya, und Al-Hulais sagte: 'Gepriesen sei Allah, diesem Volk sollte der Zugang zur Kaaba nicht verwehrt werden.'"
+    }
+  },
+  {
+    "quiz_id": 8,
+    "question_id": 23,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Hudejbija - Urve bin Mes'ud",
+    "question": {
+      "bs": "Urve bin Mes'ud es-Sekafi je bio izaslanik kod mnogih vladara. Koje vladare je posjetio?",
+      "de": "Urwa bin Mas'ud ath-Thaqafi war Gesandter bei vielen Herrschern. Welche Herrscher hat er besucht?"
+    },
+    "options": {
+      "bs": [
+        "Kisru, Mukavkisa i Munzira",
+        "Negusa, Mukavkisa i Harisa",
+        "Faraona, Heraklija i Kisru",
+        "Cezara, Kserksa i Negusa"
+      ],
+      "de": [
+        "Chosrau, Muqawqis und Mundhir",
+        "Negus, Muqawqis und Harith",
+        "Pharao, Heraklius und Chosrau",
+        "Caesar, Xerxes und Negus"
+      ]
+    },
+    "correct": {
+      "bs": "Cezara, Kserksa i Negusa",
+      "de": "Caesar, Xerxes und Negus"
+    },
+    "explanation": {
+      "bs": "Urve bin Mes'ud se pohvalio da je bio kod Kajsara (Cezara), Kisra'a (Kserksa - perzijskog vladara) i Nedžašije (Negusa - etiopskog kralja). Rekao je da nigdje nije vidio takvo poštovanje prema vladaru kao kod ashaba prema Muhammedu ﷺ.",
+      "de": "Urwa bin Mas'ud prahlte, dass er bei Qaisar (Caesar), Kisra (Xerxes - dem persischen Herrscher) und Nadschashi (Negus - dem äthiopischen König) gewesen war. Er sagte, dass er nirgendwo solchen Respekt für einen Herrscher gesehen habe wie bei den Gefährten gegenüber Muhammad ﷺ."
+    }
+  },
+  {
+    "quiz_id": 8,
+    "question_id": 24,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Hudejbija - Urve bin Mes'ud",
+    "question": {
+      "bs": "Urve bin Mes'ud je rekao Kurejšijama da nikada nije vidio veću ljubav prema vladaru nego što ashabi pokazuju prema Muhammedu ﷺ.",
+      "de": "Urwa bin Mas'ud sagte den Quraisch, dass er nie grössere Liebe zu einem Herrscher gesehen habe als die, die die Gefährten Muhammad ﷺ zeigten."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno. Urve je rekao: 'Nisam vidio da ijednog kralja vole i poštuju njegovi ljudi kao što to čine Muhammedovi ljudi Muhammedu. Ako pljune, njegova pljuvačka obavezno završi na dlanu nekog od ashaba. Kad im nešto naredi, natječu se da to urade.'",
+      "de": "Richtig. Urwa sagte: 'Ich habe nie gesehen, dass ein König von seinen Leuten so geliebt und respektiert wird wie Muhammad von seinen Leuten. Wenn er spuckt, landet sein Speichel auf der Handfläche eines seiner Gefährten. Wenn er ihnen etwas befiehlt, wetteifern sie darum, es auszuführen.'"
+    }
+  },
+  {
+    "quiz_id": 8,
+    "question_id": 25,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Hudejbija - Urve bin Mes'ud",
+    "question": {
+      "bs": "Ko je udario sabljom o korice svaki put kada je Urve bin Mes'ud pokušao dotaknuti bradu Resulullaha ﷺ?",
+      "de": "Wer schlug mit dem Schwert gegen die Scheide, jedes Mal wenn Urwa bin Mas'ud versuchte, den Bart des Gesandten Allahs ﷺ zu berühren?"
+    },
+    "options": {
+      "bs": [
+        "Omer bin el-Hattab",
+        "Mugire bin Šu'be",
+        "Alija bin Ebi Talib",
+        "Ebu Bekr es-Siddik"
+      ],
+      "de": [
+        "Umar bin al-Chattab",
+        "Al-Mughira bin Schu'ba",
+        "Ali bin Abi Talib",
+        "Abu Bakr as-Siddiq"
+      ]
+    },
+    "correct": {
+      "bs": "Mugire bin Šu'be",
+      "de": "Al-Mughira bin Schu'ba"
+    },
+    "explanation": {
+      "bs": "Mugire bin Šu'be je stajao s isukanom sabljom kraj Resulullaha ﷺ. Svaki put kada je Urve pokušao pogladiti bradu Poslanika ﷺ, Mugire bi udario sabljom o korice i ljutito ga ukorio. Urve mu je rekao da ne zaboravlja njihovu raniju vezu (bili su rođaci).",
+      "de": "Al-Mughira bin Schu'ba stand mit gezogenem Schwert neben dem Gesandten Allahs ﷺ. Jedes Mal, wenn Urwa versuchte, den Bart des Propheten ﷺ zu streicheln, schlug Mughira mit dem Schwert gegen die Scheide und tadelte ihn zornig. Urwa erinnerte ihn an ihre frühere Beziehung (sie waren Verwandte)."
+    }
+  },
+  {
+    "quiz_id": 8,
+    "question_id": 26,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Hudejbija - mladi Kurejšije",
+    "question": {
+      "bs": "Sedamdeset ili osamdeset mladih Kurejšija je pokušalo napasti muslimanski logor po noći, ali ih je sve pohvatao Muhammed bin Mesleme.",
+      "de": "Siebzig oder achtzig junge Quraisch versuchten, das muslimische Lager nachts anzugreifen, aber Muhammad bin Maslama fing sie alle."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno. Razuzdani mladi Kurejšije, nezadovoljni mirovnim pregovorima, pokušali su izazvati sukob. Spustili su se niz brdo Et-Ten'im i htjeli ući u muslimanski logor, ali ih je sve pohvatao Muhammed bin Mesleme, zapovjednik straže. Resulullah ﷺ ih je pustio na slobodu iz želje za primirjem.",
+      "de": "Richtig. Aufmüpfige junge Quraisch, unzufrieden mit den Friedensverhandlungen, versuchten einen Konflikt zu provozieren. Sie kamen den Berg Et-Tan'im herunter und wollten das muslimische Lager betreten, aber Muhammad bin Maslama, der Wachkommandant, fing sie alle. Der Gesandte Allahs ﷺ liess sie aus dem Wunsch nach Frieden frei."
+    }
+  },
+  {
+    "quiz_id": 8,
+    "question_id": 27,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Hudejbija - Osman kao delegat",
+    "question": {
+      "bs": "Koga je Resulullah ﷺ prvo htio poslati kao delegata Kurejšijama?",
+      "de": "Wen wollte der Gesandte Allahs ﷺ zuerst als Gesandten zu den Quraisch schicken?"
+    },
+    "options": {
+      "bs": [
+        "Aliju bin Ebi Taliba",
+        "Ebu Bekra es-Siddika",
+        "Omera bin el-Hattaba",
+        "Osmana bin Affana"
+      ],
+      "de": [
+        "Ali bin Abi Talib",
+        "Abu Bakr as-Siddiq",
+        "Umar bin al-Chattab",
+        "Uthman bin Affan"
+      ]
+    },
+    "correct": {
+      "bs": "Omera bin el-Hattaba",
+      "de": "Umar bin al-Chattab"
+    },
+    "explanation": {
+      "bs": "Resulullah ﷺ je prvo pozvao Omera bin el-Hattaba da ga pošalje Kurejšijama. Omer se ispričao govoreći da nema nikoga u Meki da bi ga mogao odbraniti ako ga Benu Ka'b stavi na muke. Predložio je da pošalje Osmana bin Affana čija porodica je bila u Meki.",
+      "de": "Der Gesandte Allahs ﷺ rief zuerst Umar bin al-Chattab, um ihn zu den Quraisch zu schicken. Umar entschuldigte sich und sagte, er habe niemanden in Mekka, der ihn verteidigen könnte, wenn Banu Ka'b ihn in Schwierigkeiten brächte. Er schlug vor, Uthman bin Affan zu schicken, dessen Familie in Mekka war."
+    }
+  },
+  {
+    "quiz_id": 8,
+    "question_id": 28,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Hudejbija - Osman kao delegat",
+    "question": {
+      "bs": "Osman bin Affan je prihvatio ponudu Kurejšija da učini tavaf oko Kabe dok je bio u Meki kao delegat.",
+      "de": "Uthman bin Affan nahm das Angebot der Quraisch an, den Tawaf um die Kaaba zu verrichten, während er als Gesandter in Mekka war."
+    },
+    "correct": false,
+    "explanation": {
+      "bs": "Netačno. Kada su mu Kurejšije ponudili da učini tavaf oko Kabe, Osman je odbio ovu ponudu i rekao da neće učiniti tavaf dok to ne uradi Resulullah ﷺ. Pokazao je potpunu lojalnost i solidarnost s Poslanikom ﷺ i muslimanima.",
+      "de": "Falsch. Als die Quraisch ihm anboten, den Tawaf um die Kaaba zu verrichten, lehnte Uthman dieses Angebot ab und sagte, er würde keinen Tawaf machen, bis der Gesandte Allahs ﷺ es tut. Er zeigte vollständige Loyalität und Solidarität mit dem Propheten ﷺ und den Muslimen."
+    }
+  },
+  {
+    "quiz_id": 8,
+    "question_id": 29,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Hudejbija - Osmanova misija",
+    "question": {
+      "bs": "Ko je Osmana bin Affana podigao na konja i pratio ga do Meke?",
+      "de": "Wer setzte Uthman bin Affan auf ein Pferd und begleitete ihn nach Mekka?"
+    },
+    "options": {
+      "bs": [
+        "Halid bin Velid",
+        "Ebu Sufjan",
+        "Amr bin el-As",
+        "Eban bin Seid bin el-As"
+      ],
+      "de": [
+        "Khalid bin Walid",
+        "Abu Sufyan",
+        "Amr bin al-As",
+        "Aban bin Said bin al-As"
+      ]
+    },
+    "correct": {
+      "bs": "Eban bin Seid bin el-As",
+      "de": "Aban bin Said bin al-As"
+    },
+    "explanation": {
+      "bs": "Eban bin Seid bin el-As je dočekao Osmana, nazdravio mu dobrodošlicu, osedlao novog konja, podigao Osmana na njega i pohitao s njim u Meku. Ovaj gest pokazuje da je Osman imao podršku među nekim Kurejšijama.",
+      "de": "Aban bin Said bin al-As empfing Uthman, hiess ihn willkommen, sattelte ein neues Pferd, setzte Uthman darauf und eilte mit ihm nach Mekka. Diese Geste zeigt, dass Uthman bei einigen Quraisch Unterstützung hatte."
+    }
+  },
+  {
+    "quiz_id": 8,
+    "question_id": 30,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "source_section": "Bejatu Ridvan",
+    "question": {
+      "bs": "Kako se zove prisega koju su muslimani dali Resulullahu ﷺ na Hudejbiji?",
+      "de": "Wie heisst der Treueschwur, den die Muslime dem Gesandten Allahs ﷺ bei Hudaibiya leisteten?"
+    },
+    "options": {
+      "bs": [
+        "Bejatul-Harb",
+        "Bejatul-Akabe",
+        "Bejatu Ridvan",
+        "Bejatul-Islam"
+      ],
+      "de": [
+        "Bai'at al-Harb",
+        "Bai'at al-Aqaba",
+        "Bai'at ar-Ridwan",
+        "Bai'at al-Islam"
+      ]
+    },
+    "correct": {
+      "bs": "Bejatu Ridvan",
+      "de": "Bai'at ar-Ridwan"
+    },
+    "explanation": {
+      "bs": "Prisega se zove Bejatu Ridvan (Prisega zadovoljstva) jer je Allah ﷻ izrazio zadovoljstvo vjernicima koji su je položili. U Kur'anu stoji: 'Allah je zadovoljan onim vjernicima koji su ti se pod drvetom na vjernost zakleli.' (48:18)",
+      "de": "Der Treueschwur heisst Bai'at ar-Ridwan (Schwur der Zufriedenheit), weil Allah ﷻ Seine Zufriedenheit mit den Gläubigen ausdrückte, die ihn leisteten. Im Koran steht: 'Allah ist wahrlich zufrieden mit den Gläubigen, die dir unter dem Baum die Treue schworen.' (48:18)"
+    }
+  },
+  {
+    "quiz_id": 8,
+    "question_id": 31,
+    "type": "true_false",
+    "difficulty": "easy",
+    "source_section": "Bejatu Ridvan",
+    "question": {
+      "bs": "Bejatu Ridvan je položena pod drvetom.",
+      "de": "Bai'at ar-Ridwan wurde unter einem Baum geleistet."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno. Prisega Ridvan je položena pod drvetom na Hudejbiji. Omer r.a. je držao Resulullaha ﷺ za ruku, a Ma'kil bin Jesar je podizao granu drveta kako ne bi smetala Allahovom Poslaniku ﷺ. Kur'an spominje ovu prisegu u suri El-Feth.",
+      "de": "Richtig. Der Treueschwur Ridwan wurde unter einem Baum bei Hudaibiya geleistet. Umar r.a. hielt die Hand des Gesandten Allahs ﷺ, und Ma'qil bin Yasar hob einen Ast des Baumes an, damit er dem Gesandten Allahs ﷺ nicht im Weg war. Der Koran erwähnt diesen Schwur in Sure Al-Fath."
+    }
+  },
+  {
+    "quiz_id": 8,
+    "question_id": 32,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Bejatu Ridvan",
+    "question": {
+      "bs": "Šta je bio povod za Bejatu Ridvan?",
+      "de": "Was war der Anlass für Bai'at ar-Ridwan?"
+    },
+    "options": {
+      "bs": [
+        "Glasine o ubistvu Osmana r.a.",
+        "Zahtjev Kurejšija za predaju",
+        "Objava ajeta o džihadu",
+        "Dolazak kurejšijske vojske"
+      ],
+      "de": [
+        "Gerüchte über die Ermordung von Uthman r.a.",
+        "Forderung der Quraisch nach Kapitulation",
+        "Offenbarung des Verses über den Dschihad",
+        "Ankunft der Quraisch-Armee"
+      ]
+    },
+    "correct": {
+      "bs": "Glasine o ubistvu Osmana r.a.",
+      "de": "Gerüchte über die Ermordung von Uthman r.a."
+    },
+    "explanation": {
+      "bs": "Kada je Osman duže zadržan kod Kurejšija, proširio se glas da je ubijen. Resulullah ﷺ je tada rekao: 'Nećemo odustati dok ne kaznimo taj narod' i pozvao ashabe da polože zakletvu na vjernost.",
+      "de": "Als Uthman länger bei den Quraisch aufgehalten wurde, verbreitete sich das Gerücht, er sei getötet worden. Der Gesandte Allahs ﷺ sagte dann: 'Wir werden nicht aufgeben, bis wir dieses Volk bestrafen' und rief die Gefährten auf, den Treueschwur zu leisten."
+    }
+  },
+  {
+    "quiz_id": 8,
+    "question_id": 33,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Bejatu Ridvan",
+    "question": {
+      "bs": "Ko je bio prvi koji je dao prisegu Resulullahu ﷺ na Bejatu Ridvan?",
+      "de": "Wer war der erste, der dem Gesandten Allahs ﷺ bei Bai'at ar-Ridwan den Treueschwur leistete?"
+    },
+    "options": {
+      "bs": [
+        "Ebu Bekr es-Siddik",
+        "Ebu Sinan el-Esedijj",
+        "Omer bin el-Hattab",
+        "Selema bin el-Ekve'a"
+      ],
+      "de": [
+        "Abu Bakr as-Siddiq",
+        "Abu Sinan al-Asadi",
+        "Umar bin al-Chattab",
+        "Salama bin al-Akwa"
+      ]
+    },
+    "correct": {
+      "bs": "Ebu Sinan el-Esedijj",
+      "de": "Abu Sinan al-Asadi"
+    },
+    "explanation": {
+      "bs": "Prvi koji je dao prisegu Resulullahu ﷺ na Bejatu Ridvan bio je Ebu Sinan el-Esedijj. Selema bin el-Ekve'a se zakleo tri puta - među prvim ljudima, zatim u sredini i na kraju s posljednjima.",
+      "de": "Der erste, der dem Gesandten Allahs ﷺ bei Bai'at ar-Ridwan den Treueschwur leistete, war Abu Sinan al-Asadi. Salama bin al-Akwa schwor dreimal - unter den ersten Menschen, dann in der Mitte und am Ende mit den letzten."
+    }
+  },
+  {
+    "quiz_id": 8,
+    "question_id": 34,
+    "type": "true_false",
+    "difficulty": "hard",
+    "source_section": "Bejatu Ridvan",
+    "question": {
+      "bs": "Resulullah ﷺ je stavio svoju drugu ruku na svoju ruku govoreći: 'Ova moja druga ruka je za Osmana' - čime je Osman simbolično dao prisegu.",
+      "de": "Der Gesandte Allahs ﷺ legte seine andere Hand auf seine Hand und sagte: 'Diese meine andere Hand ist für Uthman' - womit Uthman symbolisch den Schwur leistete."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno. Pošto je Osman bio u Meki kao delegat, Resulullah ﷺ je dao prisegu u njegovo ime tako što je stavio šaku u šaku i rekao: 'Ova moja druga ruka je za Osmana.' Kada se Osman vratio, i on je lično potvrdio prisegu.",
+      "de": "Richtig. Da Uthman als Gesandter in Mekka war, leistete der Gesandte Allahs ﷺ den Schwur in seinem Namen, indem er seine Handfläche in seine Handfläche legte und sagte: 'Diese meine andere Hand ist für Uthman.' Als Uthman zurückkehrte, bestätigte er persönlich den Schwur."
+    }
+  },
+  {
+    "quiz_id": 8,
+    "question_id": 35,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Bejatu Ridvan",
+    "question": {
+      "bs": "Ko je bio jedini koji je odbio dati prisegu na Bejatu Ridvan?",
+      "de": "Wer war der einzige, der sich weigerte, bei Bai'at ar-Ridwan den Schwur zu leisten?"
+    },
+    "options": {
+      "bs": [
+        "Džedd bin Kajs (munafik)",
+        "Ebu Amir er-Rahib",
+        "Haris bin Suvejd",
+        "Abdullah bin Ubejj"
+      ],
+      "de": [
+        "Dschadd bin Qais (Heuchler)",
+        "Abu Amir ar-Rahib",
+        "Harith bin Suwaid",
+        "Abdullah bin Ubayy"
+      ]
+    },
+    "correct": {
+      "bs": "Džedd bin Kajs (munafik)",
+      "de": "Dschadd bin Qais (Heuchler)"
+    },
+    "explanation": {
+      "bs": "Od Bejatu Ridvan odustao je samo jedan čovjek - munafik (licemjer) po imenu Džedd bin Kajs. Svi ostali ashabi su dali prisegu na vjernost, bilo da neće pobjeći ili na vjernost do smrti.",
+      "de": "Von Bai'at ar-Ridwan zog sich nur ein Mann zurück - ein Heuchler namens Dschadd bin Qais. Alle anderen Gefährten leisteten den Treueschwur, entweder nicht zu fliehen oder bis zum Tod treu zu bleiben."
+    }
+  },
+  {
+    "quiz_id": 8,
+    "question_id": 36,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Bejatu Ridvan",
+    "question": {
+      "bs": "Ko je držao Resulullaha ﷺ za ruku tokom Bejatu Ridvan?",
+      "de": "Wer hielt die Hand des Gesandten Allahs ﷺ während Bai'at ar-Ridwan?"
+    },
+    "options": {
+      "bs": [
+        "Ebu Bekr es-Siddik",
+        "Omer bin el-Hattab",
+        "Alija bin Ebi Talib",
+        "Osman bin Affan"
+      ],
+      "de": [
+        "Abu Bakr as-Siddiq",
+        "Umar bin al-Chattab",
+        "Ali bin Abi Talib",
+        "Uthman bin Affan"
+      ]
+    },
+    "correct": {
+      "bs": "Omer bin el-Hattab",
+      "de": "Umar bin al-Chattab"
+    },
+    "explanation": {
+      "bs": "Omer r.a. je držao Resulullaha ﷺ za ruku tokom ceremonije prisege, dok je Ma'kil bin Jesar podizao granu drveta kako ne bi smetala Poslaniku ﷺ.",
+      "de": "Umar r.a. hielt die Hand des Gesandten Allahs ﷺ während der Schwurzeremonie, während Ma'qil bin Yasar einen Ast des Baumes anhob, damit er dem Propheten ﷺ nicht im Weg war."
+    }
+  },
+  {
+    "quiz_id": 8,
+    "question_id": 37,
+    "type": "multiple_choice",
+    "difficulty": "hard",
+    "source_section": "Bejatu Ridvan",
+    "question": {
+      "bs": "Na šta su se ashabi zakleli na Bejatu Ridvan? (Odaberi sve tačne odgovore)",
+      "de": "Worauf schworen die Gefährten bei Bai'at ar-Ridwan? (Wähle alle richtigen Antworten)"
+    },
+    "options": {
+      "bs": [
+        "Na vjernost do smrti",
+        "Da će osvojiti Meku",
+        "Da će osvetiti Osmana",
+        "Da neće pobjeći"
+      ],
+      "de": [
+        "Treue bis zum Tod",
+        "Mekka zu erobern",
+        "Uthman zu rächen",
+        "Nicht zu fliehen"
+      ]
+    },
+    "correct": {
+      "bs": [
+        "Da neće pobjeći",
+        "Na vjernost do smrti"
+      ],
+      "de": [
+        "Nicht zu fliehen",
+        "Treue bis zum Tod"
+      ]
+    },
+    "explanation": {
+      "bs": "Ashabi su se zaklinjali da neće pobjeći, a neka grupa se zaklela na vjernost do smrti. Selema bin el-Ekve'a kaže da se tri puta zakleo na vjernost do smrti. Cilj nije bio osveta već odbrana i spremnost na žrtvu.",
+      "de": "Die Gefährten schworen, nicht zu fliehen, und eine Gruppe schwor Treue bis zum Tod. Salama bin al-Akwa sagt, er habe dreimal Treue bis zum Tod geschworen. Das Ziel war nicht Rache, sondern Verteidigung und Opferbereitschaft."
+    }
+  },
+  {
+    "quiz_id": 8,
+    "question_id": 38,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Hudejbijski ugovor",
+    "question": {
+      "bs": "Koliko je trajalo primirje sklopljeno na Hudejbiji?",
+      "de": "Wie lange dauerte der bei Hudaibiya geschlossene Waffenstillstand?"
+    },
+    "options": {
+      "bs": [
+        "Sedam godina",
+        "Tri godine",
+        "Pet godina",
+        "Deset godina"
+      ],
+      "de": [
+        "Sieben Jahre",
+        "Drei Jahre",
+        "Fünf Jahre",
+        "Zehn Jahre"
+      ]
+    },
+    "correct": {
+      "bs": "Deset godina",
+      "de": "Zehn Jahre"
+    },
+    "explanation": {
+      "bs": "Primirje sklopljeno na Hudejbiji trebalo je trajati deset godina. Međutim, Kurejšije su prekršile ugovor nakon samo dvije godine kada su napali pleme Benu Huza'a, saveznike muslimana, što je dovelo do oslobođenja Meke.",
+      "de": "Der bei Hudaibiya geschlossene Waffenstillstand sollte zehn Jahre dauern. Die Quraisch brachen jedoch den Vertrag nach nur zwei Jahren, als sie den Stamm Banu Chuza'a, Verbündete der Muslime, angriffen, was zur Eroberung von Mekka führte."
+    }
+  },
+  {
+    "quiz_id": 8,
+    "question_id": 39,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Hudejbijski ugovor",
+    "question": {
+      "bs": "Prema Hudejbijskom ugovoru, muslimani su te godine mogli ući u Meku i obaviti umru.",
+      "de": "Laut dem Vertrag von Hudaibiya durften die Muslime in diesem Jahr nach Mekka einreisen und die Umra verrichten."
+    },
+    "correct": false,
+    "explanation": {
+      "bs": "Netačno. Prema ugovoru, muslimani su se morali vratiti te godine bez obavljanja umre. Dozvoljeno im je bilo da dođu sljedeće godine i ostanu tri dana u Meki da obave umru.",
+      "de": "Falsch. Laut dem Vertrag mussten die Muslime in diesem Jahr zurückkehren, ohne die Umra zu verrichten. Es wurde ihnen erlaubt, im nächsten Jahr zu kommen und drei Tage in Mekka zu bleiben, um die Umra zu verrichten."
+    }
+  },
+  {
+    "quiz_id": 8,
+    "question_id": 40,
+    "type": "true_false",
+    "difficulty": "hard",
+    "source_section": "Hudejbijski ugovor",
+    "question": {
+      "bs": "Sura El-Feth (Pobjeda) je objavljena o Hudejbijskom ugovoru i Kur'an ga naziva 'jasnom pobjedom'.",
+      "de": "Sure Al-Fath (Der Sieg) wurde über den Vertrag von Hudaibiya offenbart, und der Koran nennt ihn einen 'klaren Sieg'."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno. Iako se mnogim ashabima činilo da su uvjeti ugovora nepovoljni, Allah ﷻ je objavio suru El-Feth (Pobjeda) nazivajući ovaj događaj 'jasnom pobjedom' (feth mubin). Ugovor je omogućio širenje islama i pripremu za oslobođenje Meke.",
+      "de": "Richtig. Obwohl vielen Gefährten die Vertragsbedingungen ungünstig erschienen, offenbarte Allah ﷻ Sure Al-Fath (Der Sieg) und nannte dieses Ereignis einen 'klaren Sieg' (Fath Mubin). Der Vertrag ermöglichte die Verbreitung des Islam und die Vorbereitung auf die Eroberung von Mekka."
+    }
+  },
+  {
+    "quiz_id": 8,
+    "question_id": 41,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Pisma vladarima",
+    "question": {
+      "bs": "Kada je Resulullah ﷺ počeo slati pisma vladarima svijeta pozivajući ih u islam?",
+      "de": "Wann begann der Gesandte Allahs ﷺ damit, Briefe an die Herrscher der Welt zu senden, um sie zum Islam einzuladen?"
+    },
+    "options": {
+      "bs": [
+        "Nakon oslobođenja Meke",
+        "Nakon Hudejbijskog ugovora",
+        "Nakon Hidžre",
+        "Nakon bitke na Bedru"
+      ],
+      "de": [
+        "Nach der Eroberung von Mekka",
+        "Nach dem Vertrag von Hudaibiya",
+        "Nach der Hidschra",
+        "Nach der Schlacht von Badr"
+      ]
+    },
+    "correct": {
+      "bs": "Nakon Hudejbijskog ugovora",
+      "de": "Nach dem Vertrag von Hudaibiya"
+    },
+    "explanation": {
+      "bs": "Resulullah ﷺ je počeo slati pisma vladarima svijeta nakon Hudejbijskog ugovora, krajem 6. i početkom 7. godine po Hidžri. Primirje mu je omogućilo da se fokusira na širenje islama izvan Arabijskog poluotoka.",
+      "de": "Der Gesandte Allahs ﷺ begann, Briefe an die Herrscher der Welt zu senden, nach dem Vertrag von Hudaibiya, Ende des 6. und Anfang des 7. Jahres nach der Hidschra. Der Waffenstillstand ermöglichte es ihm, sich auf die Verbreitung des Islam ausserhalb der Arabischen Halbinsel zu konzentrieren."
+    }
+  },
+  {
+    "quiz_id": 8,
+    "question_id": 42,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Pismo Herakliju",
+    "question": {
+      "bs": "Ko je odnio pismo Resulullaha ﷺ bizantijskom caru Herakliju?",
+      "de": "Wer überbrachte den Brief des Gesandten Allahs ﷺ an den byzantinischen Kaiser Heraklius?"
+    },
+    "options": {
+      "bs": [
+        "Hatib bin Ebi Belte'a",
+        "Dihja bin Hulejfa el-Kelbi",
+        "Amr bin el-As",
+        "Abdullah bin Huzafa"
+      ],
+      "de": [
+        "Hatib bin Abi Balta'a",
+        "Dihya bin Khalifa al-Kalbi",
+        "Amr bin al-As",
+        "Abdullah bin Hudhafa"
+      ]
+    },
+    "correct": {
+      "bs": "Dihja bin Hulejfa el-Kelbi",
+      "de": "Dihya bin Khalifa al-Kalbi"
+    },
+    "explanation": {
+      "bs": "Dihja bin Hulejfa el-Kelbi je odnio pismo Resulullaha ﷺ bizantijskom caru Herakliju. Heraklije je primio pismo s velikim poštovanjem i ispitivao Ebu Sufjana o Poslaniku ﷺ.",
+      "de": "Dihya bin Khalifa al-Kalbi überbrachte den Brief des Gesandten Allahs ﷺ an den byzantinischen Kaiser Heraklius. Heraklius empfing den Brief mit grossem Respekt und befragte Abu Sufyan über den Propheten ﷺ."
+    }
+  },
+  {
+    "quiz_id": 8,
+    "question_id": 43,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Pismo Herakliju",
+    "question": {
+      "bs": "Heraklije je rekao da bi, kad bi mogao doći do Muhammeda ﷺ, učinio sve da se sretnu i da bi mu prao noge.",
+      "de": "Heraklius sagte, wenn er zu Muhammad ﷺ gelangen könnte, würde er alles tun, um ihn zu treffen, und er würde ihm die Füsse waschen."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno. Nakon što je ispitao Ebu Sufjana i pročitao pismo, Heraklije je rekao: 'Ja sam znao da će on doći, ali nisam znao da je od vas. Kad bih znao da ću moći do njega doći, učinio bih sve da se sretnemo. Da sam uz njega, noge bih mu prao!'",
+      "de": "Richtig. Nachdem er Abu Sufyan befragt und den Brief gelesen hatte, sagte Heraklius: 'Ich wusste, dass er kommen würde, aber ich wusste nicht, dass er von euch ist. Wenn ich wüsste, dass ich zu ihm gelangen könnte, würde ich alles tun, um ihn zu treffen. Wenn ich bei ihm wäre, würde ich ihm die Füsse waschen!'"
+    }
+  },
+  {
+    "quiz_id": 8,
+    "question_id": 44,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Pismo Herakliju",
+    "question": {
+      "bs": "Koga je Heraklije ispitivao o Muhammedu ﷺ?",
+      "de": "Wen befragte Heraklius über Muhammad ﷺ?"
+    },
+    "options": {
+      "bs": [
+        "Halida bin Velida",
+        "Omera bin el-Hattaba",
+        "Dihju bin Hulejfa",
+        "Ebu Sufjana"
+      ],
+      "de": [
+        "Khalid bin Walid",
+        "Umar bin al-Chattab",
+        "Dihya bin Khalifa",
+        "Abu Sufyan"
+      ]
+    },
+    "correct": {
+      "bs": "Ebu Sufjana",
+      "de": "Abu Sufyan"
+    },
+    "explanation": {
+      "bs": "Heraklije je ispitivao Ebu Sufjana koji se u to vrijeme zatekao u Šamu kao trgovac. Postavljao mu je pitanja o Poslanikovu ﷺ porijeklu, sljedbenicima, učenju i karakteru. Ebu Sufjan je morao govoriti istinu jer su s njim bili drugi Arapi koji bi ga mogli demantirati.",
+      "de": "Heraklius befragte Abu Sufyan, der sich zu dieser Zeit als Händler in Syrien aufhielt. Er stellte ihm Fragen über die Abstammung, die Anhänger, die Lehren und den Charakter des Propheten ﷺ. Abu Sufyan musste die Wahrheit sagen, weil andere Araber bei ihm waren, die ihn hätten widerlegen können."
+    }
+  },
+  {
+    "quiz_id": 8,
+    "question_id": 45,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Pismo Kisri",
+    "question": {
+      "bs": "Kako je perzijski vladar Kisra (Hosrov) reagovao na pismo Resulullaha ﷺ?",
+      "de": "Wie reagierte der persische Herrscher Chosrau (Kisra) auf den Brief des Gesandten Allahs ﷺ?"
+    },
+    "options": {
+      "bs": [
+        "Poslao je poklone",
+        "Pocijepio je pismo",
+        "Ignorirao je pismo",
+        "Primio je islam"
+      ],
+      "de": [
+        "Er schickte Geschenke",
+        "Er zerriss den Brief",
+        "Er ignorierte den Brief",
+        "Er nahm den Islam an"
+      ]
+    },
+    "correct": {
+      "bs": "Pocijepio je pismo",
+      "de": "Er zerriss den Brief"
+    },
+    "explanation": {
+      "bs": "Kisra (Hosrov II Parviz) je u oholosti pocijepio pismo Resulullaha ﷺ. Kada je Poslanik ﷺ saznao za to, rekao je: 'Pocijepaće se njegovo carstvo' - što se i obistinilo jer je Perzijsko carstvo uskoro palo pod muslimansku vlast.",
+      "de": "Chosrau (Chosrau II. Parviz) zerriss in seinem Hochmut den Brief des Gesandten Allahs ﷺ. Als der Prophet ﷺ davon erfuhr, sagte er: 'Sein Reich wird zerrissen werden' - was sich bewahrheitete, da das Persische Reich bald unter muslimische Herrschaft fiel."
+    }
+  },
+  {
+    "quiz_id": 8,
+    "question_id": 46,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Pismo Nedžašiji",
+    "question": {
+      "bs": "Kako je etiopski kralj Nedžašija reagovao na pismo Resulullaha ﷺ?",
+      "de": "Wie reagierte der äthiopische König Negus (Nadschashi) auf den Brief des Gesandten Allahs ﷺ?"
+    },
+    "options": {
+      "bs": [
+        "Odbio je poziv",
+        "Zatvorio je poslanika",
+        "Primio je islam",
+        "Pocijepio je pismo"
+      ],
+      "de": [
+        "Er lehnte die Einladung ab",
+        "Er sperrte den Gesandten ein",
+        "Er nahm den Islam an",
+        "Er zerriss den Brief"
+      ]
+    },
+    "correct": {
+      "bs": "Primio je islam",
+      "de": "Er nahm den Islam an"
+    },
+    "explanation": {
+      "bs": "Nedžašija (Negus, Ashama bin Abjar) je primio islam. On je već ranije bio naklonjen muslimanima kada su muhadžiri našli utočište u Abesiniji. Resulullah ﷺ je klanjao dženazu-namaz u odsustvu kada je Nedžašija umro.",
+      "de": "Nadschashi (Negus, Ashama bin Abdschar) nahm den Islam an. Er war den Muslimen bereits früher wohlgesinnt, als die Auswanderer Zuflucht in Abessinien fanden. Der Gesandte Allahs ﷺ verrichtete das Totengebet in Abwesenheit, als Nadschashi starb."
+    }
+  },
+  {
+    "quiz_id": 8,
+    "question_id": 47,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Pismo Mukavkisu",
+    "question": {
+      "bs": "Ko je bio Mukavkis kome je Resulullah ﷺ poslao pismo?",
+      "de": "Wer war Muqawqis, an den der Gesandte Allahs ﷺ einen Brief sandte?"
+    },
+    "options": {
+      "bs": [
+        "Vladar Sirije",
+        "Vladar Jemena",
+        "Vladar Perzije",
+        "Vladar Egipta"
+      ],
+      "de": [
+        "Herrscher von Syrien",
+        "Herrscher des Jemen",
+        "Herrscher von Persien",
+        "Herrscher von Ägypten"
+      ]
+    },
+    "correct": {
+      "bs": "Vladar Egipta",
+      "de": "Herrscher von Ägypten"
+    },
+    "explanation": {
+      "bs": "Mukavkis je bio vladar Egipta (koptski patrijarh i bizantijski namjesnik). Iako nije primio islam, bio je ljubazan i poslao je poklone Resulullahu ﷺ, uključujući dvije robinje - Mariju Koptkinju koja je postala majka Ibrahima, sina Poslanika ﷺ.",
+      "de": "Muqawqis war der Herrscher von Ägypten (koptischer Patriarch und byzantinischer Statthalter). Obwohl er den Islam nicht annahm, war er höflich und sandte dem Gesandten Allahs ﷺ Geschenke, darunter zwei Sklavinnen - Maria die Koptin, die die Mutter von Ibrahim, dem Sohn des Propheten ﷺ, wurde."
+    }
+  },
+  {
+    "quiz_id": 8,
+    "question_id": 48,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Pismo Munziru",
+    "question": {
+      "bs": "El-Munzir bin Savi je bio vladar koje regije?",
+      "de": "Al-Mundhir bin Sawi war der Herrscher welcher Region?"
+    },
+    "options": {
+      "bs": [
+        "Jemena",
+        "Ammana",
+        "Bahrejna",
+        "Jemame"
+      ],
+      "de": [
+        "Jemen",
+        "Amman",
+        "Bahrain",
+        "Yamama"
+      ]
+    },
+    "correct": {
+      "bs": "Bahrejna",
+      "de": "Bahrain"
+    },
+    "explanation": {
+      "bs": "El-Munzir bin Savi je bio vladar Bahrejna. Primio je pismo Resulullaha ﷺ po El-Ala'u bin el-Hudramiju, primio je islam i pisao je Poslaniku ﷺ pitajući kako da postupi s jevrejima i poklonicima vatre u svojoj zemlji.",
+      "de": "Al-Mundhir bin Sawi war der Herrscher von Bahrain. Er empfing den Brief des Gesandten Allahs ﷺ durch Al-Ala bin al-Hadrami, nahm den Islam an und schrieb dem Propheten ﷺ mit der Frage, wie er mit den Juden und Feueranbetern in seinem Land verfahren solle."
+    }
+  },
+  {
+    "quiz_id": 8,
+    "question_id": 49,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Pismo vladaru Jemame",
+    "question": {
+      "bs": "Šta je Huze bin Ali, vladar Jemame, zatražio od Resulullaha ﷺ u zamjenu za prihvatanje islama?",
+      "de": "Was verlangte Hawdha bin Ali, der Herrscher von Yamama, vom Gesandten Allahs ﷺ im Austausch für die Annahme des Islam?"
+    },
+    "options": {
+      "bs": [
+        "Veliko bogatstvo",
+        "Teritorijalno proširenje",
+        "Vojnu pomoć",
+        "Dio vlasti"
+      ],
+      "de": [
+        "Grossen Reichtum",
+        "Territoriale Erweiterung",
+        "Militärische Hilfe",
+        "Anteil an der Macht"
+      ]
+    },
+    "correct": {
+      "bs": "Dio vlasti",
+      "de": "Anteil an der Macht"
+    },
+    "explanation": {
+      "bs": "Huze bin Ali je odgovorio Resulullahu ﷺ: 'Kako je lijepo čemu me pozivaš. Ti učini da i ja imam udjela s tobom (u vlasti), pa ću te slijediti!' Resulullah ﷺ je rekao: 'Da mi je zatražio dio zemlje ne bih mu učinio, jer će izgubiti i ono što ima.'",
+      "de": "Hawdha bin Ali antwortete dem Gesandten Allahs ﷺ: 'Wie schön ist das, wozu du mich einlädst. Gib mir einen Anteil an deiner Macht, dann werde ich dir folgen!' Der Gesandte Allahs ﷺ sagte: 'Selbst wenn er mich um ein Stück Land gebeten hätte, würde ich es ihm nicht geben, denn er wird verlieren, was er hat.'"
+    }
+  },
+  {
+    "quiz_id": 8,
+    "question_id": 50,
+    "type": "ordering",
+    "difficulty": "hard",
+    "source_section": "Pisma vladarima",
+    "question": {
+      "bs": "Poredaj reakcije vladara na pisma Resulullaha ﷺ od najpozitivnije do najnegativnije:",
+      "de": "Ordne die Reaktionen der Herrscher auf die Briefe des Gesandten Allahs ﷺ von der positivsten zur negativsten:"
+    },
+    "options": {
+      "bs": [
+        "Mukavkis - poslao poklone",
+        "Nedžašija - primio islam",
+        "Kisra - pocijepio pismo",
+        "Munzir bin Savi - primio islam"
+      ],
+      "de": [
+        "Muqawqis - sandte Geschenke",
+        "Nadschashi - nahm den Islam an",
+        "Chosrau - zerriss den Brief",
+        "Mundhir bin Sawi - nahm den Islam an"
+      ]
+    },
+    "correct": {
+      "bs": [
+        "Nedžašija - primio islam",
+        "Munzir bin Savi - primio islam",
+        "Mukavkis - poslao poklone",
+        "Kisra - pocijepio pismo"
+      ],
+      "de": [
+        "Nadschashi - nahm den Islam an",
+        "Mundhir bin Sawi - nahm den Islam an",
+        "Muqawqis - sandte Geschenke",
+        "Chosrau - zerriss den Brief"
+      ]
+    },
+    "explanation": {
+      "bs": "Najpozitivnije su reagovali Nedžašija i Munzir bin Savi koji su primili islam. Mukavkis nije primio islam ali je bio ljubazan i poslao poklone. Najnegativnije je reagirao Kisra (Hosrov) koji je u oholosti pocijepio pismo, na što je Resulullah ﷺ rekao da će mu se carstvo pocijepaći.",
+      "de": "Am positivsten reagierten Nadschashi und Mundhir bin Sawi, die den Islam annahmen. Muqawqis nahm den Islam nicht an, war aber höflich und sandte Geschenke. Am negativsten reagierte Chosrau (Kisra), der den Brief hochmütig zerriss, worauf der Gesandte Allahs ﷺ sagte, sein Reich werde zerrissen werden."
+    }
+  },
+  {
+    "quiz_id": 8,
+    "question_id": 51,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Pismo Harisu",
+    "question": {
+      "bs": "Kako je Haris bin Ebi Šemer el-Gassani, vladar Damaska, reagovao na pismo Resulullaha ﷺ?",
+      "de": "Wie reagierte Harith bin Abi Schamir al-Ghassani, der Herrscher von Damaskus, auf den Brief des Gesandten Allahs ﷺ?"
+    },
+    "options": {
+      "bs": [
+        "Poslao je poklone",
+        "Primio je islam",
+        "Zaprijetio je da će sam doći ratovati",
+        "Ignorirao je pismo"
+      ],
+      "de": [
+        "Er sandte Geschenke",
+        "Er nahm den Islam an",
+        "Er drohte, selbst in den Krieg zu ziehen",
+        "Er ignorierte den Brief"
+      ]
+    },
+    "correct": {
+      "bs": "Zaprijetio je da će sam doći ratovati",
+      "de": "Er drohte, selbst in den Krieg zu ziehen"
+    },
+    "explanation": {
+      "bs": "Haris bin Ebi Šemer el-Gassani je oholo reagovao na pismo i zavikao: 'Ko to meni može oduzeti prijestolje moje? Ići ću ja da vidim njega!' On nije primio islam i ostao je neprijateljski nastrojen.",
+      "de": "Harith bin Abi Schamir al-Ghassani reagierte hochmütig auf den Brief und rief: 'Wer kann mir meinen Thron nehmen? Ich werde selbst hingehen und ihn sehen!' Er nahm den Islam nicht an und blieb feindlich gesinnt."
+    }
+  },
+  {
+    "quiz_id": 8,
+    "question_id": 52,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Pismo kralju Ammana",
+    "question": {
+      "bs": "Ko je odnio pismo Resulullaha ﷺ vladaru Ammana, Džejferu i njegovom bratu Abdu?",
+      "de": "Wer überbrachte den Brief des Gesandten Allahs ﷺ an den Herrscher von Oman, Dschaifar und seinen Bruder Abd?"
+    },
+    "options": {
+      "bs": [
+        "Abdullah bin Huzafa",
+        "Amr bin el-As",
+        "Dihja bin Hulejfa",
+        "Hatib bin Ebi Belte'a"
+      ],
+      "de": [
+        "Abdullah bin Hudhafa",
+        "Amr bin al-As",
+        "Dihya bin Khalifa",
+        "Hatib bin Abi Balta'a"
+      ]
+    },
+    "correct": {
+      "bs": "Amr bin el-As",
+      "de": "Amr bin al-As"
+    },
+    "explanation": {
+      "bs": "Amr bin el-As r.a. je odnio pismo vladaru Ammana. U pismu Resulullah ﷺ je pozvao Džejfera i njegovog brata Abda ibn el-Dželendija u islam, upozorivši ih da će izgubiti vlast ako odbiju, a konji će kročiti na njihovo područje.",
+      "de": "Amr bin al-As r.a. überbrachte den Brief an den Herrscher von Oman. In dem Brief lud der Gesandte Allahs ﷺ Dschaifar und seinen Bruder Abd ibn al-Dschalandi zum Islam ein und warnte sie, dass sie ihre Macht verlieren würden, wenn sie ablehnten, und Pferde würden ihr Gebiet betreten."
+    }
+  },
+  {
+    "quiz_id": 8,
+    "question_id": 53,
+    "type": "multiple_choice",
+    "difficulty": "hard",
+    "source_section": "Pisma vladarima",
+    "question": {
+      "bs": "Koji vladari su primili islam nakon pisama Resulullaha ﷺ? (Odaberi sve tačne odgovore)",
+      "de": "Welche Herrscher nahmen den Islam an, nachdem sie Briefe vom Gesandten Allahs ﷺ erhalten hatten? (Wähle alle richtigen Antworten)"
+    },
+    "options": {
+      "bs": [
+        "Nedžašija (Etiopija)",
+        "Mukavkis (Egipat)",
+        "Kisra (Perzija)",
+        "Munzir bin Savi (Bahrejn)"
+      ],
+      "de": [
+        "Nadschashi (Äthiopien)",
+        "Muqawqis (Ägypten)",
+        "Chosrau (Persien)",
+        "Mundhir bin Sawi (Bahrain)"
+      ]
+    },
+    "correct": {
+      "bs": [
+        "Nedžašija (Etiopija)",
+        "Munzir bin Savi (Bahrejn)"
+      ],
+      "de": [
+        "Nadschashi (Äthiopien)",
+        "Mundhir bin Sawi (Bahrain)"
+      ]
+    },
+    "explanation": {
+      "bs": "Od svih vladara kojima je Resulullah ﷺ poslao pisma, jedino su Nedžašija (etiopski kralj) i Munzir bin Savi (vladar Bahrejna) primili islam. Mukavkis je bio ljubazan ali nije primio islam, dok je Kisra oholo pocijepio pismo.",
+      "de": "Von allen Herrschern, an die der Gesandte Allahs ﷺ Briefe sandte, nahmen nur Nadschashi (der äthiopische König) und Mundhir bin Sawi (der Herrscher von Bahrain) den Islam an. Muqawqis war höflich, nahm aber den Islam nicht an, während Chosrau den Brief hochmütig zerriss."
+    }
+  },
+  {
+    "quiz_id": 8,
+    "question_id": 54,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Pisma vladarima",
+    "question": {
+      "bs": "Resulullah ﷺ je napravio pečat za pisma s natpisom 'Muhammed Resulullah' u tri reda.",
+      "de": "Der Gesandte Allahs ﷺ fertigte ein Siegel für Briefe mit der Inschrift 'Muhammad Rasulullah' in drei Zeilen an."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno. Resulullah ﷺ je napravio srebreni pečat s natpisom 'Muhammed Resulullah' u tri reda - 'Muhammed' na dnu, 'Resul' u sredini i 'Allah' na vrhu. Ovaj pečat je korišten za zvanična pisma vladarima.",
+      "de": "Richtig. Der Gesandte Allahs ﷺ fertigte ein silbernes Siegel mit der Inschrift 'Muhammad Rasulullah' in drei Zeilen an - 'Muhammad' unten, 'Rasul' in der Mitte und 'Allah' oben. Dieses Siegel wurde für offizielle Briefe an Herrscher verwendet."
+    }
+  },
+  {
+    "quiz_id": 8,
+    "question_id": 55,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Hudejbija - rezultati",
+    "question": {
+      "bs": "Šta je bio jedan od najvažnijih rezultata Hudejbijskog ugovora za širenje islama?",
+      "de": "Was war eines der wichtigsten Ergebnisse des Vertrags von Hudaibiya für die Verbreitung des Islam?"
+    },
+    "options": {
+      "bs": [
+        "Muslimani su dobili veliko bogatstvo",
+        "Muslimani su osvojili Meku",
+        "Kurejšije su primile islam",
+        "Period mira omogućio je da'vu bez rata"
+      ],
+      "de": [
+        "Die Muslime erhielten grossen Reichtum",
+        "Die Muslime eroberten Mekka",
+        "Die Quraisch nahmen den Islam an",
+        "Die Friedensperiode ermöglichte Da'wa ohne Krieg"
+      ]
+    },
+    "correct": {
+      "bs": "Period mira omogućio je da'vu bez rata",
+      "de": "Die Friedensperiode ermöglichte Da'wa ohne Krieg"
+    },
+    "explanation": {
+      "bs": "Hudejbijski ugovor je osigurao desetogodišnje primirje koje je omogućilo muslimanima da se fokusiraju na širenje islama bez ratovanja. U ovom periodu mnogi su primili islam, uključujući i neke od najpoznatijih ashaba poput Halida bin Velida i Amra bin el-Asa.",
+      "de": "Der Vertrag von Hudaibiya sicherte einen zehnjährigen Waffenstillstand, der es den Muslimen ermöglichte, sich auf die Verbreitung des Islam ohne Kriegführung zu konzentrieren. In dieser Zeit nahmen viele den Islam an, darunter einige der berühmtesten Gefährten wie Khalid bin Walid und Amr bin al-As."
+    }
+  },
+  {
+    "quiz_id": 8,
+    "question_id": 56,
+    "type": "true_false",
+    "difficulty": "easy",
+    "source_section": "Hudejbija",
+    "question": {
+      "bs": "Hudejbija je mjesto koje se nalazi između Meke i Medine.",
+      "de": "Hudaibiya ist ein Ort, der zwischen Mekka und Medina liegt."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno. Hudejbija je mjesto koje se nalazi na putu između Meke i Medine, na rubu Harema. Danas je dio grada Meke. Tu je potpisan historijski mirovni ugovor između muslimana i Kurejšija.",
+      "de": "Richtig. Hudaibiya ist ein Ort auf dem Weg zwischen Mekka und Medina, am Rande des Heiligen Bezirks. Heute ist es Teil der Stadt Mekka. Dort wurde der historische Friedensvertrag zwischen den Muslimen und den Quraisch unterzeichnet."
+    }
+  },
+  {
+    "quiz_id": 8,
+    "question_id": 57,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Tragedija na Er-Redži'u",
+    "question": {
+      "bs": "Gdje se nalazi mjesto Er-Redži'u?",
+      "de": "Wo befindet sich der Ort Er-Radschi'?"
+    },
+    "options": {
+      "bs": [
+        "Između Meke i Taifa",
+        "U Nedždu",
+        "Blizu Medine",
+        "Između Rabiga i Džide"
+      ],
+      "de": [
+        "Zwischen Mekka und Taif",
+        "In Nadschd",
+        "In der Nähe von Medina",
+        "Zwischen Rabigh und Dschidda"
+      ]
+    },
+    "correct": {
+      "bs": "Između Rabiga i Džide",
+      "de": "Zwischen Rabigh und Dschidda"
+    },
+    "explanation": {
+      "bs": "Er-Redži'u je bunar vode plemena Huzejl u Hidžazu, između mjesta Rabiga i Džide. Na ovom mjestu su plemena Adal i El-Kareta izdala muslimane i pozvala Benu Lihjan da ih napadne.",
+      "de": "Er-Radschi' ist ein Brunnen des Stammes Hudhail im Hidschaz, zwischen Rabigh und Dschidda. An diesem Ort verrieten die Stämme Adal und al-Qara die Muslime und riefen Banu Lihyan herbei, um sie anzugreifen."
+    }
+  },
+  {
+    "quiz_id": 8,
+    "question_id": 58,
+    "type": "true_false",
+    "difficulty": "hard",
+    "source_section": "Tragedija na Er-Redži'u",
+    "question": {
+      "bs": "Na tragediji Er-Redži'u poginulo je sedam muslimana od strijela, a trojica su se predala nakon garancije neprijatelja.",
+      "de": "Bei der Tragödie von Er-Radschi' starben sieben Muslime durch Pfeile, und drei ergaben sich nach der Garantie des Feindes."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno. Sedam muslimana je poginulo od pogodaka strijelom braneći se na pješčanoj uzvisini. Preostala trojica - Hubejb, Zejd bin ed-Desinnet i još jedan čovjek - sišli su nakon garancije, ali su izdani i svezani. Treći je odbio da ih slijedi i ubijen je.",
+      "de": "Richtig. Sieben Muslime starben durch Pfeilschüsse, während sie sich auf einer Sanddüne verteidigten. Die verbleibenden drei - Khubayb, Zaid bin ad-Dathinna und ein weiterer Mann - kamen herunter, nachdem ihnen Sicherheit garantiert wurde, wurden aber verraten und gefesselt. Der dritte weigerte sich, ihnen zu folgen, und wurde getötet."
+    }
+  },
+  {
+    "quiz_id": 8,
+    "question_id": 59,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Tragedija na Er-Redži'u",
+    "question": {
+      "bs": "Koliko strijelaca je pleme Huzejl-Benu Lihjan poslalo protiv male skupine muslimana na Er-Redži'u?",
+      "de": "Wie viele Bogenschützen schickte der Stamm Hudhail-Banu Lihyan gegen die kleine Gruppe von Muslimen bei Er-Radschi'?"
+    },
+    "options": {
+      "bs": [
+        "Tristo strijelaca",
+        "Dvjesto strijelaca",
+        "Pedeset strijelaca",
+        "Stotinu strijelaca"
+      ],
+      "de": [
+        "Dreihundert Bogenschützen",
+        "Zweihundert Bogenschützen",
+        "Fünfzig Bogenschützen",
+        "Hundert Bogenschützen"
+      ]
+    },
+    "correct": {
+      "bs": "Stotinu strijelaca",
+      "de": "Hundert Bogenschützen"
+    },
+    "explanation": {
+      "bs": "Pleme Huzejl-Benu Lihjan je poslalo stotinu strijelaca protiv male skupine od šest do deset muslimana. Ovaj neravnopravan broj pokazuje koliko je bila surova izdaja plemena Adal i El-Kareta.",
+      "de": "Der Stamm Hudhail-Banu Lihyan schickte hundert Bogenschützen gegen die kleine Gruppe von sechs bis zehn Muslimen. Diese ungleiche Zahl zeigt, wie brutal der Verrat der Stämme Adal und al-Qara war."
+    }
+  },
+  {
+    "quiz_id": 8,
+    "question_id": 60,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Pohodi između Uhuda i Ahzaba",
+    "question": {
+      "bs": "U kojem mjesecu 4. godine po Hidžri se desila tragedija Bi'ru Meunet?",
+      "de": "In welchem Monat des 4. Jahres nach der Hidschra ereignete sich die Tragödie von Bi'r Ma'una?"
+    },
+    "options": {
+      "bs": [
+        "Muharrem",
+        "Safer",
+        "Rebiul-evvel",
+        "Džumadel-ula"
+      ],
+      "de": [
+        "Muharram",
+        "Safar",
+        "Rabi' al-Awwal",
+        "Dschumada al-Ula"
+      ]
+    },
+    "correct": {
+      "bs": "Safer",
+      "de": "Safar"
+    },
+    "explanation": {
+      "bs": "Tragedija Bi'ru Meunet se desila u mjesecu saferu 4. godine po Hidžri, istog mjeseca kada i tragedija na Er-Redži'u. U ovom napadu plemena Benu Amir poginulo je sedamdeset ashaba.",
+      "de": "Die Tragödie von Bi'r Ma'una ereignete sich im Monat Safar des 4. Jahres nach der Hidschra, im selben Monat wie die Tragödie von Er-Radschi'. Bei diesem Angriff des Stammes Banu Amir starben siebzig Gefährten."
+    }
+  },
+  {
+    "quiz_id": 8,
+    "question_id": 61,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Pohodi između Uhuda i Ahzaba",
+    "question": {
+      "bs": "Pleme Benu Gatafan je planiralo napad na Medinu u mjesecu džumadel-ula 4. godine po Hidžri.",
+      "de": "Der Stamm Banu Ghatafan plante einen Angriff auf Medina im Monat Dschumada al-Ula des 4. Jahres nach der Hidschra."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno. Pleme Benu Gatafan je planiralo napad na Medinu u mjesecu džumadel-ula 4. godine po Hidžri. Ovo je bio jedan od mnogih pokušaja neprijatelja da iskoriste slabost muslimana nakon Uhuda.",
+      "de": "Richtig. Der Stamm Banu Ghatafan plante einen Angriff auf Medina im Monat Dschumada al-Ula des 4. Jahres nach der Hidschra. Dies war einer von vielen Versuchen der Feinde, die Schwäche der Muslime nach Uhud auszunutzen."
+    }
+  },
+  {
+    "quiz_id": 8,
+    "question_id": 62,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "source_section": "Hudejbija",
+    "question": {
+      "bs": "Koliko je otprilike muslimana krenulo na umru koja je rezultirala Hudejbijskim ugovorom?",
+      "de": "Wie viele Muslime brachen ungefähr zur Umra auf, die zum Vertrag von Hudaibiya führte?"
+    },
+    "options": {
+      "bs": [
+        "Oko 1400",
+        "Oko 3000",
+        "Oko 10000",
+        "Oko 700"
+      ],
+      "de": [
+        "Etwa 1400",
+        "Etwa 3000",
+        "Etwa 10000",
+        "Etwa 700"
+      ]
+    },
+    "correct": {
+      "bs": "Oko 1400",
+      "de": "Etwa 1400"
+    },
+    "explanation": {
+      "bs": "Na umru koja je rezultirala Hudejbijskim ugovorom krenulo je oko 1400 muslimana (neki izvori navode 1500). Svi su bili u ihramima i vodili kurbane, pokazujući miroljubive namjere.",
+      "de": "Etwa 1400 Muslime brachen zur Umra auf, die zum Vertrag von Hudaibiya führte (einige Quellen nennen 1500). Alle trugen Ihram-Kleidung und führten Opfertiere mit, um ihre friedlichen Absichten zu zeigen."
+    }
+  },
+  {
+    "quiz_id": 8,
+    "question_id": 63,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Hudejbija - Urve",
+    "question": {
+      "bs": "Urve bin Mes'ud es-Sekafi je bio bratiić Mugire bin Šu'be.",
+      "de": "Urwa bin Mas'ud ath-Thaqafi war ein Cousin von Al-Mughira bin Schu'ba."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno. Urve bin Mes'ud i Mugire bin Šu'be su bili rođaci. Kada je Mugire udario sabljom o korice svaki put kad je Urve pokušao dotaknuti bradu Poslanika ﷺ, Urve ga je podsjetio na njihovo ranije prijateljstvo i rodbinsku vezu.",
+      "de": "Richtig. Urwa bin Mas'ud und Al-Mughira bin Schu'ba waren Verwandte. Als Mughira mit dem Schwert gegen die Scheide schlug, jedes Mal wenn Urwa versuchte, den Bart des Propheten ﷺ zu berühren, erinnerte Urwa ihn an ihre frühere Freundschaft und Verwandtschaft."
+    }
+  },
+  {
+    "quiz_id": 8,
+    "question_id": 64,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Hudejbija - Urve",
+    "question": {
+      "bs": "Šta je Mugire bin Šu'be učinio u predislamsko doba zbog čega ga je Urve nazvao izdajnikom?",
+      "de": "Was hatte Al-Mughira bin Schu'ba in der vorislamischen Zeit getan, weshalb Urwa ihn einen Verräter nannte?"
+    },
+    "options": {
+      "bs": [
+        "Krao je od karavana",
+        "Odbio je boriti se u ratu",
+        "Napustio je svoje pleme",
+        "Putovao je s plemenom, pobio ljude i uzeo njihovu imovinu"
+      ],
+      "de": [
+        "Er stahl von Karawanen",
+        "Er weigerte sich, im Krieg zu kämpfen",
+        "Er verliess seinen Stamm",
+        "Er reiste mit einem Stamm, tötete die Leute und nahm ihr Eigentum"
+      ]
+    },
+    "correct": {
+      "bs": "Putovao je s plemenom, pobio ljude i uzeo njihovu imovinu",
+      "de": "Er reiste mit einem Stamm, tötete die Leute und nahm ihr Eigentum"
+    },
+    "explanation": {
+      "bs": "Mugire je u predislamsko doba putovao u društvu nekog plemena, pa je ljude pobio, njihovu imovinu oduzeo, a zatim otišao i primio islam. Kada je došao kod Resulullaha ﷺ, Poslanik ﷺ je prihvatio njegov islam, ali je odbio uzeti išta od tog imetka.",
+      "de": "Mughira reiste in der vorislamischen Zeit mit einem Stamm, tötete die Leute, nahm ihr Eigentum und nahm dann den Islam an. Als er zum Gesandten Allahs ﷺ kam, akzeptierte der Prophet ﷺ seinen Islam, weigerte sich aber, irgendetwas von diesem Besitz anzunehmen."
+    }
+  },
+  {
+    "quiz_id": 8,
+    "question_id": 65,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Hudejbija - promjena pravca",
+    "question": {
+      "bs": "Zašto je Resulullah ﷺ promijenio pravac kretanja prema Meki izbjegavajući glavni put?",
+      "de": "Warum änderte der Gesandte Allahs ﷺ die Marschrichtung nach Mekka und mied die Hauptstrasse?"
+    },
+    "options": {
+      "bs": [
+        "Da skrati putovanje",
+        "Jer je dobio Objavu da to učini",
+        "Da izbjegne sukob s Halidovom konjicom",
+        "Jer je glavni put bio oštećen"
+      ],
+      "de": [
+        "Um die Reise zu verkürzen",
+        "Weil er eine Offenbarung erhielt, dies zu tun",
+        "Um den Konflikt mit Khalids Kavallerie zu vermeiden",
+        "Weil die Hauptstrasse beschädigt war"
+      ]
+    },
+    "correct": {
+      "bs": "Da izbjegne sukob s Halidovom konjicom",
+      "de": "Um den Konflikt mit Khalids Kavallerie zu vermeiden"
+    },
+    "explanation": {
+      "bs": "Resulullah ﷺ je promijenio pravac kretanja kako bi izbjegao sukob s Halidom bin Velidom i njegovom konjicom. Krenuo je golim, stjenovitim putem, zaobilazeći glavni put. Cilj je bio umra, ne rat, pa je želio izbjeći krvoproliće.",
+      "de": "Der Gesandte Allahs ﷺ änderte die Marschrichtung, um den Konflikt mit Khalid bin Walid und seiner Kavallerie zu vermeiden. Er nahm einen kargen, felsigen Weg und umging die Hauptstrasse. Das Ziel war die Umra, nicht der Krieg, also wollte er Blutvergiessen vermeiden."
+    }
+  },
+  {
+    "quiz_id": 8,
+    "question_id": 66,
+    "type": "true_false",
+    "difficulty": "hard",
+    "source_section": "Hudejbija - El-Kasva",
+    "question": {
+      "bs": "Mjesto gdje je El-Kasva stala zvalo se Senijjetul-Merar.",
+      "de": "Der Ort, an dem Al-Qaswa stehen blieb, hiess Saniyyat al-Murar."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno. El-Kasva je stala kod Senijjetul-Merara, brdovitog prolaza. Resulullah ﷺ je rekao da joj se ispriječio onaj koji se ispriječio i slonu, aludirajući na Allahovu volju i događaj s Abrahinim slonom.",
+      "de": "Richtig. Al-Qaswa blieb bei Saniyyat al-Murar stehen, einem bergigen Pass. Der Gesandte Allahs ﷺ sagte, dass derjenige sie aufgehalten hat, der auch den Elefanten aufgehalten hat, eine Anspielung auf Allahs Willen und das Ereignis mit Abrahas Elefant."
+    }
+  },
+  {
+    "quiz_id": 8,
+    "question_id": 67,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Hudejbijski ugovor",
+    "question": {
+      "bs": "Koliko dana su muslimani mogli ostati u Meki sljedeće godine prema Hudejbijskom ugovoru?",
+      "de": "Wie viele Tage durften die Muslime im nächsten Jahr laut dem Vertrag von Hudaibiya in Mekka bleiben?"
+    },
+    "options": {
+      "bs": [
+        "Jedan dan",
+        "Tri dana",
+        "Sedam dana",
+        "Deset dana"
+      ],
+      "de": [
+        "Einen Tag",
+        "Drei Tage",
+        "Sieben Tage",
+        "Zehn Tage"
+      ]
+    },
+    "correct": {
+      "bs": "Tri dana",
+      "de": "Drei Tage"
+    },
+    "explanation": {
+      "bs": "Prema Hudejbijskom ugovoru, muslimanima je bilo dozvoljeno da dođu sljedeće godine i ostanu tri dana u Meki da obave umru. Kurejšije su trebale napustiti grad za to vrijeme.",
+      "de": "Laut dem Vertrag von Hudaibiya war es den Muslimen erlaubt, im nächsten Jahr zu kommen und drei Tage in Mekka zu bleiben, um die Umra zu verrichten. Die Quraisch sollten die Stadt für diese Zeit verlassen."
+    }
+  },
+  {
+    "quiz_id": 8,
+    "question_id": 68,
+    "type": "multiple_choice",
+    "difficulty": "hard",
+    "source_section": "Hudejbijski ugovor",
+    "question": {
+      "bs": "Koje su bile glavne odredbe Hudejbijskog ugovora? (Odaberi sve tačne odgovore)",
+      "de": "Was waren die Hauptbestimmungen des Vertrags von Hudaibiya? (Wähle alle richtigen Antworten)"
+    },
+    "options": {
+      "bs": [
+        "Desetogodišnje primirje",
+        "Muslimani se vraćaju te godine",
+        "Plemena mogu birati stranu",
+        "Kurejšije plaćaju danak muslimanima"
+      ],
+      "de": [
+        "Zehnjähriger Waffenstillstand",
+        "Muslime kehren in diesem Jahr zurück",
+        "Stämme können eine Seite wählen",
+        "Quraisch zahlen Tribut an die Muslime"
+      ]
+    },
+    "correct": {
+      "bs": [
+        "Desetogodišnje primirje",
+        "Muslimani se vraćaju te godine",
+        "Plemena mogu birati stranu"
+      ],
+      "de": [
+        "Zehnjähriger Waffenstillstand",
+        "Muslime kehren in diesem Jahr zurück",
+        "Stämme können eine Seite wählen"
+      ]
+    },
+    "explanation": {
+      "bs": "Glavne odredbe ugovora bile su: desetogodišnje primirje bez rata, muslimani se vraćaju te godine bez umre (dolaze sljedeće godine na tri dana), plemena mogu slobodno birati savez s bilo kojom stranom. Kurejšije nisu plaćale nikakav danak.",
+      "de": "Die Hauptbestimmungen des Vertrags waren: zehnjähriger Waffenstillstand ohne Krieg, Muslime kehren in diesem Jahr ohne Umra zurück (kommen nächstes Jahr für drei Tage), Stämme können frei ein Bündnis mit jeder Seite wählen. Die Quraisch zahlten keinen Tribut."
+    }
+  },
+  {
+    "quiz_id": 8,
+    "question_id": 69,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Hudejbijski ugovor",
+    "question": {
+      "bs": "Prema Hudejbijskom ugovoru, ako bi neko od Kurejšija prešao na stranu muslimana, muslimani su ga morali vratiti.",
+      "de": "Laut dem Vertrag von Hudaibiya mussten die Muslime jeden Quraisch, der zu den Muslimen überlief, zurückgeben."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno. Ova odredba je bila posebno teška za ashabe. Prema ugovoru, ako bi neko od Kurejšija primio islam i došao muslimanima, morali su ga vratiti. Ali ako bi musliman pobjegao Kurejšijama, oni ga nisu morali vraćati. Ova naizgled nepravedna odredba se pokazala korisnom za islam.",
+      "de": "Richtig. Diese Bestimmung war für die Gefährten besonders schwierig. Laut dem Vertrag mussten die Muslime jeden Quraisch, der den Islam annahm und zu den Muslimen kam, zurückgeben. Aber wenn ein Muslim zu den Quraisch floh, mussten sie ihn nicht zurückgeben. Diese scheinbar ungerechte Bestimmung erwies sich als vorteilhaft für den Islam."
+    }
+  },
+  {
+    "quiz_id": 8,
+    "question_id": 70,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Ebu Lubabe",
+    "question": {
+      "bs": "Šta je učinio Ebu Lubabe nakon što je shvatio da je prevario Allaha i Poslanika ﷺ otkrivši Benu Kurejzama šta ih čeka?",
+      "de": "Was tat Abu Lubaba, nachdem er erkannte, dass er Allah und den Gesandten ﷺ verraten hatte, indem er den Banu Quraiza verriet, was sie erwartete?"
+    },
+    "options": {
+      "bs": [
+        "Pobjegao iz Medine",
+        "Tražio da ga Poslanik ﷺ kazni",
+        "Otišao u Meku",
+        "Zavezao se za stub džamije dok mu Allah ne oprosti"
+      ],
+      "de": [
+        "Er floh aus Medina",
+        "Er bat den Propheten ﷺ, ihn zu bestrafen",
+        "Er ging nach Mekka",
+        "Er band sich an eine Säule der Moschee, bis Allah ihm vergab"
+      ]
+    },
+    "correct": {
+      "bs": "Zavezao se za stub džamije dok mu Allah ne oprosti",
+      "de": "Er band sich an eine Säule der Moschee, bis Allah ihm vergab"
+    },
+    "explanation": {
+      "bs": "Ebu Lubabe je, shvativši svoju grešku, otišao direktno u Poslanikovu ﷺ džamiju i zavezao se za stub. Zakleo se da ga neće niko odvezati dok ga Resulullahova ﷺ ruka ne odveže i da neće kroćiti na zemlju Benu Kurejze. Resulullah ﷺ je rekao da bi mu oprostio da je došao direktno do njega.",
+      "de": "Abu Lubaba ging, als er seinen Fehler erkannte, direkt zur Moschee des Propheten ﷺ und band sich an eine Säule. Er schwor, dass ihn niemand losbinden würde, bis die Hand des Gesandten Allahs ﷺ ihn losbindet, und dass er nie wieder das Land der Banu Quraiza betreten würde. Der Gesandte Allahs ﷺ sagte, er hätte ihm vergeben, wenn er direkt zu ihm gekommen wäre."
+    }
+  },
+  {
+    "quiz_id": 8,
+    "question_id": 71,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Benu Kurejza",
+    "question": {
+      "bs": "Koliko je trajala opsada Benu Kurejze?",
+      "de": "Wie lange dauerte die Belagerung der Banu Quraiza?"
+    },
+    "options": {
+      "bs": [
+        "Oko 25 dana",
+        "Oko 40 dana",
+        "Oko 10 dana",
+        "Oko 15 dana"
+      ],
+      "de": [
+        "Etwa 25 Tage",
+        "Etwa 40 Tage",
+        "Etwa 10 Tage",
+        "Etwa 15 Tage"
+      ]
+    },
+    "correct": {
+      "bs": "Oko 25 dana",
+      "de": "Etwa 25 Tage"
+    },
+    "explanation": {
+      "bs": "Opsada Benu Kurejze trajala je oko dvadeset pet dana. Muslimanska vojska od tri hiljade ljudi s trideset konja opkolila je jevrejsku utvrdu i proglosila blokadu dok ih pritisak gladi i straha nije natjerao da prihvate presudu.",
+      "de": "Die Belagerung der Banu Quraiza dauerte etwa fünfundzwanzig Tage. Die muslimische Armee von dreitausend Mann mit dreissig Pferden umzingelte die jüdische Festung und erklärte eine Blockade, bis der Druck von Hunger und Angst sie zwang, das Urteil zu akzeptieren."
+    }
+  },
+  {
+    "quiz_id": 8,
+    "question_id": 72,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Benu Kurejza",
+    "question": {
+      "bs": "Koliko je muslimanskih vojnika učestvovalo u opsadi Benu Kurejze?",
+      "de": "Wie viele muslimische Soldaten nahmen an der Belagerung der Banu Quraiza teil?"
+    },
+    "options": {
+      "bs": [
+        "Dvije hiljade",
+        "Tri hiljade",
+        "Hiljadu",
+        "Pet hiljada"
+      ],
+      "de": [
+        "Zweitausend",
+        "Dreitausend",
+        "Eintausend",
+        "Fünftausend"
+      ]
+    },
+    "correct": {
+      "bs": "Tri hiljade",
+      "de": "Dreitausend"
+    },
+    "explanation": {
+      "bs": "Muslimanska vojska koja je opkolila Benu Kurejzu brojala je tri hiljade vojnika i trideset konja. Ovo je bila značajna sila koja je pokazala vojnu moć muslimana nakon bitke na Hendeku.",
+      "de": "Die muslimische Armee, die die Banu Quraiza belagerte, zählte dreitausend Soldaten und dreissig Pferde. Dies war eine bedeutende Streitmacht, die die militärische Stärke der Muslime nach der Schlacht am Graben zeigte."
+    }
+  },
+  {
+    "quiz_id": 8,
+    "question_id": 73,
+    "type": "multiple_choice",
+    "difficulty": "hard",
+    "source_section": "Benu Kurejza",
+    "question": {
+      "bs": "Koje opcije je Ka'b bin Esed predložio Benu Kurejzi? (Odaberi sve tačne odgovore)",
+      "de": "Welche Optionen schlug Ka'b bin Asad den Banu Quraiza vor? (Wähle alle richtigen Antworten)"
+    },
+    "options": {
+      "bs": [
+        "Da napadnu u subotu",
+        "Da pobjegnu u Šam",
+        "Da pobiju svoje porodice i navale na muslimane",
+        "Da prime islam"
+      ],
+      "de": [
+        "Am Samstag anzugreifen",
+        "Nach Syrien zu fliehen",
+        "Ihre Familien zu töten und die Muslime anzugreifen",
+        "Den Islam anzunehmen"
+      ]
+    },
+    "correct": {
+      "bs": [
+        "Da prime islam",
+        "Da pobiju svoje porodice i navale na muslimane",
+        "Da napadnu u subotu"
+      ],
+      "de": [
+        "Den Islam anzunehmen",
+        "Ihre Familien zu töten und die Muslime anzugreifen",
+        "Am Samstag anzugreifen"
+      ]
+    },
+    "explanation": {
+      "bs": "Ka'b bin Esed, jevrejski poglavar, predložio je tri opcije: 1) da prime islam, 2) da ubiju svoje žene i djecu pa sa sabljama navale na muslimane, ili 3) da napadnu muslimane u subotu kada se neće nadati napadu. Jevreji su odbili sve tri opcije.",
+      "de": "Ka'b bin Asad, der jüdische Anführer, schlug drei Optionen vor: 1) den Islam anzunehmen, 2) ihre Frauen und Kinder zu töten und dann mit Schwertern die Muslime anzugreifen, oder 3) die Muslime am Samstag anzugreifen, wenn sie keinen Angriff erwarten würden. Die Juden lehnten alle drei Optionen ab."
+    }
+  },
+  {
+    "quiz_id": 8,
+    "question_id": 74,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Benu Kurejza",
+    "question": {
+      "bs": "Resulullah ﷺ je rekao da je Sa'd bin Muaz sudio prema 'Allahovom zakonu koji je iznad sedam nebesa'.",
+      "de": "Der Gesandte Allahs ﷺ sagte, dass Sa'd bin Mu'adh nach 'Allahs Gesetz, das über den sieben Himmeln ist' geurteilt hat."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno. Kada je Sa'd bin Muaz izrekao presudu da se muškarci pobiju, djeca i žene zarobe, a imetak podijeli, Resulullah ﷺ je rekao: 'Sudio si prema Allahovom zakonu koji je iznad sedam nebesa.' Ova presuda je bila u skladu s Božijim zakonom.",
+      "de": "Richtig. Als Sa'd bin Mu'adh das Urteil verkündete, dass die Männer getötet, Kinder und Frauen gefangen genommen und das Eigentum verteilt werden sollte, sagte der Gesandte Allahs ﷺ: 'Du hast nach Allahs Gesetz geurteilt, das über den sieben Himmeln ist.' Dieses Urteil entsprach dem göttlichen Gesetz."
+    }
+  },
+  {
+    "quiz_id": 8,
+    "question_id": 75,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Benu Kurejza",
+    "question": {
+      "bs": "Šta je pronađeno u kućama Benu Kurejze nakon njihovog pada?",
+      "de": "Was wurde in den Häusern der Banu Quraiza nach ihrem Fall gefunden?"
+    },
+    "options": {
+      "bs": [
+        "1000 sablji, 1000 kopalja, 200 oklopa",
+        "500 sablji, 3000 strijela, 100 oklopa",
+        "2000 sablji, 1000 kopalja, 400 oklopa",
+        "1500 sablji, 2000 strijela/kopalja, 300 oklopa, 500 štitova"
+      ],
+      "de": [
+        "1000 Schwerter, 1000 Speere, 200 Rüstungen",
+        "500 Schwerter, 3000 Pfeile, 100 Rüstungen",
+        "2000 Schwerter, 1000 Speere, 400 Rüstungen",
+        "1500 Schwerter, 2000 Pfeile/Speere, 300 Rüstungen, 500 Schilde"
+      ]
+    },
+    "correct": {
+      "bs": "1500 sablji, 2000 strijela/kopalja, 300 oklopa, 500 štitova",
+      "de": "1500 Schwerter, 2000 Pfeile/Speere, 300 Rüstungen, 500 Schilde"
+    },
+    "explanation": {
+      "bs": "Nakon pregleda kuća Benu Kurejze, muslimani su pronašli: 1500 sablji, 2000 strijela i kopalja, 300 oklopa i 500 štitova. Ovo je dokazalo da su se pripremali za krvavi obračun s muslimanima, opravdavajući strogu presudu.",
+      "de": "Nach der Durchsuchung der Häuser der Banu Quraiza fanden die Muslime: 1500 Schwerter, 2000 Pfeile und Speere, 300 Rüstungen und 500 Schilde. Dies bewies, dass sie sich auf einen blutigen Kampf mit den Muslimen vorbereitet hatten, was das strenge Urteil rechtfertigte."
+    }
+  },
+  {
+    "quiz_id": 8,
+    "question_id": 76,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Benu Kurejza",
+    "question": {
+      "bs": "Ko je bio Hujejj bin Ahtab?",
+      "de": "Wer war Huyayy bin Akhtab?"
+    },
+    "options": {
+      "bs": [
+        "Vođa plemena Benu Kurejza",
+        "Jevrejski vođa iz Benu Nadira koji je nagovorio Benu Kurejzu na izdaju",
+        "Poslanikov ﷺ prijatelj iz Medine",
+        "Kurejšijski pregovarač"
+      ],
+      "de": [
+        "Der Anführer des Stammes Banu Quraiza",
+        "Ein jüdischer Anführer von Banu Nadir, der die Banu Quraiza zum Verrat überredete",
+        "Ein Freund des Propheten ﷺ aus Medina",
+        "Ein Verhandlungsführer der Quraisch"
+      ]
+    },
+    "correct": {
+      "bs": "Jevrejski vođa iz Benu Nadira koji je nagovorio Benu Kurejzu na izdaju",
+      "de": "Ein jüdischer Anführer von Banu Nadir, der die Banu Quraiza zum Verrat überredete"
+    },
+    "explanation": {
+      "bs": "Hujejj bin Ahtab je bio jevrejski vođa iz protjeranog plemena Benu Nadir i otac Safije, buduće majke vjernika. On je nagovorio Benu Kurejzu da prekrše ugovor s Poslanikom ﷺ tokom Bitke na Hendeku. Ubijen je zajedno s Benu Kurejzom.",
+      "de": "Huyayy bin Akhtab war ein jüdischer Anführer vom vertriebenen Stamm Banu Nadir und der Vater von Safiyya, der späteren Mutter der Gläubigen. Er überredete die Banu Quraiza, ihren Vertrag mit dem Propheten ﷺ während der Schlacht am Graben zu brechen. Er wurde zusammen mit den Banu Quraiza getötet."
+    }
+  },
+  {
+    "quiz_id": 8,
+    "question_id": 77,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Benu Kurejza",
+    "question": {
+      "bs": "Atijja el-Kerezi je pušten jer nije bio punoljetan i kasnije je primio islam i postao ashab.",
+      "de": "Atiyya al-Qurazi wurde freigelassen, weil er nicht volljährig war, und nahm später den Islam an und wurde ein Gefährte."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno. Resulullah ﷺ je naredio da ne ubijaju one koji nisu punoljetni. Atijja el-Kerezi je bio među njima - pušten je, zatim primio islam i ubrojan među ashabe.",
+      "de": "Richtig. Der Gesandte Allahs ﷺ befahl, diejenigen nicht zu töten, die nicht volljährig waren. Atiyya al-Qurazi war unter ihnen - er wurde freigelassen, nahm dann den Islam an und wurde zu den Gefährten gezählt."
+    }
+  },
+  {
+    "quiz_id": 8,
+    "question_id": 78,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Benu Kurejza",
+    "question": {
+      "bs": "Šta je zatražio Ez-Zubejr bin Bataa od Sabita bin Kajsa nakon što je saznao za pogubljenje svoga naroda?",
+      "de": "Was bat Ez-Zubair bin Bata Thabit bin Qais, nachdem er von der Hinrichtung seines Volkes erfahren hatte?"
+    },
+    "options": {
+      "bs": [
+        "Da ga sakrije",
+        "Da ga pridruži njegovim najmilijim (ubije ga)",
+        "Da ga odvede u Meku",
+        "Da ga oslobodi"
+      ],
+      "de": [
+        "Ihn zu verstecken",
+        "Ihn seinen Liebsten anzuschliessen (ihn zu töten)",
+        "Ihn nach Mekka zu bringen",
+        "Ihn freizulassen"
+      ]
+    },
+    "correct": {
+      "bs": "Da ga pridruži njegovim najmilijim (ubije ga)",
+      "de": "Ihn seinen Liebsten anzuschliessen (ihn zu töten)"
+    },
+    "explanation": {
+      "bs": "Sabit bin Kajs je zatražio od Resulullaha ﷺ da mu pokloni Ez-Zubejra bin Bataa s kojim je bio u dobrim odnosima. Sabit ga je oslobodio i vratio mu porodicu i imetak. Ali nakon što je Ez-Zubejr saznao za pogubljenje svog naroda, zatražio je da ga pridruži njima - i Sabit mu je ispunio želju.",
+      "de": "Thabit bin Qais bat den Gesandten Allahs ﷺ, ihm Ez-Zubair bin Bata zu schenken, mit dem er gute Beziehungen hatte. Thabit befreite ihn und gab ihm seine Familie und sein Eigentum zurück. Aber nachdem Ez-Zubair von der Hinrichtung seines Volkes erfuhr, bat er darum, sich ihnen anzuschliessen - und Thabit erfüllte seinen Wunsch."
+    }
+  },
+  {
+    "quiz_id": 8,
+    "question_id": 79,
+    "type": "true_false",
+    "difficulty": "hard",
+    "source_section": "Benu Kurejza",
+    "question": {
+      "bs": "Resulullah ﷺ je odabrao za sebe robinju Rejhanu bint Amr iz Benu Kurejze.",
+      "de": "Der Gesandte Allahs ﷺ wählte für sich die Sklavin Raihana bint Amr von den Banu Quraiza."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno. Resulullah ﷺ je odabrao za sebe Rejhanu, kćerku Amra bin Hanakata. Prema Ibn Ishaku, bila je kod Poslanika ﷺ u vlasništvu do njegove smrti. Prema El-Kelbiju, Resulullah ﷺ ju je oslobodio i oženio se njome 6. godine po Hidžri.",
+      "de": "Richtig. Der Gesandte Allahs ﷺ wählte für sich Raihana, die Tochter von Amr bin Hanakat. Laut Ibn Ishaq war sie bis zu seinem Tod im Besitz des Propheten ﷺ. Laut Al-Kalbi befreite der Gesandte Allahs ﷺ sie und heiratete sie im 6. Jahr nach der Hidschra."
+    }
+  },
+  {
+    "quiz_id": 8,
+    "question_id": 80,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Sa'd bin Muaz",
+    "question": {
+      "bs": "Šta se desilo sa Sa'dom bin Muazom nakon bitke s Benu Kurejzom?",
+      "de": "Was geschah mit Sa'd bin Mu'adh nach der Schlacht gegen die Banu Quraiza?"
+    },
+    "options": {
+      "bs": [
+        "Postao je guverner Medine",
+        "Predvodio je sljedeći pohod",
+        "Otišao je na hadždž",
+        "Umro je od rane zadobijene na Hendeku"
+      ],
+      "de": [
+        "Er wurde Gouverneur von Medina",
+        "Er führte den nächsten Feldzug an",
+        "Er ging auf Hadsch",
+        "Er starb an einer Wunde vom Graben"
+      ]
+    },
+    "correct": {
+      "bs": "Umro je od rane zadobijene na Hendeku",
+      "de": "Er starb an einer Wunde vom Graben"
+    },
+    "explanation": {
+      "bs": "Sa'd bin Muaz je umro od rane koju je zadobio u Bici na Hendeku. Resulullah ﷺ mu je razapeo šator u mesdžidu da ga može obilaziti u bolesti. Nakon presude Benu Kurejzi, rana mu se raspala i ubrzo je preselio.",
+      "de": "Sa'd bin Mu'adh starb an einer Wunde, die er in der Schlacht am Graben erlitten hatte. Der Gesandte Allahs ﷺ schlug ein Zelt für ihn in der Moschee auf, um ihn während seiner Krankheit besuchen zu können. Nach dem Urteil über die Banu Quraiza öffnete sich seine Wunde und er starb bald darauf."
+    }
+  },
+  {
+    "quiz_id": 8,
+    "question_id": 81,
+    "type": "ordering",
+    "difficulty": "hard",
+    "source_section": "Hronologija",
+    "question": {
+      "bs": "Poredaj događaje hronološkim redom:",
+      "de": "Ordne die Ereignisse in chronologischer Reihenfolge:"
+    },
+    "options": {
+      "bs": [
+        "Tragedija na Er-Redži'u",
+        "Bitka na Hendeku",
+        "Bitka na Uhudu",
+        "Hudejbijski ugovor"
+      ],
+      "de": [
+        "Tragödie von Er-Radschi'",
+        "Schlacht am Graben",
+        "Schlacht von Uhud",
+        "Vertrag von Hudaibiya"
+      ]
+    },
+    "correct": {
+      "bs": [
+        "Bitka na Uhudu",
+        "Tragedija na Er-Redži'u",
+        "Bitka na Hendeku",
+        "Hudejbijski ugovor"
+      ],
+      "de": [
+        "Schlacht von Uhud",
+        "Tragödie von Er-Radschi'",
+        "Schlacht am Graben",
+        "Vertrag von Hudaibiya"
+      ]
+    },
+    "explanation": {
+      "bs": "Hronološki redoslijed: Bitka na Uhudu (3.h.), Tragedija na Er-Redži'u (4.h.), Bitka na Hendeku (5.h.), Hudejbijski ugovor (6.h.). Svaki od ovih događaja je označio važnu prekretnicu u historiji ranog islama.",
+      "de": "Chronologische Reihenfolge: Schlacht von Uhud (3 n.H.), Tragödie von Er-Radschi' (4 n.H.), Schlacht am Graben (5 n.H.), Vertrag von Hudaibiya (6 n.H.). Jedes dieser Ereignisse markierte einen wichtigen Wendepunkt in der Geschichte des frühen Islam."
+    }
+  },
+  {
+    "quiz_id": 8,
+    "question_id": 82,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Pismo Herakliju",
+    "question": {
+      "bs": "Kako je počinjalo pismo Resulullaha ﷺ Herakliju?",
+      "de": "Wie begann der Brief des Gesandten Allahs ﷺ an Heraklius?"
+    },
+    "options": {
+      "bs": [
+        "U ime Allaha",
+        "Bismillahirrahmanirrahim",
+        "Mir neka je na tebe",
+        "O vladaru Bizantije"
+      ],
+      "de": [
+        "Im Namen Allahs",
+        "Bismillahirrahmanirrahim",
+        "Friede sei mit dir",
+        "O Herrscher von Byzanz"
+      ]
+    },
+    "correct": {
+      "bs": "Bismillahirrahmanirrahim",
+      "de": "Bismillahirrahmanirrahim"
+    },
+    "explanation": {
+      "bs": "Sva pisma Resulullaha ﷺ vladarima počinjala su s 'Bismillahirrahmanirrahim' (U ime Allaha, Milostivog, Samilosnog). Ovo je bila standardna formula koja je pokazivala da je pismo zvanično i od Allahovog Poslanika ﷺ.",
+      "de": "Alle Briefe des Gesandten Allahs ﷺ an Herrscher begannen mit 'Bismillahirrahmanirrahim' (Im Namen Allahs, des Allerbarmers, des Barmherzigen). Dies war die Standardformel, die zeigte, dass der Brief offiziell und vom Gesandten Allahs ﷺ war."
+    }
+  },
+  {
+    "quiz_id": 8,
+    "question_id": 83,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Pismo Herakliju",
+    "question": {
+      "bs": "Ebu Sufjan je priznao da je morao govoriti istinu o Poslaniku ﷺ pred Heraklijem jer su s njim bili drugi Arapi koji bi ga mogli demantirati.",
+      "de": "Abu Sufyan gab zu, dass er die Wahrheit über den Propheten ﷺ vor Heraklius sagen musste, weil andere Araber bei ihm waren, die ihn hätten widerlegen können."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno. Ebu Sufjan je rekao: 'Da nije bilo stida od toga da me moji ljudi proglase lašcem, slagao bih o njemu.' Prisustvo drugih Arapa ga je natjeralo da govori istinu o Poslaniku ﷺ, čak i kao njegov neprijatelj.",
+      "de": "Richtig. Abu Sufyan sagte: 'Wenn nicht die Schande gewesen wäre, dass mich meine Leute als Lügner bezeichnen würden, hätte ich über ihn gelogen.' Die Anwesenheit anderer Araber zwang ihn, die Wahrheit über den Propheten ﷺ zu sagen, selbst als sein Feind."
+    }
+  },
+  {
+    "quiz_id": 8,
+    "question_id": 84,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Pohod Zejda bin Harise",
+    "question": {
+      "bs": "Šta se desilo Dihji bin Hulejfa el-Kelbiju na povratku od Heraklija?",
+      "de": "Was geschah mit Dihya bin Khalifa al-Kalbi auf dem Rückweg von Heraklius?"
+    },
+    "options": {
+      "bs": [
+        "Razboljeo se",
+        "Zarobili su ga Bizantinci",
+        "Napalo ga je pleme Džizzam i opljačkalo ga",
+        "Izgubio se u pustinji"
+      ],
+      "de": [
+        "Er wurde krank",
+        "Die Byzantiner nahmen ihn gefangen",
+        "Der Stamm Dschudham griff ihn an und beraubte ihn",
+        "Er verirrte sich in der Wüste"
+      ]
+    },
+    "correct": {
+      "bs": "Napalo ga je pleme Džizzam i opljačkalo ga",
+      "de": "Der Stamm Dschudham griff ihn an und beraubte ihn"
+    },
+    "explanation": {
+      "bs": "Dihja je od Heraklija dobio skupocjene poklone. Na povratku u Medinu, u mjestu Hasmej, napali su ga ljudi iz plemena Džizzam i potpuno ga opljačkali. Resulullah ﷺ je poslao Zejda bin Harisa s pet stotina ljudi da kazni napadače.",
+      "de": "Dihya erhielt kostbare Geschenke von Heraklius. Auf dem Rückweg nach Medina, bei Hasmaj, griffen ihn Leute vom Stamm Dschudham an und beraubten ihn vollständig. Der Gesandte Allahs ﷺ sandte Zaid bin Haritha mit fünfhundert Männern, um die Angreifer zu bestrafen."
+    }
+  },
+  {
+    "quiz_id": 8,
+    "question_id": 85,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Pohod Zejda bin Harise",
+    "question": {
+      "bs": "Koliko vojnika je Resulullah ﷺ poslao sa Zejdom bin Harisom protiv plemena Džizzam?",
+      "de": "Wie viele Soldaten schickte der Gesandte Allahs ﷺ mit Zaid bin Haritha gegen den Stamm Dschudham?"
+    },
+    "options": {
+      "bs": [
+        "Trista",
+        "Hiljadu",
+        "Pet stotina",
+        "Dvjesta"
+      ],
+      "de": [
+        "Dreihundert",
+        "Eintausend",
+        "Fünfhundert",
+        "Zweihundert"
+      ]
+    },
+    "correct": {
+      "bs": "Pet stotina",
+      "de": "Fünfhundert"
+    },
+    "explanation": {
+      "bs": "Resulullah ﷺ je poslao Zejda bin Harisa s pet stotina ljudi u Hasmej da kazni pleme Džizzam koje je napalo i opljačkalo Dihju. Zejd je izvršio napad, zaplijenio hiljadu deva, pet hiljada ovaca i zarobio stotinu žena i djece.",
+      "de": "Der Gesandte Allahs ﷺ sandte Zaid bin Haritha mit fünfhundert Männern nach Hasmaj, um den Stamm Dschudham zu bestrafen, der Dihya angegriffen und beraubt hatte. Zaid führte den Angriff durch, erbeutete tausend Kamele, fünftausend Schafe und nahm hundert Frauen und Kinder gefangen."
+    }
+  },
+  {
+    "quiz_id": 8,
+    "question_id": 86,
+    "type": "true_false",
+    "difficulty": "hard",
+    "source_section": "Pisma vladarima",
+    "question": {
+      "bs": "Resulullah ﷺ je naredio da se vrate plijen i zarobljenici plemenu Džizzam nakon što je jedan od njihovih poglavara, koji je bio musliman, uložio prigovor.",
+      "de": "Der Gesandte Allahs ﷺ befahl, die Beute und Gefangenen dem Stamm Dschudham zurückzugeben, nachdem einer ihrer Anführer, der Muslim war, Einspruch erhoben hatte."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno. Zejd bin Rifa'at el-Džizzami, jedan od jevrejskih poglavara koji je primio islam, pohitao je kod Resulullaha ﷺ da uloži prigovor. On i muškarci njegovog plemena bili su muslimani i pomogli su Dihji kada su ga napali. Resulullah ﷺ je primio njegovu ispriku i naredio povrat plijena i roblja.",
+      "de": "Richtig. Zaid bin Rifa'at al-Dschudami, einer der jüdischen Anführer, der den Islam angenommen hatte, eilte zum Gesandten Allahs ﷺ, um Einspruch zu erheben. Er und die Männer seines Stammes waren Muslime und hatten Dihya geholfen, als er angegriffen wurde. Der Gesandte Allahs ﷺ akzeptierte seine Entschuldigung und befahl die Rückgabe der Beute und der Gefangenen."
+    }
+  },
+  {
+    "quiz_id": 8,
+    "question_id": 87,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Pismo Munziru",
+    "question": {
+      "bs": "Šta je Resulullah ﷺ savjetovao Munziru bin Saviju u vezi s jevrejima i poklonicima vatre?",
+      "de": "Was riet der Gesandte Allahs ﷺ Mundhir bin Sawi bezüglich der Juden und Feueranbeter?"
+    },
+    "options": {
+      "bs": [
+        "Da ih protjera iz zemlje",
+        "Da plaćaju džizju (porez)",
+        "Da ih prisilno prevede u islam",
+        "Da ih zatvori"
+      ],
+      "de": [
+        "Sie aus dem Land zu vertreiben",
+        "Dass sie Dschizya (Steuer) zahlen",
+        "Sie zwangsweise zum Islam zu bekehren",
+        "Sie einzusperren"
+      ]
+    },
+    "correct": {
+      "bs": "Da plaćaju džizju (porez)",
+      "de": "Dass sie Dschizya (Steuer) zahlen"
+    },
+    "explanation": {
+      "bs": "U odgovoru Munziru, Resulullah ﷺ je napisao: 'Ko ostane u jevrejstvu i parsi (obožavanju vatre) neka plaća džizju.' Ovo je bio propis za nemuslimane koji su ostajali pod muslimanskom vlašću - imali su zaštitu u zamjenu za plaćanje poreza.",
+      "de": "In seiner Antwort an Mundhir schrieb der Gesandte Allahs ﷺ: 'Wer im Judentum und bei den Parsi (Feueranbetern) bleibt, soll Dschizya zahlen.' Dies war die Regelung für Nichtmuslime, die unter muslimischer Herrschaft blieben - sie erhielten Schutz im Austausch für die Zahlung einer Steuer."
+    }
+  },
+  {
+    "quiz_id": 8,
+    "question_id": 88,
+    "type": "true_false",
+    "difficulty": "hard",
+    "source_section": "Pismo vladaru Jemame",
+    "question": {
+      "bs": "Resulullah ﷺ je prorekao da će se u Jemami pojaviti lažni poslanik koji će biti ubijen nakon njegove smrti.",
+      "de": "Der Gesandte Allahs ﷺ prophezeite, dass in Yamama ein falscher Prophet erscheinen würde, der nach seinem Tod getötet werden würde."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno. Kada je Džibril a.s. donio vijest da je Huze bin Ali umro, Resulullah ﷺ je rekao: 'U Jemami će se pojaviti čovjek koji će se lažno predstaviti da je poslanik, bit će ubijen poslije moje smrti.' Ovo se obistinilo s Musejlemetul-Kezzabom.",
+      "de": "Richtig. Als Gabriel a.s. die Nachricht brachte, dass Hawdha bin Ali gestorben war, sagte der Gesandte Allahs ﷺ: 'In Yamama wird ein Mann erscheinen, der fälschlich behaupten wird, ein Prophet zu sein, er wird nach meinem Tod getötet werden.' Dies erfüllte sich mit Musailama dem Lügner."
+    }
+  },
+  {
+    "quiz_id": 8,
+    "question_id": 89,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Kur'an o Bejatu Ridvan",
+    "question": {
+      "bs": "U kojoj suri Kur'an spominje Bejatu Ridvan?",
+      "de": "In welcher Sure erwähnt der Koran Bai'at ar-Ridwan?"
+    },
+    "options": {
+      "bs": [
+        "Sura El-Ahzab",
+        "Sura El-Enfal",
+        "Sura El-Feth",
+        "Sura Ali Imran"
+      ],
+      "de": [
+        "Sure Al-Ahzab",
+        "Sure Al-Anfal",
+        "Sure Al-Fath",
+        "Sure Ali Imran"
+      ]
+    },
+    "correct": {
+      "bs": "Sura El-Feth",
+      "de": "Sure Al-Fath"
+    },
+    "explanation": {
+      "bs": "Bejatu Ridvan je spomenuta u suri El-Feth (Pobjeda), u 18. ajetu: 'Allah je zadovoljan onim vjernicima koji su ti se pod drvetom na vjernost zakleli.' Cijela sura El-Feth govori o Hudejbiji i njenim blagodatima.",
+      "de": "Bai'at ar-Ridwan wird in Sure Al-Fath (Der Sieg) erwähnt, in Vers 18: 'Allah ist wahrlich zufrieden mit den Gläubigen, die dir unter dem Baum die Treue schworen.' Die gesamte Sure Al-Fath handelt von Hudaibiya und seinen Segnungen."
+    }
+  },
+  {
+    "quiz_id": 8,
+    "question_id": 90,
+    "type": "multiple_choice",
+    "difficulty": "medium",
+    "source_section": "Kurejšijski delegati",
+    "question": {
+      "bs": "Koji su kurejšijski delegati došli kod Resulullaha ﷺ na Hudejbiji? (Odaberi sve tačne odgovore)",
+      "de": "Welche Gesandten der Quraisch kamen zum Gesandten Allahs ﷺ bei Hudaibiya? (Wähle alle richtigen Antworten)"
+    },
+    "options": {
+      "bs": [
+        "El-Hulejs bin Alkamet",
+        "Mikrez bin Hafs",
+        "Urve bin Mes'ud",
+        "Ebu Sufjan"
+      ],
+      "de": [
+        "Al-Hulais bin Alqama",
+        "Mikraz bin Hafs",
+        "Urwa bin Mas'ud",
+        "Abu Sufyan"
+      ]
+    },
+    "correct": {
+      "bs": [
+        "Urve bin Mes'ud",
+        "El-Hulejs bin Alkamet",
+        "Mikrez bin Hafs"
+      ],
+      "de": [
+        "Urwa bin Mas'ud",
+        "Al-Hulais bin Alqama",
+        "Mikraz bin Hafs"
+      ]
+    },
+    "explanation": {
+      "bs": "Kurejšijski delegati koji su došli na Hudejbiju bili su: Urve bin Mes'ud es-Sekafi, El-Hulejs bin Alkamet (Kenanija) i Mikrez bin Hafs. Ebu Sufjan nije bio delegat na Hudejbiji - on se nalazio u Šamu kao trgovac kada je Heraklije čitao pismo Resulullaha ﷺ.",
+      "de": "Die Gesandten der Quraisch, die nach Hudaibiya kamen, waren: Urwa bin Mas'ud ath-Thaqafi, Al-Hulais bin Alqama (ein Kenaniter) und Mikraz bin Hafs. Abu Sufyan war kein Gesandter bei Hudaibiya - er war als Händler in Syrien, als Heraklius den Brief des Gesandten Allahs ﷺ las."
+    }
+  },
+  {
+    "quiz_id": 8,
+    "question_id": 91,
+    "type": "true_false",
+    "difficulty": "easy",
+    "source_section": "Hudejbija",
+    "question": {
+      "bs": "Resulullah ﷺ je rekao: 'Mi nismo došli da ikoga ubijamo, nego smo došli da umru obavimo.'",
+      "de": "Der Gesandte Allahs ﷺ sagte: 'Wir sind nicht gekommen, um jemanden zu töten, sondern um die Umra zu verrichten.'"
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno. Ove riječi je Resulullah ﷺ rekao Budejlu bin Verkai kada mu je ovaj prenio da Kurejšije žele spriječiti muslimane. Poslanik ﷺ je jasno naglasio miroljubive namjere muslimana.",
+      "de": "Richtig. Diese Worte sagte der Gesandte Allahs ﷺ zu Budail bin Warqa, als dieser ihm mitteilte, dass die Quraisch die Muslime aufhalten wollten. Der Prophet ﷺ betonte klar die friedlichen Absichten der Muslime."
+    }
+  },
+  {
+    "quiz_id": 8,
+    "question_id": 92,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Ikindija namaz na Benu Kurejza",
+    "question": {
+      "bs": "Kako su ashabi postupili s ikindija-namazom na putu prema Benu Kurejzi?",
+      "de": "Wie verfuhren die Gefährten mit dem Nachmittagsgebet auf dem Weg zu den Banu Quraiza?"
+    },
+    "options": {
+      "bs": [
+        "Niko nije klanjao tog dana",
+        "Svi su klanjali kod Benu Kurejze",
+        "Svi su klanjali na putu",
+        "Neki su klanjali na putu, neki kod Benu Kurejze - Poslanik ﷺ nije ukorio nijednu grupu"
+      ],
+      "de": [
+        "Niemand betete an diesem Tag",
+        "Alle beteten bei Banu Quraiza",
+        "Alle beteten unterwegs",
+        "Einige beteten unterwegs, einige bei Banu Quraiza - der Prophet ﷺ tadelte keine Gruppe"
+      ]
+    },
+    "correct": {
+      "bs": [
+        "Neki su klanjali na putu, neki kod Benu Kurejze - Poslanik ﷺ nije ukorio nijednu grupu"
+      ],
+      "de": [
+        "Einige beteten unterwegs, einige bei Banu Quraiza - der Prophet ﷺ tadelte keine Gruppe"
+      ]
+    },
+    "explanation": {
+      "bs": "Resulullah ﷺ je naredio da se ikindija ne klanja osim kod Benu Kurejze. Neki ashabi su to shvatili doslovno i klanjali tek nakon jacije. Drugi su razumjeli da je cilj bio da požure, pa su klanjali ikindiju na putu. Poslanik ﷺ nije ukorio ni jednu stranu, pokazujući da je oboje bilo ispravno razumijevanje.",
+      "de": "Der Gesandte Allahs ﷺ befahl, das Nachmittagsgebet nur bei den Banu Quraiza zu verrichten. Einige Gefährten verstanden dies wörtlich und beteten erst nach dem Nachtgebet. Andere verstanden, dass das Ziel war, sich zu beeilen, und beteten das Nachmittagsgebet unterwegs. Der Prophet ﷺ tadelte keine der beiden Gruppen, was zeigt, dass beide Verständnisse richtig waren."
+    }
+  },
+  {
+    "quiz_id": 8,
+    "question_id": 93,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Pouke iz Hudejbije",
+    "question": {
+      "bs": "Zašto je Hudejbijski ugovor nazvan 'jasnom pobjedom' u Kur'anu?",
+      "de": "Warum wurde der Vertrag von Hudaibiya im Koran als 'klarer Sieg' bezeichnet?"
+    },
+    "options": {
+      "bs": [
+        "Jer su Kurejšije primile islam",
+        "Jer su muslimani osvojili Meku",
+        "Jer je omogućio širenje islama bez rata",
+        "Jer su muslimani dobili veliku vojnu pobjedu"
+      ],
+      "de": [
+        "Weil die Quraisch den Islam annahmen",
+        "Weil die Muslime Mekka eroberten",
+        "Weil er die Verbreitung des Islam ohne Krieg ermöglichte",
+        "Weil die Muslime einen grossen militärischen Sieg errangen"
+      ]
+    },
+    "correct": {
+      "bs": "Jer je omogućio širenje islama bez rata",
+      "de": "Weil er die Verbreitung des Islam ohne Krieg ermöglichte"
+    },
+    "explanation": {
+      "bs": "Iako se mnogim ashabima činilo da su uvjeti nepovoljni, ugovor je donio mir koji je omogućio slobodno širenje islama. U dvije godine od Hudejbije do oslobođenja Meke, više ljudi je primilo islam nego u cijelom prethodnom periodu. Među njima su bili i Halid bin Velid i Amr bin el-As.",
+      "de": "Obwohl vielen Gefährten die Bedingungen ungünstig erschienen, brachte der Vertrag Frieden, der die freie Verbreitung des Islam ermöglichte. In den zwei Jahren von Hudaibiya bis zur Eroberung von Mekka nahmen mehr Menschen den Islam an als in der gesamten vorherigen Zeit. Unter ihnen waren Khalid bin Walid und Amr bin al-As."
+    }
+  },
+  {
+    "quiz_id": 8,
+    "question_id": 94,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Pohodi između Uhuda i Ahzaba",
+    "question": {
+      "bs": "Prvi vojni napredak muslimana nakon Uhuda bio je odlazak vojske na Hamra el-Esed.",
+      "de": "Der erste militärische Fortschritt der Muslime nach Uhud war der Marsch der Armee nach Hamra al-Asad."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno. Odlazak muslimanske vojske na Hamra el-Esed odmah nakon Uhuda dao je svim neprijateljima na znanje da je vojska spremna na nove pohode. Ovo je iznenadilo i razočaralo jevreje i munafike koji su očekivali da su muslimani slomljeni.",
+      "de": "Richtig. Der Marsch der muslimischen Armee nach Hamra al-Asad direkt nach Uhud zeigte allen Feinden, dass die Armee für neue Feldzüge bereit war. Dies überraschte und enttäuschte die Juden und Heuchler, die erwartet hatten, dass die Muslime gebrochen waren."
+    }
+  },
+  {
+    "quiz_id": 8,
+    "question_id": 95,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Hudejbija - ajet",
+    "question": {
+      "bs": "Koji ajet je objavljen o mladim Kurejšijama koje je Muhammed bin Mesleme zarobio kada su pokušali napasti muslimanski logor?",
+      "de": "Welcher Vers wurde über die jungen Quraisch offenbart, die Muhammad bin Maslama gefangen nahm, als sie versuchten, das muslimische Lager anzugreifen?"
+    },
+    "options": {
+      "bs": [
+        "'Muhammed je Allahov Poslanik' (48:29)",
+        "'On je zadržao ruke njihove od vas i vaše od njih usred Meke' (48:24)",
+        "'Mi smo ti dali jasnu pobjedu' (48:1)",
+        "'Allah je zadovoljan onim vjernicima' (48:18)"
+      ],
+      "de": [
+        "'Muhammad ist der Gesandte Allahs' (48:29)",
+        "'Er hat ihre Hände von euch und eure Hände von ihnen mitten in Mekka zurückgehalten' (48:24)",
+        "'Wir haben dir einen klaren Sieg verliehen' (48:1)",
+        "'Allah ist wahrlich zufrieden mit den Gläubigen' (48:18)"
+      ]
+    },
+    "correct": {
+      "bs": "'On je zadržao ruke njihove od vas i vaše od njih usred Meke' (48:24)",
+      "de": "'Er hat ihre Hände von euch und eure Hände von ihnen mitten in Mekka zurückgehalten' (48:24)"
+    },
+    "explanation": {
+      "bs": "Ovaj ajet iz sure El-Feth (48:24) govori o situaciji kada je sedamdeset-osamdeset mladih Kurejšija pokušalo napasti muslimanski logor, ali ih je sve pohvatao Muhammed bin Mesleme. Resulullah ﷺ ih je pustio iz želje za mirom.",
+      "de": "Dieser Vers aus Sure Al-Fath (48:24) bezieht sich auf die Situation, als siebzig bis achtzig junge Quraisch versuchten, das muslimische Lager anzugreifen, aber Muhammad bin Maslama fing sie alle. Der Gesandte Allahs ﷺ liess sie aus dem Wunsch nach Frieden frei."
+    }
+  },
+  {
+    "quiz_id": 8,
+    "question_id": 96,
+    "type": "ordering",
+    "difficulty": "hard",
+    "source_section": "Kurejšijski delegati",
+    "question": {
+      "bs": "Poredaj kurejšijske delegate po redoslijedu dolaska kod Resulullaha ﷺ na Hudejbiji:",
+      "de": "Ordne die Gesandten der Quraisch in der Reihenfolge ihrer Ankunft beim Gesandten Allahs ﷺ bei Hudaibiya:"
+    },
+    "options": {
+      "bs": [
+        "Urve bin Mes'ud",
+        "El-Hulejs bin Alkamet",
+        "Mikrez bin Hafs",
+        "Budejl bin Verka"
+      ],
+      "de": [
+        "Urwa bin Mas'ud",
+        "Al-Hulais bin Alqama",
+        "Mikraz bin Hafs",
+        "Budail bin Warqa"
+      ]
+    },
+    "correct": {
+      "bs": [
+        "Budejl bin Verka",
+        "Mikrez bin Hafs",
+        "El-Hulejs bin Alkamet",
+        "Urve bin Mes'ud"
+      ],
+      "de": [
+        "Budail bin Warqa",
+        "Mikraz bin Hafs",
+        "Al-Hulais bin Alqama",
+        "Urwa bin Mas'ud"
+      ]
+    },
+    "explanation": {
+      "bs": "Redoslijed delegata: 1) Budejl bin Verka (iz Benu Huza'a, prvi posrednik), 2) Mikrez bin Hafs (kojeg je Poslanik ﷺ nazvao lukavin), 3) El-Hulejs bin Alkamet (Kenanija koji je vidio kurbane), 4) Urve bin Mes'ud es-Sekafi (koji je uporedio ljubav ashaba s onom kod vladara).",
+      "de": "Reihenfolge der Gesandten: 1) Budail bin Warqa (von Banu Chuza'a, erster Vermittler), 2) Mikraz bin Hafs (den der Prophet ﷺ als gerissen bezeichnete), 3) Al-Hulais bin Alqama (ein Kenaniter, der die Opfertiere sah), 4) Urwa bin Mas'ud ath-Thaqafi (der die Liebe der Gefährten mit der bei Herrschern verglich)."
+    }
+  },
+  {
+    "quiz_id": 8,
+    "question_id": 97,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Pisma vladarima",
+    "question": {
+      "bs": "Sva pisma vladarima sadržavala su poziv u islam i upozorenje na posljedice odbijanja.",
+      "de": "Alle Briefe an die Herrscher enthielten eine Einladung zum Islam und eine Warnung vor den Folgen der Ablehnung."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno. Pisma su sadržavala poziv u islam, obećanje da će zadržati vlast ako prime islam, i upozorenje na posljedice ako odbiju. Na primjer, pismo vladaru Ammana kaže: 'Ako budete ustrajni u islamu, dobićete vlast, a ako odbijete, vlast ćete izgubiti.'",
+      "de": "Richtig. Die Briefe enthielten eine Einladung zum Islam, das Versprechen, dass sie ihre Macht behalten würden, wenn sie den Islam annehmen, und eine Warnung vor den Folgen bei Ablehnung. Zum Beispiel sagt der Brief an den Herrscher von Oman: 'Wenn ihr im Islam standhaft bleibt, werdet ihr die Macht erhalten, und wenn ihr ablehnt, werdet ihr die Macht verlieren.'"
+    }
+  },
+  {
+    "quiz_id": 8,
+    "question_id": 98,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "source_section": "Hudejbija",
+    "question": {
+      "bs": "Koji je bio glavni cilj muslimana kada su krenuli na Hudejbiju?",
+      "de": "Was war das Hauptziel der Muslime, als sie nach Hudaibiya aufbrachen?"
+    },
+    "options": {
+      "bs": [
+        "Pregovori s Kurejšijama",
+        "Obavljanje umre",
+        "Osvajanje Meke",
+        "Trgovina"
+      ],
+      "de": [
+        "Verhandlungen mit den Quraisch",
+        "Die Umra zu verrichten",
+        "Mekka zu erobern",
+        "Handel"
+      ]
+    },
+    "correct": {
+      "bs": "Obavljanje umre",
+      "de": "Die Umra zu verrichten"
+    },
+    "explanation": {
+      "bs": "Muslimani su krenuli s jedinim ciljem - obavljanje umre. Bili su u ihramima, vodili kurbane i nisu imali namjeru ratovanja. Kurejšije su ih spriječili, što je rezultiralo Hudejbijskim ugovorom.",
+      "de": "Die Muslime brachen mit einem einzigen Ziel auf - die Umra zu verrichten. Sie trugen Ihram-Kleidung, führten Opfertiere mit und hatten keine Kriegsabsichten. Die Quraisch hinderten sie daran, was zum Vertrag von Hudaibiya führte."
+    }
+  },
+  {
+    "quiz_id": 8,
+    "question_id": 99,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Hudejbija",
+    "question": {
+      "bs": "Kurejšije su prekršile Hudejbijski ugovor nakon samo dvije godine napadom na pleme Benu Huza'a.",
+      "de": "Die Quraisch brachen den Vertrag von Hudaibiya nach nur zwei Jahren durch einen Angriff auf den Stamm Banu Chuza'a."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno. Iako je ugovor trebao trajati deset godina, Kurejšije su ga prekršile nakon samo dvije godine (8. godina po Hidžri) napadom na pleme Benu Huza'a, saveznike muslimana. Ovo je bio povod za oslobođenje Meke.",
+      "de": "Richtig. Obwohl der Vertrag zehn Jahre dauern sollte, brachen die Quraisch ihn nach nur zwei Jahren (8. Jahr nach der Hidschra) durch einen Angriff auf den Stamm Banu Chuza'a, Verbündete der Muslime. Dies war der Anlass für die Eroberung von Mekka."
+    }
+  },
+  {
+    "quiz_id": 8,
+    "question_id": 100,
+    "type": "multiple_choice",
+    "difficulty": "hard",
+    "source_section": "Značaj perioda",
+    "question": {
+      "bs": "Koje su bile glavne posljedice perioda od Uhuda do Hudejbije za muslimane? (Odaberi sve tačne odgovore)",
+      "de": "Was waren die Hauptfolgen der Zeit von Uhud bis Hudaibiya für die Muslime? (Wähle alle richtigen Antworten)"
+    },
+    "options": {
+      "bs": [
+        "Gubitak Medine",
+        "Međunarodno priznanje islama",
+        "Eliminacija unutrašnjih i vanjskih prijetnji",
+        "Konsolidacija muslimanske zajednice"
+      ],
+      "de": [
+        "Verlust von Medina",
+        "Internationale Anerkennung des Islam",
+        "Beseitigung interner und externer Bedrohungen",
+        "Konsolidierung der muslimischen Gemeinschaft"
+      ]
+    },
+    "correct": {
+      "bs": [
+        "Konsolidacija muslimanske zajednice",
+        "Eliminacija unutrašnjih i vanjskih prijetnji",
+        "Međunarodno priznanje islama"
+      ],
+      "de": [
+        "Konsolidierung der muslimischen Gemeinschaft",
+        "Beseitigung interner und externer Bedrohungen",
+        "Internationale Anerkennung des Islam"
+      ]
+    },
+    "explanation": {
+      "bs": "Period od Uhuda do Hudejbije donio je: konsolidaciju muslimanske zajednice kroz iskušenja, eliminaciju prijetnji (Benu Nadir, Benu Kurejza, Ahzab), i međunarodno priznanje islama kroz pisma vladarima. Muslimani nisu izgubili Medinu - naprotiv, ojačali su svoju poziciju.",
+      "de": "Die Zeit von Uhud bis Hudaibiya brachte: die Konsolidierung der muslimischen Gemeinschaft durch Prüfungen, die Beseitigung von Bedrohungen (Banu Nadir, Banu Quraiza, Ahzab) und die internationale Anerkennung des Islam durch Briefe an Herrscher. Die Muslime verloren Medina nicht - im Gegenteil, sie stärkten ihre Position."
+    }
+  }
+]

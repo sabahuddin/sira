@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="bs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rezultati kviza</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/quiz.css">
+    <link href="https://fonts.googleapis.com/css2?family=Amiri:wght@400;700&family=Inter:wght@400;500;600;700&family=Poppins:wght@600;700;800&display=swap" rel="stylesheet">
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-P10X0MRPDG"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag("js", new Date());
+  gtag("config", "G-P10X0MRPDG");
+</script>
+</head>
+<body>
+    <div class="background-pattern"></div>
+    <main class="main-content">
+        <div class="container" style="padding-top: 4rem; padding-bottom: 4rem;">
+        <!-- Result card with improved styling handled via external CSS -->
+        <div class="result-card">
+                <h1 data-translate="quizCompleted" style="margin-bottom: 1rem; color: var(--primary);"></h1>
+                <!-- Display the quiz name with a custom style instead of using the
+                     .arabic-text class, which forces white text that can be hard
+                     to read on light backgrounds. -->
+                <p class="quiz-name" id="quizTitle"></p>
+                <div class="stats-grid">
+                    <div class="stat-card score">
+                        <span class="stat-icon" style="font-size: 2rem;">🎯</span>
+                        <div style="font-size: 1.5rem; font-weight: 700; color: var(--primary);" id="scoreValue">0</div>
+                        <div style="font-size: 0.9rem; color: var(--text-secondary);" data-translate="yourScore">Vaš rezultat</div>
+                    </div>
+                    <div class="stat-card points">
+                        <span class="stat-icon" style="font-size: 2rem;">⭐</span>
+                        <div style="font-size: 1.5rem; font-weight: 700; color: var(--primary);" id="pointsValue">0</div>
+                        <div style="font-size: 0.9rem; color: var(--text-secondary);" data-translate="points">Bodova</div>
+                    </div>
+                    <div class="stat-card correct">
+                        <span class="stat-icon" style="font-size: 2rem;">✅</span>
+                        <div style="font-size: 1.5rem; font-weight: 700; color: var(--primary);" id="correctValue">0</div>
+                        <div style="font-size: 0.9rem; color: var(--text-secondary);" data-translate="correct">Tačno</div>
+                    </div>
+                    <div class="stat-card wrong">
+                        <span class="stat-icon" style="font-size: 2rem;">❌</span>
+                        <div style="font-size: 1.5rem; font-weight: 700; color: var(--primary);" id="wrongValue">0</div>
+                        <div style="font-size: 0.9rem; color: var(--text-secondary);" data-translate="incorrect">Netačno</div>
+                    </div>
+                </div>
+                <p class="results-time">
+                    <span data-translate="timeRemaining">Vrijeme:</span>
+                    <span id="timeValue">0</span> s
+                </p>
+                <button id="backHomeBtn" class="back-btn">
+                    Nazad na početnu
+                </button>
+            </div>
+        </div>
+    </main>
+    <script src="js/translations.js"></script>
+    <script>
+    // Apply translations and load result data
+    document.addEventListener('DOMContentLoaded', function() {
+        // Set lang attribute
+        const lang = getUserLanguage();
+        document.documentElement.lang = lang;
+        // Translate static elements
+        document.querySelectorAll('[data-translate]').forEach(function(el) {
+            const key = el.getAttribute('data-translate');
+            el.textContent = t(key);
+        });
+        // Set back button text
+        const backBtn = document.getElementById('backHomeBtn');
+        if (backBtn) backBtn.textContent = t('backToHome') || 'Nazad na početnu';
+        // Get last result
+        const resultData = JSON.parse(localStorage.getItem('lastQuizResult') || '{}');
+        if (resultData) {
+            document.getElementById('scoreValue').textContent = resultData.score || 0;
+            document.getElementById('pointsValue').textContent = resultData.points || 0;
+            document.getElementById('correctValue').textContent = resultData.correct || 0;
+            document.getElementById('wrongValue').textContent = resultData.wrong || 0;
+            document.getElementById('timeValue').textContent = resultData.time || 0;
+            // Show title if available
+            const titleEl = document.getElementById('quizTitle');
+            if (titleEl && resultData.title) {
+                titleEl.textContent = resultData.title;
+            }
+        }
+    });
+    // Navigate back home
+    document.addEventListener('click', function(e) {
+        if (e.target && e.target.id === 'backHomeBtn') {
+            window.location.href = 'index.html';
+        }
+    });
+    </script>
+</body>
+</html>

@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+<html lang="bs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Poslanikova sira - Život Allahovog Poslanika</title>
+    <meta name="description" content="Interaktivni kvizovi i kartice za učenje o životu Allahovog Poslanika, sallallahu alejhi ve sellem">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Amiri:wght@400;700&family=Inter:wght@400;500;600;700&family=Poppins:wght@600;700;800&display=swap" rel="stylesheet">
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-P10X0MRPDG"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag("js", new Date());
+  gtag("config", "G-P10X0MRPDG");
+</script>
+</head>
+<body>
+    <div class="background-pattern"></div>
+    
+    <!-- Header -->
+    <header class="header">
+        <div class="container">
+            <div class="header-content">
+                <div class="logo">
+                    <div class="logo-icon">
+                        <img src="images/logo_sira.png" alt="Logo" class="logo-img">
+                    </div>
+                    <div class="logo-text">
+                        <!-- Site title is now translatable -->
+                        <h1 data-translate="siteTitle">Poslanikova sira</h1>
+                        <p class="subtitle" data-translate="siteSubtitle">Život Allahovog Poslanika, s.a.v.s.</p>
+                    </div>
+                </div>
+                <nav class="nav">
+                    <div class="auth-nav" id="authNav" style="display: none;">
+                        <button class="nav-btn" onclick="window.location.href='login.html?mode=login'">
+                            <span class="icon">🔑</span>
+                            <span data-translate="login">Prijava</span>
+                        </button>
+                        <button class="nav-btn" onclick="window.location.href='login.html?mode=register'">
+                            <span class="icon">📝</span>
+                            <span data-translate="register">Registracija</span>
+                        </button>
+                    </div>
+                    <div class="user-info" id="userInfo" style="display: none;">
+                        <span class="user-icon">👤</span>
+                        <span class="user-name" id="userName">Korisnik</span>
+                        <span class="user-points" id="userPoints">0 bodova</span>
+                    </div>
+                    <button class="nav-btn" id="statsBtn" data-page="stats">
+                        <span class="icon">📊</span>
+                        <span data-translate="statistics">Statistika</span>
+                    </button>
+                    <button class="nav-btn" id="flashcardsBtn" data-page="flashcards">
+                        <span class="icon">🎴</span>
+                        <span data-translate="flashcardsNav">Kartice</span>
+                    </button>
+                    <button class="nav-btn admin-only" id="adminBtn" style="display: none;">
+                        <span class="icon">⚙️</span>
+                        <span>Admin</span>
+                    </button>
+                    <button class="nav-btn logout-btn" id="logoutBtn">
+                        <span class="icon">🚪</span>
+                        <span data-translate="logout">Odjava</span>
+                    </button>
+                </nav>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="main-content">
+        <div class="container">
+            
+            <!-- Welcome Section -->
+            <section class="welcome-section">
+  <div class="welcome-centered">
+    <p class="welcome-lead" data-translate="welcomeText">
+      Dobrodošli na interaktivnu platformu za učenje o životu Allahovog Poslanika Muhammeda, sallallahu alejhi ve sellem.
+      <br>
+      Kroz kvizove i kartice za učenje upoznajte najljepši životopis koji je ikada napisan.
+    </p>
+    <div class="welcome-divider"></div>
+  </div>
+</section>
+
+            <!-- Quizzes Section -->
+            <section class="quizzes-section">                
+                <div class="quizzes-grid">
+                    
+                    <!-- Kviz 1 -->
+                    <div class="quiz-card" data-quiz="kviz1">
+                        <div class="quiz-header">
+                            <div class="quiz-difficulty">
+                                <span class="star">⭐</span>
+                                <span class="star">⭐</span>
+                                <span class="star">⭐</span>
+                                <span class="star">⭐</span>
+                            </div>
+                        </div>
+                        <h3 class="quiz-title" data-translate="quiz1Title"></h3>
+                        <p class="quiz-description" data-translate="quiz1Desc"></p>
+                        <button class="start-quiz-btn" data-quiz-id="kviz1" data-translate="startQuiz">Započni kviz</button>
+                    </div>
+
+                    <!-- Kviz 2 -->
+                    <div class="quiz-card" data-quiz="kviz2">
+                        <div class="quiz-header">
+                            <div class="quiz-difficulty">
+                                <span class="star">⭐</span>
+                                <span class="star">⭐</span>
+                                <span class="star">⭐</span>
+                                <span class="star">⭐</span>
+                            </div>
+                        </div>
+                        <h3 class="quiz-title" data-translate="quiz2Title"></h3>
+                        <p class="quiz-description" data-translate="quiz2Desc"></p>
+                        <button class="start-quiz-btn" data-quiz-id="kviz2" data-translate="startQuiz">Započni kviz</button>
+                    </div>
+
+                    <!-- Kviz 3 -->
+                    <div class="quiz-card" data-quiz="kviz3">
+                        <div class="quiz-header">
+                            <div class="quiz-difficulty">
+                                <span class="star">⭐</span>
+                                <span class="star">⭐</span>
+                                <span class="star">⭐</span>
+                                <span class="star">⭐</span>
+                            </div>
+                        </div>
+                        <h3 class="quiz-title" data-translate="quiz3Title"></h3>
+                        <p class="quiz-description" data-translate="quiz3Desc"></p>
+                        <button class="start-quiz-btn" data-quiz-id="kviz3" data-translate="startQuiz">Započni kviz</button>
+                    </div>
+
+                    <!-- Kviz 4 -->
+                    <div class="quiz-card" data-quiz="kviz4">
+                        <div class="quiz-header">
+                            <div class="quiz-difficulty">
+                                <span class="star">⭐</span>
+                                <span class="star">⭐</span>
+                                <span class="star">⭐</span>
+                                <span class="star">⭐</span>
+                            </div>
+                        </div>
+                        <h3 class="quiz-title" data-translate="quiz4Title"></h3>
+                        <p class="quiz-description" data-translate="quiz4Desc"></p>
+                        <button class="start-quiz-btn" data-quiz-id="kviz4" data-translate="startQuiz">Započni kviz</button>
+                    </div>
+
+                    <!-- Kviz 5 -->
+                    <div class="quiz-card" data-quiz="kviz5">
+                        <div class="quiz-header">
+                            <div class="quiz-difficulty">
+                                <span class="star">⭐</span>
+                                <span class="star">⭐</span>
+                                <span class="star">⭐</span>
+                                <span class="star">⭐</span>
+                            </div>
+                        </div>
+                        <h3 class="quiz-title" data-translate="quiz5Title"></h3>
+                        <p class="quiz-description" data-translate="quiz5Desc"></p>
+                        <button class="start-quiz-btn" data-quiz-id="kviz5" data-translate="startQuiz">Započni kviz</button>
+                    </div>
+
+                    <!-- Kviz 6 -->
+                    <div class="quiz-card" data-quiz="kviz6">
+                        <div class="quiz-header">
+                            <div class="quiz-difficulty">
+                                <span class="star">⭐</span>
+                                <span class="star">⭐</span>
+                                <span class="star">⭐</span>
+                                <span class="star">⭐</span>
+                            </div>
+                        </div>
+                        <h3 class="quiz-title" data-translate="quiz6Title"></h3>
+                        <p class="quiz-description" data-translate="quiz6Desc"></p>
+                        <button class="start-quiz-btn" data-quiz-id="kviz6" data-translate="startQuiz">Započni kviz</button>
+                    </div>
+
+                    <!-- Kviz 7 -->
+                    <div class="quiz-card" data-quiz="kviz7">
+                        <div class="quiz-header">
+                            <!-- icon removed -->
+                            <div class="quiz-difficulty">
+                                <span class="star">⭐</span>
+                                <span class="star">⭐</span>
+                                <span class="star">⭐</span>
+                                <span class="star">⭐</span>
+                            </div>
+                        </div>
+                        <h3 class="quiz-title" data-translate="quiz7Title"></h3>
+                        <p class="quiz-description" data-translate="quiz7Desc"></p>
+                        <button class="start-quiz-btn" data-quiz-id="kviz7" data-translate="startQuiz">Započni kviz</button>
+                    </div>
+
+                    <!-- Kviz 8 -->
+                    <div class="quiz-card" data-quiz="kviz8">
+                        <div class="quiz-header">
+                            <!-- icon removed -->
+                            <div class="quiz-difficulty">
+                                <span class="star">⭐</span>
+                                <span class="star">⭐</span>
+                                <span class="star">⭐</span>
+                                <span class="star">⭐</span>
+                            </div>
+                        </div>
+                        <h3 class="quiz-title" data-translate="quiz8Title"></h3>
+                        <p class="quiz-description" data-translate="quiz8Desc"></p>
+                        <button class="start-quiz-btn" data-quiz-id="kviz8" data-translate="startQuiz">Započni kviz</button>
+                    </div>
+
+                    <!-- Kviz 9 -->
+                    <div class="quiz-card" data-quiz="kviz9">
+                        <div class="quiz-header">
+                            <!-- icon removed -->
+                            <div class="quiz-difficulty">
+                                <span class="star">⭐</span>
+                                <span class="star">⭐</span>
+                                <span class="star">⭐</span>
+                                <span class="star">⭐</span>
+                            </div>
+                        </div>
+                        <h3 class="quiz-title" data-translate="quiz9Title"></h3>
+                        <p class="quiz-description" data-translate="quiz9Desc"></p>
+                        <button class="start-quiz-btn" data-quiz-id="kviz9" data-translate="startQuiz">Započni kviz</button>
+                    </div>
+
+                    <!-- Kviz 10 -->
+                    <div class="quiz-card" data-quiz="kviz10">
+                        <div class="quiz-header">
+                            <!-- icon removed -->
+                            <div class="quiz-difficulty">
+                                <span class="star">⭐</span>
+                                <span class="star">⭐</span>
+                                <span class="star">⭐</span>
+                                <span class="star">⭐</span>
+                            </div>
+                        </div>
+                        <h3 class="quiz-title" data-translate="quiz10Title"></h3>
+                        <p class="quiz-description" data-translate="quiz10Desc"></p>
+                        <button class="start-quiz-btn" data-quiz-id="kviz10" data-translate="startQuiz">Započni kviz</button>
+                    </div>
+
+                </div>
+            </section>
+
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="support-section">
+                <!-- Total quizzes and questions info -->
+                <p data-translate="totalQuizzesInfo">📖 Ukupno 10 kvizova • 1000 pitanja</p>
+                <!-- Sources of quizzes -->
+                <p data-translate="basedOnWorks">Kvizovi su zasnovani na knjigama "Das Leben des Propheten Muhammad ﷺ – Der versiegelte Nektar (Ar-Raheeq Al-Makhtum)" i "Die Prophetische Biografie Von Ibn Hisham".</p>
+                <!-- Donation call to action -->
+                <p class="coffee-text" data-translate="coffeeText">☕ Budi dio dobra koje širimo dalje. Dok će mnogi samo proći pored ovog poziva, ti možeš biti onaj ko će podržati naš rad. Klikni na QR kod i podrži nas!</p>
+                <a href="https://www.buymeacoffee.com/mekteb" target="_blank">
+                    <img src="images/bmc_qr.png" alt="Buy Me a Coffee QR" class="qr-code">
+                </a>
+                <p><a href="https://www.buymeacoffee.com/mekteb" target="_blank" class="support-link">buymeacoffee.com/mekteb</a></p>
+                <!-- Contact information -->
+                <p data-translate="contactInfo">Kontakt: <a href="mailto:info@mekteb.net">info@mekteb.net</a></p>
+                <!-- Copyright -->
+                <p class="copyright">© 2026 <span data-translate="siteTitleFooter">Poslanikova sira</span>. <span data-translate="allRightsReserved">Sva prava zadržana.</span></p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Statistics Modal -->
+    <div class="modal" id="statsModal" style="display:none">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2 data-translate="yourStatistics">📊 Vaša statistika</h2>
+                <button class="close-modal" data-modal="statsModal">×</button>
+            </div>
+            <div class="modal-body">
+                <div class="stats-grid">
+                    <div class="stat-card">
+                        <span class="stat-icon">⭐</span>
+                        <span class="stat-value" id="totalPoints">0</span>
+                        <span class="stat-label" data-translate="totalPointsLabel">Ukupno bodova</span>
+                    </div>
+                    <div class="stat-card">
+                        <span class="stat-icon">✅</span>
+                        <span class="stat-value" id="totalCorrect">0</span>
+                        <span class="stat-label" data-translate="totalCorrectLabel">Tačnih odgovora</span>
+                    </div>
+                    <div class="stat-card">
+                        <span class="stat-icon">❌</span>
+                        <span class="stat-value" id="totalWrong">0</span>
+                        <span class="stat-label" data-translate="totalWrongLabel">Netačnih odgovora</span>
+                    </div>
+                    <div class="stat-card">
+                        <span class="stat-icon">📝</span>
+                        <span class="stat-value" id="quizzesTaken">0</span>
+                        <span class="stat-label" data-translate="quizzesTakenLabel">Završenih kvizova</span>
+                    </div>
+                </div>
+                <div class="progress-section">
+                    <h3 data-translate="quizHistoryTitle">Istorija kvizova</h3>
+                    <div id="quizHistory"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="js/translations.js"></script>
+    <script src="js/auth.js"></script>
+    <script src="js/app.js"></script>
+    <script>
+        // Apply translations on page load
+        document.addEventListener('DOMContentLoaded', function () {
+            if (typeof applyTranslations === 'function') {
+                applyTranslations();
+            }
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,2029 @@
+[
+  {
+    "quiz_id": 1,
+    "question_id": 1,
+    "type": "true_false",
+    "difficulty": "easy",
+    "source_section": "Predislamska Arabija",
+    "question": {
+      "bs": "Arabija se dijeli na tri velike grupe Arapa: izumrli Arapi, čisti Arapi i poarabljeni Arapi.",
+      "de": "Arabien wird in drei grosse Gruppen von Arabern unterteilt: ausgestorbene Araber, reine Araber und arabisierte Araber."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Arapi se dijele na El-Arebe el-baide (izumrle Arape) poput Ada i Semuda, El-Arebe el-aribe (čiste Arape) koji potječu od Jaaruba ibn Kahtana, i El-Arebe el-mustaribe (poarabljene Arape) koji potječu od Ismaila, a.s.",
+      "de": "Richtig! Die Araber werden unterteilt in El-Arebe el-baide (ausgestorbene Araber) wie Ad und Thamud, El-Arebe el-aribe (reine Araber), die von Ya'rub ibn Qahtan abstammen, und El-Arebe el-mustaribe (arabisierte Araber), die von Ismael abstammen."
+    }
+  },
+  {
+    "quiz_id": 1,
+    "question_id": 2,
+    "type": "true_false",
+    "difficulty": "easy",
+    "source_section": "Predislamska Arabija",
+    "question": {
+      "bs": "Ibrahim, a.s., je doveo svoju ženu Hadžeru i sina Ismaila u Meku.",
+      "de": "Ibrahim (a.s.) brachte seine Frau Hadschar und seinen Sohn Ismael nach Mekka."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Ibrahim, a.s., je po Allahovoj naredbi doveo Hadžeru i malog Ismaila u neplodnu dolinu kod Kabe, gdje ih je ostavio s malo hrane i vode, potpuno se oslanjajući na Allahovu pomoć.",
+      "de": "Richtig! Ibrahim (a.s.) brachte auf Allahs Befehl Hadschar und den kleinen Ismael in ein unfruchtbares Tal bei der Kaaba, wo er sie mit wenig Nahrung und Wasser zurückliess und völlig auf Allahs Hilfe vertraute."
+    }
+  },
+  {
+    "quiz_id": 1,
+    "question_id": 3,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Predislamska Arabija",
+    "question": {
+      "bs": "Vrelo Zemzem je postojalo prije dolaska Hadžere i Ismaila u Meku.",
+      "de": "Die Zamzam-Quelle existierte bereits vor der Ankunft von Hadschar und Ismael in Mekka."
+    },
+    "correct": false,
+    "explanation": {
+      "bs": "Netačno! Vrelo Zemzem je provrilo iz pijeska tek nakon što je Hadžera ostala sama sa sinom u pustinji. Kada im je ponestalo vode, Allah je dao da provri voda iz pijeska, čime je nastao izvor Zemzem.",
+      "de": "Falsch! Die Zamzam-Quelle entsprang erst, nachdem Hadschar mit ihrem Sohn allein in der Wüste zurückgeblieben war. Als ihnen das Wasser ausging, liess Allah Wasser aus dem Sand hervorsprudeln, wodurch die Zamzam-Quelle entstand."
+    }
+  },
+  {
+    "quiz_id": 1,
+    "question_id": 4,
+    "type": "true_false",
+    "difficulty": "easy",
+    "source_section": "Predislamska Arabija",
+    "question": {
+      "bs": "Ismail, a.s., je naučio arapski jezik od plemena Džurhum.",
+      "de": "Ismael (a.s.) lernte die arabische Sprache vom Stamm Dschurhum."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Pleme Džurhum se nastanilo u blizini Zemzema i Ismail je od njih naučio arapski jezik. Kasnije se oženio djevojkom iz ovog plemena.",
+      "de": "Richtig! Der Stamm Dschurhum siedelte sich in der Nähe von Zamzam an, und Ismael lernte von ihnen die arabische Sprache. Später heiratete er ein Mädchen aus diesem Stamm."
+    }
+  },
+  {
+    "quiz_id": 1,
+    "question_id": 5,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Predislamska Arabija",
+    "question": {
+      "bs": "Ibrahim, a.s., je posjetio Ismaila samo jednom nakon što ga je ostavio u Meki.",
+      "de": "Ibrahim (a.s.) besuchte Ismael nur einmal, nachdem er ihn in Mekka zurückgelassen hatte."
+    },
+    "correct": false,
+    "explanation": {
+      "bs": "Netačno! Ibrahim, a.s., je više puta dolazio u Meku da posjeti sina. Historija je zabilježila najmanje četiri posjete, uključujući i onu kada su zajedno gradili Kabu.",
+      "de": "Falsch! Ibrahim (a.s.) kam mehrmals nach Mekka, um seinen Sohn zu besuchen. Die Geschichte verzeichnet mindestens vier Besuche, einschliesslich des Besuchs, bei dem sie gemeinsam die Kaaba bauten."
+    }
+  },
+  {
+    "quiz_id": 1,
+    "question_id": 6,
+    "type": "true_false",
+    "difficulty": "hard",
+    "source_section": "Predislamska Arabija",
+    "question": {
+      "bs": "Ismail, a.s., je trinaest godina stariji od svog polubrata Ishaka, a.s.",
+      "de": "Ismael (a.s.) war dreizehn Jahre älter als sein Halbbruder Isaak (a.s.)."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Prema knjizi Postanka, Ismail je bio trinaest godina stariji od Ishaka. Hadžera je rodila Ismaila kada je Ibrahim imao 86 godina, dok je Sara rodila Ishaka kada je Ibrahim imao 100 godina.",
+      "de": "Richtig! Laut dem Buch Genesis war Ismael dreizehn Jahre älter als Isaak. Hadschar gebar Ismael, als Ibrahim 86 Jahre alt war, während Sara Isaak gebar, als Ibrahim 100 Jahre alt war."
+    }
+  },
+  {
+    "quiz_id": 1,
+    "question_id": 7,
+    "type": "true_false",
+    "difficulty": "easy",
+    "source_section": "Rodoslovlje Poslanika",
+    "question": {
+      "bs": "Poslanik Muhammed, s.a.v.s., potječe od Ismaila, sina Ibrahima, a.s.",
+      "de": "Der Prophet Muhammad (s.a.w.s.) stammt von Ismael, dem Sohn Ibrahims (a.s.), ab."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Poslanik Muhammed, s.a.v.s., potječe iz loze Ismaila, sina Ibrahima, a.s. Njegovo rodoslovlje se proteže kroz pleme Kurejš i porodicu Benu Hašim.",
+      "de": "Richtig! Der Prophet Muhammad (s.a.w.s.) stammt aus der Linie Ismaels, des Sohnes Ibrahims (a.s.). Seine Abstammung erstreckt sich über den Stamm Quraisch und die Familie Banu Haschim."
+    }
+  },
+  {
+    "quiz_id": 1,
+    "question_id": 8,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Predislamska Arabija",
+    "question": {
+      "bs": "Pleme Kurejš je upravljalo Mekom i čuvalo Kabu.",
+      "de": "Der Stamm Quraisch regierte Mekka und bewachte die Kaaba."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Kurejšije su bile najuglednije pleme u Meki. Imali su ključnu ulogu u čuvanju Kabe, napajanju hadžija i drugim važnim funkcijama vezanim za sveti hram.",
+      "de": "Richtig! Die Quraisch waren der angesehenste Stamm in Mekka. Sie hatten eine Schlüsselrolle bei der Bewachung der Kaaba, der Versorgung der Pilger und anderen wichtigen Funktionen im Zusammenhang mit dem heiligen Tempel."
+    }
+  },
+  {
+    "quiz_id": 1,
+    "question_id": 9,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Dogadjaj sa slonom",
+    "question": {
+      "bs": "Ebreha je podigao vojsku od 60.000 ljudi da sruši Kabu.",
+      "de": "Abraha erhob eine Armee von 60.000 Mann, um die Kaaba zu zerstören."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Ebreha, namjesnik abesinskog vladara u Jemenu, podigao je ogromnu vojsku od 60.000 ljudi s ciljem da sruši Kabu. Ova vojska je imala i slonove, a najpoznatiji od njih bio je Mahmud.",
+      "de": "Richtig! Abraha, der Statthalter des abessinischen Herrschers im Jemen, stellte eine riesige Armee von 60.000 Mann auf, um die Kaaba zu zerstören. Diese Armee hatte auch Elefanten, der bekannteste war Mahmud."
+    }
+  },
+  {
+    "quiz_id": 1,
+    "question_id": 10,
+    "type": "true_false",
+    "difficulty": "easy",
+    "source_section": "Dogadjaj sa slonom",
+    "question": {
+      "bs": "Allah je uništio Ebrehinu vojsku pticama Ebabil koje su bacale grumenje od pečene gline.",
+      "de": "Allah vernichtete Abrahas Armee durch Ababil-Vögel, die Steine aus gebranntem Lehm warfen."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Kao što je opisano u suri El-Fil, Allah je poslao ptice Ebabil koje su nosile grumenje od pečene gline i bacale ih na Ebrehinu vojsku, uništivši je potpuno.",
+      "de": "Richtig! Wie in der Sure Al-Fil beschrieben, sandte Allah Ababil-Vögel, die Steine aus gebranntem Lehm trugen und auf Abrahas Armee warfen, wodurch sie vollständig vernichtet wurde."
+    }
+  },
+  {
+    "quiz_id": 1,
+    "question_id": 11,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "source_section": "Predislamska Arabija",
+    "question": {
+      "bs": "Koji grad je bio centar trgovine i hodocastva u predislamskoj Arabiji?",
+      "de": "Welche Stadt war das Zentrum des Handels und der Pilgerfahrt im vorislamischen Arabien?"
+    },
+    "options": {
+      "bs": ["Meka", "Medina", "Taif", "Jemen"],
+      "de": ["Mekka", "Medina", "Taif", "Jemen"]
+    },
+    "correct": {
+      "bs": "Meka",
+      "de": "Mekka"
+    },
+    "explanation": {
+      "bs": "Meka je bila najvažniji grad u predislamskoj Arabiji. Bila je centar hodocastva zbog Kabe i važna trgovačka raskrsnica na putu od Jemena do Sirije.",
+      "de": "Mekka war die wichtigste Stadt im vorislamischen Arabien. Sie war das Zentrum der Pilgerfahrt wegen der Kaaba und eine wichtige Handelskreuzung auf dem Weg vom Jemen nach Syrien."
+    }
+  },
+  {
+    "quiz_id": 1,
+    "question_id": 12,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "source_section": "Rodoslovlje Poslanika",
+    "question": {
+      "bs": "Kako se zvao Poslanikov djed koji je iskopao bunar Zemzem?",
+      "de": "Wie hiess der Grossvater des Propheten, der den Zamzam-Brunnen ausgrub?"
+    },
+    "options": {
+      "bs": ["Abdul-Muttalib", "Hašim", "Abd Menaf", "Kusajj"],
+      "de": ["Abdul-Muttalib", "Haschim", "Abd Manaf", "Qusayy"]
+    },
+    "correct": {
+      "bs": "Abdul-Muttalib",
+      "de": "Abdul-Muttalib"
+    },
+    "explanation": {
+      "bs": "Abdul-Muttalib je bio Poslanikov djed. Njemu je u snu naređeno da iskopa bunar Zemzem, koji je bio zatrpan dugi niz godina. To je bila jedna od njegovih velikih zasluga.",
+      "de": "Abdul-Muttalib war der Grossvater des Propheten. Ihm wurde im Traum befohlen, den Zamzam-Brunnen auszugraben, der viele Jahre verschüttet war. Dies war eine seiner grossen Verdienste."
+    }
+  },
+  {
+    "quiz_id": 1,
+    "question_id": 13,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Rodoslovlje Poslanika",
+    "question": {
+      "bs": "Koliko sinova je imao Abdul-Muttalib?",
+      "de": "Wie viele Söhne hatte Abdul-Muttalib?"
+    },
+    "options": {
+      "bs": ["Deset sinova", "Osam sinova", "Dvanaest sinova", "Šest sinova"],
+      "de": ["Zehn Söhne", "Acht Söhne", "Zwölf Söhne", "Sechs Söhne"]
+    },
+    "correct": {
+      "bs": "Deset sinova",
+      "de": "Zehn Söhne"
+    },
+    "explanation": {
+      "bs": "Abdul-Muttalib je imao deset sinova: El-Haris, Ez-Zubejr, Ebu Talib, Abdullah (Poslanikov otac), Hamza, Ebu Leheb, El-Gajdak, El-Mekum, Saffar i El-Abbas.",
+      "de": "Abdul-Muttalib hatte zehn Söhne: Al-Harith, Az-Zubair, Abu Talib, Abdullah (Vater des Propheten), Hamza, Abu Lahab, Al-Ghaydaq, Al-Muqawwam, Saffar und Al-Abbas."
+    }
+  },
+  {
+    "quiz_id": 1,
+    "question_id": 14,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "source_section": "Rodoslovlje Poslanika",
+    "question": {
+      "bs": "Kako se zvao Poslanikov otac?",
+      "de": "Wie hiess der Vater des Propheten?"
+    },
+    "options": {
+      "bs": ["Abdullah", "Abdul-Muttalib", "Ebu Talib", "Hamza"],
+      "de": ["Abdullah", "Abdul-Muttalib", "Abu Talib", "Hamza"]
+    },
+    "correct": {
+      "bs": "Abdullah",
+      "de": "Abdullah"
+    },
+    "explanation": {
+      "bs": "Abdullah je bio Poslanikov otac. Bio je najljepše Abdul-Muttalibovo dijete i njemu najdraže. Umro je prije rođenja svoga sina, u Medini, u 25. godini života.",
+      "de": "Abdullah war der Vater des Propheten. Er war das schönste Kind Abdul-Muttalibs und ihm am liebsten. Er starb vor der Geburt seines Sohnes in Medina im Alter von 25 Jahren."
+    }
+  },
+  {
+    "quiz_id": 1,
+    "question_id": 15,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "source_section": "Rodoslovlje Poslanika",
+    "question": {
+      "bs": "Kako se zvala Poslanikova majka?",
+      "de": "Wie hiess die Mutter des Propheten?"
+    },
+    "options": {
+      "bs": ["Amina bint Vehb", "Fatima bint Asad", "Hatidža bint Huvejlid", "Halima Es-Sadijja"],
+      "de": ["Amina bint Wahb", "Fatima bint Asad", "Chadidscha bint Chuwailid", "Halima As-Sadiyya"]
+    },
+    "correct": {
+      "bs": "Amina bint Vehb",
+      "de": "Amina bint Wahb"
+    },
+    "explanation": {
+      "bs": "Amina bint Vehb je bila Poslanikova majka. Bila je kći Vehba ibn Abd Menafa iz porodice Benu Zehra. U to vrijeme bila je najljepša i najčestitija djevojka u Kurejšija.",
+      "de": "Amina bint Wahb war die Mutter des Propheten. Sie war die Tochter von Wahb ibn Abd Manaf aus der Familie Banu Zuhra. Zu dieser Zeit war sie das schönste und tugendhafteste Mädchen unter den Quraisch."
+    }
+  },
+  {
+    "quiz_id": 1,
+    "question_id": 16,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Predislamska Arabija",
+    "question": {
+      "bs": "Koji pradjed Poslanika je uveo ljetne i zimske trgovačke karavane?",
+      "de": "Welcher Urgrossvater des Propheten führte die Sommer- und Winterhandelskarawanen ein?"
+    },
+    "options": {
+      "bs": ["Hašim", "Abd Menaf", "Kusajj", "Abdul-Muttalib"],
+      "de": ["Haschim", "Abd Manaf", "Qusayy", "Abdul-Muttalib"]
+    },
+    "correct": {
+      "bs": "Hašim",
+      "de": "Haschim"
+    },
+    "explanation": {
+      "bs": "Hašim, pradjed Poslanika, uveo je poznate ljetne i zimske karavane koje su vozile do Sirije ljeti i Jemena zimi. Ove karavane su spomenute u suri Kurejš.",
+      "de": "Haschim, der Urgrossvater des Propheten, führte die berühmten Sommer- und Winterkarawanen ein, die im Sommer nach Syrien und im Winter in den Jemen fuhren. Diese Karawanen werden in der Sure Quraisch erwähnt."
+    }
+  },
+  {
+    "quiz_id": 1,
+    "question_id": 17,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Dogadjaj sa slonom",
+    "question": {
+      "bs": "Kada se desio događaj sa slonom u odnosu na rođenje Poslanika?",
+      "de": "Wann ereignete sich das Ereignis mit dem Elefanten im Verhältnis zur Geburt des Propheten?"
+    },
+    "options": {
+      "bs": ["Pedeset do pedeset pet dana prije rođenja", "Godinu dana prije rođenja", "U godini rođenja", "Deset godina prije rođenja"],
+      "de": ["Fünfzig bis fünfundfünfzig Tage vor der Geburt", "Ein Jahr vor der Geburt", "Im Jahr der Geburt", "Zehn Jahre vor der Geburt"]
+    },
+    "correct": {
+      "bs": "Pedeset do pedeset pet dana prije rođenja",
+      "de": "Fünfzig bis fünfundfünfzig Tage vor der Geburt"
+    },
+    "explanation": {
+      "bs": "Događaj sa slonom desio se u mjesecu muharremu, 50-55 dana prije rođenja Poslanika. To odgovara kraju februara ili početku marta 571. godine.",
+      "de": "Das Ereignis mit dem Elefanten fand im Monat Muharram statt, 50-55 Tage vor der Geburt des Propheten. Dies entspricht Ende Februar oder Anfang März 571."
+    }
+  },
+  {
+    "quiz_id": 1,
+    "question_id": 18,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Rodoslovlje Poslanika",
+    "question": {
+      "bs": "Koliko deva je bilo žrtvovano kao otkupnina za Abdullaha?",
+      "de": "Wie viele Kamele wurden als Lösegeld für Abdullah geopfert?"
+    },
+    "options": {
+      "bs": ["Sto deva", "Pedeset deva", "Deset deva", "Dvjesta deva"],
+      "de": ["Hundert Kamele", "Fünfzig Kamele", "Zehn Kamele", "Zweihundert Kamele"]
+    },
+    "correct": {
+      "bs": "Sto deva",
+      "de": "Hundert Kamele"
+    },
+    "explanation": {
+      "bs": "Abdul-Muttalib se bio zavjetovao da će žrtvovati jednog sina kod Kabe. Kada je strijela pala na Abdullaha, po savjetu vračare bacana je strijela između njega i deva. Tek kad je broj deva dosegao sto, strijela je pala na deve i one su žrtvovane umjesto Abdullaha.",
+      "de": "Abdul-Muttalib hatte geschworen, einen seiner Söhne bei der Kaaba zu opfern. Als das Los auf Abdullah fiel, wurde auf Rat einer Wahrsagerin zwischen ihm und Kamelen gelost. Erst als die Zahl der Kamele hundert erreichte, fiel das Los auf die Kamele, und sie wurden anstelle von Abdullah geopfert."
+    }
+  },
+  {
+    "quiz_id": 1,
+    "question_id": 19,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Predislamska Arabija",
+    "question": {
+      "bs": "Gdje je umro Hašim, pradjed Poslanika?",
+      "de": "Wo starb Haschim, der Urgrossvater des Propheten?"
+    },
+    "options": {
+      "bs": ["Gaza u Palestini", "Meka", "Medina", "Damask"],
+      "de": ["Gaza in Palästina", "Mekka", "Medina", "Damaskus"]
+    },
+    "correct": {
+      "bs": "Gaza u Palestini",
+      "de": "Gaza in Palästina"
+    },
+    "explanation": {
+      "bs": "Hašim je umro u Gazi, gradu u Palestini, za vrijeme jednog od svojih trgovačkih putovanja u Siriju. Prije toga se oženio Selmom u Medini, gdje mu se rodio sin Abdul-Muttalib.",
+      "de": "Haschim starb in Gaza, einer Stadt in Palästina, während einer seiner Handelsreisen nach Syrien. Zuvor hatte er Salma in Medina geheiratet, wo sein Sohn Abdul-Muttalib geboren wurde."
+    }
+  },
+  {
+    "quiz_id": 1,
+    "question_id": 20,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Predislamska Arabija",
+    "question": {
+      "bs": "Zašto je Ebreha htio srušiti Kabu?",
+      "de": "Warum wollte Abraha die Kaaba zerstören?"
+    },
+    "options": {
+      "bs": ["Htio je da hodočasnici dolaze u njegovu crkvu u Sani", "Htio je osvojiti Meku", "Kurejšije su ga uvrijedile", "Bio je naređeno od strane cara"],
+      "de": ["Er wollte, dass die Pilger zu seiner Kirche in Sanaa kommen", "Er wollte Mekka erobern", "Die Quraisch hatten ihn beleidigt", "Es wurde vom Kaiser befohlen"]
+    },
+    "correct": {
+      "bs": "Htio je da hodočasnici dolaze u njegovu crkvu u Sani",
+      "de": "Er wollte, dass die Pilger zu seiner Kirche in Sanaa kommen"
+    },
+    "explanation": {
+      "bs": "Ebreha je sagradio veliku crkvu u Sani s namjerom da preusmjeri arapske hodočasnike s Kabe u svoju crkvu. Kada je jedan Arapin oskrnavio njegovu crkvu, Ebreha se naljutio i krenuo s vojskom da sruši Kabu.",
+      "de": "Abraha baute eine grosse Kirche in Sanaa mit der Absicht, die arabischen Pilger von der Kaaba in seine Kirche umzuleiten. Als ein Araber seine Kirche entweihte, wurde Abraha wütend und marschierte mit einer Armee, um die Kaaba zu zerstören."
+    }
+  },
+  {
+    "quiz_id": 1,
+    "question_id": 21,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "source_section": "Predislamska Arabija",
+    "question": {
+      "bs": "Koje pleme se nastanilo u Meki oko vrela Zemzem?",
+      "de": "Welcher Stamm siedelte sich in Mekka um die Zamzam-Quelle an?"
+    },
+    "options": {
+      "bs": ["Džurhum", "Kurejš", "Huzaa", "Kinana"],
+      "de": ["Dschurhum", "Quraisch", "Chuzaa", "Kinana"]
+    },
+    "correct": {
+      "bs": "Džurhum",
+      "de": "Dschurhum"
+    },
+    "explanation": {
+      "bs": "Pleme Džurhum je prvo koje se nastanilo oko vrela Zemzem, uz dozvolu Hadžere. Od ovog plemena je Ismail naučio arapski jezik i oženio se djevojkom iz njihovog plemena.",
+      "de": "Der Stamm Dschurhum war der erste, der sich mit Erlaubnis von Hadschar um die Zamzam-Quelle ansiedelte. Von diesem Stamm lernte Ismael die arabische Sprache und heiratete ein Mädchen aus ihrem Stamm."
+    }
+  },
+  {
+    "quiz_id": 1,
+    "question_id": 22,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Predislamska Arabija",
+    "question": {
+      "bs": "Iz kojeg mjesta potječe Ibrahim, a.s.?",
+      "de": "Aus welchem Ort stammte Ibrahim (a.s.)?"
+    },
+    "options": {
+      "bs": ["Ur u Iraku", "Palestina", "Haran", "Meka"],
+      "de": ["Ur im Irak", "Palästina", "Harran", "Mekka"]
+    },
+    "correct": {
+      "bs": "Ur u Iraku",
+      "de": "Ur im Irak"
+    },
+    "explanation": {
+      "bs": "Ibrahim, a.s., potječe iz gradića Ur koji se nalazio na zapadnoj obali rijeke Eufrat, u blizini Kufe u Iraku. Odatle je odselio u Haran, a zatim u Palestinu.",
+      "de": "Ibrahim (a.s.) stammte aus der Stadt Ur, die am westlichen Ufer des Euphrats in der Nähe von Kufa im Irak lag. Von dort wanderte er nach Harran aus und dann nach Palästina."
+    }
+  },
+  {
+    "quiz_id": 1,
+    "question_id": 23,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Rodoslovlje Poslanika",
+    "question": {
+      "bs": "Gdje je umro Abdullah, Poslanikov otac?",
+      "de": "Wo starb Abdullah, der Vater des Propheten?"
+    },
+    "options": {
+      "bs": ["Medina", "Meka", "Taif", "Sirija"],
+      "de": ["Medina", "Mekka", "Taif", "Syrien"]
+    },
+    "correct": {
+      "bs": "Medina",
+      "de": "Medina"
+    },
+    "explanation": {
+      "bs": "Abdullah je umro u Medini (tada zvanoj Jesrib). Bio je na putu da nabavi datula za porodicu, ali je ondje obolio i umro. Zakopan je na groblju Nebige El-Džadija.",
+      "de": "Abdullah starb in Medina (damals Yathrib genannt). Er war unterwegs, um Datteln für die Familie zu besorgen, erkrankte dort aber und starb. Er wurde auf dem Friedhof Nabigha Al-Jadiya begraben."
+    }
+  },
+  {
+    "quiz_id": 1,
+    "question_id": 24,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Rodoslovlje Poslanika",
+    "question": {
+      "bs": "Koliko je godina imao Abdullah kada je umro?",
+      "de": "Wie alt war Abdullah, als er starb?"
+    },
+    "options": {
+      "bs": ["Dvadeset pet godina", "Trideset godina", "Dvadeset godina", "Trideset pet godina"],
+      "de": ["Fünfundzwanzig Jahre", "Dreissig Jahre", "Zwanzig Jahre", "Fünfunddreissig Jahre"]
+    },
+    "correct": {
+      "bs": "Dvadeset pet godina",
+      "de": "Fünfundzwanzig Jahre"
+    },
+    "explanation": {
+      "bs": "Abdullah je umro u dvadeset petoj godini života, prije rođenja svoga sina Muhammeda, s.a.v.s. Većina historičara smatra da je umro dok je Amina još bila trudna.",
+      "de": "Abdullah starb im Alter von fünfundzwanzig Jahren, vor der Geburt seines Sohnes Muhammad (s.a.w.s.). Die meisten Historiker glauben, dass er starb, während Amina noch schwanger war."
+    }
+  },
+  {
+    "quiz_id": 1,
+    "question_id": 25,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "source_section": "Predislamska Arabija",
+    "question": {
+      "bs": "Koji pradjed je prvi okupio Kurejšije u Meki i uspostavio njihovu vlast?",
+      "de": "Welcher Vorfahre sammelte als erster die Quraisch in Mekka und etablierte ihre Herrschaft?"
+    },
+    "options": {
+      "bs": ["Kusajj ibn Kilab", "Hašim", "Abd Menaf", "Fihr"],
+      "de": ["Qusayy ibn Kilab", "Haschim", "Abd Manaf", "Fihr"]
+    },
+    "correct": {
+      "bs": "Kusajj ibn Kilab",
+      "de": "Qusayy ibn Kilab"
+    },
+    "explanation": {
+      "bs": "Kusajj ibn Kilab je okupio raštrkane grane Kurejšija i naselio ih u Meki. Preuzeo je vlast nad Kabom od plemena Huzaa i uspostavio sistem upravljanja Mekom.",
+      "de": "Qusayy ibn Kilab vereinte die verstreuten Zweige der Quraisch und siedelte sie in Mekka an. Er übernahm die Kontrolle über die Kaaba vom Stamm Chuzaa und etablierte ein Verwaltungssystem für Mekka."
+    }
+  },
+  {
+    "quiz_id": 1,
+    "question_id": 26,
+    "type": "multiple_choice",
+    "difficulty": "medium",
+    "source_section": "Predislamska Arabija",
+    "question": {
+      "bs": "Koje su bile glavne karakteristike predislamskog arapskog društva? (Odaberite sve tačne odgovore)",
+      "de": "Was waren die Hauptmerkmale der vorislamischen arabischen Gesellschaft? (Wählen Sie alle richtigen Antworten)"
+    },
+    "options": {
+      "bs": ["Plemenski sistem", "Trgovina karavanima", "Mnogoboštvo", "Centralizirana država"],
+      "de": ["Stammessystem", "Karawanenhandel", "Polytheismus", "Zentralisierter Staat"]
+    },
+    "correct": {
+      "bs": ["Plemenski sistem", "Trgovina karavanima", "Mnogoboštvo"],
+      "de": ["Stammessystem", "Karawanenhandel", "Polytheismus"]
+    },
+    "explanation": {
+      "bs": "Predislamsko arapsko društvo je bilo organizirano po plemenskom sistemu, bavilo se trgovinom karavanama između Jemena i Sirije, i prakticiralo mnogoboštvo (obožavanje kipova). Nije postojala centralizirana država.",
+      "de": "Die vorislamische arabische Gesellschaft war nach dem Stammessystem organisiert, betrieb Karawanenhandel zwischen dem Jemen und Syrien und praktizierte Polytheismus (Götzenanbetung). Es gab keinen zentralisierten Staat."
+    }
+  },
+  {
+    "quiz_id": 1,
+    "question_id": 27,
+    "type": "multiple_choice",
+    "difficulty": "hard",
+    "source_section": "Rodoslovlje Poslanika",
+    "question": {
+      "bs": "Koji od navedenih su bili sinovi Abdul-Muttaliba? (Odaberite sve tačne odgovore)",
+      "de": "Welche der folgenden waren Söhne von Abdul-Muttalib? (Wählen Sie alle richtigen Antworten)"
+    },
+    "options": {
+      "bs": ["Abdullah", "Hamza", "Abbas", "Ebu Sufjan"],
+      "de": ["Abdullah", "Hamza", "Abbas", "Abu Sufyan"]
+    },
+    "correct": {
+      "bs": ["Abdullah", "Hamza", "Abbas"],
+      "de": ["Abdullah", "Hamza", "Abbas"]
+    },
+    "explanation": {
+      "bs": "Abdullah (Poslanikov otac), Hamza i Abbas su bili sinovi Abdul-Muttaliba. Ebu Sufjan ibn Harb nije bio sin Abdul-Muttaliba, već je pripadao porodici Benu Umejje.",
+      "de": "Abdullah (Vater des Propheten), Hamza und Abbas waren Söhne von Abdul-Muttalib. Abu Sufyan ibn Harb war nicht sein Sohn, sondern gehörte zur Familie der Banu Umayya."
+    }
+  },
+  {
+    "quiz_id": 1,
+    "question_id": 28,
+    "type": "multiple_choice",
+    "difficulty": "medium",
+    "source_section": "Predislamska Arabija",
+    "question": {
+      "bs": "Koje funkcije su imali Kurejšije vezano za Kabu? (Odaberite sve tačne odgovore)",
+      "de": "Welche Funktionen hatten die Quraisch in Bezug auf die Kaaba? (Wählen Sie alle richtigen Antworten)"
+    },
+    "options": {
+      "bs": ["Čuvanje ključa Kabe", "Napajanje hadžija (sikaja)", "Gostoprimstvo hadžija (rifada)", "Vođenje karavana u Egipat"],
+      "de": ["Aufbewahrung des Kaaba-Schlüssels", "Versorgung der Pilger mit Wasser (Siqaya)", "Gastfreundschaft für Pilger (Rifada)", "Führung von Karawanen nach Ägypten"]
+    },
+    "correct": {
+      "bs": ["Čuvanje ključa Kabe", "Napajanje hadžija (sikaja)", "Gostoprimstvo hadžija (rifada)"],
+      "de": ["Aufbewahrung des Kaaba-Schlüssels", "Versorgung der Pilger mit Wasser (Siqaya)", "Gastfreundschaft für Pilger (Rifada)"]
+    },
+    "explanation": {
+      "bs": "Kurejšije su imali tri glavne funkcije vezane za Kabu: čuvanje ključa i održavanje hrama, napajanje hadžija vodom (sikaja) i pružanje gostoprimstva i hrane hodočasnicima (rifada).",
+      "de": "Die Quraisch hatten drei Hauptfunktionen in Bezug auf die Kaaba: die Aufbewahrung des Schlüssels und die Pflege des Heiligtums, die Versorgung der Pilger mit Wasser (Siqaya) und die Bereitstellung von Gastfreundschaft und Nahrung für die Pilger (Rifada)."
+    }
+  },
+  {
+    "quiz_id": 1,
+    "question_id": 29,
+    "type": "multiple_choice",
+    "difficulty": "hard",
+    "source_section": "Predislamska Arabija",
+    "question": {
+      "bs": "Koje velike sile su imale utjecaj na Arabiju u predislamskom periodu? (Odaberite sve tačne odgovore)",
+      "de": "Welche Grossmächte hatten Einfluss auf Arabien in der vorislamischen Zeit? (Wählen Sie alle richtigen Antworten)"
+    },
+    "options": {
+      "bs": ["Bizantijsko carstvo", "Perzijsko carstvo", "Abesinija", "Kineski carstvo"],
+      "de": ["Byzantinisches Reich", "Persisches Reich", "Abessinien", "Chinesisches Reich"]
+    },
+    "correct": {
+      "bs": ["Bizantijsko carstvo", "Perzijsko carstvo", "Abesinija"],
+      "de": ["Byzantinisches Reich", "Persisches Reich", "Abessinien"]
+    },
+    "explanation": {
+      "bs": "Tri velike sile su imale utjecaj na Arabiju: Bizantijsko carstvo na sjeveru preko Gasanija, Perzijsko carstvo na istoku preko Lahma, i Abesinija na jugu u Jemenu. Kina nije imala direktan utjecaj na Arabiju.",
+      "de": "Drei Grossmächte hatten Einfluss auf Arabien: das Byzantinische Reich im Norden über die Ghassaniden, das Persische Reich im Osten über die Lachmiden und Abessinien im Süden im Jemen. China hatte keinen direkten Einfluss auf Arabien."
+    }
+  },
+  {
+    "quiz_id": 1,
+    "question_id": 30,
+    "type": "multiple_choice",
+    "difficulty": "medium",
+    "source_section": "Rodoslovlje Poslanika",
+    "question": {
+      "bs": "Šta je sve Abdullah ostavio iza sebe nakon smrti? (Odaberite sve tačne odgovore)",
+      "de": "Was hinterliess Abdullah nach seinem Tod? (Wählen Sie alle richtigen Antworten)"
+    },
+    "options": {
+      "bs": ["Pet deva", "Stado ovaca", "Abesinsku robinju Bereket (Ummu Ejmen)", "Kuću u Meki"],
+      "de": ["Fünf Kamele", "Eine Schafherde", "Die abessinische Sklavin Baraka (Umm Ayman)", "Ein Haus in Mekka"]
+    },
+    "correct": {
+      "bs": ["Pet deva", "Stado ovaca", "Abesinsku robinju Bereket (Ummu Ejmen)"],
+      "de": ["Fünf Kamele", "Eine Schafherde", "Die abessinische Sklavin Baraka (Umm Ayman)"]
+    },
+    "explanation": {
+      "bs": "Abdullah je iza sebe ostavio pet deva, malo stado ovaca i abesinsku robinju Bereket, poznatu kao Ummu Ejmen, koja je odgojila Poslanika, s.a.v.s. Bio je siromašan čovjek.",
+      "de": "Abdullah hinterliess fünf Kamele, eine kleine Schafherde und die abessinische Sklavin Baraka, bekannt als Umm Ayman, die den Propheten (s.a.w.s.) aufzog. Er war ein armer Mann."
+    }
+  },
+  {
+    "quiz_id": 1,
+    "question_id": 31,
+    "type": "ordering",
+    "difficulty": "medium",
+    "source_section": "Rodoslovlje Poslanika",
+    "question": {
+      "bs": "Poredajte pretke Poslanika od najstarijeg do najmlađeg:",
+      "de": "Ordnen Sie die Vorfahren des Propheten vom ältesten zum jüngsten:"
+    },
+    "options": {
+      "bs": ["Ibrahim, a.s.", "Ismail, a.s.", "Adnan", "Fihr (Kurejš)"],
+      "de": ["Ibrahim (a.s.)", "Ismael (a.s.)", "Adnan", "Fihr (Quraisch)"]
+    },
+    "correct": {
+      "bs": ["Ibrahim, a.s.", "Ismail, a.s.", "Adnan", "Fihr (Kurejš)"],
+      "de": ["Ibrahim (a.s.)", "Ismael (a.s.)", "Adnan", "Fihr (Quraisch)"]
+    },
+    "explanation": {
+      "bs": "Rodoslovlje Poslanika kreće od Ibrahima, a.s., preko Ismaila, a.s., zatim Adnana, pa do Fihra koji je poznat i kao Kurejš, po kome je pleme dobilo ime.",
+      "de": "Die Abstammung des Propheten beginnt bei Ibrahim (a.s.), über Ismael (a.s.), dann Adnan, bis zu Fihr, der auch als Quraisch bekannt ist, nach dem der Stamm benannt wurde."
+    }
+  },
+  {
+    "quiz_id": 1,
+    "question_id": 32,
+    "type": "ordering",
+    "difficulty": "hard",
+    "source_section": "Rodoslovlje Poslanika",
+    "question": {
+      "bs": "Poredajte pradjede Poslanika hronološkim redom (od najstarijeg):",
+      "de": "Ordnen Sie die Urgrossväter des Propheten in chronologischer Reihenfolge (vom ältesten):"
+    },
+    "options": {
+      "bs": ["Kusajj", "Abd Menaf", "Hašim", "Abdul-Muttalib"],
+      "de": ["Qusayy", "Abd Manaf", "Haschim", "Abdul-Muttalib"]
+    },
+    "correct": {
+      "bs": ["Kusajj", "Abd Menaf", "Hašim", "Abdul-Muttalib"],
+      "de": ["Qusayy", "Abd Manaf", "Haschim", "Abdul-Muttalib"]
+    },
+    "explanation": {
+      "bs": "Kusajj ibn Kilab je okupio Kurejšije, njegov sin je bio Abd Menaf, čiji je sin bio Hašim, a Hašimov sin je bio Abdul-Muttalib, djed Poslanika.",
+      "de": "Qusayy ibn Kilab vereinte die Quraisch, sein Sohn war Abd Manaf, dessen Sohn war Haschim, und Haschims Sohn war Abdul-Muttalib, der Grossvater des Propheten."
+    }
+  },
+  {
+    "quiz_id": 1,
+    "question_id": 33,
+    "type": "ordering",
+    "difficulty": "medium",
+    "source_section": "Predislamska Arabija",
+    "question": {
+      "bs": "Poredajte događaje iz života Ibrahima, a.s., hronološkim redom:",
+      "de": "Ordnen Sie die Ereignisse aus dem Leben Ibrahims (a.s.) in chronologischer Reihenfolge:"
+    },
+    "options": {
+      "bs": ["Odlazak iz Ura u Haran", "Dolazak u Palestinu", "Odvođenje Hadžere i Ismaila u Meku", "Gradnja Kabe sa Ismailom"],
+      "de": ["Abreise von Ur nach Harran", "Ankunft in Palästina", "Bringen von Hadschar und Ismael nach Mekka", "Bau der Kaaba mit Ismael"]
+    },
+    "correct": {
+      "bs": ["Odlazak iz Ura u Haran", "Dolazak u Palestinu", "Odvođenje Hadžere i Ismaila u Meku", "Gradnja Kabe sa Ismailom"],
+      "de": ["Abreise von Ur nach Harran", "Ankunft in Palästina", "Bringen von Hadschar und Ismael nach Mekka", "Bau der Kaaba mit Ismael"]
+    },
+    "explanation": {
+      "bs": "Ibrahim, a.s., je prvo odselio iz Ura u Haran, zatim u Palestinu. Kasnije je odveo Hadžeru i malog Ismaila u Meku. Nakon što je Ismail odrastao, zajedno su sagradili Kabu.",
+      "de": "Ibrahim (a.s.) wanderte zuerst von Ur nach Harran aus, dann nach Palästina. Später brachte er Hadschar und den kleinen Ismael nach Mekka. Nachdem Ismael erwachsen war, bauten sie gemeinsam die Kaaba."
+    }
+  },
+  {
+    "quiz_id": 1,
+    "question_id": 34,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Predislamska Arabija",
+    "question": {
+      "bs": "Hadžera je bila kći egipatskog faraona.",
+      "de": "Hadschar war die Tochter des ägyptischen Pharaos."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Prema izvorima, kada je faraon vidio koliko je Sara bila privržena Allahu, dao joj je svoju kći Hadžeru kao sluškinju. Sara ju je kasnije udala za Ibrahima, a.s.",
+      "de": "Richtig! Laut den Quellen gab der Pharao, als er sah, wie ergeben Sara Allah war, ihr seine Tochter Hadschar als Dienerin. Sara verheiratete sie später mit Ibrahim (a.s.)."
+    }
+  },
+  {
+    "quiz_id": 1,
+    "question_id": 35,
+    "type": "true_false",
+    "difficulty": "easy",
+    "source_section": "Predislamska Arabija",
+    "question": {
+      "bs": "Kaba je postojala prije dolaska Ibrahima, a.s., u Meku.",
+      "de": "Die Kaaba existierte bereits vor Ibrahims (a.s.) Ankunft in Mekka."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Kada je Ibrahim, a.s., doveo Hadžeru i Ismaila u Meku, Kaba je već postojala, ali u obliku uzdignute gomile pijeska i kamenja koju bi povremeno bujice raznosile.",
+      "de": "Richtig! Als Ibrahim (a.s.) Hadschar und Ismael nach Mekka brachte, existierte die Kaaba bereits, aber in Form eines erhöhten Haufens aus Sand und Steinen, der gelegentlich von Sturzfluten weggespült wurde."
+    }
+  },
+  {
+    "quiz_id": 1,
+    "question_id": 36,
+    "type": "true_false",
+    "difficulty": "hard",
+    "source_section": "Predislamska Arabija",
+    "question": {
+      "bs": "Poslanik, s.a.v.s., je rekao: 'Ja sam potomak dviju žrtava.'",
+      "de": "Der Prophet (s.a.w.s.) sagte: 'Ich bin der Nachkomme zweier Opfer.'"
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Poslanik je mislio na Ismaila, a.s., kojeg je Ibrahim trebao žrtvovati, i na svog oca Abdullaha, kojeg je Abdul-Muttalib trebao žrtvovati prema svom zavjetu. Obojica su spašena Allahovom milošću.",
+      "de": "Richtig! Der Prophet meinte Ismael (a.s.), den Ibrahim opfern sollte, und seinen Vater Abdullah, den Abdul-Muttalib gemäss seinem Gelübde opfern sollte. Beide wurden durch Allahs Gnade gerettet."
+    }
+  },
+  {
+    "quiz_id": 1,
+    "question_id": 37,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Predislamska Arabija",
+    "question": {
+      "bs": "Abdul-Muttalib je odrastao u Medini kod svoje majke Selme.",
+      "de": "Abdul-Muttalib wuchs in Medina bei seiner Mutter Salma auf."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Hašim se oženio Selmom u Medini i tamo ju je ostavio trudnu dok je nastavio trgovačko putovanje. Abdul-Muttalib (rođen kao Šejbe) je odrastao u Medini dok ga amidža El-Muttalib nije doveo u Meku.",
+      "de": "Richtig! Haschim heiratete Salma in Medina und liess sie schwanger zurück, während er seine Handelsreise fortsetzte. Abdul-Muttalib (geboren als Schaiba) wuchs in Medina auf, bis sein Onkel Al-Muttalib ihn nach Mekka brachte."
+    }
+  },
+  {
+    "quiz_id": 1,
+    "question_id": 38,
+    "type": "true_false",
+    "difficulty": "easy",
+    "source_section": "Predislamska Arabija",
+    "question": {
+      "bs": "Pleme Huzaa je protjeralo pleme Džurhum iz Meke.",
+      "de": "Der Stamm Chuzaa vertrieb den Stamm Dschurhum aus Mekka."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Pleme Huzaa je protjeralo pleme Džurhum iz Meke i preuzelo kontrolu nad Kabom. Kasnije su Kurejšije, pod vodstvom Kusajja, preuzeli tu ulogu od Huzaata.",
+      "de": "Richtig! Der Stamm Chuzaa vertrieb den Stamm Dschurhum aus Mekka und übernahm die Kontrolle über die Kaaba. Später übernahmen die Quraisch unter der Führung von Qusayy diese Rolle von Chuzaa."
+    }
+  },
+  {
+    "quiz_id": 1,
+    "question_id": 39,
+    "type": "true_false",
+    "difficulty": "hard",
+    "source_section": "Predislamska Arabija",
+    "question": {
+      "bs": "Krvarina kod Arapa je prije događaja s Abdullahom bila deset deva.",
+      "de": "Das Blutgeld bei den Arabern betrug vor dem Ereignis mit Abdullah zehn Kamele."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Prije otkupnine za Abdullaha, krvarina kod Arapa je bila deset deva. Nakon što je sto deva žrtvovano umjesto Abdullaha, krvarina se popela na sto deva, što je islam kasnije potvrdio.",
+      "de": "Richtig! Vor dem Lösegeld für Abdullah betrug das Blutgeld bei den Arabern zehn Kamele. Nachdem hundert Kamele anstelle von Abdullah geopfert wurden, stieg das Blutgeld auf hundert Kamele, was der Islam später bestätigte."
+    }
+  },
+  {
+    "quiz_id": 1,
+    "question_id": 40,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Dogadjaj sa slonom",
+    "question": {
+      "bs": "Slon Mahmud je odbio ići prema Kabi.",
+      "de": "Der Elefant Mahmud weigerte sich, zur Kaaba zu gehen."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Kada je Ebrehina vojska stigla do doline Mahser, slon Mahmud je legao i odbijao ustati kada bi ga usmjeravali prema Kabi. Međutim, kada bi ga okrenuli u drugom smjeru, ustajao bi.",
+      "de": "Richtig! Als Abrahas Armee das Tal Muhassir erreichte, legte sich der Elefant Mahmud hin und weigerte sich aufzustehen, wenn er zur Kaaba gerichtet wurde. Wenn er jedoch in eine andere Richtung gedreht wurde, stand er auf."
+    }
+  },
+  {
+    "quiz_id": 1,
+    "question_id": 41,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Predislamska Arabija",
+    "question": {
+      "bs": "Kako se zvao pradjed po kojem je pleme Kurejš dobilo ime?",
+      "de": "Wie hiess der Vorfahre, nach dem der Stamm Quraisch benannt wurde?"
+    },
+    "options": {
+      "bs": ["Fihr ibn Malik", "Kilab ibn Murre", "Kusajj ibn Kilab", "Adnan"],
+      "de": ["Fihr ibn Malik", "Kilab ibn Murra", "Qusayy ibn Kilab", "Adnan"]
+    },
+    "correct": {
+      "bs": "Fihr ibn Malik",
+      "de": "Fihr ibn Malik"
+    },
+    "explanation": {
+      "bs": "Pleme Kurejš je dobilo ime po Fihru ibn Maliku, koji je poznat i kao Kurejš. Bio je ugledni predak i svi Kurejšije vode porijeklo od njega.",
+      "de": "Der Stamm Quraisch wurde nach Fihr ibn Malik benannt, der auch als Quraisch bekannt ist. Er war ein angesehener Vorfahre, und alle Quraisch führen ihre Abstammung auf ihn zurück."
+    }
+  },
+  {
+    "quiz_id": 1,
+    "question_id": 42,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Predislamska Arabija",
+    "question": {
+      "bs": "Koliko slonova je imala Ebrehina vojska?",
+      "de": "Wie viele Elefanten hatte Abrahas Armee?"
+    },
+    "options": {
+      "bs": ["9 ili 13 slonova", "60 slonova", "1 slon", "100 slonova"],
+      "de": ["9 oder 13 Elefanten", "60 Elefanten", "1 Elefant", "100 Elefanten"]
+    },
+    "correct": {
+      "bs": "9 ili 13 slonova",
+      "de": "9 oder 13 Elefanten"
+    },
+    "explanation": {
+      "bs": "Ebrehina vojska je imala 9 ili 13 slonova, prema različitim predajama. Najveći i najpoznatiji među njima bio je slon Mahmud, na kojem je jahao sam Ebreha.",
+      "de": "Abrahas Armee hatte laut verschiedenen Überlieferungen 9 oder 13 Elefanten. Der grösste und bekannteste unter ihnen war der Elefant Mahmud, auf dem Abraha selbst ritt."
+    }
+  },
+  {
+    "quiz_id": 1,
+    "question_id": 43,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Predislamska Arabija",
+    "question": {
+      "bs": "Šta je učinio Ibrahim, a.s., kada je Ismailova prva žena požalila na siromaštvo?",
+      "de": "Was tat Ibrahim (a.s.), als Ismaels erste Frau sich über Armut beklagte?"
+    },
+    "options": {
+      "bs": ["Poručio Ismailu da promijeni kućni prag (razvede se)", "Dao joj novac", "Ostao kod njih da pomogne", "Odveo ju u Palestinu"],
+      "de": ["Sagte Ismael, er solle die Türschwelle wechseln (sich scheiden lassen)", "Gab ihr Geld", "Blieb bei ihnen, um zu helfen", "Brachte sie nach Palästina"]
+    },
+    "correct": {
+      "bs": "Poručio Ismailu da promijeni kućni prag (razvede se)",
+      "de": "Sagte Ismael, er solle die Türschwelle wechseln (sich scheiden lassen)"
+    },
+    "explanation": {
+      "bs": "Kada je Ibrahim posjetio sina i zatekao samo njegovu ženu koja se požalila na siromaštvo, poručio je Ismailu da 'promijeni kućni prag'. Ismail je razumio poruku i razveo se od nje.",
+      "de": "Als Ibrahim seinen Sohn besuchte und nur seine Frau antraf, die sich über Armut beklagte, sagte er Ismael, er solle 'die Türschwelle wechseln'. Ismael verstand die Botschaft und liess sich von ihr scheiden."
+    }
+  },
+  {
+    "quiz_id": 1,
+    "question_id": 44,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "source_section": "Predislamska Arabija",
+    "question": {
+      "bs": "Koja sura u Kur'anu govori o događaju sa slonom?",
+      "de": "Welche Sure im Koran handelt vom Ereignis mit dem Elefanten?"
+    },
+    "options": {
+      "bs": ["Sura El-Fil", "Sura Kurejš", "Sura El-Kadr", "Sura Et-Tin"],
+      "de": ["Sure Al-Fil", "Sure Quraisch", "Sure Al-Qadr", "Sure At-Tin"]
+    },
+    "correct": {
+      "bs": "Sura El-Fil",
+      "de": "Sure Al-Fil"
+    },
+    "explanation": {
+      "bs": "Sura El-Fil (Slon) opisuje kako je Allah uništio Ebrehinu vojsku. Ova sura počinje pitanjem: 'Zar nisi čuo šta je Gospodar tvoj učinio s vlasnicima slona?'",
+      "de": "Die Sure Al-Fil (Der Elefant) beschreibt, wie Allah Abrahas Armee vernichtete. Diese Sure beginnt mit der Frage: 'Hast du nicht gesehen, wie dein Herr mit den Leuten des Elefanten verfuhr?'"
+    }
+  },
+  {
+    "quiz_id": 1,
+    "question_id": 45,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Predislamska Arabija",
+    "question": {
+      "bs": "Iz koje porodice je bila Amina, majka Poslanika?",
+      "de": "Aus welcher Familie stammte Amina, die Mutter des Propheten?"
+    },
+    "options": {
+      "bs": ["Benu Zehra", "Benu Hašim", "Benu Umejje", "Benu Mahzum"],
+      "de": ["Banu Zuhra", "Banu Haschim", "Banu Umayya", "Banu Machzum"]
+    },
+    "correct": {
+      "bs": "Benu Zehra",
+      "de": "Banu Zuhra"
+    },
+    "explanation": {
+      "bs": "Amina bint Vehb je bila iz porodice Benu Zehra, koja je bila jedna od uglednih porodica u plemenu Kurejš. Njen otac Vehb je bio poglavar ove porodice.",
+      "de": "Amina bint Wahb stammte aus der Familie Banu Zuhra, die eine der angesehenen Familien im Stamm Quraisch war. Ihr Vater Wahb war das Oberhaupt dieser Familie."
+    }
+  },
+  {
+    "quiz_id": 1,
+    "question_id": 46,
+    "type": "multiple_choice",
+    "difficulty": "hard",
+    "source_section": "Predislamska Arabija",
+    "question": {
+      "bs": "Koje su zemlje bile ciljevi ljetnih i zimskih karavana Kurejšija? (Odaberite sve tačne odgovore)",
+      "de": "Welche Länder waren die Ziele der Sommer- und Winterkarawanen der Quraisch? (Wählen Sie alle richtigen Antworten)"
+    },
+    "options": {
+      "bs": ["Sirija", "Jemen", "Egipat", "Perzija"],
+      "de": ["Syrien", "Jemen", "Ägypten", "Persien"]
+    },
+    "correct": {
+      "bs": ["Sirija", "Jemen"],
+      "de": ["Syrien", "Jemen"]
+    },
+    "explanation": {
+      "bs": "Kurejšije su organizovali poznata dva putovanja: ljeti u Siriju i zimi u Jemen. Ova putovanja su spomenuta u suri Kurejš i predstavljala su osnovu njihovog bogatstva.",
+      "de": "Die Quraisch organisierten zwei berühmte Reisen: im Sommer nach Syrien und im Winter in den Jemen. Diese Reisen werden in der Sure Quraisch erwähnt und bildeten die Grundlage ihres Reichtums."
+    }
+  },
+  {
+    "quiz_id": 1,
+    "question_id": 47,
+    "type": "multiple_choice",
+    "difficulty": "medium",
+    "source_section": "Predislamska Arabija",
+    "question": {
+      "bs": "Šta su izumrla arapska plemena (El-Arebe el-baide)? (Odaberite sve tačne odgovore)",
+      "de": "Was waren die ausgestorbenen arabischen Stämme (Al-Arab al-Baida)? (Wählen Sie alle richtigen Antworten)"
+    },
+    "options": {
+      "bs": ["Ad", "Semud", "Kurejš", "Džadis"],
+      "de": ["Ad", "Thamud", "Quraisch", "Dschadis"]
+    },
+    "correct": {
+      "bs": ["Ad", "Semud", "Džadis"],
+      "de": ["Ad", "Thamud", "Dschadis"]
+    },
+    "explanation": {
+      "bs": "El-Arebe el-baide su izumrla arapska plemena koja su uništena zbog svog nevjerstva. Među njima su Ad (narod Huda, a.s.), Semud (narod Saliha, a.s.) i Džadis. Kurejš nisu izumrlo pleme.",
+      "de": "Al-Arab al-Baida sind ausgestorbene arabische Stämme, die wegen ihres Unglaubens vernichtet wurden. Darunter sind Ad (Volk von Hud, a.s.), Thamud (Volk von Salih, a.s.) und Dschadis. Quraisch ist kein ausgestorbener Stamm."
+    }
+  },
+  {
+    "quiz_id": 1,
+    "question_id": 48,
+    "type": "ordering",
+    "difficulty": "hard",
+    "source_section": "Predislamska Arabija",
+    "question": {
+      "bs": "Poredajte plemena koja su upravljala Kabom hronološkim redom:",
+      "de": "Ordnen Sie die Stämme, die die Kaaba verwalteten, in chronologischer Reihenfolge:"
+    },
+    "options": {
+      "bs": ["Džurhum", "Huzaa", "Kurejš", "Benu Hašim"],
+      "de": ["Dschurhum", "Chuzaa", "Quraisch", "Banu Haschim"]
+    },
+    "correct": {
+      "bs": ["Džurhum", "Huzaa", "Kurejš", "Benu Hašim"],
+      "de": ["Dschurhum", "Chuzaa", "Quraisch", "Banu Haschim"]
+    },
+    "explanation": {
+      "bs": "Prvo je pleme Džurhum čuvalo Kabu, zatim ih je protjeralo pleme Huzaa. Kurejšije su pod vodstvom Kusajja preuzeli Kabu od Huzaata, a unutar Kurejšija, Benu Hašim su kasnije dobili funkciju napajanja hadžija.",
+      "de": "Zuerst bewachte der Stamm Dschurhum die Kaaba, dann vertrieb sie der Stamm Chuzaa. Die Quraisch übernahmen unter der Führung von Qusayy die Kaaba von Chuzaa, und innerhalb der Quraisch erhielten die Banu Haschim später die Funktion der Pilgerversorgung."
+    }
+  },
+  {
+    "quiz_id": 1,
+    "question_id": 49,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Predislamska Arabija",
+    "question": {
+      "bs": "Ibrahim i Ismail, a.s., su zajedno sagradili Kabu.",
+      "de": "Ibrahim und Ismael (a.s.) bauten die Kaaba gemeinsam."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Ibrahim i Ismail, a.s., su zajedno podigli temelje Kabe. To je spomenuto u Kur'anu: 'I kad su Ibrahim i Ismail temelje Hrama podizali...' (El-Bekare, 127).",
+      "de": "Richtig! Ibrahim und Ismael (a.s.) errichteten gemeinsam die Fundamente der Kaaba. Dies wird im Koran erwähnt: 'Und als Ibrahim und Ismael die Grundmauern des Hauses errichteten...' (Al-Baqara, 127)."
+    }
+  },
+  {
+    "quiz_id": 1,
+    "question_id": 50,
+    "type": "true_false",
+    "difficulty": "easy",
+    "source_section": "Predislamska Arabija",
+    "question": {
+      "bs": "Hadžera je tražila vodu trčeći između brda Safa i Merva.",
+      "de": "Hadschar suchte Wasser, indem sie zwischen den Hügeln Safa und Marwa lief."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Kada je ponestalo vode, Hadžera je trčala između brda Safa i Merva tražeći vodu za sina Ismaila. Ova radnja se ubraja u obrede hadža (sa'j) u spomen na njenu požrtvovanost.",
+      "de": "Richtig! Als das Wasser ausging, lief Hadschar zwischen den Hügeln Safa und Marwa, um Wasser für ihren Sohn Ismael zu suchen. Diese Handlung gehört zu den Hadsch-Riten (Sa'i) zum Gedenken an ihre Aufopferung."
+    }
+  },
+  {
+    "quiz_id": 1,
+    "question_id": 51,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Predislamska Arabija",
+    "question": {
+      "bs": "Šta je Abdul-Muttalib našao kada je kopao Zemzem?",
+      "de": "Was fand Abdul-Muttalib, als er Zamzam ausgrub?"
+    },
+    "options": {
+      "bs": ["Sablje i zlatne srndaće", "Samo vodu", "Staru odjeću", "Komade kamena"],
+      "de": ["Schwerter und goldene Gazellen", "Nur Wasser", "Alte Kleidung", "Steinstücke"]
+    },
+    "correct": {
+      "bs": "Sablje i zlatne srndaće",
+      "de": "Schwerter und goldene Gazellen"
+    },
+    "explanation": {
+      "bs": "Kada je Abdul-Muttalib kopao Zemzem, naišao je na predmete koje su zakopali Džerahime kada su bježali iz Meke. Našao je sablje i dva zlatna srndaća. Sabljama je ukrasio vrata Kabe.",
+      "de": "Als Abdul-Muttalib Zamzam ausgrub, fand er Gegenstände, die die Dschurhum bei ihrer Flucht aus Mekka vergraben hatten. Er fand Schwerter und zwei goldene Gazellen. Mit den Schwertern schmückte er das Tor der Kaaba."
+    }
+  },
+  {
+    "quiz_id": 1,
+    "question_id": 52,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Predislamska Arabija",
+    "question": {
+      "bs": "Ko je Abdul-Muttalibu pomogao u sukobu s amidžom Nevfelom?",
+      "de": "Wer half Abdul-Muttalib im Konflikt mit seinem Onkel Nawfal?"
+    },
+    "options": {
+      "bs": ["Daidže iz Medine (Benu Nedžar)", "Kurejšije", "Pleme Huzaa", "Ebu Talib"],
+      "de": ["Onkel mütterlicherseits aus Medina (Banu Nadschdschar)", "Quraisch", "Stamm Chuzaa", "Abu Talib"]
+    },
+    "correct": {
+      "bs": "Daidže iz Medine (Benu Nedžar)",
+      "de": "Onkel mütterlicherseits aus Medina (Banu Nadschdschar)"
+    },
+    "explanation": {
+      "bs": "Kada je Nevfel oteo Abdul-Muttalibovo dvorište, Kurejšije nisu htjele pomoći. Abdul-Muttalib je pozvao daidže iz Medine (Benu Nedžar), a Ebu Sa'd ibn Adij je došao s osamdeset konjanika i prisilio Nevfela da vrati imanje.",
+      "de": "Als Nawfal Abdul-Muttalibs Hof nahm, wollten die Quraisch nicht helfen. Abdul-Muttalib rief seine Onkel mütterlicherseits aus Medina (Banu Nadschdschar), und Abu Sa'd ibn Adiyy kam mit achtzig Reitern und zwang Nawfal, das Anwesen zurückzugeben."
+    }
+  },
+  {
+    "quiz_id": 1,
+    "question_id": 53,
+    "type": "true_false",
+    "difficulty": "easy",
+    "source_section": "Predislamska Arabija",
+    "question": {
+      "bs": "Abdul-Muttalib je imao i kćeri pored deset sinova.",
+      "de": "Abdul-Muttalib hatte neben zehn Söhnen auch Töchter."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Abdul-Muttalib je imao šest kćeri: Ummul-Hakim (zvana El-Bejda), Burre, Atika, Safija, Erva i Umejma. Safija i Atika su kasnije postale poznate kao tetke Poslanika.",
+      "de": "Richtig! Abdul-Muttalib hatte sechs Töchter: Umm al-Hakim (genannt Al-Bayda), Barra, Atika, Safiyya, Arwa und Umayma. Safiyya und Atika wurden später als Tanten des Propheten bekannt."
+    }
+  },
+  {
+    "quiz_id": 1,
+    "question_id": 54,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Predislamska Arabija",
+    "question": {
+      "bs": "Kako su Kurejšije nazivali El-Muttaliba zbog njegove darežljivosti?",
+      "de": "Wie nannten die Quraisch Al-Muttalib wegen seiner Grosszügigkeit?"
+    },
+    "options": {
+      "bs": ["El-Fejjad (Darežljivi)", "Es-Siddik (Iskreni)", "El-Emin (Povjerljivi)", "El-Kebir (Veliki)"],
+      "de": ["Al-Fayyad (Der Grosszügige)", "As-Siddiq (Der Wahrhaftige)", "Al-Amin (Der Vertrauenswürdige)", "Al-Kabir (Der Grosse)"]
+    },
+    "correct": {
+      "bs": "El-Fejjad (Darežljivi)",
+      "de": "Al-Fayyad (Der Grosszügige)"
+    },
+    "explanation": {
+      "bs": "El-Muttalib ibn Abd Menaf je bio toliko darežljiv da su ga Kurejšije prozvali El-Fejjad. Bio je od velikog ugleda i časti u svom plemenu.",
+      "de": "Al-Muttalib ibn Abd Manaf war so grosszügig, dass die Quraisch ihn Al-Fayyad nannten. Er war von grossem Ansehen und Ehre in seinem Stamm."
+    }
+  },
+  {
+    "quiz_id": 1,
+    "question_id": 55,
+    "type": "true_false",
+    "difficulty": "hard",
+    "source_section": "Predislamska Arabija",
+    "question": {
+      "bs": "Ebreha je umro u Jemenu nakon povratka iz pohoda na Meku.",
+      "de": "Abraha starb im Jemen nach seiner Rückkehr vom Feldzug gegen Mekka."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Allah je Ebrehi poslao bolest od koje mu se počeše raspadati vrhovi prstiju. Kada je stigao u Sanu, bio je poput pileta. Srce mu je tada otkazalo i umro je u Jemenu.",
+      "de": "Richtig! Allah sandte Abraha eine Krankheit, durch die sich seine Fingerspitzen zu zersetzen begannen. Als er Sanaa erreichte, war er wie ein Küken. Sein Herz versagte dann, und er starb im Jemen."
+    }
+  },
+  {
+    "quiz_id": 1,
+    "question_id": 56,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "source_section": "Predislamska Arabija",
+    "question": {
+      "bs": "Koja sura spominje ljetno i zimsko putovanje Kurejšija?",
+      "de": "Welche Sure erwähnt die Sommer- und Winterreise der Quraisch?"
+    },
+    "options": {
+      "bs": ["Sura Kurejš", "Sura El-Fil", "Sura El-Fatiha", "Sura El-Ihlas"],
+      "de": ["Sure Quraisch", "Sure Al-Fil", "Sure Al-Fatiha", "Sure Al-Ikhlas"]
+    },
+    "correct": {
+      "bs": "Sura Kurejš",
+      "de": "Sure Quraisch"
+    },
+    "explanation": {
+      "bs": "Sura Kurejš spominje ljetno i zimsko putovanje: 'Zbog navike Kurejšija, navike njihovog zimskog i ljetnog putovanja...' Ova putovanja su bila temelj njihovog bogatstva.",
+      "de": "Die Sure Quraisch erwähnt die Sommer- und Winterreise: 'Für die Gewohnheit der Quraisch, ihre Gewohnheit der Winter- und Sommerreise...' Diese Reisen waren die Grundlage ihres Reichtums."
+    }
+  },
+  {
+    "quiz_id": 1,
+    "question_id": 57,
+    "type": "multiple_choice",
+    "difficulty": "medium",
+    "source_section": "Rodoslovlje Poslanika",
+    "question": {
+      "bs": "Koje od navedenih su bile kćeri Abdul-Muttaliba? (Odaberite sve tačne odgovore)",
+      "de": "Welche der folgenden waren Töchter von Abdul-Muttalib? (Wählen Sie alle richtigen Antworten)"
+    },
+    "options": {
+      "bs": ["Safija", "Atika", "Fatima", "Umejma"],
+      "de": ["Safiyya", "Atika", "Fatima", "Umayma"]
+    },
+    "correct": {
+      "bs": ["Safija", "Atika", "Umejma"],
+      "de": ["Safiyya", "Atika", "Umayma"]
+    },
+    "explanation": {
+      "bs": "Safija, Atika i Umejma su bile kćeri Abdul-Muttaliba. Fatima nije bila njegova kći - Fatima ez-Zehra je bila kći Poslanika, s.a.v.s., a ne Abdul-Muttaliba.",
+      "de": "Safiyya, Atika und Umayma waren Töchter von Abdul-Muttalib. Fatima war nicht seine Tochter - Fatima az-Zahra war die Tochter des Propheten (s.a.w.s.), nicht Abdul-Muttalibs."
+    }
+  },
+  {
+    "quiz_id": 1,
+    "question_id": 58,
+    "type": "ordering",
+    "difficulty": "medium",
+    "source_section": "Predislamska Arabija",
+    "question": {
+      "bs": "Poredajte događaje vezane za Zemzem hronološki:",
+      "de": "Ordnen Sie die Ereignisse bezüglich Zamzam in chronologischer Reihenfolge:"
+    },
+    "options": {
+      "bs": ["Vrelo provire za Hadžeru i Ismaila", "Džurhumi se nastane oko Zemzema", "Zemzem bude zatrpan", "Abdul-Muttalib iskopa Zemzem"],
+      "de": ["Quelle entspringt für Hadschar und Ismael", "Dschurhum siedelt sich um Zamzam an", "Zamzam wird verschüttet", "Abdul-Muttalib gräbt Zamzam aus"]
+    },
+    "correct": {
+      "bs": ["Vrelo provire za Hadžeru i Ismaila", "Džurhumi se nastane oko Zemzema", "Zemzem bude zatrpan", "Abdul-Muttalib iskopa Zemzem"],
+      "de": ["Quelle entspringt für Hadschar und Ismael", "Dschurhum siedelt sich um Zamzam an", "Zamzam wird verschüttet", "Abdul-Muttalib gräbt Zamzam aus"]
+    },
+    "explanation": {
+      "bs": "Prvo je Allah dao da provri Zemzem za Hadžeru i Ismaila, zatim su se Džurhumi nastanili oko njega. Kada su Džurhumi protjerani, zatrpali su Zemzem. Mnogo kasnije, Abdul-Muttalibu je u snu naređeno da ga iskopa.",
+      "de": "Zuerst liess Allah Zamzam für Hadschar und Ismael entspringen, dann siedelten sich die Dschurhum um ihn an. Als die Dschurhum vertrieben wurden, verschütteten sie Zamzam. Viel später wurde Abdul-Muttalib im Traum befohlen, ihn auszugraben."
+    }
+  },
+  {
+    "quiz_id": 1,
+    "question_id": 59,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Predislamska Arabija",
+    "question": {
+      "bs": "Kurejšije su se razbježale po brdima kada su vidjeli Ebrehinu vojsku.",
+      "de": "Die Quraisch flohen in die Berge, als sie Abrahas Armee sahen."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Kurejšije su se razbježale po brdima videći ogromnu vojsku koja nadire u Meku. Tek kada je opasnost prošla i Allah uništio vojsku, sigurno su se vratili svojim kućama.",
+      "de": "Richtig! Die Quraisch flohen in die Berge, als sie die riesige Armee sahen, die nach Mekka vorrückte. Erst als die Gefahr vorüber war und Allah die Armee vernichtet hatte, kehrten sie sicher zu ihren Häusern zurück."
+    }
+  },
+  {
+    "quiz_id": 1,
+    "question_id": 60,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Predislamska Arabija",
+    "question": {
+      "bs": "U kom mjestu se vojska sa slonom zaustavila prije ulaska u Meku?",
+      "de": "An welchem Ort hielt die Armee mit dem Elefanten vor dem Einmarsch in Mekka?"
+    },
+    "options": {
+      "bs": ["Mugammes", "Arafat", "Mina", "Muzdelifa"],
+      "de": ["Mughammas", "Arafat", "Mina", "Muzdalifa"]
+    },
+    "correct": {
+      "bs": "Mugammes",
+      "de": "Mughammas"
+    },
+    "explanation": {
+      "bs": "Ebrehina vojska se zaustavila na mjestu zvanom Mugammes da se odmori i pripremi za ulazak u Meku. Odatle su krenuli prema Meki, ali ih je Allah zaustavio.",
+      "de": "Abrahas Armee hielt an einem Ort namens Mughammas an, um sich auszuruhen und sich auf den Einmarsch in Mekka vorzubereiten. Von dort marschierten sie nach Mekka, aber Allah hielt sie auf."
+    }
+  },
+  {
+    "quiz_id": 1,
+    "question_id": 61,
+    "type": "true_false",
+    "difficulty": "easy",
+    "source_section": "Predislamska Arabija",
+    "question": {
+      "bs": "Arapi su dijelili s generacije na generaciju usmena predanja o svojoj historiji.",
+      "de": "Die Araber teilten mündliche Überlieferungen über ihre Geschichte von Generation zu Generation."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Prije islama, Arapi su svoju historiju prenosili usmenim predanjem. Čuvali su sjećanja na junačke podvige predaka, rodoslovlje i legende o Ka'bi i Zemzemu.",
+      "de": "Richtig! Vor dem Islam überlieferten die Araber ihre Geschichte mündlich. Sie bewahrten Erinnerungen an heldenhafte Taten der Vorfahren, Abstammungslinien und Legenden über die Kaaba und Zamzam."
+    }
+  },
+  {
+    "quiz_id": 1,
+    "question_id": 62,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Predislamska Arabija",
+    "question": {
+      "bs": "Koje pleme je potjecalo od Kahtana?",
+      "de": "Welcher Stamm stammte von Qahtan ab?"
+    },
+    "options": {
+      "bs": ["El-Arebe el-aribe (čisti Arapi)", "El-Arebe el-mustaribe (poarabljeni Arapi)", "Kurejšije", "Benu Hašim"],
+      "de": ["Al-Arab al-Ariba (reine Araber)", "Al-Arab al-Mustariba (arabisierte Araber)", "Quraisch", "Banu Haschim"]
+    },
+    "correct": {
+      "bs": "El-Arebe el-aribe (čisti Arapi)",
+      "de": "Al-Arab al-Ariba (reine Araber)"
+    },
+    "explanation": {
+      "bs": "El-Arebe el-aribe ili čisti Arapi potječu od Ja'ruba ibn Kahtana, koji je živio u Jemenu. Oni su smatrani originalnim Arapima prije miješanja s potomcima Ismaila.",
+      "de": "Al-Arab al-Ariba oder reine Araber stammen von Ya'rub ibn Qahtan ab, der im Jemen lebte. Sie wurden als die ursprünglichen Araber vor der Vermischung mit den Nachkommen Ismaels angesehen."
+    }
+  },
+  {
+    "quiz_id": 1,
+    "question_id": 63,
+    "type": "true_false",
+    "difficulty": "hard",
+    "source_section": "Predislamska Arabija",
+    "question": {
+      "bs": "Ibn Ishak je bio prvi poznati pisac Poslanikovog životopisa (sire).",
+      "de": "Ibn Ishaq war der erste bekannte Autor der Prophetenbiographie (Sira)."
+    },
+    "correct": false,
+    "explanation": {
+      "bs": "Netačno! Prije Ibn Ishaka, životopis Poslanika su pisali 'Urve ibn ez-Zubejr (92. h.g.), Ebban ibn Osman (105. h.g.), Vehb ibn Munebbih (110. h.g.) i drugi. Međutim, njihova djela su izgubljena.",
+      "de": "Falsch! Vor Ibn Ishaq schrieben 'Urwa ibn az-Zubair (92 n.H.), Aban ibn Uthman (105 n.H.), Wahb ibn Munabbih (110 n.H.) und andere die Prophetenbiographie. Ihre Werke sind jedoch verloren gegangen."
+    }
+  },
+  {
+    "quiz_id": 1,
+    "question_id": 64,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Predislamska Arabija",
+    "question": {
+      "bs": "Koji halifa je dozvolio pisanje hadisa?",
+      "de": "Welcher Kalif erlaubte das Aufschreiben von Hadithen?"
+    },
+    "options": {
+      "bs": ["Omer ibn Abdulaziz", "Ebu Bekr es-Siddik", "Omer ibn el-Hattab", "Harun er-Rešid"],
+      "de": ["Umar ibn Abdulaziz", "Abu Bakr as-Siddiq", "Umar ibn al-Chattab", "Harun ar-Raschid"]
+    },
+    "correct": {
+      "bs": "Omer ibn Abdulaziz",
+      "de": "Umar ibn Abdulaziz"
+    },
+    "explanation": {
+      "bs": "Omer ibn Abdulaziz (vladao 99-101. h.g.) je, nakon četrdeset dana dove, dozvolio pisanje hadisa. Naredio je Ebu Bekru ibn Muhammedu ibn Hazmu da zapiše sve hadise koje je zapamtio.",
+      "de": "Umar ibn Abdulaziz (regierte 99-101 n.H.) erlaubte nach vierzig Tagen des Bittgebets das Aufschreiben von Hadithen. Er befahl Abu Bakr ibn Muhammad ibn Hazm, alle Hadithe aufzuschreiben, die er sich gemerkt hatte."
+    }
+  },
+  {
+    "quiz_id": 1,
+    "question_id": 65,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Predislamska Arabija",
+    "question": {
+      "bs": "Poslanik je u početku zabranio pisanje hadisa da se ne bi pomiješali s Kur'anom.",
+      "de": "Der Prophet verbot anfangs das Aufschreiben von Hadithen, damit sie nicht mit dem Koran vermischt werden."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Poslanik je rekao: 'Od mene nemojte ništa pisati osim Kur'ana! Ko je pisao nešto drugo, neka to izbriše!' Razlog je bio bojazan da se Objava ne pomiješa s Poslanikovim riječima.",
+      "de": "Richtig! Der Prophet sagte: 'Schreibt von mir nichts ausser dem Koran auf! Wer etwas anderes geschrieben hat, soll es löschen!' Der Grund war die Befürchtung, dass die Offenbarung mit den Worten des Propheten vermischt werden könnte."
+    }
+  },
+  {
+    "quiz_id": 1,
+    "question_id": 66,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Predislamska Arabija",
+    "question": {
+      "bs": "Ko je redigirao Ibn Ishakov životopis Poslanika?",
+      "de": "Wer redigierte Ibn Ishaqs Prophetenbiographie?"
+    },
+    "options": {
+      "bs": ["Ibn Hišam", "Imam Malik", "El-Buhari", "Ibn Sa'd"],
+      "de": ["Ibn Hischam", "Imam Malik", "Al-Buchari", "Ibn Sa'd"]
+    },
+    "correct": {
+      "bs": "Ibn Hišam",
+      "de": "Ibn Hischam"
+    },
+    "explanation": {
+      "bs": "Ibn Hišam (umro 218. h.g.) je redigirao Ibn Ishakov životopis. Skratio ga je, izbacio dijelove koji nisu vezani za Poslanika i dodao neke komentare i ispravke, čineći ga konciznijim.",
+      "de": "Ibn Hischam (gest. 218 n.H.) redigierte Ibn Ishaqs Biographie. Er kürzte sie, entfernte Teile, die nicht mit dem Propheten zusammenhingen, und fügte einige Kommentare und Korrekturen hinzu, um sie prägnanter zu machen."
+    }
+  },
+  {
+    "quiz_id": 1,
+    "question_id": 67,
+    "type": "multiple_choice",
+    "difficulty": "hard",
+    "source_section": "Predislamska Arabija",
+    "question": {
+      "bs": "Koji su pisci sire pisali prije Ibn Ishaka? (Odaberite sve tačne odgovore)",
+      "de": "Welche Sira-Autoren schrieben vor Ibn Ishaq? (Wählen Sie alle richtigen Antworten)"
+    },
+    "options": {
+      "bs": ["Urve ibn ez-Zubejr", "Ibn Šihab ez-Zuhri", "El-Buhari", "Šurahbil ibn Sa'd"],
+      "de": ["Urwa ibn az-Zubair", "Ibn Schihab az-Zuhri", "Al-Buchari", "Schurahbil ibn Sa'd"]
+    },
+    "correct": {
+      "bs": ["Urve ibn ez-Zubejr", "Ibn Šihab ez-Zuhri", "Šurahbil ibn Sa'd"],
+      "de": ["Urwa ibn az-Zubair", "Ibn Schihab az-Zuhri", "Schurahbil ibn Sa'd"]
+    },
+    "explanation": {
+      "bs": "Urve ibn ez-Zubejr (umro 92. h.g.), Ibn Šihab ez-Zuhri (umro 124. h.g.) i Šurahbil ibn Sa'd (umro 123. h.g.) su pisali siru prije Ibn Ishaka. El-Buhari je pisao zbirku hadisa, ne siru.",
+      "de": "Urwa ibn az-Zubair (gest. 92 n.H.), Ibn Schihab az-Zuhri (gest. 124 n.H.) und Schurahbil ibn Sa'd (gest. 123 n.H.) schrieben Sira vor Ibn Ishaq. Al-Buchari schrieb eine Hadith-Sammlung, keine Sira."
+    }
+  },
+  {
+    "quiz_id": 1,
+    "question_id": 68,
+    "type": "true_false",
+    "difficulty": "easy",
+    "source_section": "Predislamska Arabija",
+    "question": {
+      "bs": "Ibn Hišamov životopis Poslanika je do danas ostao temeljno djelo za proučavanje sire.",
+      "de": "Ibn Hischams Prophetenbiographie ist bis heute ein grundlegendes Werk für das Studium der Sira geblieben."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Ibn Hišamov životopis je najpouzdanije i najznačajnije djelo o Poslanikovom životu. Skoro da nema nikoga ko se bavio sirom a da nije koristio ovo djelo.",
+      "de": "Richtig! Ibn Hischams Biographie ist das zuverlässigste und bedeutendste Werk über das Leben des Propheten. Es gibt kaum jemanden, der sich mit der Sira beschäftigt hat und dieses Werk nicht verwendet hat."
+    }
+  },
+  {
+    "quiz_id": 1,
+    "question_id": 69,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Predislamska Arabija",
+    "question": {
+      "bs": "Koji narod je pokorio Jemen nakon poraza Ebrehine vojske?",
+      "de": "Welches Volk eroberte den Jemen nach der Niederlage von Abrahas Armee?"
+    },
+    "options": {
+      "bs": ["Perzijanci", "Bizantinci", "Abesinci", "Rimljani"],
+      "de": ["Perser", "Byzantiner", "Abessinier", "Römer"]
+    },
+    "correct": {
+      "bs": "Perzijanci",
+      "de": "Perser"
+    },
+    "explanation": {
+      "bs": "Ubrzo nakon događaja sa slonom, Perzijanci su došli u Jemen i pokorili ga. Ovo je bio dio šireg sukoba između velikih sila tog vremena - Perzije, Bizanta i Abesinije.",
+      "de": "Kurz nach dem Ereignis mit dem Elefanten kamen die Perser in den Jemen und eroberten ihn. Dies war Teil eines grösseren Konflikts zwischen den Grossmächten jener Zeit - Persien, Byzanz und Abessinien."
+    }
+  },
+  {
+    "quiz_id": 1,
+    "question_id": 70,
+    "type": "ordering",
+    "difficulty": "hard",
+    "source_section": "Predislamska Arabija",
+    "question": {
+      "bs": "Poredajte pisce sire hronološki po godini smrti:",
+      "de": "Ordnen Sie die Sira-Autoren chronologisch nach Todesjahr:"
+    },
+    "options": {
+      "bs": ["Urve ibn ez-Zubejr (92. h.g.)", "Ibn Šihab ez-Zuhri (124. h.g.)", "Ibn Ishak (152. h.g.)", "Ibn Hišam (218. h.g.)"],
+      "de": ["Urwa ibn az-Zubair (92 n.H.)", "Ibn Schihab az-Zuhri (124 n.H.)", "Ibn Ishaq (152 n.H.)", "Ibn Hischam (218 n.H.)"]
+    },
+    "correct": {
+      "bs": ["Urve ibn ez-Zubejr (92. h.g.)", "Ibn Šihab ez-Zuhri (124. h.g.)", "Ibn Ishak (152. h.g.)", "Ibn Hišam (218. h.g.)"],
+      "de": ["Urwa ibn az-Zubair (92 n.H.)", "Ibn Schihab az-Zuhri (124 n.H.)", "Ibn Ishaq (152 n.H.)", "Ibn Hischam (218 n.H.)"]
+    },
+    "explanation": {
+      "bs": "Rani pisci sire su pisali svoje djela hronološkim redom: Urve (92. h.g.), ez-Zuhri (124. h.g.), zatim Ibn Ishak koji je napisao najopsežnije djelo (152. h.g.), i na kraju Ibn Hišam koji ga je redigirao (218. h.g.).",
+      "de": "Die frühen Sira-Autoren schrieben ihre Werke in chronologischer Reihenfolge: Urwa (92 n.H.), az-Zuhri (124 n.H.), dann Ibn Ishaq, der das umfassendste Werk schrieb (152 n.H.), und schliesslich Ibn Hischam, der es redigierte (218 n.H.)."
+    }
+  },
+  {
+    "quiz_id": 1,
+    "question_id": 71,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Predislamska Arabija",
+    "question": {
+      "bs": "Pleme Gasanija je bilo pod utjecajem Bizantijskog carstva.",
+      "de": "Der Stamm der Ghassaniden stand unter dem Einfluss des Byzantinischen Reiches."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Gasanije (El-Gassasine) su bili arapsko pleme u Siriji pod utjecajem Bizantijskog carstva. Njihovi kraljevi su potjecali od Džefne ibn Amra koji se naselio u Šamu.",
+      "de": "Richtig! Die Ghassaniden waren ein arabischer Stamm in Syrien unter dem Einfluss des Byzantinischen Reiches. Ihre Könige stammten von Dschafna ibn Amr ab, der sich in Syrien niedergelassen hatte."
+    }
+  },
+  {
+    "quiz_id": 1,
+    "question_id": 72,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Predislamska Arabija",
+    "question": {
+      "bs": "Koje arapsko pleme je bilo pod utjecajem Perzijskog carstva?",
+      "de": "Welcher arabische Stamm stand unter dem Einfluss des Persischen Reiches?"
+    },
+    "options": {
+      "bs": ["Lahm (Menazire)", "Gasanija", "Kurejš", "Havazin"],
+      "de": ["Lachm (Lachmiden)", "Ghassaniden", "Quraisch", "Hawazin"]
+    },
+    "correct": {
+      "bs": "Lahm (Menazire)",
+      "de": "Lachm (Lachmiden)"
+    },
+    "explanation": {
+      "bs": "Pleme Lahm, poznato i kao Menazire, imalo je svoju prijestolnicu u Hiri i bilo je pod utjecajem Perzijskog carstva. Njihovi kraljevi su potjecali od Nasra ibn Rebie.",
+      "de": "Der Stamm Lachm, auch bekannt als Lachmiden, hatte seine Hauptstadt in Hira und stand unter dem Einfluss des Persischen Reiches. Ihre Könige stammten von Nasr ibn Rabi'a ab."
+    }
+  },
+  {
+    "quiz_id": 1,
+    "question_id": 73,
+    "type": "true_false",
+    "difficulty": "easy",
+    "source_section": "Predislamska Arabija",
+    "question": {
+      "bs": "Jemen je bio poznat po naprednoj civilizaciji i poljoprivredi.",
+      "de": "Der Jemen war bekannt für seine fortschrittliche Zivilisation und Landwirtschaft."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Jemen je bio centar napredne civilizacije. Poznata je Maribska brana koja je omogućavala navodnjavanje, a Jemen je bio poznat po trgovini mirodijama, tamjanom i drugom robom.",
+      "de": "Richtig! Der Jemen war ein Zentrum fortschrittlicher Zivilisation. Der berühmte Staudamm von Marib ermöglichte die Bewässerung, und der Jemen war bekannt für den Handel mit Gewürzen, Weihrauch und anderen Waren."
+    }
+  },
+  {
+    "quiz_id": 1,
+    "question_id": 74,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Predislamska Arabija",
+    "question": {
+      "bs": "Šta je uzrokovalo veliku seobu jemenskih plemena na sjever?",
+      "de": "Was verursachte die grosse Wanderung der jemenitischen Stämme nach Norden?"
+    },
+    "options": {
+      "bs": ["Rušenje Maribske brane", "Napad Perzijanaca", "Zemljotres", "Suša"],
+      "de": ["Bruch des Marib-Staudamms", "Angriff der Perser", "Erdbeben", "Dürre"]
+    },
+    "correct": {
+      "bs": "Rušenje Maribske brane",
+      "de": "Bruch des Marib-Staudamms"
+    },
+    "explanation": {
+      "bs": "Rušenje Maribske brane je uzrokovalo veliku katastrofu u Jemenu. Ovo je spomenuto u Kur'anu kao 'sejl el-'Arim'. Mnoga plemena su bila prisiljena seliti se na sjever Arabije.",
+      "de": "Der Bruch des Marib-Staudamms verursachte eine grosse Katastrophe im Jemen. Dies wird im Koran als 'Sajl al-Arim' erwähnt. Viele Stämme waren gezwungen, in den Norden Arabiens zu wandern."
+    }
+  },
+  {
+    "quiz_id": 1,
+    "question_id": 75,
+    "type": "multiple_choice",
+    "difficulty": "medium",
+    "source_section": "Predislamska Arabija",
+    "question": {
+      "bs": "Koja plemena su se odselila iz Jemena nakon rušenja Maribske brane? (Odaberite sve tačne odgovore)",
+      "de": "Welche Stämme wanderten nach dem Bruch des Marib-Staudamms aus dem Jemen aus? (Wählen Sie alle richtigen Antworten)"
+    },
+    "options": {
+      "bs": ["Ezd", "Huzaa", "Kurejš", "Benu Tajj"],
+      "de": ["Azd", "Chuzaa", "Quraisch", "Banu Tayy"]
+    },
+    "correct": {
+      "bs": ["Ezd", "Huzaa", "Benu Tajj"],
+      "de": ["Azd", "Chuzaa", "Banu Tayy"]
+    },
+    "explanation": {
+      "bs": "Ezd, Huzaa i Benu Tajj su plemena koja su se odselila iz Jemena nakon katastrofe. Kurejš nije pleme koje je došlo iz Jemena - oni su potomci Ismaila koji su već živjeli u Meki.",
+      "de": "Azd, Chuzaa und Banu Tayy sind Stämme, die nach der Katastrophe aus dem Jemen auswanderten. Quraisch ist kein Stamm, der aus dem Jemen kam - sie sind Nachkommen Ismaels, die bereits in Mekka lebten."
+    }
+  },
+  {
+    "quiz_id": 1,
+    "question_id": 76,
+    "type": "true_false",
+    "difficulty": "hard",
+    "source_section": "Predislamska Arabija",
+    "question": {
+      "bs": "Evs i Hazredž su bila dva plemena koja su se nastanila u Medini.",
+      "de": "Aws und Chasradsch waren zwei Stämme, die sich in Medina niederliessen."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Evs i Hazredž su bili sinovi Hariseta ibn Sa'lebe iz plemena Ezd. Oni su se nastanili u Medini (tada zvanoj Jesrib) i postali su poznati kao Ensarije nakon prihvatanja islama.",
+      "de": "Richtig! Aws und Chasradsch waren Söhne von Haritha ibn Tha'laba vom Stamm Azd. Sie siedelten sich in Medina (damals Yathrib genannt) an und wurden nach der Annahme des Islam als Ansar bekannt."
+    }
+  },
+  {
+    "quiz_id": 1,
+    "question_id": 77,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Predislamska Arabija",
+    "question": {
+      "bs": "Gdje su se nastanila plemena Evs i Hazredž?",
+      "de": "Wo siedelten sich die Stämme Aws und Chasradsch an?"
+    },
+    "options": {
+      "bs": ["Medina (Jesrib)", "Meka", "Taif", "Jemen"],
+      "de": ["Medina (Yathrib)", "Mekka", "Taif", "Jemen"]
+    },
+    "correct": {
+      "bs": "Medina (Jesrib)",
+      "de": "Medina (Yathrib)"
+    },
+    "explanation": {
+      "bs": "Evs i Hazredž su se nastanili u Medini (tada zvanoj Jesrib) nakon seobe iz Jemena. Oni će kasnije postati Ensarije - pomagači Poslanika nakon Hidžre.",
+      "de": "Aws und Chasradsch siedelten sich in Medina (damals Yathrib genannt) nach der Auswanderung aus dem Jemen an. Sie würden später die Ansar werden - Helfer des Propheten nach der Hidschra."
+    }
+  },
+  {
+    "quiz_id": 1,
+    "question_id": 78,
+    "type": "ordering",
+    "difficulty": "hard",
+    "source_section": "Predislamska Arabija",
+    "question": {
+      "bs": "Poredajte seobe plemena Ezd od Jemena prema različitim destinacijama:",
+      "de": "Ordnen Sie die Wanderungen des Stammes Azd vom Jemen zu verschiedenen Zielen:"
+    },
+    "options": {
+      "bs": ["Sa'lebe ibn Amr → Medina", "Haris ibn Amr (Huzaa) → Meka", "Imran ibn Amr → Oman", "Džefne ibn Amr → Sirija"],
+      "de": ["Tha'laba ibn Amr → Medina", "Harith ibn Amr (Chuzaa) → Mekka", "Imran ibn Amr → Oman", "Dschafna ibn Amr → Syrien"]
+    },
+    "correct": {
+      "bs": ["Sa'lebe ibn Amr → Medina", "Haris ibn Amr (Huzaa) → Meka", "Imran ibn Amr → Oman", "Džefne ibn Amr → Sirija"],
+      "de": ["Tha'laba ibn Amr → Medina", "Harith ibn Amr (Chuzaa) → Mekka", "Imran ibn Amr → Oman", "Dschafna ibn Amr → Syrien"]
+    },
+    "explanation": {
+      "bs": "Pleme Ezd se raselilo na različite strane: Sa'lebe je otišao u Medinu (njegovi potomci su Evs i Hazredž), Haris (Huzaa) u Meku, Imran u Oman, a Džefne u Siriju (njegovi potomci su Gasanijski kraljevi).",
+      "de": "Der Stamm Azd zerstreute sich in verschiedene Richtungen: Tha'laba ging nach Medina (seine Nachkommen sind Aws und Chasradsch), Harith (Chuzaa) nach Mekka, Imran nach Oman und Dschafna nach Syrien (seine Nachkommen sind die ghassanidischen Könige)."
+    }
+  },
+  {
+    "quiz_id": 1,
+    "question_id": 79,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Predislamska Arabija",
+    "question": {
+      "bs": "Pleme Kinda je osnovalo državu u Nedždu koja je ubrzo propala.",
+      "de": "Der Stamm Kinda gründete einen Staat in Nadschd, der bald unterging."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Pleme Kinda se prvo naselilo u Bahrejnu, zatim u Hadramevtu, a na kraju u Nedždu gdje su osnovali državu od strateške važnosti. Međutim, ta država je ubrzo propala.",
+      "de": "Richtig! Der Stamm Kinda siedelte zuerst in Bahrain, dann in Hadramaut und schliesslich in Nadschd, wo sie einen strategisch wichtigen Staat gründeten. Dieser Staat ging jedoch bald unter."
+    }
+  },
+  {
+    "quiz_id": 1,
+    "question_id": 80,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "source_section": "Predislamska Arabija",
+    "question": {
+      "bs": "Šta su Arapi obožavali prije islama?",
+      "de": "Was verehrten die Araber vor dem Islam?"
+    },
+    "options": {
+      "bs": ["Kipove (idole)", "Jednog Boga", "Sunce", "Knjigu"],
+      "de": ["Götzen (Idole)", "Einen Gott", "Die Sonne", "Ein Buch"]
+    },
+    "correct": {
+      "bs": "Kipove (idole)",
+      "de": "Götzen (Idole)"
+    },
+    "explanation": {
+      "bs": "Većina Arapa prije islama je bila mnogobošci koji su obožavali kipove. U Kabi i oko nje je bilo 360 kipova. Najpoznatiji idoli su bili Lat, Uzza i Menat.",
+      "de": "Die meisten Araber vor dem Islam waren Polytheisten, die Götzen verehrten. In und um die Kaaba gab es 360 Götzen. Die bekanntesten Idole waren Lat, Uzza und Manat."
+    }
+  },
+  {
+    "quiz_id": 1,
+    "question_id": 81,
+    "type": "true_false",
+    "difficulty": "easy",
+    "source_section": "Predislamska Arabija",
+    "question": {
+      "bs": "U Kabi je prije islama bilo 360 kipova.",
+      "de": "In der Kaaba gab es vor dem Islam 360 Götzen."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! U Kabi i oko nje je bilo 360 kipova koje su Arapi obožavali. Kada je Poslanik oslobodio Meku, prvo što je učinio je očistio Kabu od svih kipova.",
+      "de": "Richtig! In und um die Kaaba gab es 360 Götzen, die die Araber verehrten. Als der Prophet Mekka befreite, war das Erste, was er tat, die Kaaba von allen Götzen zu reinigen."
+    }
+  },
+  {
+    "quiz_id": 1,
+    "question_id": 82,
+    "type": "multiple_choice",
+    "difficulty": "medium",
+    "source_section": "Predislamska Arabija",
+    "question": {
+      "bs": "Koji su bili najpoznatiji kipovi kod predislamskih Arapa? (Odaberite sve tačne odgovore)",
+      "de": "Was waren die bekanntesten Götzen bei den vorislamischen Arabern? (Wählen Sie alle richtigen Antworten)"
+    },
+    "options": {
+      "bs": ["Lat", "Uzza", "Menat", "Zemzem"],
+      "de": ["Lat", "Uzza", "Manat", "Zamzam"]
+    },
+    "correct": {
+      "bs": ["Lat", "Uzza", "Menat"],
+      "de": ["Lat", "Uzza", "Manat"]
+    },
+    "explanation": {
+      "bs": "Lat, Uzza i Menat su bili tri najpoznatija kipa kod Arapa, spomenuti u suri En-Nedžm. Zemzem je sveti izvor, a ne kip.",
+      "de": "Lat, Uzza und Manat waren die drei bekanntesten Götzen bei den Arabern, erwähnt in der Sure An-Nadschm. Zamzam ist eine heilige Quelle, kein Götze."
+    }
+  },
+  {
+    "quiz_id": 1,
+    "question_id": 83,
+    "type": "true_false",
+    "difficulty": "hard",
+    "source_section": "Predislamska Arabija",
+    "question": {
+      "bs": "Neki Arapi su prije islama bili hanife - sljedbenici vjere Ibrahima, a.s.",
+      "de": "Einige Araber waren vor dem Islam Hanifs - Anhänger des Glaubens Ibrahims (a.s.)."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Hanife su bili Arapi koji su odbacili mnogoboštvo i slijedili vjeru Ibrahima, a.s. Među njima su bili Zejd ibn Amr ibn Nufejl i Vereka ibn Nevfel.",
+      "de": "Richtig! Hanifs waren Araber, die den Polytheismus ablehnten und dem Glauben Ibrahims (a.s.) folgten. Unter ihnen waren Zaid ibn Amr ibn Nufail und Waraqa ibn Nawfal."
+    }
+  },
+  {
+    "quiz_id": 1,
+    "question_id": 84,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Predislamska Arabija",
+    "question": {
+      "bs": "Koji vjerski sistem je postojao u Jemenu prije islama?",
+      "de": "Welches religiöse System existierte im Jemen vor dem Islam?"
+    },
+    "options": {
+      "bs": ["Židovstvo i kršćanstvo pored mnogoboštva", "Samo mnogoboštvo", "Islam", "Budizam"],
+      "de": ["Judentum und Christentum neben Polytheismus", "Nur Polytheismus", "Islam", "Buddhismus"]
+    },
+    "correct": {
+      "bs": "Židovstvo i kršćanstvo pored mnogoboštva",
+      "de": "Judentum und Christentum neben Polytheismus"
+    },
+    "explanation": {
+      "bs": "U Jemenu su pored mnogoboštva postojali židovstvo i kršćanstvo. Poznata je priča o kralju Zu Nuvasu koji je primio židovstvo i proganjao kršćane, kao i o Ashabul-Uhdud spomenutim u Kur'anu.",
+      "de": "Im Jemen existierten neben dem Polytheismus auch Judentum und Christentum. Bekannt ist die Geschichte von König Dhu Nuwas, der das Judentum annahm und Christen verfolgte, sowie die Ashab al-Ukhdud, die im Koran erwähnt werden."
+    }
+  },
+  {
+    "quiz_id": 1,
+    "question_id": 85,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Predislamska Arabija",
+    "question": {
+      "bs": "Meka je bila važna trgovačka raskrsnica na putu između Jemena i Sirije.",
+      "de": "Mekka war eine wichtige Handelskreuzung auf dem Weg zwischen dem Jemen und Syrien."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Meka je bila ključna tačka na trgovačkom putu od Jemena do Sirije. Kurejšije su iskoristili ovaj položaj i organizirali ljetne i zimske karavane, što je bio temelj njihovog bogatstva.",
+      "de": "Richtig! Mekka war ein Schlüsselpunkt auf der Handelsroute vom Jemen nach Syrien. Die Quraisch nutzten diese Lage und organisierten Sommer- und Winterkarawanen, was die Grundlage ihres Reichtums war."
+    }
+  },
+  {
+    "quiz_id": 1,
+    "question_id": 86,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Predislamska Arabija",
+    "question": {
+      "bs": "Kako se zvala institucija vijeća/skupštine kod Kurejšija?",
+      "de": "Wie hiess die Institution der Versammlung/des Rates bei den Quraisch?"
+    },
+    "options": {
+      "bs": ["Darun-Nedve", "Mesdžid", "Kaba", "Hira"],
+      "de": ["Dar an-Nadwa", "Moschee", "Kaaba", "Hira"]
+    },
+    "correct": {
+      "bs": "Darun-Nedve",
+      "de": "Dar an-Nadwa"
+    },
+    "explanation": {
+      "bs": "Darun-Nedve (Kuća vijeća) je bila institucija gdje su se Kurejšije okupljali da raspravljaju o važnim pitanjima. Osnovao ju je Kusajj ibn Kilab kao centar odlučivanja.",
+      "de": "Dar an-Nadwa (Haus der Versammlung) war die Institution, in der sich die Quraisch versammelten, um wichtige Angelegenheiten zu besprechen. Sie wurde von Qusayy ibn Kilab als Entscheidungszentrum gegründet."
+    }
+  },
+  {
+    "quiz_id": 1,
+    "question_id": 87,
+    "type": "true_false",
+    "difficulty": "hard",
+    "source_section": "Predislamska Arabija",
+    "question": {
+      "bs": "Kusajj ibn Kilab je osnovao Darun-Nedve kao instituciju vlasti.",
+      "de": "Qusayy ibn Kilab gründete Dar an-Nadwa als Regierungsinstitution."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Kusajj ibn Kilab je osnovao Darun-Nedve kao centar vlasti i odlučivanja za Kurejšije. Tu su se donosile važne odluke o ratu, miru, trgovini i drugim pitanjima.",
+      "de": "Richtig! Qusayy ibn Kilab gründete Dar an-Nadwa als Machtzentrum und Entscheidungsgremium für die Quraisch. Dort wurden wichtige Entscheidungen über Krieg, Frieden, Handel und andere Angelegenheiten getroffen."
+    }
+  },
+  {
+    "quiz_id": 1,
+    "question_id": 88,
+    "type": "multiple_choice",
+    "difficulty": "hard",
+    "source_section": "Predislamska Arabija",
+    "question": {
+      "bs": "Koje funkcije je Kusajj ibn Kilab ujedinio pod svojom vlašću? (Odaberite sve tačne odgovore)",
+      "de": "Welche Funktionen vereinte Qusayy ibn Kilab unter seiner Herrschaft? (Wählen Sie alle richtigen Antworten)"
+    },
+    "options": {
+      "bs": ["Čuvanje Kabe (hidžaba)", "Napajanje hadžija (sikaja)", "Gostoprimstvo (rifada)", "Vođstvo u ratu (kijada)"],
+      "de": ["Bewachung der Kaaba (Hidschaba)", "Versorgung der Pilger mit Wasser (Siqaya)", "Gastfreundschaft (Rifada)", "Kriegsführung (Qiyada)"]
+    },
+    "correct": {
+      "bs": ["Čuvanje Kabe (hidžaba)", "Napajanje hadžija (sikaja)", "Gostoprimstvo (rifada)", "Vođstvo u ratu (kijada)"],
+      "de": ["Bewachung der Kaaba (Hidschaba)", "Versorgung der Pilger mit Wasser (Siqaya)", "Gastfreundschaft (Rifada)", "Kriegsführung (Qiyada)"]
+    },
+    "explanation": {
+      "bs": "Kusajj ibn Kilab je ujedinio sve ključne funkcije: čuvanje Kabe, napajanje hadžija, gostoprimstvo i vođstvo u ratu. Kasnije su ove funkcije podijeljene među različitim porodicama.",
+      "de": "Qusayy ibn Kilab vereinte alle Schlüsselfunktionen: Bewachung der Kaaba, Versorgung der Pilger mit Wasser, Gastfreundschaft und Kriegsführung. Später wurden diese Funktionen unter verschiedenen Familien aufgeteilt."
+    }
+  },
+  {
+    "quiz_id": 1,
+    "question_id": 89,
+    "type": "ordering",
+    "difficulty": "hard",
+    "source_section": "Predislamska Arabija",
+    "question": {
+      "bs": "Poredajte funkcije po redoslijedu kako su prelazile na porodicu Hašim:",
+      "de": "Ordnen Sie die Funktionen nach der Reihenfolge, in der sie an die Familie Haschim übergingen:"
+    },
+    "options": {
+      "bs": ["Sve funkcije kod Kusajja", "Podjela među sinovima Abd Menafa", "Sikaja i rifada kod Hašima", "Sikaja kod Abdul-Muttaliba"],
+      "de": ["Alle Funktionen bei Qusayy", "Aufteilung unter den Söhnen von Abd Manaf", "Siqaya und Rifada bei Haschim", "Siqaya bei Abdul-Muttalib"]
+    },
+    "correct": {
+      "bs": ["Sve funkcije kod Kusajja", "Podjela među sinovima Abd Menafa", "Sikaja i rifada kod Hašima", "Sikaja kod Abdul-Muttaliba"],
+      "de": ["Alle Funktionen bei Qusayy", "Aufteilung unter den Söhnen von Abd Manaf", "Siqaya und Rifada bei Haschim", "Siqaya bei Abdul-Muttalib"]
+    },
+    "explanation": {
+      "bs": "Kusajj je imao sve funkcije, zatim su se podijelile među potomcima. Hašim je dobio sikaju i rifadu, a nakon njega je sikaja prešla na Abdul-Muttaliba koji je i iskopao Zemzem.",
+      "de": "Qusayy hatte alle Funktionen, dann wurden sie unter den Nachkommen aufgeteilt. Haschim erhielt Siqaya und Rifada, und nach ihm ging die Siqaya an Abdul-Muttalib über, der auch Zamzam ausgrub."
+    }
+  },
+  {
+    "quiz_id": 1,
+    "question_id": 90,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Predislamska Arabija",
+    "question": {
+      "bs": "Arapi su imali razvijenu usmenu poeziju i govorništvo.",
+      "de": "Die Araber hatten eine entwickelte mündliche Poesie und Redekunst."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Arapi su bili poznati po svojoj poeziji i govorništvu. Održavali su takmičenja u poeziji na sajmovima poput Ukaza. Ova tradicija je bila važan dio njihove kulture.",
+      "de": "Richtig! Die Araber waren bekannt für ihre Poesie und Redekunst. Sie veranstalteten Poesie-Wettbewerbe auf Märkten wie Ukaz. Diese Tradition war ein wichtiger Teil ihrer Kultur."
+    }
+  },
+  {
+    "quiz_id": 1,
+    "question_id": 91,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Predislamska Arabija",
+    "question": {
+      "bs": "Gdje su Arapi održavali poznata takmičenja u poeziji?",
+      "de": "Wo veranstalteten die Araber berühmte Poesie-Wettbewerbe?"
+    },
+    "options": {
+      "bs": ["Na sajmu Ukaz", "U Kabi", "U Medini", "U Jemenu"],
+      "de": ["Auf dem Markt von Ukaz", "In der Kaaba", "In Medina", "Im Jemen"]
+    },
+    "correct": {
+      "bs": "Na sajmu Ukaz",
+      "de": "Auf dem Markt von Ukaz"
+    },
+    "explanation": {
+      "bs": "Sajam Ukaz je bio poznato mjesto gdje su se Arapi okupljali za trgovinu i takmičenja u poeziji. Najbolje pjesme su se vješale na Kabu i zvale 'Mualake' (obješene).",
+      "de": "Der Markt von Ukaz war ein berühmter Ort, an dem sich die Araber zum Handel und zu Poesie-Wettbewerben versammelten. Die besten Gedichte wurden an die Kaaba gehängt und 'Muallaqat' (die Aufgehängten) genannt."
+    }
+  },
+  {
+    "quiz_id": 1,
+    "question_id": 92,
+    "type": "true_false",
+    "difficulty": "hard",
+    "source_section": "Predislamska Arabija",
+    "question": {
+      "bs": "Najbolje pjesme predislamskih Arapa su se zvale 'Mualake' i bile vješane na Kabu.",
+      "de": "Die besten Gedichte der vorislamischen Araber wurden 'Muallaqat' genannt und an die Kaaba gehängt."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Mualake (Muallaqat) su bile sedam ili deset najboljih predislamskih kasida (poema) koje su bile napisane zlatom i obješene na zidove Kabe kao znak časti.",
+      "de": "Richtig! Muallaqat waren sieben oder zehn der besten vorislamischen Qasiden (Gedichte), die in Gold geschrieben und als Zeichen der Ehre an die Wände der Kaaba gehängt wurden."
+    }
+  },
+  {
+    "quiz_id": 1,
+    "question_id": 93,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "source_section": "Predislamska Arabija",
+    "question": {
+      "bs": "Kako se zove period prije dolaska islama?",
+      "de": "Wie wird die Zeit vor dem Kommen des Islam genannt?"
+    },
+    "options": {
+      "bs": ["Džahilijjet (doba neznanja)", "Medinski period", "Mekanski period", "Hidžra"],
+      "de": ["Dschahiliyya (Zeit der Unwissenheit)", "Medinensische Periode", "Mekkanische Periode", "Hidschra"]
+    },
+    "correct": {
+      "bs": "Džahilijjet (doba neznanja)",
+      "de": "Dschahiliyya (Zeit der Unwissenheit)"
+    },
+    "explanation": {
+      "bs": "Period prije islama se zove Džahilijjet, što znači 'doba neznanja'. Naziv ukazuje na neznanje o pravoj vjeri i moralnim vrijednostima koje je donio islam.",
+      "de": "Die Zeit vor dem Islam wird Dschahiliyya genannt, was 'Zeit der Unwissenheit' bedeutet. Der Name verweist auf die Unkenntnis des wahren Glaubens und der moralischen Werte, die der Islam brachte."
+    }
+  },
+  {
+    "quiz_id": 1,
+    "question_id": 94,
+    "type": "multiple_choice",
+    "difficulty": "medium",
+    "source_section": "Predislamska Arabija",
+    "question": {
+      "bs": "Koje loše običaje su Arapi imali u džahilijjetu? (Odaberite sve tačne odgovore)",
+      "de": "Welche schlechten Bräuche hatten die Araber in der Dschahiliyya? (Wählen Sie alle richtigen Antworten)"
+    },
+    "options": {
+      "bs": ["Zakopavanje ženske djece", "Mnogoboštvo", "Alkohol i kocka", "Post u ramazanu"],
+      "de": ["Lebendigbegraben weiblicher Kinder", "Polytheismus", "Alkohol und Glücksspiel", "Fasten im Ramadan"]
+    },
+    "correct": {
+      "bs": ["Zakopavanje ženske djece", "Mnogoboštvo", "Alkohol i kocka"],
+      "de": ["Lebendigbegraben weiblicher Kinder", "Polytheismus", "Alkohol und Glücksspiel"]
+    },
+    "explanation": {
+      "bs": "U džahilijjetu su postojali mnogi loši običaji: zakopavanje ženske djece (we'd), mnogoboštvo, alkohol i kocka. Post u ramazanu nije bio običaj džahilijjeta, već islamska obaveza.",
+      "de": "In der Dschahiliyya gab es viele schlechte Bräuche: das Lebendigbegraben weiblicher Kinder (Wa'd), Polytheismus, Alkohol und Glücksspiel. Das Fasten im Ramadan war kein Brauch der Dschahiliyya, sondern eine islamische Pflicht."
+    }
+  },
+  {
+    "quiz_id": 1,
+    "question_id": 95,
+    "type": "true_false",
+    "difficulty": "easy",
+    "source_section": "Predislamska Arabija",
+    "question": {
+      "bs": "Arapi su u džahilijjetu prakticirali običaj zakopavanja ženske djece žive.",
+      "de": "Die Araber praktizierten in der Dschahiliyya den Brauch, weibliche Kinder lebendig zu begraben."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Ovaj strašni običaj je bio rasprostranjen među nekim arapskim plemenima. Kur'an osuđuje ovaj čin: 'I kada živa sahranjena djevojčica bude upitana, za kakav grijeh je ubijena' (Et-Tekvir, 8-9).",
+      "de": "Richtig! Dieser schreckliche Brauch war unter einigen arabischen Stämmen verbreitet. Der Koran verurteilt diese Tat: 'Und wenn das lebendig begrabene Mädchen gefragt wird, für welche Sünde es getötet wurde' (At-Takwir, 8-9)."
+    }
+  },
+  {
+    "quiz_id": 1,
+    "question_id": 96,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Predislamska Arabija",
+    "question": {
+      "bs": "Koji mjeseci su bili sveti kod Arapa u kojima je bilo zabranjeno ratovanje?",
+      "de": "Welche Monate waren bei den Arabern heilig, in denen Krieg verboten war?"
+    },
+    "options": {
+      "bs": ["Muharrem, Redžeb, Zul-ka'de, Zul-hidždže", "Ramazan, Ševval, Zul-ka'de, Zul-hidždže", "Muharrem, Safer, Rebiul-evvel, Rebiul-ahir", "Džumadel-ula, Džumadel-ahira, Redžeb, Ša'ban"],
+      "de": ["Muharram, Radschab, Dhu al-Qa'da, Dhu al-Hiddscha", "Ramadan, Schawwal, Dhu al-Qa'da, Dhu al-Hiddscha", "Muharram, Safar, Rabi al-Awwal, Rabi ath-Thani", "Dschumada al-Ula, Dschumada al-Achira, Radschab, Scha'ban"]
+    },
+    "correct": {
+      "bs": "Muharrem, Redžeb, Zul-ka'de, Zul-hidždže",
+      "de": "Muharram, Radschab, Dhu al-Qa'da, Dhu al-Hiddscha"
+    },
+    "explanation": {
+      "bs": "Četiri sveta mjeseca kod Arapa su bili: Muharrem, Redžeb, Zul-ka'de i Zul-hidždže. U njima je bilo zabranjeno ratovanje. Islam je potvrdio svetost ovih mjeseci.",
+      "de": "Die vier heiligen Monate bei den Arabern waren: Muharram, Radschab, Dhu al-Qa'da und Dhu al-Hiddscha. In ihnen war Krieg verboten. Der Islam bestätigte die Heiligkeit dieser Monate."
+    }
+  },
+  {
+    "quiz_id": 1,
+    "question_id": 97,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Predislamska Arabija",
+    "question": {
+      "bs": "Islam je ukinuo običaj svetih mjeseci u kojima je bilo zabranjeno ratovanje.",
+      "de": "Der Islam schaffte den Brauch der heiligen Monate ab, in denen Krieg verboten war."
+    },
+    "correct": false,
+    "explanation": {
+      "bs": "Netačno! Islam je potvrdio svetost četiri sveta mjeseca. Kur'an kaže: 'Broj mjeseci kod Allaha je dvanaest... od toga su četiri sveta.' (Et-Tevba, 36)",
+      "de": "Falsch! Der Islam bestätigte die Heiligkeit der vier heiligen Monate. Der Koran sagt: 'Die Anzahl der Monate bei Allah ist zwölf... davon sind vier heilig.' (At-Tawba, 36)"
+    }
+  },
+  {
+    "quiz_id": 1,
+    "question_id": 98,
+    "type": "ordering",
+    "difficulty": "medium",
+    "source_section": "Rodoslovlje Poslanika",
+    "question": {
+      "bs": "Poredajte direktne pretke Poslanika od oca unatrag:",
+      "de": "Ordnen Sie die direkten Vorfahren des Propheten vom Vater rückwärts:"
+    },
+    "options": {
+      "bs": ["Abdullah", "Abdul-Muttalib", "Hašim", "Abd Menaf"],
+      "de": ["Abdullah", "Abdul-Muttalib", "Haschim", "Abd Manaf"]
+    },
+    "correct": {
+      "bs": ["Abdullah", "Abdul-Muttalib", "Hašim", "Abd Menaf"],
+      "de": ["Abdullah", "Abdul-Muttalib", "Haschim", "Abd Manaf"]
+    },
+    "explanation": {
+      "bs": "Poslanikov otac je bio Abdullah, djed Abdul-Muttalib, pradjed Hašim, a prapradjed Abd Menaf. Ovo je direktna linija predaka Poslanika, s.a.v.s.",
+      "de": "Der Vater des Propheten war Abdullah, der Grossvater Abdul-Muttalib, der Urgrossvater Haschim und der Ururgrossvater Abd Manaf. Dies ist die direkte Ahnenlinie des Propheten (s.a.w.s.)."
+    }
+  },
+  {
+    "quiz_id": 1,
+    "question_id": 99,
+    "type": "true_false",
+    "difficulty": "easy",
+    "source_section": "Predislamska Arabija",
+    "question": {
+      "bs": "Kurejšije su bili ugledni zbog čuvanja Kabe i položaja Meke.",
+      "de": "Die Quraisch waren angesehen wegen der Bewachung der Kaaba und der Lage Mekkas."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Kurejšije su uživali veliki ugled među Arapima jer su bili čuvari Kabe i domaćini hodočasnika. Njihov položaj na trgovačkom putu dodatno je učvrstio njihov status.",
+      "de": "Richtig! Die Quraisch genossen grosses Ansehen unter den Arabern, da sie Hüter der Kaaba und Gastgeber der Pilger waren. Ihre Lage an der Handelsroute festigte ihren Status zusätzlich."
+    }
+  },
+  {
+    "quiz_id": 1,
+    "question_id": 100,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "source_section": "Rodoslovlje Poslanika",
+    "question": {
+      "bs": "Iz koje porodice Kurejšija potječe Poslanik Muhammed, s.a.v.s.?",
+      "de": "Aus welcher Familie der Quraisch stammte der Prophet Muhammad (s.a.w.s.)?"
+    },
+    "options": {
+      "bs": ["Benu Hašim", "Benu Umejje", "Benu Mahzum", "Benu Tejem"],
+      "de": ["Banu Haschim", "Banu Umayya", "Banu Machzum", "Banu Taym"]
+    },
+    "correct": {
+      "bs": "Benu Hašim",
+      "de": "Banu Haschim"
+    },
+    "explanation": {
+      "bs": "Poslanik Muhammed, s.a.v.s., potječe iz porodice Benu Hašim, koja je bila jedna od najuglednijih porodica unutar plemena Kurejš. Ova porodica je nosila ime po Hašimu, pradjed Poslanika.",
+      "de": "Der Prophet Muhammad (s.a.w.s.) stammte aus der Familie Banu Haschim, die eine der angesehensten Familien innerhalb des Stammes Quraisch war. Diese Familie wurde nach Haschim benannt, dem Urgrossvater des Propheten."
+    }
+  }
+]

@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="bs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kviz | Poslanikova sira</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/quiz.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Amiri:wght@400;700&family=Inter:wght@400;500;600;700&family=Poppins:wght@600;700;800&display=swap" rel="stylesheet">
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-P10X0MRPDG"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag("js", new Date());
+  gtag("config", "G-P10X0MRPDG");
+</script>
+</head>
+<body class="quiz-page">
+    <div class="quiz-container">
+        <!-- Quiz Header -->
+        <div class="quiz-header">
+            <div class="container">
+                <div class="quiz-header-content">
+                    <a href="index.html" class="home-icon">🏠</a>
+                    <h1 id="quizTitle" class="quiz-title-compact">Učitavanje...</h1>
+                    <div class="quiz-meta-compact">
+                        <span id="questionCounter" class="meta-item">Pitanje 1/20</span>
+                        <span id="timer" class="meta-item">⏱️ 5:00</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Progress Bar -->
+        <div class="progress-container">
+            <div class="progress-bar">
+                <div class="progress-fill" id="progressFill"></div>
+            </div>
+        </div>
+
+        <!-- Question Container -->
+        <div class="question-container" id="questionContainer">
+            <div class="question-card">
+                <div class="question-text" id="questionText">
+                    Učitavanje pitanja...
+                </div>
+                <div class="question-options" id="questionOptions">
+                    <!-- Options will be inserted here -->
+                </div>
+                
+                <!-- Feedback Panel -->
+                <div class="feedback-panel" id="feedbackPanel" style="display: none;">
+                    <!-- Feedback will be shown here -->
+                </div>
+                
+                <div class="question-actions">
+                    <!-- The navigation buttons are updated dynamically in showQuestion().
+                         We remove data-translate attributes here to prevent the
+                         translation script from overriding the labels set by
+                         JavaScript (e.g. switching between “Sljedeće →”, “Weiter →”
+                         and “Završi kviz →”). The initial text serves as a fallback. -->
+                    <button id="prevBtn" disabled>← Prethodno</button>
+                    <button id="nextBtn">Sljedeće →</button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Results Modal -->
+        <div class="modal" id="resultsModal">
+                <div class="modal-content results-content">
+                <div class="results-header">
+                    <h2 class="results-title" data-translate="quizCompleted">🎉 Kviz završen!</h2>
+                </div>
+                <div class="results-body">
+                    <div class="results-score">
+                        <div class="score-circle">
+                            <span class="score-value">0%</span>
+                            <span class="score-label"></span>
+                        </div>
+                        <div class="points-circle">
+                            <span class="score-value">0</span>
+                            <span class="score-label" data-translate="points">Bodova</span>
+                        </div>
+                    </div>
+                    <div class="results-stats">
+                        <div class="stat-item">
+                            <span class="stat-icon">✅</span>
+                            <span class="stat-value" id="correctCount">0</span>
+                            <span class="stat-label" data-translate="correct">Tačno</span>
+                        </div>
+                        <div class="stat-item">
+                            <span class="stat-icon">❌</span>
+                            <span class="stat-value" id="wrongCount">0</span>
+                            <span class="stat-label" data-translate="incorrect">Netačno</span>
+                        </div>
+                    </div>
+                    <div class="results-actions">
+                        <button class="btn-secondary" onclick="window.location.href='index.html'" data-translate="backToHome">Nazad na početnu</button>
+                        <button class="btn-primary" id="retryBtn" data-translate="tryAgain">Pokušaj ponovo</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+        <!-- Feedback Modal -->
+        <!--
+            When a question is answered, we show this modal overlay rather than
+            pushing the feedback below the question. This prevents the
+            navigation buttons from being pushed off-screen on mobile. The
+            feedback modal reuses the same messages as the inline panel and
+            includes its own next/previous buttons and a close icon.
+        -->
+        <!-- Feedback modal is hidden by default via CSS. Do not set inline display property
+             because it prevents the .show class from taking effect. -->
+        <div class="modal" id="feedbackModal">
+            <div class="modal-content feedback-content" id="feedbackModalContent">
+                <button class="feedback-close" id="feedbackCloseBtn">×</button>
+                <div id="feedbackBody"></div>
+                <div class="feedback-actions">
+                    <button id="feedbackPrevBtn">← Prethodno</button>
+                    <button id="feedbackNextBtn">Sljedeće →</button>
+                </div>
+            </div>
+        </div>
+
+    <script src="js/translations.js"></script>
+    <script src="js/auth.js"></script>
+    <script src="js/quiz-engine.js"></script>
+    <script>
+        // Apply translations on page load
+        document.addEventListener('DOMContentLoaded', function () {
+            if (typeof applyTranslations === 'function') {
+                applyTranslations();
+            }
+        });
+    </script>
+</body>
+</html>

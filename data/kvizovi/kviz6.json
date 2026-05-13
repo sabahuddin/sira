@@ -1,0 +1,2738 @@
+[
+  {
+    "quiz_id": 6,
+    "question_id": 1,
+    "type": "true_false",
+    "difficulty": "easy",
+    "source_section": "Prva prisega na Akabi",
+    "question": {
+      "bs": "Prva prisega na Akabi desila se godine dvanaeste po poslanstvu.",
+      "de": "Der erste Treueschwur von Aqaba fand im zwölften Jahr der Prophetenschaft statt."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Prva prisega na Akabi desila se godine dvanaeste po poslanstvu, što odgovara julu 621. godine po gregorijanskom kalendaru. Na ovoj prisezi prisustvovalo je dvanaest ljudi iz Jesriba (Medine).",
+      "de": "Richtig! Der erste Treueschwur von Aqaba fand im zwölften Jahr der Prophetenschaft statt, was dem Juli 621 n. Chr. entspricht. An diesem Schwur nahmen zwölf Menschen aus Jathrib (Medina) teil."
+    }
+  },
+  {
+    "quiz_id": 6,
+    "question_id": 2,
+    "type": "true_false",
+    "difficulty": "easy",
+    "source_section": "Prva prisega na Akabi",
+    "question": {
+      "bs": "Na prvoj prisegi na Akabi prisustvovalo je dvanaest muslimana iz Jesriba.",
+      "de": "Am ersten Treueschwur von Aqaba nahmen zwölf Muslime aus Jathrib teil."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Na prvoj prisegi na Akabi prisustvovalo je dvanaest ljudi iz Jesriba - pet od onih šest koji su prethodne godine primili islam, plus sedam novih muslimana. Pet ih je bilo iz plemena El-Hazredž, a dvojica iz plemena El-Evs.",
+      "de": "Richtig! Am ersten Treueschwur von Aqaba nahmen zwölf Menschen aus Jathrib teil - fünf von den sechs, die im Vorjahr den Islam angenommen hatten, plus sieben neue Muslime. Fünf waren vom Stamm al-Hazradsch und zwei vom Stamm al-Aus."
+    }
+  },
+  {
+    "quiz_id": 6,
+    "question_id": 3,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Ambasador islama u Medini",
+    "question": {
+      "bs": "Mus'ab bin Umejr bio je prvi Poslanikov ﷺ izaslanik poslan u Jesrib da širi islam.",
+      "de": "Mus'ab ibn Umair war der erste Gesandte des Propheten ﷺ, der nach Jathrib geschickt wurde, um den Islam zu verbreiten."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Nakon prve prisege na Akabi, Poslanik ﷺ je poslao Mus'aba bin Umejra kao svog prvog izaslanika u Jesrib. Mus'ab je bio poznat pod nadimkom 'Učač' i nastanio se kod Es'ada bin Zurareta.",
+      "de": "Richtig! Nach dem ersten Treueschwur von Aqaba sandte der Prophet ﷺ Mus'ab ibn Umair als seinen ersten Gesandten nach Jathrib. Mus'ab war unter dem Beinamen 'der Lehrer' bekannt und wohnte bei As'ad ibn Zurara."
+    }
+  },
+  {
+    "quiz_id": 6,
+    "question_id": 4,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Ambasador islama u Medini",
+    "question": {
+      "bs": "Sa'd bin Muaz primio je islam prije Usejda bin Hudajra.",
+      "de": "Sa'd ibn Mu'adh nahm den Islam vor Usaid ibn Hudair an."
+    },
+    "correct": false,
+    "explanation": {
+      "bs": "Netačno! Usejd bin Hudajr je prvi primio islam nakon razgovora sa Mus'abom, a zatim je on doveo Sa'da bin Muaza koji je također primio islam. Sa'd je bio starješina svog naroda, a kada je on primio islam, cijelo pleme Beni Abdil-Ešhel je prihvatilo vjeru.",
+      "de": "Falsch! Usaid ibn Hudair nahm den Islam zuerst an, nachdem er mit Mus'ab gesprochen hatte, und dann brachte er Sa'd ibn Mu'adh, der ebenfalls den Islam annahm. Sa'd war der Anführer seines Volkes, und als er den Islam annahm, akzeptierte der gesamte Stamm Banu Abdil-Aschhal den Glauben."
+    }
+  },
+  {
+    "quiz_id": 6,
+    "question_id": 5,
+    "type": "true_false",
+    "difficulty": "hard",
+    "source_section": "Ambasador islama u Medini",
+    "question": {
+      "bs": "Pleme Beni Abdil-Ešhel primilo je islam tek na dan bitke na Hendeku.",
+      "de": "Der Stamm Banu Abdil-Aschhal nahm den Islam erst am Tag der Schlacht am Graben an."
+    },
+    "correct": false,
+    "explanation": {
+      "bs": "Netačno! Pleme Beni Abdil-Ešhel primilo je islam masovno kada je njihov starješina Sa'd bin Muaz prihvatio vjeru, još u Meki. Jedino su kuće Umejjeta bin Zejda, Hatmeta i Vaila kasnile s primanjem islama do bitke na Hendeku, pete godine po Hidžri.",
+      "de": "Falsch! Der Stamm Banu Abdil-Aschhal nahm den Islam massenhaft an, als ihr Anführer Sa'd ibn Mu'adh den Glauben akzeptierte, noch in Mekka. Nur die Häuser von Umayya ibn Zaid, Hatma und Wa'il verzögerten die Annahme des Islam bis zur Schlacht am Graben im fünften Jahr nach der Hidschra."
+    }
+  },
+  {
+    "quiz_id": 6,
+    "question_id": 6,
+    "type": "true_false",
+    "difficulty": "easy",
+    "source_section": "Druga prisega na Akabi",
+    "question": {
+      "bs": "Na drugoj (velikoj) prisegi na Akabi prisustvovalo je sedamdeset i tri muškarca i dvije žene.",
+      "de": "Am zweiten (grossen) Treueschwur von Aqaba nahmen dreiundsiebzig Männer und zwei Frauen teil."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Na drugoj prisegi na Akabi, godine trinaeste po poslanstvu, prisustvovalo je sedamdeset tri muškarca i dvije žene: Nesiba bint Ka'b (Ummu Imareh) i Esma bint Amr (Ummu Menia), obje iz porodice Beni Mazin bin en-Nedždžar.",
+      "de": "Richtig! Am zweiten Treueschwur von Aqaba im dreizehnten Jahr der Prophetenschaft nahmen dreiundsiebzig Männer und zwei Frauen teil: Nusaiba bint Ka'b (Umm Imara) und Asma bint Amr (Umm Mani'), beide aus der Familie Banu Mazin ibn an-Nadschdschār."
+    }
+  },
+  {
+    "quiz_id": 6,
+    "question_id": 7,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Druga prisega na Akabi",
+    "question": {
+      "bs": "Abbas bin Abdul-Muttalib, amidža Poslanika ﷺ, bio je musliman u vrijeme druge prisege na Akabi.",
+      "de": "Abbas ibn Abdul-Muttalib, der Onkel des Propheten ﷺ, war zum Zeitpunkt des zweiten Treueschwurs von Aqaba Muslim."
+    },
+    "correct": false,
+    "explanation": {
+      "bs": "Netačno! Abbas bin Abdul-Muttalib je prisustvovao drugoj prisegi na Akabi, ali je tada još bio u svojoj staroj vjeri (mnogoboštvu). On je želio prisustvovati skupu koji je od životne važnosti za njegovog bratića Muhammeda ﷺ.",
+      "de": "Falsch! Abbas ibn Abdul-Muttalib war beim zweiten Treueschwur von Aqaba anwesend, war aber noch in seinem alten Glauben (Polytheismus). Er wollte an der Versammlung teilnehmen, die für seinen Cousin Muhammad ﷺ von entscheidender Bedeutung war."
+    }
+  },
+  {
+    "quiz_id": 6,
+    "question_id": 8,
+    "type": "true_false",
+    "difficulty": "hard",
+    "source_section": "Druga prisega na Akabi",
+    "question": {
+      "bs": "Abdullah bin Amr bin Haram prisustvovao je drugoj prisegi na Akabi, iako je primio islam tek te noći.",
+      "de": "Abdullah ibn Amr ibn Haram nahm am zweiten Treueschwur von Aqaba teil, obwohl er den Islam erst in dieser Nacht annahm."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Abdullah bin Amr bin Haram, jedan od starješina Ensarija, primio je islam upravo uoči druge prisege. Mladići ga obavijestili o sastanku i pozvali u islam, a on je prihvatio vjeru i prisustvovao prisegi kao poglavar.",
+      "de": "Richtig! Abdullah ibn Amr ibn Haram, einer der Anführer der Ansar, nahm den Islam genau vor dem zweiten Treueschwur an. Junge Männer informierten ihn über das Treffen und luden ihn zum Islam ein, und er akzeptierte den Glauben und nahm als Oberhaupt am Schwur teil."
+    }
+  },
+  {
+    "quiz_id": 6,
+    "question_id": 9,
+    "type": "true_false",
+    "difficulty": "easy",
+    "source_section": "Prethodnica Hidžre",
+    "question": {
+      "bs": "Ebu Selema bio je među prvim muhadžirima koji su se iselili u Medinu.",
+      "de": "Abu Salama gehörte zu den ersten Auswanderern (Muhadschirin), die nach Medina auswanderten."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Ebu Selema bio je među prvim muhadžirima. Iselio se godinu dana prije druge prisege na Akabi. Nažalost, Kurejšije su mu oteli ženu i sina, pa je morao putovati sam. Kasnije su se ponovo spojili.",
+      "de": "Richtig! Abu Salama gehörte zu den ersten Auswanderern. Er wanderte ein Jahr vor dem zweiten Treueschwur von Aqaba aus. Leider nahmen ihm die Quraisch seine Frau und seinen Sohn weg, so dass er allein reisen musste. Später wurden sie wieder vereint."
+    }
+  },
+  {
+    "quiz_id": 6,
+    "question_id": 10,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Prethodnica Hidžre",
+    "question": {
+      "bs": "Suhejb je morao ostaviti sav svoj imetak Kurejšijama da bi dobio dozvolu za Hidžru.",
+      "de": "Suhaib musste seinen gesamten Besitz den Quraisch überlassen, um die Erlaubnis zur Hidschra zu erhalten."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Kada se Suhejb htio iseliti, Kurejšije su mu rekle da je došao kao siromašan i obogatio se kod njih. On im je ponudio sav svoj imetak u zamjenu za slobodu. Poslanik ﷺ je rekao: 'Suhejb je na dobitku, Suhejb je na dobitku!'",
+      "de": "Richtig! Als Suhaib auswandern wollte, sagten ihm die Quraisch, er sei als Armer gekommen und bei ihnen reich geworden. Er bot ihnen seinen gesamten Besitz im Austausch für seine Freiheit an. Der Prophet ﷺ sagte: 'Suhaib hat gewonnen, Suhaib hat gewonnen!'"
+    }
+  },
+  {
+    "quiz_id": 6,
+    "question_id": 11,
+    "type": "true_false",
+    "difficulty": "hard",
+    "source_section": "Prethodnica Hidžre",
+    "question": {
+      "bs": "Ajjaš bin Ebi Rebia bio je prevaren od strane Ebu Džehla i vraćen u Meku nakon što je već stigao u Medinu.",
+      "de": "Ayyasch ibn Abi Rabi'a wurde von Abu Dschahl getäuscht und nach Mekka zurückgebracht, nachdem er bereits in Medina angekommen war."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Ajjaš je stigao u Kubu sa Omerom, ali su ga Ebu Džehl i El-Haris prevarili rekavši da se njihova majka zaklela da se neće češljati dok ga ne vidi. Omer ga je upozorio, ali Ajjaš je krenuo. Na putu su ga svezali i vratili u Meku.",
+      "de": "Richtig! Ayyasch kam mit Omar nach Quba, aber Abu Dschahl und al-Harith täuschten ihn, indem sie sagten, ihre Mutter habe geschworen, sich nicht zu kämmen, bis sie ihn sieht. Omar warnte ihn, aber Ayyasch machte sich auf den Weg. Unterwegs fesselten sie ihn und brachten ihn nach Mekka zurück."
+    }
+  },
+  {
+    "quiz_id": 6,
+    "question_id": 12,
+    "type": "true_false",
+    "difficulty": "easy",
+    "source_section": "Zasjedanje kurejšijskog vijeća",
+    "question": {
+      "bs": "Kurejšije su se sastale u Vijećnici (Darun-Nedva) da odluče o sudbini Poslanika ﷺ.",
+      "de": "Die Quraisch versammelten sich in der Ratshalle (Dar an-Nadwa), um über das Schicksal des Propheten ﷺ zu entscheiden."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! U četvrtak, 26. safera, 14. godine po poslanstvu (12. septembra 622. godine), Kurejšije su se sastale u Vijećnici. Ovo je bila najznačajnija sjednica u historiji Meke, na kojoj su odlučili ubiti Poslanika ﷺ.",
+      "de": "Richtig! Am Donnerstag, dem 26. Safar, im 14. Jahr der Prophetenschaft (12. September 622 n. Chr.), versammelten sich die Quraisch in der Ratshalle. Dies war die bedeutendste Sitzung in der Geschichte Mekkas, bei der sie beschlossen, den Propheten ﷺ zu töten."
+    }
+  },
+  {
+    "quiz_id": 6,
+    "question_id": 13,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Zasjedanje kurejšijskog vijeća",
+    "question": {
+      "bs": "Šejtan se pojavio na sjednici Kurejšija u liku starca iz Nedžda.",
+      "de": "Satan erschien bei der Versammlung der Quraisch in Gestalt eines Ältesten aus Nadschd."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Iblis (šejtan) se pojavio na sjednici u liku čestitog starca u bijeloj odjeći, predstavljajući se kao starješina stanovnika Nedžda. Tražio je da prisustvuje savjetovanju i davao sugestije za ubistvo Poslanika ﷺ.",
+      "de": "Richtig! Iblis (Satan) erschien bei der Versammlung in Gestalt eines angesehenen Ältesten in weisser Kleidung und stellte sich als Oberhaupt der Einwohner von Nadschd vor. Er bat darum, an der Beratung teilzunehmen, und gab Vorschläge zur Ermordung des Propheten ﷺ."
+    }
+  },
+  {
+    "quiz_id": 6,
+    "question_id": 14,
+    "type": "true_false",
+    "difficulty": "hard",
+    "source_section": "Zasjedanje kurejšijskog vijeća",
+    "question": {
+      "bs": "Plan za ubistvo Poslanika ﷺ predložio je Ebu Džehl, a glasio je da iz svakog plemena izaberu jednog mladića da zajedno izvrše ubistvo.",
+      "de": "Der Plan zur Ermordung des Propheten ﷺ wurde von Abu Dschahl vorgeschlagen und sah vor, dass aus jedem Stamm ein junger Mann ausgewählt wird, um gemeinsam die Tötung durchzuführen."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Ebu Džehl je predložio da iz svakog plemena uzmu po jednog snažnog mladića sa sabljom, da svi zajedno ubiju Poslanika ﷺ. Tako bi se krv rasplinula na sva plemena, a Benu Abdi Menaf ne bi mogao tražiti osvetu nad svima.",
+      "de": "Richtig! Abu Dschahl schlug vor, aus jedem Stamm einen starken jungen Mann mit einem Schwert zu nehmen, damit alle gemeinsam den Propheten ﷺ töten. So würde das Blut auf alle Stämme verteilt, und Banu Abdi Manaf könnte keine Rache an allen üben."
+    }
+  },
+  {
+    "quiz_id": 6,
+    "question_id": 15,
+    "type": "true_false",
+    "difficulty": "easy",
+    "source_section": "Noć Hidžre",
+    "question": {
+      "bs": "Alija bin Ebi Talib je spavao u Poslanikovoj ﷺ postelji u noći Hidžre.",
+      "de": "Ali ibn Abi Talib schlief in der Nacht der Hidschra im Bett des Propheten ﷺ."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Poslanik ﷺ je naredio Aliji da legne na njegovu postelju i obuče zelenu hadremijsku burdu (ogrtač). Rekao mu je: 'Neće ti se ništa loše dogoditi.' Alija je ostao u postelji dok Poslanik ﷺ nije izašao iz kuće.",
+      "de": "Richtig! Der Prophet ﷺ befahl Ali, sich in sein Bett zu legen und den grünen hadramitischen Burda (Umhang) anzuziehen. Er sagte ihm: 'Dir wird nichts Böses geschehen.' Ali blieb im Bett, bis der Prophet ﷺ das Haus verliess."
+    }
+  },
+  {
+    "quiz_id": 6,
+    "question_id": 16,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Noć Hidžre",
+    "question": {
+      "bs": "Poslanik ﷺ je prosuo prašinu po glavama ubica koji su opkolili kuću, a Allah im je zaslijepio vid.",
+      "de": "Der Prophet ﷺ streute Staub auf die Köpfe der Attentäter, die das Haus umzingelt hatten, und Allah blendete ihre Augen."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Poslanik ﷺ je izašao iz kuće, uzeo šaku pijeska i prosuo ga po glavama ubica. Allah im je zaslijepio vid pa ga nisu vidjeli. Učio je ajet: 'I Mi smo ispred i iza njih pregradu metnuli i na oči im koprenu stavili.' (Ja-Sin, 9)",
+      "de": "Richtig! Der Prophet ﷺ verliess das Haus, nahm eine Handvoll Sand und streute ihn auf die Köpfe der Attentäter. Allah blendete ihre Augen, so dass sie ihn nicht sahen. Er rezitierte den Vers: 'Und Wir haben vor ihnen und hinter ihnen eine Schranke errichtet und sie mit einem Schleier bedeckt.' (Ya-Sin, 9)"
+    }
+  },
+  {
+    "quiz_id": 6,
+    "question_id": 17,
+    "type": "true_false",
+    "difficulty": "easy",
+    "source_section": "Pećina Sevr",
+    "question": {
+      "bs": "Poslanik ﷺ i Ebu Bekr su se sakrili u pećini Sevr južno od Meke.",
+      "de": "Der Prophet ﷺ und Abu Bakr versteckten sich in der Höhle Thawr südlich von Mekka."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Pećina Sevr nalazi se jugoistočno od Meke, na putu ka Jemenu. Poslanik ﷺ je namjerno odabrao put suprotan od Medine kako bi zaveo potjeru. Do pećine su stigli nakon petomilje hoda.",
+      "de": "Richtig! Die Höhle Thawr liegt südöstlich von Mekka auf dem Weg nach Jemen. Der Prophet ﷺ wählte absichtlich einen Weg in die entgegengesetzte Richtung von Medina, um die Verfolger zu täuschen. Sie erreichten die Höhle nach fünf Meilen Fussmarsch."
+    }
+  },
+  {
+    "quiz_id": 6,
+    "question_id": 18,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Pećina Sevr",
+    "question": {
+      "bs": "Ebu Bekr je prvi ušao u pećinu da provjeri ima li opasnosti.",
+      "de": "Abu Bakr betrat die Höhle zuerst, um zu prüfen, ob Gefahr besteht."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Ebu Bekr je rekao: 'Tako mi Allaha, nećeš ući dok ja prvi ne uđem, pa ako bude kakve opasnosti neka mene zadesi.' Pregledao je pećinu, pocijepo ogrtač da zatisnue rupe, a dvije je začepio nogama.",
+      "de": "Richtig! Abu Bakr sagte: 'Bei Allah, du wirst nicht eintreten, bis ich zuerst hineingehe, und wenn es Gefahr gibt, soll sie mich treffen.' Er untersuchte die Höhle, zerriss seinen Umhang, um Löcher zu stopfen, und verschloss zwei mit seinen Füssen."
+    }
+  },
+  {
+    "quiz_id": 6,
+    "question_id": 19,
+    "type": "true_false",
+    "difficulty": "hard",
+    "source_section": "Pećina Sevr",
+    "question": {
+      "bs": "Abdullah, sin Ebu Bekra, dolazio je svaku noć u pećinu i prenosio vijesti o Kurejšijama.",
+      "de": "Abdullah, der Sohn Abu Bakrs, kam jede Nacht zur Höhle und überbrachte Nachrichten über die Quraisch."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Abdullah bin Ebi Bekr je noćivao s njima u pećini. Bio je oštruman mladić koji bi pred zoru odlazio u Meku i slušao šta Kurejšije govore o Poslaniku ﷺ i Ebu Bekru, pa bi naveče dolazio s vijestima.",
+      "de": "Richtig! Abdullah ibn Abi Bakr übernachtete bei ihnen in der Höhle. Er war ein scharfsinniger junger Mann, der vor der Morgendämmerung nach Mekka ging und hörte, was die Quraisch über den Propheten ﷺ und Abu Bakr sagten, und dann abends mit Neuigkeiten kam."
+    }
+  },
+  {
+    "quiz_id": 6,
+    "question_id": 20,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Pećina Sevr",
+    "question": {
+      "bs": "Poslanik ﷺ i Ebu Bekr proveli su u pećini Sevr tri noći.",
+      "de": "Der Prophet ﷺ und Abu Bakr verbrachten drei Nächte in der Höhle Thawr."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! U pećini su boravili tri noći - od petka uveče do nedjelje uveče. Za to vrijeme, Amir bin Fuhejre, oslobođeni rob Ebu Bekra, napasao je ovce u blizini i donosio im mlijeko.",
+      "de": "Richtig! Sie blieben drei Nächte in der Höhle - von Freitagabend bis Sonntagabend. Während dieser Zeit weidete Amir ibn Fuhaira, der befreite Sklave Abu Bakrs, Schafe in der Nähe und brachte ihnen Milch."
+    }
+  },
+  {
+    "quiz_id": 6,
+    "question_id": 21,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "source_section": "Prva prisega na Akabi",
+    "question": {
+      "bs": "Koliko je osoba prisustvovalo prvoj prisegi na Akabi?",
+      "de": "Wie viele Personen nahmen am ersten Treueschwur von Aqaba teil?"
+    },
+    "options": {
+      "bs": [
+        "Četrdeset osoba",
+        "Šest osoba",
+        "Dvanaest osoba",
+        "Sedamdeset osoba"
+      ],
+      "de": [
+        "Vierzig Personen",
+        "Sechs Personen",
+        "Zwölf Personen",
+        "Siebzig Personen"
+      ]
+    },
+    "correct": {
+      "bs": "Dvanaest osoba",
+      "de": "Zwölf Personen"
+    },
+    "explanation": {
+      "bs": "Na prvoj prisegi na Akabi prisustvovalo je dvanaest osoba iz Jesriba - pet od šest prošlogodišnjih muslimana plus sedam novih. Ova prisega poznata je i kao 'prisega žena' jer nije uključivala obavezu borbe.",
+      "de": "Am ersten Treueschwur von Aqaba nahmen zwölf Personen aus Jathrib teil - fünf von den sechs Muslimen des Vorjahres plus sieben neue. Dieser Schwur ist auch als 'Schwur der Frauen' bekannt, da er keine Kampfpflicht beinhaltete."
+    }
+  },
+  {
+    "quiz_id": 6,
+    "question_id": 22,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Ambasador islama u Medini",
+    "question": {
+      "bs": "Kod koga je Mus'ab bin Umejr boravio u Jesribu?",
+      "de": "Bei wem wohnte Mus'ab ibn Umair in Jathrib?"
+    },
+    "options": {
+      "bs": [
+        "Kod Sa'da bin Muaza",
+        "Kod Es'ada bin Zurareta",
+        "Kod Abdullaha bin Amra",
+        "Kod Usejda bin Hudajra"
+      ],
+      "de": [
+        "Bei Sa'd ibn Mu'adh",
+        "Bei As'ad ibn Zurara",
+        "Bei Abdullah ibn Amr",
+        "Bei Usaid ibn Hudair"
+      ]
+    },
+    "correct": {
+      "bs": "Kod Es'ada bin Zurareta",
+      "de": "Bei As'ad ibn Zurara"
+    },
+    "explanation": {
+      "bs": "Mus'ab bin Umejr nastanio se kod Es'ada bin Zurareta u Jesribu. Zajedno su radili na širenju islama, a Mus'ab je bio poznat pod nadimkom 'Učač' zbog svoje uloge u podučavanju islama.",
+      "de": "Mus'ab ibn Umair wohnte bei As'ad ibn Zurara in Jathrib. Zusammen arbeiteten sie an der Verbreitung des Islam, und Mus'ab war unter dem Beinamen 'der Lehrer' bekannt wegen seiner Rolle bei der Unterweisung im Islam."
+    }
+  },
+  {
+    "quiz_id": 6,
+    "question_id": 23,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Ambasador islama u Medini",
+    "question": {
+      "bs": "Koji starješina je, nakon primanja islama, zaprijetio svom narodu da neće govoriti s njima dok ne prime vjeru?",
+      "de": "Welcher Anführer drohte nach seiner Annahme des Islam seinem Volk, nicht mehr mit ihnen zu sprechen, wenn sie den Glauben nicht annehmen?"
+    },
+    "options": {
+      "bs": [
+        "Sa'd bin Muaz",
+        "Usejd bin Hudajr",
+        "Abdullah bin Selam",
+        "Es'ad bin Zuraret"
+      ],
+      "de": [
+        "Sa'd ibn Mu'adh",
+        "Usaid ibn Hudair",
+        "Abdullah ibn Salam",
+        "As'ad ibn Zurara"
+      ]
+    },
+    "correct": {
+      "bs": "Sa'd bin Muaz",
+      "de": "Sa'd ibn Mu'adh"
+    },
+    "explanation": {
+      "bs": "Sa'd bin Muaz je bio starješina plemena Beni Abdil-Ešhel. Nakon primanja islama, rekao je svom narodu: 'Zabranjujem vama i vašim ženama da razgovarate sa mnom dok ne povjerujete u Allaha i Njegovog Poslanika.' Niko nije zanoćio a da nije primio islam.",
+      "de": "Sa'd ibn Mu'adh war der Anführer des Stammes Banu Abdil-Aschhal. Nach seiner Annahme des Islam sagte er zu seinem Volk: 'Ich verbiete euch und euren Frauen, mit mir zu sprechen, bis ihr an Allah und Seinen Gesandten glaubt.' Niemand übernachtete, ohne den Islam angenommen zu haben."
+    }
+  },
+  {
+    "quiz_id": 6,
+    "question_id": 24,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Ambasador islama u Medini",
+    "question": {
+      "bs": "Koji je jedini čovjek iz plemena Beni Abdil-Ešhel primio islam tek na dan bitke na Uhudu?",
+      "de": "Welcher Mann aus dem Stamm Banu Abdil-Aschhal nahm den Islam erst am Tag der Schlacht von Uhud an?"
+    },
+    "options": {
+      "bs": [
+        "El-Usajrim",
+        "Umejje bin Zejd",
+        "Kajs bin El-Eslet",
+        "Hatmet bin Vail"
+      ],
+      "de": [
+        "Al-Usairim",
+        "Umayya ibn Zaid",
+        "Qais ibn al-Aslat",
+        "Hatma ibn Wa'il"
+      ]
+    },
+    "correct": {
+      "bs": "El-Usajrim",
+      "de": "Al-Usairim"
+    },
+    "explanation": {
+      "bs": "El-Usajrim je primio islam na dan bitke na Uhudu. Žestoko se borio i poginuo, a da nije ni na jednu sedždu pred Allahom pao. Poslanik ﷺ je rekao za njega: 'Za malo truda, dobio je veliku nagradu.'",
+      "de": "Al-Usairim nahm den Islam am Tag der Schlacht von Uhud an. Er kämpfte heftig und starb, ohne jemals eine Niederwerfung vor Allah gemacht zu haben. Der Prophet ﷺ sagte über ihn: 'Für wenig Anstrengung hat er eine grosse Belohnung erhalten.'"
+    }
+  },
+  {
+    "quiz_id": 6,
+    "question_id": 25,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "source_section": "Druga prisega na Akabi",
+    "question": {
+      "bs": "U koje doba dana se održala druga prisega na Akabi?",
+      "de": "Zu welcher Tageszeit fand der zweite Treueschwur von Aqaba statt?"
+    },
+    "options": {
+      "bs": [
+        "U podne",
+        "Usred noći",
+        "Ujutro",
+        "Naveče"
+      ],
+      "de": [
+        "Mittags",
+        "Mitten in der Nacht",
+        "Am Morgen",
+        "Am Abend"
+      ]
+    },
+    "correct": {
+      "bs": "Usred noći",
+      "de": "Mitten in der Nacht"
+    },
+    "explanation": {
+      "bs": "Druga prisega na Akabi održana je u potpunoj tajnosti, usred noći, polovinom hadžskih praznika. Muslimani su se iskradali iz šatora jedan po jedan nakon što je prošla prva trećina noći.",
+      "de": "Der zweite Treueschwur von Aqaba fand in völliger Geheimhaltung mitten in der Nacht statt, zur Mitte der Hadsch-Feiertage. Die Muslime schlichen sich einer nach dem anderen aus den Zelten, nachdem das erste Drittel der Nacht vergangen war."
+    }
+  },
+  {
+    "quiz_id": 6,
+    "question_id": 26,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Druga prisega na Akabi",
+    "question": {
+      "bs": "Ko je bio prvi govornik na drugoj prisegi na Akabi?",
+      "de": "Wer war der erste Redner beim zweiten Treueschwur von Aqaba?"
+    },
+    "options": {
+      "bs": [
+        "K'ab bin Malik",
+        "Poslanik ﷺ",
+        "Abbas bin Abdul-Muttalib",
+        "Es'ad bin Zuraret"
+      ],
+      "de": [
+        "Ka'b ibn Malik",
+        "Der Prophet ﷺ",
+        "Abbas ibn Abdul-Muttalib",
+        "As'ad ibn Zurara"
+      ]
+    },
+    "correct": {
+      "bs": "Abbas bin Abdul-Muttalib",
+      "de": "Abbas ibn Abdul-Muttalib"
+    },
+    "explanation": {
+      "bs": "Abbas bin Abdul-Muttalib, amidža Poslanika ﷺ, bio je prvi govornik. Iako još nije bio musliman, želio je osigurati bratića. Objasnio je Ensarijama težinu odgovornosti koja će pasti na njih ako prihvate savez.",
+      "de": "Abbas ibn Abdul-Muttalib, der Onkel des Propheten ﷺ, war der erste Redner. Obwohl er noch kein Muslim war, wollte er seinen Cousin absichern. Er erklärte den Ansar die schwere Verantwortung, die auf sie fallen würde, wenn sie das Bündnis annehmen."
+    }
+  },
+  {
+    "quiz_id": 6,
+    "question_id": 27,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Druga prisega na Akabi",
+    "question": {
+      "bs": "Koliko je odabranih predstavnika (nakiba) imenovano na drugoj prisegi na Akabi?",
+      "de": "Wie viele ausgewählte Vertreter (Naqib) wurden beim zweiten Treueschwur von Aqaba ernannt?"
+    },
+    "options": {
+      "bs": [
+        "Sedam",
+        "Deset",
+        "Dvanaest",
+        "Petnaest"
+      ],
+      "de": [
+        "Sieben",
+        "Zehn",
+        "Zwölf",
+        "Fünfzehn"
+      ]
+    },
+    "correct": {
+      "bs": "Dvanaest",
+      "de": "Zwölf"
+    },
+    "explanation": {
+      "bs": "Na drugoj prisegi na Akabi odabrano je dvanaest nakiba (predstavnika) - devet iz plemena Hazredž i trojica iz plemena Evs. Oni su bili jamci za svoj narod, poput apostola Isaa, alejhisselam.",
+      "de": "Beim zweiten Treueschwur von Aqaba wurden zwölf Naqib (Vertreter) ausgewählt - neun vom Stamm Hazradsch und drei vom Stamm Aus. Sie waren Bürgen für ihr Volk, wie die Apostel von Isa, Friede sei mit ihm."
+    }
+  },
+  {
+    "quiz_id": 6,
+    "question_id": 28,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "source_section": "Zasjedanje kurejšijskog vijeća",
+    "question": {
+      "bs": "Koliku nagradu su Kurejšije obećale za hvatanje Poslanika ﷺ?",
+      "de": "Welche Belohnung boten die Quraisch für die Ergreifung des Propheten ﷺ an?"
+    },
+    "options": {
+      "bs": [
+        "Hiljadu zlatnika",
+        "Dvjesta deva",
+        "Pedeset deva",
+        "Sto deva"
+      ],
+      "de": [
+        "Tausend Goldstücke",
+        "Zweihundert Kamele",
+        "Fünfzig Kamele",
+        "Hundert Kamele"
+      ]
+    },
+    "correct": {
+      "bs": "Sto deva",
+      "de": "Hundert Kamele"
+    },
+    "explanation": {
+      "bs": "Kurejšije su obećale veliku nagradu od sto deva za svakog posebno - Poslanika ﷺ i Ebu Bekra - onome ko ih vrati u Meku, žive ili mrtve. Ovo je bila ogromna suma u to vrijeme.",
+      "de": "Die Quraisch boten eine grosse Belohnung von hundert Kamelen für jeden einzeln an - den Propheten ﷺ und Abu Bakr - demjenigen, der sie nach Mekka zurückbringt, lebendig oder tot. Dies war eine enorme Summe zu jener Zeit."
+    }
+  },
+  {
+    "quiz_id": 6,
+    "question_id": 29,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Zasjedanje kurejšijskog vijeća",
+    "question": {
+      "bs": "Koliko je ubica opkolilo kuću Poslanika ﷺ u noći Hidžre?",
+      "de": "Wie viele Attentäter umzingelten das Haus des Propheten ﷺ in der Nacht der Hidschra?"
+    },
+    "options": {
+      "bs": [
+        "Sedam",
+        "Petnaest",
+        "Dvadeset",
+        "Jedanaest"
+      ],
+      "de": [
+        "Sieben",
+        "Fünfzehn",
+        "Zwanzig",
+        "Elf"
+      ]
+    },
+    "correct": {
+      "bs": "Jedanaest",
+      "de": "Elf"
+    },
+    "explanation": {
+      "bs": "Kuću Poslanika ﷺ opkolilo je jedanaest ubica: Ebu Džehl, El-Hakem bin Ebil-A'as, Ukbe bin Ebi Muit, En-Nadar bin el-Haris, Umejje bin Halef, Zem'at bin el-Esved, T'ajmet bin Adij, Ebu Leheb, Ubej bin Halef, Nebih i Munebih bin el-Hadždžadž.",
+      "de": "Das Haus des Propheten ﷺ wurde von elf Attentätern umzingelt: Abu Dschahl, al-Hakam ibn Abil-'As, Uqba ibn Abi Mu'ait, an-Nadr ibn al-Harith, Umayya ibn Khalaf, Zam'a ibn al-Aswad, Tu'aima ibn Adiyy, Abu Lahab, Ubayy ibn Khalaf, Nabieh und Munabieh ibn al-Hadschdschadsch."
+    }
+  },
+  {
+    "quiz_id": 6,
+    "question_id": 30,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Noć Hidžre",
+    "question": {
+      "bs": "Koji ajet je Poslanik ﷺ učio dok je prolazio pored ubica?",
+      "de": "Welchen Vers rezitierte der Prophet ﷺ, als er an den Attentätern vorbeiging?"
+    },
+    "options": {
+      "bs": [
+        "Ajet iz sure En-Nisa",
+        "Ajet iz sure Ja-Sin (36:9)",
+        "Ajet iz sure El-Bekara",
+        "Ajet iz sure El-Enfal"
+      ],
+      "de": [
+        "Vers aus Sure an-Nisa",
+        "Vers aus Sure Ya-Sin (36:9)",
+        "Vers aus Sure al-Baqara",
+        "Vers aus Sure al-Anfal"
+      ]
+    },
+    "correct": {
+      "bs": "Ajet iz sure Ja-Sin (36:9)",
+      "de": "Vers aus Sure Ya-Sin (36:9)"
+    },
+    "explanation": {
+      "bs": "Poslanik ﷺ je učio ajet: 'I Mi smo ispred i iza njih pregradu metnuli i na oči im koprenu stavili; zato oni ne vide.' (Ja-Sin, 36:9). Allah je zaslijepio vid ubica i oni ga nisu vidjeli.",
+      "de": "Der Prophet ﷺ rezitierte den Vers: 'Und Wir haben vor ihnen und hinter ihnen eine Schranke errichtet und sie mit einem Schleier bedeckt; darum sehen sie nicht.' (Ya-Sin, 36:9). Allah blendete die Augen der Attentäter, und sie sahen ihn nicht."
+    }
+  },
+  {
+    "quiz_id": 6,
+    "question_id": 31,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "source_section": "Put za Medinu",
+    "question": {
+      "bs": "Kako se zvao vodič koji je Poslanika ﷺ i Ebu Bekra vodio u Medinu?",
+      "de": "Wie hiess der Führer, der den Propheten ﷺ und Abu Bakr nach Medina führte?"
+    },
+    "options": {
+      "bs": [
+        "Amir bin Fuhejre",
+        "Abdullah bin Urejkit",
+        "Suraka bin Malik",
+        "Abdullah bin Ebi Bekr"
+      ],
+      "de": [
+        "Amir ibn Fuhaira",
+        "Abdullah ibn Uraiqit",
+        "Suraqa ibn Malik",
+        "Abdullah ibn Abi Bakr"
+      ]
+    },
+    "correct": {
+      "bs": "Abdullah bin Urejkit",
+      "de": "Abdullah ibn Uraiqit"
+    },
+    "explanation": {
+      "bs": "Abdullah bin Urejkit el-Lejsi bio je vješt vodič koji ih je vodio najkraćim i najsigurnijim putem. Zanimljivo je da je on bio mnogobožac, ali je bio pouzdan i diskretan. Predali su mu uzde svojih deva u ruke.",
+      "de": "Abdullah ibn Uraiqit al-Laithi war ein erfahrener Führer, der sie auf dem kürzesten und sichersten Weg führte. Interessanterweise war er Polytheist, aber zuverlässig und diskret. Sie übergaben ihm die Zügel ihrer Kamele."
+    }
+  },
+  {
+    "quiz_id": 6,
+    "question_id": 32,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Put za Medinu",
+    "question": {
+      "bs": "Zašto je Esma, kćerka Ebu Bekra, dobila nadimak 'Vlasnica dva pojasa'?",
+      "de": "Warum erhielt Asma, die Tochter Abu Bakrs, den Beinamen 'Besitzerin der zwei Gürtel'?"
+    },
+    "options": {
+      "bs": [
+        "Jer je nosila dva pojasa",
+        "Jer je vezala dva zavežljaja",
+        "Jer je napravila dva pojasa za Poslanika ﷺ",
+        "Jer je pocijepa svoj pojas na dvoje da pričvrsti hranu za put"
+      ],
+      "de": [
+        "Weil sie zwei Gürtel trug",
+        "Weil sie zwei Bündel band",
+        "Weil sie zwei Gürtel für den Propheten ﷺ machte",
+        "Weil sie ihren Gürtel in zwei Teile riss, um die Reiseverpflegung zu befestigen"
+      ]
+    },
+    "correct": {
+      "bs": "Jer je pocijepa svoj pojas na dvoje da pričvrsti hranu za put",
+      "de": "Weil sie ihren Gürtel in zwei Teile riss, um die Reiseverpflegung zu befestigen"
+    },
+    "explanation": {
+      "bs": "Esma je donijela hranu za put, ali je zaboravila uže. Pocijepa svoj pojas na dvoje - jednom polovinom pričvrsti zavežljaj s hranom, a drugom se omota. Tako je dobila nadimak 'Zatu-n-nitakajni' (Vlasnica dva pojasa).",
+      "de": "Asma brachte Reiseverpflegung, vergass aber das Seil. Sie riss ihren Gürtel in zwei Teile - mit einer Hälfte befestigte sie das Bündel mit dem Essen, mit der anderen umwickelte sie sich. So erhielt sie den Beinamen 'Dhatu-n-Nitaqain' (Besitzerin der zwei Gürtel)."
+    }
+  },
+  {
+    "quiz_id": 6,
+    "question_id": 33,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Put za Medinu",
+    "question": {
+      "bs": "Šta se desilo Suraki bin Maliku kada je pokušao stići Poslanika ﷺ?",
+      "de": "Was geschah mit Suraqa ibn Malik, als er versuchte, den Propheten ﷺ einzuholen?"
+    },
+    "options": {
+      "bs": [
+        "Napali su ga razbojnici",
+        "Pao je s konja i slomio nogu",
+        "Zalutao je u pustinji",
+        "Konj mu je propao u živi pijesak"
+      ],
+      "de": [
+        "Er wurde von Räubern angegriffen",
+        "Er fiel vom Pferd und brach sich das Bein",
+        "Er verirrte sich in der Wüste",
+        "Sein Pferd versank im Treibsand"
+      ]
+    },
+    "correct": {
+      "bs": "Konj mu je propao u živi pijesak",
+      "de": "Sein Pferd versank im Treibsand"
+    },
+    "explanation": {
+      "bs": "Kada se Suraka približio Poslaniku ﷺ, njegov konj je propao prednjim nogama u zemlju do koljena. Iz zemlje je šiknuo pijesak čija se prašina dizala uvis kao dim. To se ponovilo više puta dok nije shvatio da je to Allahova zaštita.",
+      "de": "Als Suraqa sich dem Propheten ﷺ näherte, versanken die Vorderbeine seines Pferdes bis zu den Knien in der Erde. Aus dem Boden schoss Sand, dessen Staub wie Rauch aufstieg. Dies geschah mehrmals, bis er erkannte, dass dies Allahs Schutz war."
+    }
+  },
+  {
+    "quiz_id": 6,
+    "question_id": 34,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Put za Medinu",
+    "question": {
+      "bs": "Šta je Poslanik ﷺ obećao Suraki bin Maliku?",
+      "de": "Was versprach der Prophet ﷺ Suraqa ibn Malik?"
+    },
+    "options": {
+      "bs": [
+        "Oprost za sve prijašnje grijehe",
+        "Narukvice perzijskog cara Kisre",
+        "Nagradu od sto deva",
+        "Položaj u Medini"
+      ],
+      "de": [
+        "Vergebung aller früheren Sünden",
+        "Die Armreifen des persischen Kaisers Chosrau",
+        "Eine Belohnung von hundert Kamelen",
+        "Eine Position in Medina"
+      ]
+    },
+    "correct": {
+      "bs": "Narukvice perzijskog cara Kisre",
+      "de": "Die Armreifen des persischen Kaisers Chosrau"
+    },
+    "explanation": {
+      "bs": "Poslanik ﷺ je obećao Suraki narukvice perzijskog cara Kisre. Ovo se obistinilo za vrijeme hilafeta Omera r.a., kada su muslimani osvojili Perziju i Omer je lično stavio Kisrine narukvice na Surakine ruke.",
+      "de": "Der Prophet ﷺ versprach Suraqa die Armreifen des persischen Kaisers Chosrau. Dies erfüllte sich während des Kalifats von Omar r.a., als die Muslime Persien eroberten und Omar persönlich die Armreifen des Chosrau an Suraqas Arme legte."
+    }
+  },
+  {
+    "quiz_id": 6,
+    "question_id": 35,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Put za Medinu",
+    "question": {
+      "bs": "Koja žena je ugostila Poslanika ﷺ na putu i čija je ovca čudesno dala mlijeko?",
+      "de": "Welche Frau bewirtete den Propheten ﷺ auf dem Weg und wessen Schaf gab auf wundersame Weise Milch?"
+    },
+    "options": {
+      "bs": [
+        "Ummu Ma'bed",
+        "Ummu Selema",
+        "Ummu Ejmen",
+        "Ummu Hani"
+      ],
+      "de": [
+        "Umm Ma'bad",
+        "Umm Salama",
+        "Umm Aiman",
+        "Umm Hani"
+      ]
+    },
+    "correct": {
+      "bs": "Ummu Ma'bed",
+      "de": "Umm Ma'bad"
+    },
+    "explanation": {
+      "bs": "Ummu Ma'bed el-Huza'ijja je ugostila Poslanika ﷺ. Imala je staru jalovu ovcu bez mlijeka. Poslanik ﷺ je protrljao vime rukom i dovom, pa je ovca dala toliko mlijeka da se svi napiše. Kasnije je dala detaljan opis Poslanika ﷺ svom mužu.",
+      "de": "Umm Ma'bad al-Khuza'iyya bewirtete den Propheten ﷺ. Sie hatte ein altes unfruchtbares Schaf ohne Milch. Der Prophet ﷺ rieb das Euter mit seiner Hand und einem Bittgebet, und das Schaf gab so viel Milch, dass alle trinken konnten. Später gab sie ihrem Mann eine detaillierte Beschreibung des Propheten ﷺ."
+    }
+  },
+  {
+    "quiz_id": 6,
+    "question_id": 36,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "source_section": "Dolazak u Kubu",
+    "question": {
+      "bs": "Koji dan u sedmici je Poslanik ﷺ stigao u Kubu?",
+      "de": "An welchem Wochentag kam der Prophet ﷺ in Quba an?"
+    },
+    "options": {
+      "bs": [
+        "Petak",
+        "Subota",
+        "Ponedjeljak",
+        "Nedjelja"
+      ],
+      "de": [
+        "Freitag",
+        "Samstag",
+        "Montag",
+        "Sonntag"
+      ]
+    },
+    "correct": {
+      "bs": "Ponedjeljak",
+      "de": "Montag"
+    },
+    "explanation": {
+      "bs": "Poslanik ﷺ je stigao u Kubu u ponedjeljak, 8. rebiul-evvela, 1. godine hidžretske, što odgovara 23. septembru 622. godine. U Kubi je ostao četiri dana: ponedjeljak, utorak, srijedu i četvrtak.",
+      "de": "Der Prophet ﷺ kam am Montag, dem 8. Rabi' al-Awwal, im 1. Jahr der Hidschra in Quba an, was dem 23. September 622 n. Chr. entspricht. In Quba blieb er vier Tage: Montag, Dienstag, Mittwoch und Donnerstag."
+    }
+  },
+  {
+    "quiz_id": 6,
+    "question_id": 37,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "source_section": "Dolazak u Kubu",
+    "question": {
+      "bs": "Koja je prva džamija sagrađena u islamu?",
+      "de": "Welche war die erste im Islam erbaute Moschee?"
+    },
+    "options": {
+      "bs": [
+        "El-Mesdžidul-Haram",
+        "Poslanikova džamija u Medini",
+        "Mesdžid Kuba",
+        "El-Mesdžidul-Aksa"
+      ],
+      "de": [
+        "Al-Masdschid al-Haram",
+        "Die Prophetenmoschee in Medina",
+        "Masdschid Quba",
+        "Al-Masdschid al-Aqsa"
+      ]
+    },
+    "correct": {
+      "bs": "Mesdžid Kuba",
+      "de": "Masdschid Quba"
+    },
+    "explanation": {
+      "bs": "Mesdžid u Kubi je prva džamija sagrađena u islamu, nakon što je Poslanik ﷺ počeo dobivati Objavu. Temeljena je na bogobojaznosti. Poslanik ﷺ je u njoj klanjao tokom svog četverodnevnog boravka u Kubi.",
+      "de": "Die Moschee in Quba ist die erste Moschee, die im Islam gebaut wurde, nachdem der Prophet ﷺ begonnen hatte, die Offenbarung zu empfangen. Sie wurde auf Gottesfurcht gegründet. Der Prophet ﷺ betete in ihr während seines viertägigen Aufenthalts in Quba."
+    }
+  },
+  {
+    "quiz_id": 6,
+    "question_id": 38,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Dolazak u Kubu",
+    "question": {
+      "bs": "Kod koga je Poslanik ﷺ odsjeo u Kubi?",
+      "de": "Bei wem wohnte der Prophet ﷺ in Quba?"
+    },
+    "options": {
+      "bs": [
+        "Kod Es'ada bin Zurareta",
+        "Kod Ebu Ejjuba el-Ensarija",
+        "Kod Sa'da bin Hajsemeta",
+        "Kod Kulsum bin el-Hedma"
+      ],
+      "de": [
+        "Bei As'ad ibn Zurara",
+        "Bei Abu Ayyub al-Ansari",
+        "Bei Sa'd ibn Khaithama",
+        "Bei Kulthum ibn al-Hidm"
+      ]
+    },
+    "correct": {
+      "bs": "Kod Kulsum bin el-Hedma",
+      "de": "Bei Kulthum ibn al-Hidm"
+    },
+    "explanation": {
+      "bs": "Poslanik ﷺ je odsjeo kod Kulsuma bin el-Hedma u Kubi. Neki izvori spominju i Sa'da bin Hajsemeta, ali ispravnije je da je bio kod Kulsuma. Alija r.a. ga je sustigao u Kubi i također odsjeo kod Kulsuma.",
+      "de": "Der Prophet ﷺ wohnte bei Kulthum ibn al-Hidm in Quba. Einige Quellen erwähnen auch Sa'd ibn Khaithama, aber es ist korrekter, dass er bei Kulthum war. Ali r.a. holte ihn in Quba ein und wohnte ebenfalls bei Kulthum."
+    }
+  },
+  {
+    "quiz_id": 6,
+    "question_id": 39,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "source_section": "Ulazak u Medinu",
+    "question": {
+      "bs": "Kako se grad Jesrib prozvao nakon dolaska Poslanika ﷺ?",
+      "de": "Wie wurde die Stadt Jathrib nach der Ankunft des Propheten ﷺ genannt?"
+    },
+    "options": {
+      "bs": [
+        "El-Kuds",
+        "Medina",
+        "Taiba",
+        "El-Haram"
+      ],
+      "de": [
+        "Al-Quds",
+        "Medina",
+        "Taiba",
+        "Al-Haram"
+      ]
+    },
+    "correct": {
+      "bs": "Medina",
+      "de": "Medina"
+    },
+    "explanation": {
+      "bs": "Od dana dolaska Poslanika ﷺ, Jesrib je dobio ime 'Medinetur-Resulullahi' (Grad Allahovog Poslanika), ili skraćeno Medina. Grad je također poznat pod imenima Taiba i Taba, što znači 'lijepa' i 'dobra'.",
+      "de": "Vom Tag der Ankunft des Propheten ﷺ an erhielt Jathrib den Namen 'Madinatur-Rasulillah' (Stadt des Gesandten Allahs), oder kurz Medina. Die Stadt ist auch unter den Namen Taiba und Taba bekannt, was 'die Schöne' und 'die Gute' bedeutet."
+    }
+  },
+  {
+    "quiz_id": 6,
+    "question_id": 40,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Ulazak u Medinu",
+    "question": {
+      "bs": "Gdje je Poslanik ﷺ klanjao prvu džumu-namaz?",
+      "de": "Wo verrichtete der Prophet ﷺ das erste Freitagsgebet?"
+    },
+    "options": {
+      "bs": [
+        "Kod kuće Ebu Ejjuba",
+        "U Poslanikovoj džamiji",
+        "U dolini kod Beni Salem bin Avfa",
+        "U mesdžidu Kuba"
+      ],
+      "de": [
+        "Beim Haus von Abu Ayyub",
+        "In der Prophetenmoschee",
+        "Im Tal bei Banu Salim ibn Auf",
+        "In der Moschee von Quba"
+      ]
+    },
+    "correct": {
+      "bs": "U dolini kod Beni Salem bin Avfa",
+      "de": "Im Tal bei Banu Salim ibn Auf"
+    },
+    "explanation": {
+      "bs": "Kada je bio četvrti dan (petak), Poslanik ﷺ je krenuo prema Medini. Džuma-namaz ga je zatekao u dolini kod Beni Salem bin Avfa, pa je tu klanjao s oko stotinu ljudi. To je bila prva džuma u historiji islama.",
+      "de": "Als der vierte Tag (Freitag) kam, machte sich der Prophet ﷺ auf den Weg nach Medina. Das Freitagsgebet erreichte ihn im Tal bei Banu Salim ibn Auf, wo er mit etwa hundert Menschen betete. Dies war das erste Freitagsgebet in der Geschichte des Islam."
+    }
+  },
+  {
+    "quiz_id": 6,
+    "question_id": 41,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "source_section": "Ulazak u Medinu",
+    "question": {
+      "bs": "Kod koga je Poslanik ﷺ odsjeo u Medini?",
+      "de": "Bei wem wohnte der Prophet ﷺ in Medina?"
+    },
+    "options": {
+      "bs": [
+        "Kod Es'ada bin Zurareta",
+        "Kod Ebu Ejjuba el-Ensarija",
+        "Kod Abdullaha bin Selama",
+        "Kod Sa'da bin Muaza"
+      ],
+      "de": [
+        "Bei As'ad ibn Zurara",
+        "Bei Abu Ayyub al-Ansari",
+        "Bei Abdullah ibn Salam",
+        "Bei Sa'd ibn Mu'adh"
+      ]
+    },
+    "correct": {
+      "bs": "Kod Ebu Ejjuba el-Ensarija",
+      "de": "Bei Abu Ayyub al-Ansari"
+    },
+    "explanation": {
+      "bs": "Poslanikova ﷺ deva je stala na zemlji Beni Nedždžara, njegovih daidža. Ebu Ejjub el-Ensari je uzeo devu za povodac i uveo je u svoje dvorište. Poslanik ﷺ je rekao: 'Valja i čovjeku za njegovom jahalicom.' Boravio je kod njega dok se nije sagradila džamija.",
+      "de": "Das Kamel des Propheten ﷺ hielt auf dem Land der Banu Nadschdschar, seiner Onkel mütterlicherseits. Abu Ayyub al-Ansari nahm das Kamel am Zügel und führte es in seinen Hof. Der Prophet ﷺ sagte: 'Der Mensch muss seinem Reittier folgen.' Er wohnte bei ihm, bis die Moschee gebaut war."
+    }
+  },
+  {
+    "quiz_id": 6,
+    "question_id": 42,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Gradnja Poslanikove džamije",
+    "question": {
+      "bs": "Od koga je Poslanik ﷺ kupio zemljište za gradnju džamije?",
+      "de": "Von wem kaufte der Prophet ﷺ das Grundstück für den Bau der Moschee?"
+    },
+    "options": {
+      "bs": [
+        "Od Beni Nedždžara",
+        "Od dvojice dječaka jetima",
+        "Od Sa'da bin Muaza",
+        "Od Ebu Ejjuba el-Ensarija"
+      ],
+      "de": [
+        "Von Banu Nadschdschar",
+        "Von zwei Waisenkindern",
+        "Von Sa'd ibn Mu'adh",
+        "Von Abu Ayyub al-Ansari"
+      ]
+    },
+    "correct": {
+      "bs": "Od dvojice dječaka jetima",
+      "de": "Von zwei Waisenkindern"
+    },
+    "explanation": {
+      "bs": "Zemljište na kojem se zaustavila deva bilo je u vlasništvu dvojice dječaka jetima. Poslanik ﷺ je insistirao da ga kupi, iako su ga oni htjeli pokloniti. Na tom mjestu nalazili su se mezarluk mušrika, ruševina, nešto palmi i drvo zvano 'Garkad'.",
+      "de": "Das Grundstück, auf dem das Kamel anhielt, gehörte zwei Waisenkindern. Der Prophet ﷺ bestand darauf, es zu kaufen, obwohl sie es ihm schenken wollten. An diesem Ort befanden sich ein Friedhof der Polytheisten, eine Ruine, einige Palmen und ein Baum namens 'Gharqad'."
+    }
+  },
+  {
+    "quiz_id": 6,
+    "question_id": 43,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Gradnja Poslanikove džamije",
+    "question": {
+      "bs": "Prema kojem gradu je bila okrenuta prva kibla u Poslanikovoj džamiji?",
+      "de": "In welche Richtung war die erste Qibla in der Prophetenmoschee ausgerichtet?"
+    },
+    "options": {
+      "bs": [
+        "Prema Meki",
+        "Prema Jerusalemu (Kudus)",
+        "Prema istoku",
+        "Prema jugu"
+      ],
+      "de": [
+        "Richtung Mekka",
+        "Richtung Jerusalem (Al-Quds)",
+        "Richtung Osten",
+        "Richtung Süden"
+      ]
+    },
+    "correct": {
+      "bs": "Prema Jerusalemu (Kudus)",
+      "de": "Richtung Jerusalem (Al-Quds)"
+    },
+    "explanation": {
+      "bs": "Kada je izgrađena džamija, kibla je bila određena prema Jerusalemu (Kudusu). Muslimani su se okretali prema Kudsu u namazu oko šesnaest do sedamnaest mjeseci, dok nije objavljena naredba da se okrenu prema Kabi.",
+      "de": "Als die Moschee gebaut wurde, war die Qibla nach Jerusalem (Al-Quds) ausgerichtet. Die Muslime wandten sich etwa sechzehn bis siebzehn Monate lang beim Gebet nach Al-Quds, bis der Befehl offenbart wurde, sich zur Kaaba zu wenden."
+    }
+  },
+  {
+    "quiz_id": 6,
+    "question_id": 44,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Ezan",
+    "question": {
+      "bs": "Ko je usnio način učenja ezana?",
+      "de": "Wer träumte die Art und Weise des Gebetsrufs (Adhan)?"
+    },
+    "options": {
+      "bs": [
+        "Bilal bin Rebah",
+        "Omer bin el-Hattab",
+        "Abdullah bin Zejd bin Abdi Rabbih",
+        "Ebu Bekr es-Siddik"
+      ],
+      "de": [
+        "Bilal ibn Rabah",
+        "Omar ibn al-Chattab",
+        "Abdullah ibn Zaid ibn Abdi Rabbih",
+        "Abu Bakr as-Siddiq"
+      ]
+    },
+    "correct": {
+      "bs": "Abdullah bin Zejd bin Abdi Rabbih",
+      "de": "Abdullah ibn Zaid ibn Abdi Rabbih"
+    },
+    "explanation": {
+      "bs": "Abdullah bin Zejd bin Abdi Rabbih je usnio način učenja ezana i ispričao to Poslaniku ﷺ. Poslanik ﷺ je odobrio taj način i naredio Bilalu da uči ezan jer je imao ljepši glas. Priču prenose Tirmizi, Ebu Davud, Ahmed i Ibn Huzejmet.",
+      "de": "Abdullah ibn Zaid ibn Abdi Rabbih träumte die Art und Weise des Gebetsrufs und erzählte es dem Propheten ﷺ. Der Prophet ﷺ billigte diese Art und befahl Bilal, den Gebetsruf zu sprechen, da er eine schönere Stimme hatte. Die Geschichte wird von Tirmidhi, Abu Dawud, Ahmad und Ibn Khuzaima überliefert."
+    }
+  },
+  {
+    "quiz_id": 6,
+    "question_id": 45,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "source_section": "Bratimljenje",
+    "question": {
+      "bs": "U čijoj kući se izvršilo bratimljenje muhadžira i ensarija?",
+      "de": "In wessen Haus fand die Verbrüderung der Muhadschirin und Ansar statt?"
+    },
+    "options": {
+      "bs": [
+        "U kući Ebu Ejjuba",
+        "U kući Ebu Bekra",
+        "U kući Enesa bin Malika",
+        "U Poslanikovoj džamiji"
+      ],
+      "de": [
+        "Im Haus von Abu Ayyub",
+        "Im Haus von Abu Bakr",
+        "Im Haus von Anas ibn Malik",
+        "In der Prophetenmoschee"
+      ]
+    },
+    "correct": {
+      "bs": "U kući Enesa bin Malika",
+      "de": "Im Haus von Anas ibn Malik"
+    },
+    "explanation": {
+      "bs": "Bratimljenje se izvršilo u kući Enesa bin Malika. Prisustvovalo je devedeset ljudi - pola muhadžira i pola ensarija. Bratimljenje se temeljilo na potpomoganju i nasljeđivanju nakon smrti bez krvnog srodstva.",
+      "de": "Die Verbrüderung fand im Haus von Anas ibn Malik statt. Es nahmen neunzig Menschen teil - die Hälfte Muhadschirin und die Hälfte Ansar. Die Verbrüderung basierte auf gegenseitiger Unterstützung und Erbschaft nach dem Tod ohne Blutsverwandtschaft."
+    }
+  },
+  {
+    "quiz_id": 6,
+    "question_id": 46,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Bratimljenje",
+    "question": {
+      "bs": "Ko je bio pobratim Abdurrahmana bin Aufa?",
+      "de": "Wer war der Bruder im Glauben von Abdurrahman ibn Auf?"
+    },
+    "options": {
+      "bs": [
+        "Es'ad bin Zuraret",
+        "Sa'd bin er-Rebi'",
+        "Ebu Ejjub el-Ensari",
+        "Sa'd bin Muaz"
+      ],
+      "de": [
+        "As'ad ibn Zurara",
+        "Sa'd ibn ar-Rabi'",
+        "Abu Ayyub al-Ansari",
+        "Sa'd ibn Mu'adh"
+      ]
+    },
+    "correct": {
+      "bs": "Sa'd bin er-Rebi'",
+      "de": "Sa'd ibn ar-Rabi'"
+    },
+    "explanation": {
+      "bs": "Sa'd bin er-Rebi' je bio pobratim Abdurrahmana bin Aufa. Sa'd je ponudio Abdurrahmanu polovinu svog imetka i jednu od svojih žena, ali Abdurrahman je tražio samo da mu pokaže čaršiju. Ubrzo se oženio i obogatio trgovinom.",
+      "de": "Sa'd ibn ar-Rabi' war der Glaubensbruder von Abdurrahman ibn Auf. Sa'd bot Abdurrahman die Hälfte seines Besitzes und eine seiner Frauen an, aber Abdurrahman bat nur darum, ihm den Markt zu zeigen. Bald heiratete er und wurde durch Handel reich."
+    }
+  },
+  {
+    "quiz_id": 6,
+    "question_id": 47,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Bratimljenje",
+    "question": {
+      "bs": "Do kada je važilo pravo nasljeđivanja između pobratima?",
+      "de": "Bis wann galt das Erbrecht zwischen den Glaubensbrüdern?"
+    },
+    "options": {
+      "bs": [
+        "Do bitke na Bedru",
+        "Do Poslanikovog preseljenja",
+        "Do oslobođenja Mekke",
+        "Do bitke na Uhudu"
+      ],
+      "de": [
+        "Bis zur Schlacht von Badr",
+        "Bis zum Tod des Propheten",
+        "Bis zur Eroberung von Mekka",
+        "Bis zur Schlacht von Uhud"
+      ]
+    },
+    "correct": {
+      "bs": "Do bitke na Bedru",
+      "de": "Bis zur Schlacht von Badr"
+    },
+    "explanation": {
+      "bs": "Pravo nasljeđivanja između pobratima važilo je do bitke na Bedru. Tada je Allah objavio: 'A rođaci su, prema Allahovoj knjizi, jedni drugima preči.' (El-Enfal, 75). Od tada se nasljeđuje samo putem krvnog srodstva.",
+      "de": "Das Erbrecht zwischen den Glaubensbrüdern galt bis zur Schlacht von Badr. Dann offenbarte Allah: 'Und die Blutsverwandten sind einander nach dem Buche Allahs näher.' (Al-Anfal, 75). Seitdem erbt man nur durch Blutsverwandtschaft."
+    }
+  },
+  {
+    "quiz_id": 6,
+    "question_id": 48,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Medinska povelja",
+    "question": {
+      "bs": "Šta je bilo osnovno načelo Medinske povelje?",
+      "de": "Was war das Grundprinzip der Verfassung von Medina?"
+    },
+    "options": {
+      "bs": [
+        "Muslimani su jedna zajednica (ummet), a ne i drugi ljudi",
+        "Idolopoklonici moraju primiti islam",
+        "Svi stanovnici Medine imaju jednaka prava",
+        "Jevreji moraju napustiti Medinu"
+      ],
+      "de": [
+        "Die Muslime sind eine Gemeinschaft (Umma), getrennt von anderen",
+        "Die Götzendiener müssen den Islam annehmen",
+        "Alle Einwohner von Medina haben gleiche Rechte",
+        "Die Juden müssen Medina verlassen"
+      ]
+    },
+    "correct": {
+      "bs": "Muslimani su jedna zajednica (ummet), a ne i drugi ljudi",
+      "de": "Die Muslime sind eine Gemeinschaft (Umma), getrennt von anderen"
+    },
+    "explanation": {
+      "bs": "Prvi paragraf Medinske povelje glasio je: 'Oni su jedna zajednica (ummet), a ne i drugi ljudi.' Ovo je označilo formiranje jedinstvene muslimanske zajednice koja prevazilazi plemenske podjele i ujedinjuje muhadžire i ensarije.",
+      "de": "Der erste Paragraph der Verfassung von Medina lautete: 'Sie sind eine Gemeinschaft (Umma), getrennt von anderen.' Dies markierte die Bildung einer einheitlichen muslimischen Gemeinschaft, die Stammesteilungen überwindet und Muhadschirin und Ansar vereint."
+    }
+  },
+  {
+    "quiz_id": 6,
+    "question_id": 49,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Medinska povelja",
+    "question": {
+      "bs": "Prema Medinskoj povelji, kome se muslimani trebaju obratiti za svaku stvar za koju ne mogu naći zajedničko rješenje?",
+      "de": "An wen sollen sich die Muslime laut der Verfassung von Medina wenden, wenn sie für eine Angelegenheit keine gemeinsame Lösung finden?"
+    },
+    "options": {
+      "bs": [
+        "Vijeću staraca",
+        "Allahu (Kur'anu) i Muhammedu ﷺ (hadisu)",
+        "Najbogatijem čovjeku",
+        "Starješini plemena"
+      ],
+      "de": [
+        "Dem Ältestenrat",
+        "Allah (Koran) und Muhammad ﷺ (Hadith)",
+        "Dem reichsten Mann",
+        "Dem Stammesältesten"
+      ]
+    },
+    "correct": {
+      "bs": "Allahu (Kur'anu) i Muhammedu ﷺ (hadisu)",
+      "de": "Allah (Koran) und Muhammad ﷺ (Hadith)"
+    },
+    "explanation": {
+      "bs": "Šesnaesti paragraf Medinske povelje glasio je: 'Za svaku stvar, za koju ne budete mogli naći zajedničko rješenje, obratite se Allahu - potražite njeno rješenje u Kur'anu, i Muhammedu ﷺ - potražite rješenje u hadisu.'",
+      "de": "Der sechzehnte Paragraph der Verfassung von Medina lautete: 'Für jede Angelegenheit, für die ihr keine gemeinsame Lösung finden könnt, wendet euch an Allah - sucht die Lösung im Koran, und an Muhammad ﷺ - sucht die Lösung im Hadith.'"
+    }
+  },
+  {
+    "quiz_id": 6,
+    "question_id": 50,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Medinska povelja",
+    "question": {
+      "bs": "Kakav je bio status jevreja prema Medinskoj povelji?",
+      "de": "Welchen Status hatten die Juden gemäss der Verfassung von Medina?"
+    },
+    "options": {
+      "bs": [
+        "Nisu imali nikakva prava",
+        "Morali su napustiti Medinu",
+        "Bili su potpuno izjednačeni s muslimanima",
+        "Imali su pomoć i zaštitu ako slijede muslimane"
+      ],
+      "de": [
+        "Sie hatten keine Rechte",
+        "Sie mussten Medina verlassen",
+        "Sie waren den Muslimen völlig gleichgestellt",
+        "Sie hatten Hilfe und Schutz, wenn sie den Muslimen folgten"
+      ]
+    },
+    "correct": {
+      "bs": "Imali su pomoć i zaštitu ako slijede muslimane",
+      "de": "Sie hatten Hilfe und Schutz, wenn sie den Muslimen folgten"
+    },
+    "explanation": {
+      "bs": "Deveti paragraf Medinske povelje glasio je: 'Oni jevreji koji budu nas slijedili, imat će pomoć od nas, i u nama lijep uzor, osim onih koji su nasilje činili i međusobno se pomagali protiv nas.'",
+      "de": "Der neunte Paragraph der Verfassung von Medina lautete: 'Die Juden, die uns folgen, werden Hilfe von uns haben und in uns ein gutes Vorbild finden, ausser denen, die Unrecht taten und sich gegenseitig gegen uns halfen.'"
+    }
+  },
+  {
+    "quiz_id": 6,
+    "question_id": 51,
+    "type": "multiple_choice",
+    "difficulty": "medium",
+    "source_section": "Prva prisega na Akabi",
+    "question": {
+      "bs": "Šta su se obavezali muslimani na prvoj prisegi na Akabi? (Odaberite sve tačne)",
+      "de": "Wozu verpflichteten sich die Muslime beim ersten Treueschwur von Aqaba? (Wählen Sie alle richtigen)"
+    },
+    "options": {
+      "bs": [
+        "Da će se boriti protiv Kurejšija",
+        "Da neće krasti",
+        "Da neće Allahu ništa ravnim smatrati",
+        "Da neće činiti blud"
+      ],
+      "de": [
+        "Gegen die Quraisch zu kämpfen",
+        "Nicht zu stehlen",
+        "Allah nichts beizugesellen",
+        "Keinen Ehebruch zu begehen"
+      ]
+    },
+    "correct": {
+      "bs": [
+        "Da neće Allahu ništa ravnim smatrati",
+        "Da neće krasti",
+        "Da neće činiti blud"
+      ],
+      "de": [
+        "Allah nichts beizugesellen",
+        "Nicht zu stehlen",
+        "Keinen Ehebruch zu begehen"
+      ]
+    },
+    "explanation": {
+      "bs": "Na prvoj prisegi na Akabi muslimani su se obavezali: da neće Allahu ništa ravnim smatrati, da neće krasti, da neće činiti blud, da neće ubijati svoju djecu i da neće bacati laž na žene. Borba nije bila uključena - zato se ova prisega zove i 'prisega žena'.",
+      "de": "Beim ersten Treueschwur von Aqaba verpflichteten sich die Muslime: Allah nichts beizugesellen, nicht zu stehlen, keinen Ehebruch zu begehen, ihre Kinder nicht zu töten und keine Verleumdungen gegen Frauen auszusprechen. Kampf war nicht enthalten - daher wird dieser Schwur auch 'Schwur der Frauen' genannt."
+    }
+  },
+  {
+    "quiz_id": 6,
+    "question_id": 52,
+    "type": "multiple_choice",
+    "difficulty": "hard",
+    "source_section": "Druga prisega na Akabi",
+    "question": {
+      "bs": "Koje su dvije žene prisustvovale drugoj prisegi na Akabi? (Odaberite sve tačne)",
+      "de": "Welche zwei Frauen nahmen am zweiten Treueschwur von Aqaba teil? (Wählen Sie alle richtigen)"
+    },
+    "options": {
+      "bs": [
+        "Hatidža bint Huvejlid",
+        "Aiša bint Ebi Bekr",
+        "Nesiba bint Ka'b (Ummu Imareh)",
+        "Esma bint Amr (Ummu Menia)"
+      ],
+      "de": [
+        "Khadidscha bint Chuwailid",
+        "Aischa bint Abi Bakr",
+        "Nusaiba bint Ka'b (Umm Imara)",
+        "Asma bint Amr (Umm Mani')"
+      ]
+    },
+    "correct": {
+      "bs": [
+        "Nesiba bint Ka'b (Ummu Imareh)",
+        "Esma bint Amr (Ummu Menia)"
+      ],
+      "de": [
+        "Nusaiba bint Ka'b (Umm Imara)",
+        "Asma bint Amr (Umm Mani')"
+      ]
+    },
+    "explanation": {
+      "bs": "Na drugoj prisegi na Akabi prisustvovale su dvije žene: Nesiba bint Ka'b, poznata kao Ummu Imareh, i Esma bint Amr, poznata kao Ummu Menia. Obje su bile iz porodice Beni Mazin bin en-Nedždžar.",
+      "de": "Am zweiten Treueschwur von Aqaba nahmen zwei Frauen teil: Nusaiba bint Ka'b, bekannt als Umm Imara, und Asma bint Amr, bekannt als Umm Mani'. Beide gehörten zur Familie Banu Mazin ibn an-Nadschdschar."
+    }
+  },
+  {
+    "quiz_id": 6,
+    "question_id": 53,
+    "type": "multiple_choice",
+    "difficulty": "hard",
+    "source_section": "Druga prisega na Akabi",
+    "question": {
+      "bs": "Na šta su se obavezali muslimani na drugoj prisegi na Akabi? (Odaberite sve tačne)",
+      "de": "Wozu verpflichteten sich die Muslime beim zweiten Treueschwur von Aqaba? (Wählen Sie alle richtigen)"
+    },
+    "options": {
+      "bs": [
+        "Na poslušnost u radu i besposlici",
+        "Na plaćanje džizje",
+        "Na opskrbu u olakšici i poteškoći",
+        "Na naredbu dobra i odvraćanje od zla"
+      ],
+      "de": [
+        "Auf Gehorsam bei Arbeit und Musse",
+        "Auf die Zahlung der Dschizya",
+        "Auf Versorgung in Leichtigkeit und Schwierigkeit",
+        "Auf das Gebieten des Guten und Verbieten des Schlechten"
+      ]
+    },
+    "correct": {
+      "bs": [
+        "Na poslušnost u radu i besposlici",
+        "Na opskrbu u olakšici i poteškoći",
+        "Na naredbu dobra i odvraćanje od zla"
+      ],
+      "de": [
+        "Auf Gehorsam bei Arbeit und Musse",
+        "Auf Versorgung in Leichtigkeit und Schwierigkeit",
+        "Auf das Gebieten des Guten und Verbieten des Schlechten"
+      ]
+    },
+    "explanation": {
+      "bs": "Poslanik ﷺ je tražio od muslimana prisegu na: poslušnost u radu i besposlici, opskrbu u olakšici i poteškoći, naredbu dobra i odvraćanje od zla, rad u ime Allaha bez straha od prijekora, te potpomoganje i zaštitu Poslanika ﷺ.",
+      "de": "Der Prophet ﷺ verlangte von den Muslimen den Schwur auf: Gehorsam bei Arbeit und Musse, Versorgung in Leichtigkeit und Schwierigkeit, das Gebieten des Guten und Verbieten des Schlechten, Arbeit im Namen Allahs ohne Furcht vor Tadel, sowie Unterstützung und Schutz des Propheten ﷺ."
+    }
+  },
+  {
+    "quiz_id": 6,
+    "question_id": 54,
+    "type": "multiple_choice",
+    "difficulty": "medium",
+    "source_section": "Pećina Sevr",
+    "question": {
+      "bs": "Ko je pomagao Poslaniku ﷺ i Ebu Bekru dok su bili u pećini Sevr? (Odaberite sve tačne)",
+      "de": "Wer half dem Propheten ﷺ und Abu Bakr, während sie in der Höhle Thawr waren? (Wählen Sie alle richtigen)"
+    },
+    "options": {
+      "bs": [
+        "Esma bint Ebi Bekr",
+        "Amir bin Fuhejre",
+        "Alija bin Ebi Talib",
+        "Abdullah bin Ebi Bekr"
+      ],
+      "de": [
+        "Asma bint Abi Bakr",
+        "Amir ibn Fuhaira",
+        "Ali ibn Abi Talib",
+        "Abdullah ibn Abi Bakr"
+      ]
+    },
+    "correct": {
+      "bs": [
+        "Abdullah bin Ebi Bekr",
+        "Amir bin Fuhejre",
+        "Esma bint Ebi Bekr"
+      ],
+      "de": [
+        "Abdullah ibn Abi Bakr",
+        "Amir ibn Fuhaira",
+        "Asma bint Abi Bakr"
+      ]
+    },
+    "explanation": {
+      "bs": "Trojica su pomagali Poslaniku ﷺ i Ebu Bekru: Abdullah bin Ebi Bekr - prenosio vijesti iz Meke, Amir bin Fuhejre - čuvao ovce i donosio mlijeko, i Esma bint Ebi Bekr - pripremila hranu za put. Alija je ostao u Meki da vrati povjerene stvari ljudima.",
+      "de": "Drei Personen halfen dem Propheten ﷺ und Abu Bakr: Abdullah ibn Abi Bakr - überbrachte Nachrichten aus Mekka, Amir ibn Fuhaira - hütete Schafe und brachte Milch, und Asma bint Abi Bakr - bereitete Reiseproviant vor. Ali blieb in Mekka, um anvertraute Güter zurückzugeben."
+    }
+  },
+  {
+    "quiz_id": 6,
+    "question_id": 55,
+    "type": "multiple_choice",
+    "difficulty": "medium",
+    "source_section": "Zasjedanje kurejšijskog vijeća",
+    "question": {
+      "bs": "Koji prijedlozi su odbačeni na sjednici Kurejšija prije usvajanja plana o ubistvu? (Odaberite sve tačne)",
+      "de": "Welche Vorschläge wurden bei der Versammlung der Quraisch abgelehnt, bevor der Mordplan angenommen wurde? (Wählen Sie alle richtigen)"
+    },
+    "options": {
+      "bs": [
+        "Ponuditi mu novac da prestane s pozivom",
+        "Ubiti ga",
+        "Zatvoriti ga u tamnicu",
+        "Protjerati ga iz Meke"
+      ],
+      "de": [
+        "Ihm Geld anbieten, damit er aufhört zu predigen",
+        "Ihn töten",
+        "Ihn ins Gefängnis sperren",
+        "Ihn aus Mekka vertreiben"
+      ]
+    },
+    "correct": {
+      "bs": [
+        "Protjerati ga iz Meke",
+        "Zatvoriti ga u tamnicu"
+      ],
+      "de": [
+        "Ihn aus Mekka vertreiben",
+        "Ihn ins Gefängnis sperren"
+      ]
+    },
+    "explanation": {
+      "bs": "Ebu el-Esved je predložio protjerivanje, ali je starac iz Nedžda (šejtan) upozorio da će Muhammed ﷺ pridobiti druge narode. Ebu Buhturi je predložio zatvor, ali je šejtan rekao da će njegove ideje izaći kroz vrata i da će ga drugovi osloboditi. Tek je Ebu Džehlov plan o kolektivnom ubistvu prihvaćen.",
+      "de": "Abu al-Aswad schlug Verbannung vor, aber der Älteste aus Nadschd (Satan) warnte, dass Muhammad ﷺ andere Völker gewinnen würde. Abu Bukhturi schlug Gefängnis vor, aber Satan sagte, seine Ideen würden durch die Türen kommen und seine Gefährten würden ihn befreien. Erst Abu Dschahls Plan einer kollektiven Ermordung wurde angenommen."
+    }
+  },
+  {
+    "quiz_id": 6,
+    "question_id": 56,
+    "type": "multiple_choice",
+    "difficulty": "hard",
+    "source_section": "Ulazak u Medinu",
+    "question": {
+      "bs": "Ko je od Poslanikove ﷺ porodice stigao u Medinu nakon njega? (Odaberite sve tačne)",
+      "de": "Wer aus der Familie des Propheten ﷺ kam nach ihm nach Medina? (Wählen Sie alle richtigen)"
+    },
+    "options": {
+      "bs": [
+        "Ummu Kulsum (kćerka)",
+        "Sevda (supruga)",
+        "Fatima (kćerka)",
+        "Zejneb (kćerka)"
+      ],
+      "de": [
+        "Umm Kulthum (Tochter)",
+        "Sawda (Ehefrau)",
+        "Fatima (Tochter)",
+        "Zainab (Tochter)"
+      ]
+    },
+    "correct": {
+      "bs": [
+        "Sevda (supruga)",
+        "Fatima (kćerka)",
+        "Ummu Kulsum (kćerka)"
+      ],
+      "de": [
+        "Sawda (Ehefrau)",
+        "Fatima (Tochter)",
+        "Umm Kulthum (Tochter)"
+      ]
+    },
+    "explanation": {
+      "bs": "Nakon nekoliko dana za Poslanikom ﷺ stigle su: supruga Sevda, kćerke Fatima i Ummu Kulsum, te Usama bin Zejd i Ummu Ejmen. Zejneb je ostala kod svog muža Ebul-'Asa i učinila hidžru tek poslije bitke na Bedru.",
+      "de": "Nach einigen Tagen folgten dem Propheten ﷺ: Ehefrau Sawda, Töchter Fatima und Umm Kulthum, sowie Usama ibn Zaid und Umm Aiman. Zainab blieb bei ihrem Mann Abul-'As und wanderte erst nach der Schlacht von Badr aus."
+    }
+  },
+  {
+    "quiz_id": 6,
+    "question_id": 57,
+    "type": "ordering",
+    "difficulty": "medium",
+    "source_section": "Hidžra",
+    "question": {
+      "bs": "Poredajte događaje Hidžre hronološkim redom:",
+      "de": "Ordnen Sie die Ereignisse der Hidschra in chronologischer Reihenfolge:"
+    },
+    "options": {
+      "bs": [
+        "Dolazak u Kubu",
+        "Boravak u pećini Sevr",
+        "Zasjedanje kurejšijskog vijeća",
+        "Poslanik ﷺ napušta kuću"
+      ],
+      "de": [
+        "Ankunft in Quba",
+        "Aufenthalt in der Höhle Thawr",
+        "Versammlung des Quraisch-Rates",
+        "Der Prophet ﷺ verlässt das Haus"
+      ]
+    },
+    "correct": {
+      "bs": [
+        "Zasjedanje kurejšijskog vijeća",
+        "Poslanik ﷺ napušta kuću",
+        "Boravak u pećini Sevr",
+        "Dolazak u Kubu"
+      ],
+      "de": [
+        "Versammlung des Quraisch-Rates",
+        "Der Prophet ﷺ verlässt das Haus",
+        "Aufenthalt in der Höhle Thawr",
+        "Ankunft in Quba"
+      ]
+    },
+    "explanation": {
+      "bs": "Događaji Hidžre hronološkim redom: 1) Kurejšije se sastaju u Vijećnici i donose odluku o ubistvu (26. safera), 2) Poslanik ﷺ napušta kuću dok Alija spava u njegovoj postelji, 3) Tri noći u pećini Sevr, 4) Dolazak u Kubu (8. rebiul-evvela).",
+      "de": "Ereignisse der Hidschra in chronologischer Reihenfolge: 1) Die Quraisch versammeln sich im Rathaus und beschliessen die Ermordung (26. Safar), 2) Der Prophet ﷺ verlässt das Haus, während Ali in seinem Bett schläft, 3) Drei Nächte in der Höhle Thawr, 4) Ankunft in Quba (8. Rabi' al-Awwal)."
+    }
+  },
+  {
+    "quiz_id": 6,
+    "question_id": 58,
+    "type": "ordering",
+    "difficulty": "hard",
+    "source_section": "Prisege na Akabi",
+    "question": {
+      "bs": "Poredajte događaje koji su prethodili Hidžri hronološkim redom:",
+      "de": "Ordnen Sie die Ereignisse vor der Hidschra in chronologischer Reihenfolge:"
+    },
+    "options": {
+      "bs": [
+        "Druga (velika) prisega na Akabi",
+        "Mus'ab bin Umejr odlazi u Jesrib",
+        "Prva prisega na Akabi",
+        "Šest osoba iz Jesriba prima islam"
+      ],
+      "de": [
+        "Zweiter (grosser) Treueschwur von Aqaba",
+        "Mus'ab ibn Umair geht nach Jathrib",
+        "Erster Treueschwur von Aqaba",
+        "Sechs Personen aus Jathrib nehmen den Islam an"
+      ]
+    },
+    "correct": {
+      "bs": [
+        "Šest osoba iz Jesriba prima islam",
+        "Prva prisega na Akabi",
+        "Mus'ab bin Umejr odlazi u Jesrib",
+        "Druga (velika) prisega na Akabi"
+      ],
+      "de": [
+        "Sechs Personen aus Jathrib nehmen den Islam an",
+        "Erster Treueschwur von Aqaba",
+        "Mus'ab ibn Umair geht nach Jathrib",
+        "Zweiter (grosser) Treueschwur von Aqaba"
+      ]
+    },
+    "explanation": {
+      "bs": "Hronološki redoslijed: 1) 11. godina - šest osoba iz Jesriba prima islam, 2) 12. godina - Prva prisega (12 osoba), 3) Nakon prve prisege - Mus'ab odlazi kao izaslanik, 4) 13. godina - Druga (velika) prisega (73 muškarca i 2 žene).",
+      "de": "Chronologische Reihenfolge: 1) 11. Jahr - sechs Personen aus Jathrib nehmen den Islam an, 2) 12. Jahr - Erster Schwur (12 Personen), 3) Nach dem ersten Schwur - Mus'ab geht als Gesandter, 4) 13. Jahr - Zweiter (grosser) Schwur (73 Männer und 2 Frauen)."
+    }
+  },
+  {
+    "quiz_id": 6,
+    "question_id": 59,
+    "type": "ordering",
+    "difficulty": "medium",
+    "source_section": "Uspostava islamske države",
+    "question": {
+      "bs": "Poredajte Poslanikove ﷺ aktivnosti u Medini hronološkim redom:",
+      "de": "Ordnen Sie die Aktivitäten des Propheten ﷺ in Medina in chronologischer Reihenfolge:"
+    },
+    "options": {
+      "bs": [
+        "Gradnja džamije",
+        "Bratimljenje muhadžira i ensarija",
+        "Uvođenje ezana",
+        "Donošenje Medinske povelje"
+      ],
+      "de": [
+        "Bau der Moschee",
+        "Verbrüderung der Muhadschirin und Ansar",
+        "Einführung des Gebetsrufs",
+        "Erlassung der Verfassung von Medina"
+      ]
+    },
+    "correct": {
+      "bs": [
+        "Gradnja džamije",
+        "Uvođenje ezana",
+        "Bratimljenje muhadžira i ensarija",
+        "Donošenje Medinske povelje"
+      ],
+      "de": [
+        "Bau der Moschee",
+        "Einführung des Gebetsrufs",
+        "Verbrüderung der Muhadschirin und Ansar",
+        "Erlassung der Verfassung von Medina"
+      ]
+    },
+    "explanation": {
+      "bs": "Poslanik ﷺ je prvo sagradio džamiju, zatim je uveden ezan, pa je izvršeno bratimljenje muhadžira i ensarija, i konačno je donesena Medinska povelja koja je regulisala odnose u novom društvu.",
+      "de": "Der Prophet ﷺ baute zuerst die Moschee, dann wurde der Gebetsruf eingeführt, dann fand die Verbrüderung der Muhadschirin und Ansar statt, und schliesslich wurde die Verfassung von Medina erlassen, die die Beziehungen in der neuen Gesellschaft regelte."
+    }
+  },
+  {
+    "quiz_id": 6,
+    "question_id": 60,
+    "type": "ordering",
+    "difficulty": "hard",
+    "source_section": "Put za Medinu",
+    "question": {
+      "bs": "Poredajte susrete na putu za Medinu hronološkim redom:",
+      "de": "Ordnen Sie die Begegnungen auf dem Weg nach Medina in chronologischer Reihenfolge:"
+    },
+    "options": {
+      "bs": [
+        "Susret s Ebu Beridom",
+        "Bijeg Surake bin Malika",
+        "Susret s Ummu Ma'bed",
+        "Susret sa Zubejrom"
+      ],
+      "de": [
+        "Begegnung mit Abu Burida",
+        "Flucht von Suraqa ibn Malik",
+        "Begegnung mit Umm Ma'bad",
+        "Begegnung mit Zubair"
+      ]
+    },
+    "correct": {
+      "bs": [
+        "Bijeg Surake bin Malika",
+        "Susret s Ummu Ma'bed",
+        "Susret s Ebu Beridom",
+        "Susret sa Zubejrom"
+      ],
+      "de": [
+        "Flucht von Suraqa ibn Malik",
+        "Begegnung mit Umm Ma'bad",
+        "Begegnung mit Abu Burida",
+        "Begegnung mit Zubair"
+      ]
+    },
+    "explanation": {
+      "bs": "Redoslijed susreta: 1) Suraka bin Malik ih progoni ali biva čudesno zaustavljen, 2) Ummu Ma'bed ih ugošćuje i ovca čudesno daje mlijeko, 3) Ebu Berida - starješina plemena prima islam sa 70 ljudi, 4) Zubeir - trgovac koji im poklanja bijelu odjeću.",
+      "de": "Reihenfolge der Begegnungen: 1) Suraqa ibn Malik verfolgt sie, wird aber auf wundersame Weise aufgehalten, 2) Umm Ma'bad bewirtet sie und das Schaf gibt auf wundersame Weise Milch, 3) Abu Burida - Stammesältester nimmt mit 70 Leuten den Islam an, 4) Zubair - Händler schenkt ihnen weisse Kleidung."
+    }
+  },
+  {
+    "quiz_id": 6,
+    "question_id": 61,
+    "type": "true_false",
+    "difficulty": "easy",
+    "source_section": "Hidžra",
+    "question": {
+      "bs": "Datum Hidžre označava početak islamskog kalendara.",
+      "de": "Das Datum der Hidschra markiert den Beginn des islamischen Kalenders."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Hidžra u Medinu 622. godine označava početak islamskog (hidžretskog) kalendara. Ovu odluku donio je halifa Omer r.a. Hidžra se smatra ključnim događajem koji je omogućio uspostavu islamske države.",
+      "de": "Richtig! Die Hidschra nach Medina im Jahr 622 n. Chr. markiert den Beginn des islamischen (Hidschra-)Kalenders. Diese Entscheidung traf Kalif Omar r.a. Die Hidschra gilt als Schlüsselereignis, das die Gründung des islamischen Staates ermöglichte."
+    }
+  },
+  {
+    "quiz_id": 6,
+    "question_id": 62,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Pećina Sevr",
+    "question": {
+      "bs": "Poslanik ﷺ je rekao Ebu Bekru: 'Ne žalosti se, Allah je s nama' - kada je potjera stigla do ulaza u pećinu.",
+      "de": "Der Prophet ﷺ sagte zu Abu Bakr: 'Sei nicht traurig, Allah ist mit uns' - als die Verfolger den Eingang der Höhle erreichten."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Buharija prenosi od Ebu Bekra: 'Bio sam u pećini s Poslanikom ﷺ, pa kad podigoh glavu, ugledah noge ljudi. Rekoh: Ako neko spusti pogled, vidjet će nas. On mi odgovori: Tiše, Ebu Bekre. Nas smo dvojica, a treći je s nama Allah.'",
+      "de": "Richtig! Al-Bukhari überliefert von Abu Bakr: 'Ich war mit dem Propheten ﷺ in der Höhle, und als ich meinen Kopf hob, sah ich die Füsse der Leute. Ich sagte: Wenn jemand hinabschaut, wird er uns sehen. Er antwortete: Still, Abu Bakr. Wir sind zwei, und Allah ist der Dritte mit uns.'"
+    }
+  },
+  {
+    "quiz_id": 6,
+    "question_id": 63,
+    "type": "true_false",
+    "difficulty": "hard",
+    "source_section": "Put za Medinu",
+    "question": {
+      "bs": "Suraka bin Malik je primio islam nakon susreta s Poslanikom ﷺ na putu za Medinu.",
+      "de": "Suraqa ibn Malik nahm den Islam nach seiner Begegnung mit dem Propheten ﷺ auf dem Weg nach Medina an."
+    },
+    "correct": false,
+    "explanation": {
+      "bs": "Netačno! Suraka nije primio islam odmah. Poslanik ﷺ mu je napisao garantno pismo i pustio ga. Suraka je čuvao tajnu i čak vraćao druge tragače. Primio je islam tek kasnije, nakon oslobođenja Mekke.",
+      "de": "Falsch! Suraqa nahm den Islam nicht sofort an. Der Prophet ﷺ schrieb ihm einen Schutzbrief und liess ihn gehen. Suraqa bewahrte das Geheimnis und schickte sogar andere Verfolger zurück. Er nahm den Islam erst später an, nach der Eroberung von Mekka."
+    }
+  },
+  {
+    "quiz_id": 6,
+    "question_id": 64,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Dolazak u Medinu",
+    "question": {
+      "bs": "Poslanik ﷺ je sam odabrao mjesto gdje će odsjesti u Medini.",
+      "de": "Der Prophet ﷺ wählte selbst den Ort, wo er in Medina wohnen würde."
+    },
+    "correct": false,
+    "explanation": {
+      "bs": "Netačno! Poslanik ﷺ je pustio devu da ide rekavši: 'Pustite je neka ide, njoj je naređeno dokle.' Deva je stala na zemlji Beni Nedždžara, kod mjesta gdje će biti sagrađena džamija. Poslanik ﷺ je odsjeo kod Ebu Ejjuba čija je kuća bila najbliža.",
+      "de": "Falsch! Der Prophet ﷺ liess das Kamel gehen und sagte: 'Lasst es gehen, ihm ist befohlen, wohin.' Das Kamel hielt auf dem Land der Banu Nadschdschar, wo die Moschee gebaut werden sollte. Der Prophet ﷺ wohnte bei Abu Ayyub, dessen Haus am nächsten war."
+    }
+  },
+  {
+    "quiz_id": 6,
+    "question_id": 65,
+    "type": "true_false",
+    "difficulty": "easy",
+    "source_section": "Gradnja džamije",
+    "question": {
+      "bs": "Poslanik ﷺ je lično učestvovao u gradnji džamije u Medini.",
+      "de": "Der Prophet ﷺ beteiligte sich persönlich am Bau der Moschee in Medina."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Poslanik ﷺ je lično učestvovao u gradnji džamije - prenosio je ćerpič i kamenje. Govorio je stihove koji su bodhrili ashabe: 'Moj Allahu, nema života doli život poslije smrti, molim te, ensarijama i muhadžirima Ti oprosti.'",
+      "de": "Richtig! Der Prophet ﷺ beteiligte sich persönlich am Bau der Moschee - er trug Lehmziegel und Steine. Er sprach Verse, die die Gefährten ermutigten: 'Mein Allah, es gibt kein Leben ausser dem Leben nach dem Tod, ich bitte Dich, vergib den Ansar und Muhadschirin.'"
+    }
+  },
+  {
+    "quiz_id": 6,
+    "question_id": 66,
+    "type": "true_false",
+    "difficulty": "hard",
+    "source_section": "Gradnja džamije",
+    "question": {
+      "bs": "Temelji Poslanikove ﷺ džamije bili su od kamena, zidovi od ćerpiča, a krov od palminih grana.",
+      "de": "Das Fundament der Moschee des Propheten ﷺ war aus Stein, die Wände aus Lehmziegeln und das Dach aus Palmenzweigen."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Temelji džamije bili su od kamena, zidovi od ćerpiča i gline, krov od palminih grana, a stupovi od palmovih stabala. Tlo je prekriveno pijeskom i prostrt hasure. Džamija je imala troja vrata.",
+      "de": "Richtig! Das Fundament der Moschee war aus Stein, die Wände aus Lehmziegeln und Lehm, das Dach aus Palmenzweigen, und die Säulen aus Palmenstämmen. Der Boden war mit Sand bedeckt und Matten ausgelegt. Die Moschee hatte drei Türen."
+    }
+  },
+  {
+    "quiz_id": 6,
+    "question_id": 67,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Mesdžid",
+    "question": {
+      "bs": "Poslanikova ﷺ džamija služila je samo za obavljanje namaza.",
+      "de": "Die Moschee des Propheten ﷺ diente nur zum Verrichten des Gebets."
+    },
+    "correct": false,
+    "explanation": {
+      "bs": "Netačno! Džamija je imala višestruku funkciju: bila je škola za učenje islama, mjesto za okupljanje plemena i rješavanje sukoba, ustanova za donošenje odluka od životnog interesa, zgrada parlamenta za sjednice Šure, i prihvatilište za siromahe i muhadžire.",
+      "de": "Falsch! Die Moschee hatte mehrere Funktionen: Sie war eine Schule zum Erlernen des Islam, ein Ort für Stammesversammlungen und Konfliktlösung, eine Institution für Entscheidungen von lebenswichtiger Bedeutung, ein Parlamentsgebäude für Shura-Sitzungen und eine Unterkunft für Arme und Auswanderer."
+    }
+  },
+  {
+    "quiz_id": 6,
+    "question_id": 68,
+    "type": "true_false",
+    "difficulty": "easy",
+    "source_section": "Bratimljenje",
+    "question": {
+      "bs": "Bratimljenje muhadžira i ensarija uključivalo je pravo nasljeđivanja.",
+      "de": "Die Verbrüderung der Muhadschirin und Ansar beinhaltete das Erbrecht."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Bratimljenje se temeljilo na potpomoganju i nasljeđivanju nakon smrti bez krvnog srodstva. Ovo je važilo do bitke na Bedru, kada je Allah objavio da su rođaci jedni drugima preči prema Allahovoj knjizi.",
+      "de": "Richtig! Die Verbrüderung basierte auf gegenseitiger Unterstützung und Erbschaft nach dem Tod ohne Blutsverwandtschaft. Dies galt bis zur Schlacht von Badr, als Allah offenbarte, dass die Blutsverwandten einander nach dem Buche Allahs näher sind."
+    }
+  },
+  {
+    "quiz_id": 6,
+    "question_id": 69,
+    "type": "true_false",
+    "difficulty": "hard",
+    "source_section": "Medinski period",
+    "question": {
+      "bs": "Prvi period medinskog života trajao je do primirja na Hudejbiji, šeste godine po Hidžri.",
+      "de": "Die erste Periode des medinensischen Lebens dauerte bis zum Waffenstillstand von Hudaibiya im sechsten Jahr nach der Hidschra."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Medinski period se dijeli na tri stadija: 1) Period smutnji i sukoba - do Hudejbije (6. h.), 2) Period primirja i pozivanja vladara - do oslobođenja Mekke (8. h.), 3) Period masovnog prelaska na islam - do preseljenja Poslanika ﷺ (11. h.).",
+      "de": "Richtig! Die medinensische Periode wird in drei Phasen unterteilt: 1) Zeit der Unruhen und Konflikte - bis Hudaibiya (6 H.), 2) Zeit des Waffenstillstands und der Einladung an Herrscher - bis zur Eroberung Mekkas (8 H.), 3) Zeit des Massenübertritts zum Islam - bis zum Tod des Propheten ﷺ (11 H.)."
+    }
+  },
+  {
+    "quiz_id": 6,
+    "question_id": 70,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Medinska povelja",
+    "question": {
+      "bs": "Medinska povelja je zabranjivala muslimanu da ubije vjernika zbog nevjernika.",
+      "de": "Die Verfassung von Medina verbot einem Muslim, einen Gläubigen wegen eines Ungläubigen zu töten."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Šesti paragraf Medinske povelje jasno kaže: 'Vjernik neće ubiti vjernika zbog nevjernika.' Ovo je bilo jedno od temeljnih načela novog muslimanskog društva koje je štitilo jedinstvo ummeta.",
+      "de": "Richtig! Der sechste Paragraph der Verfassung von Medina besagt klar: 'Ein Gläubiger wird keinen Gläubigen wegen eines Ungläubigen töten.' Dies war eines der grundlegenden Prinzipien der neuen muslimischen Gesellschaft, das die Einheit der Umma schützte."
+    }
+  },
+  {
+    "quiz_id": 6,
+    "question_id": 71,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "source_section": "Hidžra",
+    "question": {
+      "bs": "Kojeg datuma je Poslanik ﷺ stigao u Kubu?",
+      "de": "An welchem Datum kam der Prophet ﷺ in Quba an?"
+    },
+    "options": {
+      "bs": [
+        "12. rebiul-evvela",
+        "15. rebiul-evvela",
+        "1. rebiul-evvela",
+        "8. rebiul-evvela"
+      ],
+      "de": [
+        "12. Rabi' al-Awwal",
+        "15. Rabi' al-Awwal",
+        "1. Rabi' al-Awwal",
+        "8. Rabi' al-Awwal"
+      ]
+    },
+    "correct": {
+      "bs": "8. rebiul-evvela",
+      "de": "8. Rabi' al-Awwal"
+    },
+    "explanation": {
+      "bs": "Poslanik ﷺ je stigao u Kubu u ponedjeljak, 8. rebiul-evvela, 1. godine hidžretske, što odgovara 23. septembru 622. godine po gregorijanskom kalendaru.",
+      "de": "Der Prophet ﷺ kam am Montag, dem 8. Rabi' al-Awwal, im 1. Jahr der Hidschra in Quba an, was dem 23. September 622 n. Chr. entspricht."
+    }
+  },
+  {
+    "quiz_id": 6,
+    "question_id": 72,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Noć Hidžre",
+    "question": {
+      "bs": "Koji je ajet objavljen o zavjeri Kurejšija protiv Poslanika ﷺ?",
+      "de": "Welcher Vers wurde über die Verschwörung der Quraisch gegen den Propheten ﷺ offenbart?"
+    },
+    "options": {
+      "bs": [
+        "Ajet iz sure El-Bekara (2:207)",
+        "Ajet iz sure El-Enfal (8:30)",
+        "Ajet iz sure En-Nisa (4:75)",
+        "Ajet iz sure Ja-Sin (36:9)"
+      ],
+      "de": [
+        "Vers aus Sure al-Baqara (2:207)",
+        "Vers aus Sure al-Anfal (8:30)",
+        "Vers aus Sure an-Nisa (4:75)",
+        "Vers aus Sure Ya-Sin (36:9)"
+      ]
+    },
+    "correct": {
+      "bs": "Ajet iz sure El-Enfal (8:30)",
+      "de": "Vers aus Sure al-Anfal (8:30)"
+    },
+    "explanation": {
+      "bs": "Allah je objavio: 'I kad su ti nevjernici zamke razapinjali da bi te u tamnicu bacili ili da bi te ubili ili da bi te prognali: oni su zamke pleli, a Allah ih je ometao, jer Allah to najbolje umije.' (El-Enfal, 8:30)",
+      "de": "Allah offenbarte: 'Und als die Ungläubigen gegen dich Ränke schmiedeten, um dich gefangen zu nehmen oder zu töten oder zu vertreiben: Sie schmiedeten Ränke, und Allah schmiedete Ränke, und Allah ist der beste Ränkeschmied.' (Al-Anfal, 8:30)"
+    }
+  },
+  {
+    "quiz_id": 6,
+    "question_id": 73,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Prethodnica Hidžre",
+    "question": {
+      "bs": "Ko je pratio Ummu Selemu na putu u Medinu do predgrađa grada?",
+      "de": "Wer begleitete Umm Salama auf dem Weg nach Medina bis zu den Vororten der Stadt?"
+    },
+    "options": {
+      "bs": [
+        "Osman bin Talha",
+        "Suhejb",
+        "Bilal",
+        "Ebu Selema"
+      ],
+      "de": [
+        "Uthman ibn Talha",
+        "Suhaib",
+        "Bilal",
+        "Abu Salama"
+      ]
+    },
+    "correct": {
+      "bs": "Osman bin Talha",
+      "de": "Uthman ibn Talha"
+    },
+    "explanation": {
+      "bs": "Osman bin Talha bin Ebi Talha je susreo Ummu Selemu na mjestu Et-Ten'im kada je putovala sama s djetetom. Ispratio je do predgrađa Medine, do džamije Kuba, i vratio se u Meku. Tada još nije bio musliman.",
+      "de": "Uthman ibn Talha ibn Abi Talha traf Umm Salama in Et-Tan'im, als sie allein mit ihrem Kind reiste. Er begleitete sie bis zu den Vororten von Medina, zur Moschee von Quba, und kehrte nach Mekka zurück. Er war damals noch kein Muslim."
+    }
+  },
+  {
+    "quiz_id": 6,
+    "question_id": 74,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Ulazak u Medinu",
+    "question": {
+      "bs": "Kakvu pjesmu su pjevale ensarijske djevojke pri dolasku Poslanika ﷺ?",
+      "de": "Welches Lied sangen die Mädchen der Ansar bei der Ankunft des Propheten ﷺ?"
+    },
+    "options": {
+      "bs": [
+        "La ilahe illallah",
+        "Subhanallah",
+        "Tala'al-bedru alejna (Puni mjesec nas obasja)",
+        "Allahu ekber"
+      ],
+      "de": [
+        "La ilaha illallah",
+        "Subhanallah",
+        "Tala'al-Badru alaina (Der Vollmond erhob sich über uns)",
+        "Allahu akbar"
+      ]
+    },
+    "correct": {
+      "bs": "Tala'al-bedru alejna (Puni mjesec nas obasja)",
+      "de": "Tala'al-Badru alaina (Der Vollmond erhob sich über uns)"
+    },
+    "explanation": {
+      "bs": "Ensarijske djevojke su pjevale: 'Ešrekal-bedru alejna min Senijjatil-veda' (Puni mjesec nas obasja od Senijetil-veda). Ova poznata ilahija (nasheed) izražava radost Medinelija zbog dolaska Poslanika ﷺ.",
+      "de": "Die Mädchen der Ansar sangen: 'Aschrakal-badru alaina min Thaniyyatil-Wada' (Der Vollmond erhob sich über uns von Thaniyyat al-Wada). Dieses berühmte Nashid drückt die Freude der Medinenser über die Ankunft des Propheten ﷺ aus."
+    }
+  },
+  {
+    "quiz_id": 6,
+    "question_id": 75,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Dolazak u Medinu",
+    "question": {
+      "bs": "Koje su bile prve riječi Poslanika ﷺ u Medini prema Abdullahu bin Selamu?",
+      "de": "Was waren die ersten Worte des Propheten ﷺ in Medina laut Abdullah ibn Salam?"
+    },
+    "options": {
+      "bs": [
+        "Primite islam i bit ćete spašeni",
+        "Nazivajte selam, nahranite gladne, klanjajte noću",
+        "Ja sam Allahov Poslanik",
+        "Borba je propisana"
+      ],
+      "de": [
+        "Nehmt den Islam an und ihr werdet gerettet",
+        "Verbreitet den Friedensgruss, speist die Hungrigen, betet in der Nacht",
+        "Ich bin der Gesandte Allahs",
+        "Der Kampf ist vorgeschrieben"
+      ]
+    },
+    "correct": {
+      "bs": "Nazivajte selam, nahranite gladne, klanjajte noću",
+      "de": "Verbreitet den Friedensgruss, speist die Hungrigen, betet in der Nacht"
+    },
+    "explanation": {
+      "bs": "Abdullah bin Selam prenosi: 'Prve Poslanikove ﷺ riječi bile su: O ljudi, nazivajte selam, nahranite gladne, čuvajte rodbinske veze, molite se Allahu noću dok drugi spavaju - s mirom ćete ući u Džennet.'",
+      "de": "Abdullah ibn Salam überliefert: 'Die ersten Worte des Propheten ﷺ waren: O Menschen, verbreitet den Friedensgruss, speist die Hungrigen, pflegt die Verwandtschaftsbande, betet zu Allah in der Nacht, während andere schlafen - ihr werdet in Frieden ins Paradies eintreten.'"
+    }
+  },
+  {
+    "quiz_id": 6,
+    "question_id": 76,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Bratimljenje",
+    "question": {
+      "bs": "Koliko je ljudi prisustvovalo bratimljenju u kući Enesa bin Malika?",
+      "de": "Wie viele Menschen nahmen an der Verbrüderung im Haus von Anas ibn Malik teil?"
+    },
+    "options": {
+      "bs": [
+        "Devedeset",
+        "Pedeset",
+        "Sto dvadeset",
+        "Sedamdeset"
+      ],
+      "de": [
+        "Neunzig",
+        "Fünfzig",
+        "Hundertzwanzig",
+        "Siebzig"
+      ]
+    },
+    "correct": {
+      "bs": "Devedeset",
+      "de": "Neunzig"
+    },
+    "explanation": {
+      "bs": "Ibn el-Kajjim kaže: 'Bratimljenje se izvršilo u kući Enesa bin Malika, gdje je prisustvovalo devedeset ljudi - pola muhadžira i pola ensarija, dakle četrdeset pet parova pobratima.'",
+      "de": "Ibn al-Qayyim sagt: 'Die Verbrüderung fand im Haus von Anas ibn Malik statt, wo neunzig Menschen teilnahmen - die Hälfte Muhadschirin und die Hälfte Ansar, also fünfundvierzig Paare von Brüdern.'"
+    }
+  },
+  {
+    "quiz_id": 6,
+    "question_id": 77,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Gradnja džamije",
+    "question": {
+      "bs": "Koliko je bila dužina Poslanikove ﷺ džamije od kible do ulaznih vrata?",
+      "de": "Wie lang war die Moschee des Propheten ﷺ von der Qibla bis zum Eingangstor?"
+    },
+    "options": {
+      "bs": [
+        "Pedeset aršina",
+        "Sto pedeset aršina",
+        "Sto aršina",
+        "Sedamdeset aršina"
+      ],
+      "de": [
+        "Fünfzig Ellen",
+        "Hundertfünfzig Ellen",
+        "Hundert Ellen",
+        "Siebzig Ellen"
+      ]
+    },
+    "correct": {
+      "bs": "Sto aršina",
+      "de": "Hundert Ellen"
+    },
+    "explanation": {
+      "bs": "Dužina džamije od kible do ulaznih vrata iznosila je sto aršina, a širina je bila slična tome ili malo manja. Temelji su bili visoki tri aršina. Džamija je imala troja vrata.",
+      "de": "Die Länge der Moschee von der Qibla bis zum Eingangstor betrug hundert Ellen, und die Breite war ähnlich oder etwas geringer. Das Fundament war drei Ellen hoch. Die Moschee hatte drei Türen."
+    }
+  },
+  {
+    "quiz_id": 6,
+    "question_id": 78,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "source_section": "Ezan",
+    "question": {
+      "bs": "Ko je bio prvi mujezin u islamu?",
+      "de": "Wer war der erste Muezzin im Islam?"
+    },
+    "options": {
+      "bs": [
+        "Abdullah bin Zejd",
+        "Omer bin el-Hattab",
+        "Bilal bin Rebah",
+        "Ebu Bekr es-Siddik"
+      ],
+      "de": [
+        "Abdullah ibn Zaid",
+        "Omar ibn al-Chattab",
+        "Bilal ibn Rabah",
+        "Abu Bakr as-Siddiq"
+      ]
+    },
+    "correct": {
+      "bs": "Bilal bin Rebah",
+      "de": "Bilal ibn Rabah"
+    },
+    "explanation": {
+      "bs": "Bilal bin Rebah bio je prvi mujezin u islamu. Poslanik ﷺ je odabrao Bilala jer je imao lijep i prodoran glas. Bilal je pozivao na namaz pet puta dnevno od tada.",
+      "de": "Bilal ibn Rabah war der erste Muezzin im Islam. Der Prophet ﷺ wählte Bilal, weil er eine schöne und durchdringende Stimme hatte. Bilal rief von da an fünfmal täglich zum Gebet."
+    }
+  },
+  {
+    "quiz_id": 6,
+    "question_id": 79,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Medinska povelja",
+    "question": {
+      "bs": "Koji paragraf Medinske povelje govori o zaštiti muslimana?",
+      "de": "Welcher Paragraph der Verfassung von Medina spricht vom Schutz der Muslime?"
+    },
+    "options": {
+      "bs": [
+        "Vjernik neće ubiti vjernika",
+        "Muslimanski mir je nedjeljiv",
+        "Muslimani su jedna zajednica",
+        "Zaštita muslimana je jedna - Allah i Poslanik uzimaju u zaštitu najslabijeg"
+      ],
+      "de": [
+        "Ein Gläubiger wird keinen Gläubigen töten",
+        "Der Frieden der Muslime ist unteilbar",
+        "Die Muslime sind eine Gemeinschaft",
+        "Der Schutz der Muslime ist einheitlich - Allah und der Prophet schützen den Schwächsten"
+      ]
+    },
+    "correct": {
+      "bs": "Zaštita muslimana je jedna - Allah i Poslanik uzimaju u zaštitu najslabijeg",
+      "de": "Der Schutz der Muslime ist einheitlich - Allah und der Prophet schützen den Schwächsten"
+    },
+    "explanation": {
+      "bs": "Osmi paragraf Medinske povelje glasio je: 'Zaštita muslimana je jedna. Allah i Poslanik u zaštitu uzimaju najslabijeg među njima.' Ovo je revolucionarno načelo jednakosti u islamskom društvu.",
+      "de": "Der achte Paragraph der Verfassung von Medina lautete: 'Der Schutz der Muslime ist einheitlich. Allah und der Prophet schützen den Schwächsten unter ihnen.' Dies ist ein revolutionäres Prinzip der Gleichheit in der islamischen Gesellschaft."
+    }
+  },
+  {
+    "quiz_id": 6,
+    "question_id": 80,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Medinska povelja",
+    "question": {
+      "bs": "Šta kaže Medinska povelja o osobi koja uvodi novotarije u vjeru?",
+      "de": "Was sagt die Verfassung von Medina über eine Person, die Neuerungen in der Religion einführt?"
+    },
+    "options": {
+      "bs": [
+        "Musliman ga ne smije podržavati, Allahovo prokletstvo ga prati",
+        "Treba ga protjerati iz Medine",
+        "Treba ga javno ukori",
+        "Treba mu dati priliku da se pokaje"
+      ],
+      "de": [
+        "Ein Muslim darf ihn nicht unterstützen, Allahs Fluch trifft ihn",
+        "Er sollte aus Medina verbannt werden",
+        "Er sollte öffentlich getadelt werden",
+        "Ihm sollte Gelegenheit zur Reue gegeben werden"
+      ]
+    },
+    "correct": {
+      "bs": "Musliman ga ne smije podržavati, Allahovo prokletstvo ga prati",
+      "de": "Ein Muslim darf ihn nicht unterstützen, Allahs Fluch trifft ihn"
+    },
+    "explanation": {
+      "bs": "Petnaesti paragraf Medinske povelje glasio je: 'Musliman ne smije podržavati i pomagati onoga koji uvodi novotarije u vjeru. Ako to učini, neka ga prati Allahovo prokletstvo i Njegova srdžba do Sudnjeg dana.'",
+      "de": "Der fünfzehnte Paragraph der Verfassung von Medina lautete: 'Ein Muslim darf denjenigen nicht unterstützen und helfen, der Neuerungen in der Religion einführt. Wenn er es tut, soll ihn Allahs Fluch und Sein Zorn bis zum Tag des Gerichts treffen.'"
+    }
+  },
+  {
+    "quiz_id": 6,
+    "question_id": 81,
+    "type": "true_false",
+    "difficulty": "easy",
+    "source_section": "Hidžra",
+    "question": {
+      "bs": "Hidžra označava preseljenje Poslanika ﷺ iz Meke u Medinu.",
+      "de": "Die Hidschra bezeichnet die Auswanderung des Propheten ﷺ von Mekka nach Medina."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Hidžra (arapski: هجرة) doslovno znači 'preseljenje' ili 'emigracija'. Odnosi se na preseljenje Poslanika ﷺ i muslimana iz Meke u Medinu 622. godine. Ovaj događaj je toliko značajan da označava početak islamskog kalendara.",
+      "de": "Richtig! Die Hidschra (arabisch: هجرة) bedeutet wörtlich 'Auswanderung' oder 'Emigration'. Sie bezieht sich auf die Auswanderung des Propheten ﷺ und der Muslime von Mekka nach Medina im Jahr 622 n. Chr. Dieses Ereignis ist so bedeutend, dass es den Beginn des islamischen Kalenders markiert."
+    }
+  },
+  {
+    "quiz_id": 6,
+    "question_id": 82,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Zasjedanje vijeća",
+    "question": {
+      "bs": "Sjednica kurejšijskog vijeća održana je u Vijećnici (Darun-Nedva) koja se nalazila pored Kabe.",
+      "de": "Die Sitzung des Quraisch-Rates fand in der Ratshalle (Dar an-Nadwa) statt, die sich neben der Kaaba befand."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Darun-Nedva (Vijećnica) bila je zgrada pored Kabe gdje su se Kurejšije okupljale za važne sastanke. Sagrađena je još u vrijeme Kusaja bin Kilaba, pretka Kurejšija, i služila je kao centar za donošenje odluka.",
+      "de": "Richtig! Dar an-Nadwa (Ratshalle) war ein Gebäude neben der Kaaba, wo sich die Quraisch für wichtige Versammlungen trafen. Es wurde noch zur Zeit von Qusayy ibn Kilab, dem Vorfahren der Quraisch, gebaut und diente als Entscheidungszentrum."
+    }
+  },
+  {
+    "quiz_id": 6,
+    "question_id": 83,
+    "type": "true_false",
+    "difficulty": "hard",
+    "source_section": "Ambasador islama",
+    "question": {
+      "bs": "Mus'ab bin Umejr je bio poznat pod nadimkom 'El-Mukri' (Učač) u Jesribu.",
+      "de": "Mus'ab ibn Umair war in Jathrib unter dem Beinamen 'Al-Muqri' (der Lehrer) bekannt."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Mus'ab bin Umejr je bio poznat pod nadimkom 'Učač' (El-Mukri) zbog njegove uloge u podučavanju islama i Kur'ana muslimanima Jesriba. Bio je izuzetno uspješan u svojoj misiji i pripremio teren za Hidžru.",
+      "de": "Richtig! Mus'ab ibn Umair war unter dem Beinamen 'der Lehrer' (Al-Muqri) bekannt wegen seiner Rolle bei der Unterweisung der Muslime von Jathrib in Islam und Koran. Er war äusserst erfolgreich in seiner Mission und bereitete den Boden für die Hidschra vor."
+    }
+  },
+  {
+    "quiz_id": 6,
+    "question_id": 84,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Put za Medinu",
+    "question": {
+      "bs": "Vodič Abdullah bin Urejkit bio je musliman.",
+      "de": "Der Führer Abdullah ibn Uraiqit war Muslim."
+    },
+    "correct": false,
+    "explanation": {
+      "bs": "Netačno! Abdullah bin Urejkit el-Lejsi bio je mnogobožac, ali je bio pouzdan i diskretan. Poslanik ﷺ ga je unajmio kao vodiča jer je bio vješt i poznavao je puteve. Ovo pokazuje da je Poslanik ﷺ sarađivao i s nemoslimanima kada je to bilo neophodno.",
+      "de": "Falsch! Abdullah ibn Uraiqit al-Laithi war Polytheist, aber zuverlässig und diskret. Der Prophet ﷺ engagierte ihn als Führer, weil er erfahren war und die Wege kannte. Dies zeigt, dass der Prophet ﷺ auch mit Nicht-Muslimen zusammenarbeitete, wenn es notwendig war."
+    }
+  },
+  {
+    "quiz_id": 6,
+    "question_id": 85,
+    "type": "true_false",
+    "difficulty": "hard",
+    "source_section": "Put za Medinu",
+    "question": {
+      "bs": "Amir bin Fuhejre je napisao garantno pismo Suraki bin Maliku.",
+      "de": "Amir ibn Fuhaira schrieb den Schutzbrief für Suraqa ibn Malik."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Poslanik ﷺ je naredio Amiru bin Fuhejretu da napiše garantno pismo Suraki na komadu kože. Amir bin Fuhejre bio je oslobođeni rob Ebu Bekra i pratio ih je na putu za Medinu.",
+      "de": "Richtig! Der Prophet ﷺ befahl Amir ibn Fuhaira, den Schutzbrief für Suraqa auf ein Stück Leder zu schreiben. Amir ibn Fuhaira war der befreite Sklave Abu Bakrs und begleitete sie auf dem Weg nach Medina."
+    }
+  },
+  {
+    "quiz_id": 6,
+    "question_id": 86,
+    "type": "true_false",
+    "difficulty": "easy",
+    "source_section": "Dolazak u Medinu",
+    "question": {
+      "bs": "Poslanik ﷺ je boravio kod Ebu Ejjuba el-Ensarija dok nije sagrađena džamija.",
+      "de": "Der Prophet ﷺ wohnte bei Abu Ayyub al-Ansari, bis die Moschee gebaut war."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Poslanik ﷺ je boravio u donjoj sobi kuće Ebu Ejjuba el-Ensarija dok nije završena gradnja džamije i njegovih soba uz nju. Ebu Ejjub je insistirao da Poslanik ﷺ bude u gornjoj sobi, ali Poslanik ﷺ je preferirao donju zbog posjetitelja.",
+      "de": "Richtig! Der Prophet ﷺ wohnte im unteren Zimmer des Hauses von Abu Ayyub al-Ansari, bis der Bau der Moschee und seiner Räume daneben abgeschlossen war. Abu Ayyub bestand darauf, dass der Prophet ﷺ im oberen Zimmer wohne, aber der Prophet ﷺ bevorzugte das untere wegen der Besucher."
+    }
+  },
+  {
+    "quiz_id": 6,
+    "question_id": 87,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Gradnja džamije",
+    "question": {
+      "bs": "Na mjestu gdje je sagrađena džamija nalazio se mezarluk mušrika.",
+      "de": "An der Stelle, wo die Moschee gebaut wurde, befand sich ein Friedhof der Polytheisten."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Na tom mjestu nalazili su se grobovi mušrika, ruševina, nešto palmi i drvo zvano 'Garkad'. Poslanik ﷺ je naredio da se mezarluk prekopa, ruševina zaravni, a palme i stablo posiječu.",
+      "de": "Richtig! An diesem Ort befanden sich Gräber von Polytheisten, eine Ruine, einige Palmen und ein Baum namens 'Gharqad'. Der Prophet ﷺ befahl, den Friedhof umzugraben, die Ruine zu ebnen und die Palmen und den Baum zu fällen."
+    }
+  },
+  {
+    "quiz_id": 6,
+    "question_id": 88,
+    "type": "true_false",
+    "difficulty": "hard",
+    "source_section": "Bratimljenje",
+    "question": {
+      "bs": "Abdurrahman bin Auf je odbio ponudu Sa'da bin er-Rebi'a za polovinu imetka i jednu ženu.",
+      "de": "Abdurrahman ibn Auf lehnte das Angebot von Sa'd ibn ar-Rabi' ab, die Hälfte seines Besitzes und eine Frau anzunehmen."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Sa'd je ponudio Abdurrahmanu polovinu imetka i jednu od svojih žena, ali Abdurrahman je rekao: 'Neka ti Allah podari beriket. Gdje vam je čaršija?' Zatražio je samo priliku da trguje i ubrzo se obogatio vlastitim trudom.",
+      "de": "Richtig! Sa'd bot Abdurrahman die Hälfte seines Besitzes und eine seiner Frauen an, aber Abdurrahman sagte: 'Möge Allah dich segnen. Wo ist euer Markt?' Er bat nur um die Gelegenheit zu handeln und wurde bald durch eigene Arbeit wohlhabend."
+    }
+  },
+  {
+    "quiz_id": 6,
+    "question_id": 89,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Ensarije",
+    "question": {
+      "bs": "Ensarije su ponudile da podijele plantaže hurmi sa muhadžirima.",
+      "de": "Die Ansar boten an, ihre Dattelpalmengärten mit den Muhadschirin zu teilen."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Ensarije su rekle Poslaniku ﷺ: 'Podijeli plantaže hurmi između nas i naše braće.' Poslanik ﷺ je odbio, pa su predložili: 'Onda pomozite u obradi, a rod neka nam je zajednički.' Poslanik ﷺ je prihvatio i oni su rekli: 'Slušamo i pokoravamo se.'",
+      "de": "Richtig! Die Ansar sagten zum Propheten ﷺ: 'Teile die Dattelpalmengärten zwischen uns und unseren Brüdern.' Der Prophet ﷺ lehnte ab, also schlugen sie vor: 'Dann helft bei der Bewirtschaftung, und die Ernte soll uns gemeinsam gehören.' Der Prophet ﷺ akzeptierte, und sie sagten: 'Wir hören und gehorchen.'"
+    }
+  },
+  {
+    "quiz_id": 6,
+    "question_id": 90,
+    "type": "true_false",
+    "difficulty": "hard",
+    "source_section": "Medinska povelja",
+    "question": {
+      "bs": "Medinska povelja je dozvoljavala mušriku da uzme u zaštitu Kurejšije.",
+      "de": "Die Verfassung von Medina erlaubte einem Polytheisten, die Quraisch in Schutz zu nehmen."
+    },
+    "correct": false,
+    "explanation": {
+      "bs": "Netačno! Dvanaesti paragraf Medinske povelje jasno kaže: 'Mušrik ne može uzeti u zaštitu Kurejšije niti njihov imetak, niti se može ispriječiti između toga i vjernika.' Ovo je štitilo muslimane od unutrašnje izdaje.",
+      "de": "Falsch! Der zwölfte Paragraph der Verfassung von Medina besagt klar: 'Ein Polytheist darf die Quraisch und ihr Eigentum nicht in Schutz nehmen und darf sich nicht zwischen sie und die Gläubigen stellen.' Dies schützte die Muslime vor innerem Verrat."
+    }
+  },
+  {
+    "quiz_id": 6,
+    "question_id": 91,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "source_section": "Hidžra",
+    "question": {
+      "bs": "Koliko je godina Poslanik ﷺ imao kada je učinio Hidžru?",
+      "de": "Wie alt war der Prophet ﷺ, als er die Hidschra unternahm?"
+    },
+    "options": {
+      "bs": [
+        "53 godine",
+        "60 godina",
+        "50 godina",
+        "40 godina"
+      ],
+      "de": [
+        "53 Jahre",
+        "60 Jahre",
+        "50 Jahre",
+        "40 Jahre"
+      ]
+    },
+    "correct": {
+      "bs": "53 godine",
+      "de": "53 Jahre"
+    },
+    "explanation": {
+      "bs": "Poslanik ﷺ je imao 53 godine kada je učinio Hidžru. Rođen je 570. godine, poslanstvo je dobio sa 40 godina (610. godine), a Hidžra se desila 622. godine, dakle 13 godina nakon početka poslanstva.",
+      "de": "Der Prophet ﷺ war 53 Jahre alt, als er die Hidschra unternahm. Er wurde 570 n. Chr. geboren, erhielt die Prophetenschaft mit 40 Jahren (610 n. Chr.), und die Hidschra fand 622 n. Chr. statt, also 13 Jahre nach Beginn der Prophetenschaft."
+    }
+  },
+  {
+    "quiz_id": 6,
+    "question_id": 92,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Pećina Sevr",
+    "question": {
+      "bs": "Šta je Ebu Bekr učinio da zaštiti Poslanika ﷺ od životinja u pećini?",
+      "de": "Was tat Abu Bakr, um den Propheten ﷺ vor Tieren in der Höhle zu schützen?"
+    },
+    "options": {
+      "bs": [
+        "Postavio je stražu ispred ulaza",
+        "Ubijao je životinje koje su dolazile",
+        "Zapalio je vatru",
+        "Začepio je rupe svojim ogrtačem i nogama"
+      ],
+      "de": [
+        "Er stellte eine Wache vor dem Eingang auf",
+        "Er tötete die Tiere, die kamen",
+        "Er zündete ein Feuer an",
+        "Er stopfte die Löcher mit seinem Umhang und seinen Füssen"
+      ]
+    },
+    "correct": {
+      "bs": "Začepio je rupe svojim ogrtačem i nogama",
+      "de": "Er stopfte die Löcher mit seinem Umhang und seinen Füssen"
+    },
+    "explanation": {
+      "bs": "Ebu Bekr je pregledao pećinu, ugledao otvore sa strane, pocijepo svoj ogrtač i zatisnu rupe. Dvije rupe je začepio svojim nogama. Nešto ga je ujelo za nogu, ali se nije pomakao da ne probudi Poslanika ﷺ.",
+      "de": "Abu Bakr untersuchte die Höhle, sah Öffnungen an der Seite, zerriss seinen Umhang und stopfte die Löcher. Zwei Löcher verschloss er mit seinen Füssen. Etwas biss ihn ins Bein, aber er bewegte sich nicht, um den Propheten ﷺ nicht zu wecken."
+    }
+  },
+  {
+    "quiz_id": 6,
+    "question_id": 93,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Prisega na Akabi",
+    "question": {
+      "bs": "Iz kojih dvaju plemena su bili muslimani na prvoj prisegi na Akabi?",
+      "de": "Aus welchen zwei Stämmen kamen die Muslime beim ersten Treueschwur von Aqaba?"
+    },
+    "options": {
+      "bs": [
+        "Kurejš i Hazredž",
+        "Evs i Hazredž",
+        "Evs i Benu Nedždžar",
+        "Hazredž i Benu Kilab"
+      ],
+      "de": [
+        "Quraisch und Hazradsch",
+        "Aus und Hazradsch",
+        "Aus und Banu Nadschdschar",
+        "Hazradsch und Banu Kilab"
+      ]
+    },
+    "correct": {
+      "bs": "Evs i Hazredž",
+      "de": "Aus und Hazradsch"
+    },
+    "explanation": {
+      "bs": "Na prvoj prisegi na Akabi prisustvovalo je dvanaest ljudi: deset iz plemena Hazredž i dvojica iz plemena Evs. Ova dva velika plemena Jesriba bila su dotada u sukobu, a islam ih je ujedinio.",
+      "de": "Am ersten Treueschwur von Aqaba nahmen zwölf Personen teil: zehn vom Stamm Hazradsch und zwei vom Stamm Aus. Diese zwei grossen Stämme von Jathrib waren zuvor im Konflikt, und der Islam vereinte sie."
+    }
+  },
+  {
+    "quiz_id": 6,
+    "question_id": 94,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Alija r.a.",
+    "question": {
+      "bs": "Zašto je Alija r.a. ostao u Meki nekoliko dana nakon Hidžre?",
+      "de": "Warum blieb Ali r.a. einige Tage nach der Hidschra in Mekka?"
+    },
+    "options": {
+      "bs": [
+        "Da vrati povjerene stvari ljudima",
+        "Da poziva u islam",
+        "Da čuva kuću Poslanika ﷺ",
+        "Da sabotira Kurejšije"
+      ],
+      "de": [
+        "Um anvertraute Güter den Menschen zurückzugeben",
+        "Um zum Islam einzuladen",
+        "Um das Haus des Propheten ﷺ zu bewachen",
+        "Um die Quraisch zu sabotieren"
+      ]
+    },
+    "correct": {
+      "bs": "Da vrati povjerene stvari ljudima",
+      "de": "Um anvertraute Güter den Menschen zurückzugeben"
+    },
+    "explanation": {
+      "bs": "Alija r.a. je ostao u Meki još tri dana nakon Hidžre da bi vratio povjerene stvari (emanete) koje su ljudi bili ostavili kod Poslanika ﷺ na čuvanje. Ovo pokazuje da su čak i mušrici vjerovali Poslaniku ﷺ.",
+      "de": "Ali r.a. blieb noch drei Tage nach der Hidschra in Mekka, um die anvertrauten Güter (Amanat) zurückzugeben, die Menschen beim Propheten ﷺ zur Aufbewahrung hinterlassen hatten. Dies zeigt, dass sogar die Polytheisten dem Propheten ﷺ vertrauten."
+    }
+  },
+  {
+    "quiz_id": 6,
+    "question_id": 95,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Gradnja džamije",
+    "question": {
+      "bs": "Koliko je dana Poslanik ﷺ proveo u Kubi prije odlaska u Medinu?",
+      "de": "Wie viele Tage verbrachte der Prophet ﷺ in Quba, bevor er nach Medina aufbrach?"
+    },
+    "options": {
+      "bs": [
+        "Dva dana",
+        "Sedam dana",
+        "Deset dana",
+        "Četiri dana"
+      ],
+      "de": [
+        "Zwei Tage",
+        "Sieben Tage",
+        "Zehn Tage",
+        "Vier Tage"
+      ]
+    },
+    "correct": {
+      "bs": "Četiri dana",
+      "de": "Vier Tage"
+    },
+    "explanation": {
+      "bs": "Poslanik ﷺ je proveo u Kubi četiri dana: ponedjeljak, utorak, srijedu i četvrtak. Tu je sagradio mesdžid Kuba, prvu džamiju u islamu. U petak je krenuo prema Medini.",
+      "de": "Der Prophet ﷺ verbrachte vier Tage in Quba: Montag, Dienstag, Mittwoch und Donnerstag. Dort baute er die Moschee von Quba, die erste Moschee im Islam. Am Freitag machte er sich auf den Weg nach Medina."
+    }
+  },
+  {
+    "quiz_id": 6,
+    "question_id": 96,
+    "type": "multiple_choice",
+    "difficulty": "hard",
+    "source_section": "Zasjedanje vijeća",
+    "question": {
+      "bs": "Ko je bio među jedanaestoricom koji su opkolili kuću Poslanika ﷺ u noći Hidžre? (Odaberite sve tačne)",
+      "de": "Wer gehörte zu den elf, die das Haus des Propheten ﷺ in der Nacht der Hidschra umzingelten? (Wählen Sie alle richtigen)"
+    },
+    "options": {
+      "bs": [
+        "Ebu Talib",
+        "Umejje bin Halef",
+        "Ebu Džehl",
+        "Ebu Leheb"
+      ],
+      "de": [
+        "Abu Talib",
+        "Umayya ibn Khalaf",
+        "Abu Dschahl",
+        "Abu Lahab"
+      ]
+    },
+    "correct": {
+      "bs": [
+        "Ebu Džehl",
+        "Ebu Leheb",
+        "Umejje bin Halef"
+      ],
+      "de": [
+        "Abu Dschahl",
+        "Abu Lahab",
+        "Umayya ibn Khalaf"
+      ]
+    },
+    "explanation": {
+      "bs": "Među jedanaestoricom koji su opkolili kuću bili su Ebu Džehl (predvodnik zavjere), Ebu Leheb (amidža Poslanika ﷺ) i Umejje bin Halef (mučitelj Bilala). Ebu Talib je već bio umro u Godini tuge.",
+      "de": "Zu den elf, die das Haus umzingelten, gehörten Abu Dschahl (Anführer der Verschwörung), Abu Lahab (Onkel des Propheten ﷺ) und Umayya ibn Khalaf (Peiniger Bilals). Abu Talib war bereits im Jahr der Trauer gestorben."
+    }
+  },
+  {
+    "quiz_id": 6,
+    "question_id": 97,
+    "type": "multiple_choice",
+    "difficulty": "medium",
+    "source_section": "Medinska povelja",
+    "question": {
+      "bs": "Koje su bile obaveze muslimana prema Medinskoj povelji? (Odaberite sve tačne)",
+      "de": "Was waren die Pflichten der Muslime laut der Verfassung von Medina? (Wählen Sie alle richtigen)"
+    },
+    "options": {
+      "bs": [
+        "Davati otkup za sužnjeve",
+        "Plaćati džizju",
+        "Ne ostavljati čovjeka pritisnutog dugovima",
+        "Zajednički plaćati krvarinu"
+      ],
+      "de": [
+        "Lösegeld für Gefangene geben",
+        "Die Dschizya zahlen",
+        "Einen verschuldeten Menschen nicht im Stich lassen",
+        "Gemeinsam das Blutgeld zahlen"
+      ]
+    },
+    "correct": {
+      "bs": [
+        "Zajednički plaćati krvarinu",
+        "Davati otkup za sužnjeve",
+        "Ne ostavljati čovjeka pritisnutog dugovima"
+      ],
+      "de": [
+        "Gemeinsam das Blutgeld zahlen",
+        "Lösegeld für Gefangene geben",
+        "Einen verschuldeten Menschen nicht im Stich lassen"
+      ]
+    },
+    "explanation": {
+      "bs": "Prema Medinskoj povelji, muslimani su bili dužni: zajednički davati krvarinu, davati otkup za sužnjeve uz podjednako učešće vjernika, i ne ostavljati čovjeka pritisnutog dugovima. Džizja se odnosila na nemuslimane, ne na muslimane.",
+      "de": "Laut der Verfassung von Medina waren die Muslime verpflichtet: gemeinsam das Blutgeld zu zahlen, Lösegeld für Gefangene mit gleicher Beteiligung der Gläubigen zu geben und einen verschuldeten Menschen nicht im Stich zu lassen. Die Dschizya galt für Nicht-Muslime, nicht für Muslime."
+    }
+  },
+  {
+    "quiz_id": 6,
+    "question_id": 98,
+    "type": "ordering",
+    "difficulty": "medium",
+    "source_section": "Hidžra",
+    "question": {
+      "bs": "Poredajte osobe koje su Poslaniku ﷺ pomogle tokom Hidžre prema vremenu njihove pomoći:",
+      "de": "Ordnen Sie die Personen, die dem Propheten ﷺ während der Hidschra halfen, nach dem Zeitpunkt ihrer Hilfe:"
+    },
+    "options": {
+      "bs": [
+        "Ebu Ejjub (domaćin u Medini)",
+        "Abdullah bin Urejkit (vodič)",
+        "Ebu Bekr (pratnja u pećinu)",
+        "Alija (spavao u postelji)"
+      ],
+      "de": [
+        "Abu Ayyub (Gastgeber in Medina)",
+        "Abdullah ibn Uraiqit (Führer)",
+        "Abu Bakr (Begleitung zur Höhle)",
+        "Ali (schlief im Bett)"
+      ]
+    },
+    "correct": {
+      "bs": [
+        "Alija (spavao u postelji)",
+        "Ebu Bekr (pratnja u pećinu)",
+        "Abdullah bin Urejkit (vodič)",
+        "Ebu Ejjub (domaćin u Medini)"
+      ],
+      "de": [
+        "Ali (schlief im Bett)",
+        "Abu Bakr (Begleitung zur Höhle)",
+        "Abdullah ibn Uraiqit (Führer)",
+        "Abu Ayyub (Gastgeber in Medina)"
+      ]
+    },
+    "explanation": {
+      "bs": "Redoslijed: 1) Alija je spavao u postelji u noći Hidžre, 2) Ebu Bekr je pratio Poslanika ﷺ do pećine i tokom tri noći, 3) Abdullah bin Urejkit ih je vodio od pećine do Medine, 4) Ebu Ejjub ih je ugostio po dolasku u Medinu.",
+      "de": "Reihenfolge: 1) Ali schlief in der Nacht der Hidschra im Bett, 2) Abu Bakr begleitete den Propheten ﷺ zur Höhle und während der drei Nächte, 3) Abdullah ibn Uraiqit führte sie von der Höhle nach Medina, 4) Abu Ayyub bewirtete sie bei der Ankunft in Medina."
+    }
+  },
+  {
+    "quiz_id": 6,
+    "question_id": 99,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Dolazak u Medinu",
+    "question": {
+      "bs": "Šta je Poslanik ﷺ rekao kada mu je Ebu Bekr ponudio bolju devu za putovanje?",
+      "de": "Was sagte der Prophet ﷺ, als Abu Bakr ihm das bessere Kamel für die Reise anbot?"
+    },
+    "options": {
+      "bs": [
+        "Prihvatio je kao poklon",
+        "Odbio je i izabrao drugu",
+        "Rekao je da će je uzeti kasnije",
+        "Prihvatio je pod uslovom da je plati"
+      ],
+      "de": [
+        "Er akzeptierte es als Geschenk",
+        "Er lehnte ab und wählte ein anderes",
+        "Er sagte, er würde es später nehmen",
+        "Er akzeptierte unter der Bedingung, es zu bezahlen"
+      ]
+    },
+    "correct": {
+      "bs": "Prihvatio je pod uslovom da je plati",
+      "de": "Er akzeptierte unter der Bedingung, es zu bezahlen"
+    },
+    "explanation": {
+      "bs": "Ebu Bekr je rekao: 'Zaklinjem te, o Poslaniče, da uzmeš jednu od ove dvije deve.' Poslanik ﷺ je pristao pod uslovom da mu je plati. Ovo pokazuje Poslanikovu ﷺ pravednost i nepristrasnost.",
+      "de": "Abu Bakr sagte: 'Ich beschwöre dich, o Gesandter, nimm eines dieser zwei Kamele.' Der Prophet ﷺ stimmte unter der Bedingung zu, es zu bezahlen. Dies zeigt die Gerechtigkeit und Unparteilichkeit des Propheten ﷺ."
+    }
+  },
+  {
+    "quiz_id": 6,
+    "question_id": 100,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Uspostava države",
+    "question": {
+      "bs": "Koja je bila dova Poslanika ﷺ za Medinu nakon dolaska?",
+      "de": "Was war das Bittgebet des Propheten ﷺ für Medina nach seiner Ankunft?"
+    },
+    "options": {
+      "bs": [
+        "Da muslimani osvoje cijeli svijet iz Medine",
+        "Da zavoli Medinu kao Meku ili više, da poboljša stanje, blagoslovi hranu i odstrani vrućicu",
+        "Da Medina nikada ne bude napadnuta",
+        "Da Medina postane glavni grad islama"
+      ],
+      "de": [
+        "Dass die Muslime von Medina aus die ganze Welt erobern",
+        "Medina zu lieben wie Mekka oder mehr, den Zustand zu verbessern, das Essen zu segnen und das Fieber zu entfernen",
+        "Dass Medina niemals angegriffen werde",
+        "Dass Medina die Hauptstadt des Islam werde"
+      ]
+    },
+    "correct": {
+      "bs": [
+        "Da zavoli Medinu kao Meku ili više, da poboljša stanje, blagoslovi hranu i odstrani vrućicu",
+        ""
+      ],
+      "de": [
+        "Medina zu lieben wie Mekka oder mehr, den Zustand zu verbessern, das Essen zu segnen und das Fieber zu entfernen",
+        ""
+      ]
+    },
+    "explanation": {
+      "bs": "Poslanik ﷺ je dovio: 'Moj Allahu, učini da volimo Medinu kao što volimo Meku, ili još više! Poboljšaj stanje u njoj, blagoslovi i beriket daj u hrani njenoj, odstrani iz Medine vrućicu i prenesi je u Džuhfu.' Ova dova pokazuje ljubav Poslanika ﷺ prema novoj domovini.",
+      "de": "Der Prophet ﷺ betete: 'Mein Allah, lass uns Medina lieben, wie wir Mekka lieben, oder noch mehr! Verbessere ihren Zustand, segne ihr Essen, entferne das Fieber aus Medina und übertrage es nach Dschuhfa.' Dieses Bittgebet zeigt die Liebe des Propheten ﷺ zur neuen Heimat."
+    }
+  }
+]

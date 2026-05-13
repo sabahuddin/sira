@@ -1,0 +1,3199 @@
+[
+  {
+    "quiz_id": 10,
+    "question_id": 1,
+    "type": "true_false",
+    "difficulty": "easy",
+    "source_section": "Godina delegacija",
+    "question": {
+      "bs": "Deveta godina po Hidžri nazvana je 'godinom delegacija' (senetu-l-vufud).",
+      "de": "Das neunte Jahr nach der Hidschra wurde 'Jahr der Delegationen' (Sanatu-l-Wufud) genannt."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Deveta godina po Hidžri poznata je kao 'godina delegacija' jer su u tom periodu arapska plemena masovno slala svoje delegacije u Medinu da prime islam i izraze pokornost Resulullahu ﷺ. To je bio rezultat oslobođenja Meke i pobjede na Hunejnu.",
+      "de": "Richtig! Das neunte Jahr nach der Hidschra ist als 'Jahr der Delegationen' bekannt, weil in dieser Zeit arabische Stämme massenhaft ihre Delegationen nach Medina sandten, um den Islam anzunehmen und dem Gesandten Allahs ﷺ ihre Unterwerfung auszudrücken. Dies war das Ergebnis der Eroberung Mekkas und des Sieges bei Hunayn."
+    }
+  },
+  {
+    "quiz_id": 10,
+    "question_id": 2,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Povjerenici za zekat",
+    "question": {
+      "bs": "Kada je Resulullah ﷺ počeo slati povjerenike za prikupljanje zekata arapskim plemenima?",
+      "de": "Wann begann der Gesandte Allahs ﷺ, Beauftragte zur Einsammlung der Zakat zu den arabischen Stämmen zu entsenden?"
+    },
+    "options": {
+      "bs": [
+        "1. muharrema 10. g.H.",
+        "1. muharrema 9. g.H.",
+        "1. zul-hidžeta 9. g.H.",
+        "1. ramazana 8. g.H."
+      ],
+      "de": [
+        "1. Muharram 10 n.H.",
+        "1. Muharram 9 n.H.",
+        "1. Dhul-Hiddscha 9 n.H.",
+        "1. Ramadan 8 n.H."
+      ]
+    },
+    "correct": {
+      "bs": "1. muharrema 9. g.H.",
+      "de": "1. Muharram 9 n.H."
+    },
+    "explanation": {
+      "bs": "Resulullah ﷺ se vratio u Medinu krajem 8. godine po Hidžri. Čim je nastupila 9. godina, 1. muharrema, otpremio je svoje povjerenike arapskim plemenima da prikupe zekat i džizju. To pokazuje da je islamska država tada već imala razvijenu administraciju.",
+      "de": "Der Gesandte Allahs ﷺ kehrte Ende des 8. Jahres nach der Hidschra nach Medina zurück. Sobald das 9. Jahr begann, am 1. Muharram, sandte er seine Beauftragten zu den arabischen Stämmen, um Zakat und Dschizya einzusammeln. Dies zeigt, dass der islamische Staat bereits eine entwickelte Verwaltung hatte."
+    }
+  },
+  {
+    "quiz_id": 10,
+    "question_id": 3,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Povjerenici za zekat",
+    "question": {
+      "bs": "Koga je Resulullah ﷺ poslao u Nedžran za džizju i sve ostale vrste zekata?",
+      "de": "Wen sandte der Gesandte Allahs ﷺ nach Nadschran für Dschizya und alle anderen Arten von Zakat?"
+    },
+    "options": {
+      "bs": [
+        "Aliju bin Ebi Taliba",
+        "Amra bin el-Asa",
+        "Muaza bin Džebela",
+        "Halida bin Velida"
+      ],
+      "de": [
+        "Ali bin Abi Talib",
+        "Amr bin al-As",
+        "Mu'adh bin Dschabal",
+        "Khalid bin Walid"
+      ]
+    },
+    "correct": {
+      "bs": "Aliju bin Ebi Taliba",
+      "de": "Ali bin Abi Talib"
+    },
+    "explanation": {
+      "bs": "Resulullah ﷺ je poslao Aliju bin Ebi Taliba u Nedžran za džizju i sve ostale vrste zekata. Nedžran je bio važan kršćanski centar u Jemenu i imao je poseban status u islamskoj državi.",
+      "de": "Der Gesandte Allahs ﷺ sandte Ali bin Abi Talib nach Nadschran für Dschizya und alle anderen Arten von Zakat. Nadschran war ein wichtiges christliches Zentrum im Jemen und hatte einen besonderen Status im islamischen Staat."
+    }
+  },
+  {
+    "quiz_id": 10,
+    "question_id": 4,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Delegacija Temima",
+    "question": {
+      "bs": "Šta su poglavari plemena Benu Temim predložili kada su došli kod Resulullaha ﷺ?",
+      "de": "Was schlugen die Häuptlinge des Stammes Banu Tamim vor, als sie zum Gesandten Allahs ﷺ kamen?"
+    },
+    "options": {
+      "bs": [
+        "Trgovinski sporazum",
+        "Zajednički pohod",
+        "Nadmetanje u govorništvu i poeziji",
+        "Ratni savez"
+      ],
+      "de": [
+        "Ein Handelsabkommen",
+        "Einen gemeinsamen Feldzug",
+        "Einen Wettbewerb in Redekunst und Poesie",
+        "Ein Kriegsbündnis"
+      ]
+    },
+    "correct": {
+      "bs": "Nadmetanje u govorništvu i poeziji",
+      "de": "Einen Wettbewerb in Redekunst und Poesie"
+    },
+    "explanation": {
+      "bs": "Poglavari Benu Temima su izrazili želju da se nadmeću s muslimanima u hvalisavosti i gordosti - govorništvu i poeziji. Njihov govornik Atarid je održao govor, a Resulullah ﷺ je naredio Sabitu bin Kajsu da mu odgovori. Njihov pjesnik Ez-Zeberkani je recitirao stihove, a Hassan bin Sabit mu je odgovorio. Na kraju su priznali da su muslimanski govornik i pjesnik bolji.",
+      "de": "Die Häuptlinge der Banu Tamim wünschten sich einen Wettbewerb mit den Muslimen in Prahlerei und Stolz - Redekunst und Poesie. Ihr Redner Atarid hielt eine Rede, und der Gesandte Allahs ﷺ befahl Thabit bin Qays zu antworten. Ihr Dichter Ez-Zeberkani rezitierte Verse, und Hassan bin Thabit antwortete ihm. Am Ende gaben sie zu, dass der muslimische Redner und Dichter besser waren."
+    }
+  },
+  {
+    "quiz_id": 10,
+    "question_id": 5,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Delegacija Temima",
+    "question": {
+      "bs": "Ko je bio islamski pjesnik koji je odgovorio pjesniku plemena Benu Temim?",
+      "de": "Wer war der islamische Dichter, der dem Dichter des Stammes Banu Tamim antwortete?"
+    },
+    "options": {
+      "bs": [
+        "Abdullah bin Revaha",
+        "Amir bin el-Ekve'a",
+        "Hassan bin Sabit",
+        "Ka'b bin Malik"
+      ],
+      "de": [
+        "Abdullah bin Rawaha",
+        "Amir bin al-Akwa",
+        "Hassan bin Thabit",
+        "Ka'b bin Malik"
+      ]
+    },
+    "correct": {
+      "bs": "Hassan bin Sabit",
+      "de": "Hassan bin Thabit"
+    },
+    "explanation": {
+      "bs": "Hassan bin Sabit je bio službeni islamski pjesnik koji je odgovorio Ez-Zeberkaniju, pjesniku Benu Temima. Hassan je improvizirao stihove bez prethodne pripreme, a Akre' bin el-Habis je na kraju rekao: 'Resulullahov govornik bolji je od našeg, a i njegov pjesnik bolji je od našeg pjesnika.'",
+      "de": "Hassan bin Thabit war der offizielle islamische Dichter, der Ez-Zeberkani, dem Dichter der Banu Tamim, antwortete. Hassan improvisierte Verse ohne vorherige Vorbereitung, und Aqra' bin Habis sagte am Ende: 'Der Redner des Gesandten Allahs ist besser als unserer, und sein Dichter ist besser als unser Dichter.'"
+    }
+  },
+  {
+    "quiz_id": 10,
+    "question_id": 6,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Adij bin Hatim",
+    "question": {
+      "bs": "Šta je Resulullah ﷺ rekao Adiju bin Hatimu o njegovoj kršćanskoj sekti Rekusija?",
+      "de": "Was sagte der Gesandte Allahs ﷺ zu Adiy bin Hatim über seine christliche Sekte Rekusiya?"
+    },
+    "options": {
+      "bs": [
+        "Pohvalio ga je za pridržavanje vjere",
+        "'Ja više poznajem tvoju vjeru nego ti' - jer mu je rekao da uzima četvrtinu plijena što mu vjera ne dozvoljava",
+        "Tražio je od njega da objasni vjeru",
+        "Nije ništa rekao"
+      ],
+      "de": [
+        "Er lobte ihn für das Festhalten an der Religion",
+        "'Ich kenne deine Religion besser als du' - weil er ihm sagte, dass er ein Viertel der Beute nimmt, was seine Religion nicht erlaubt",
+        "Er bat ihn, die Religion zu erklären",
+        "Er sagte nichts"
+      ]
+    },
+    "correct": {
+      "bs": "'Ja više poznajem tvoju vjeru nego ti' - jer mu je rekao da uzima četvrtinu plijena što mu vjera ne dozvoljava",
+      "de": "'Ich kenne deine Religion besser als du' - weil er ihm sagte, dass er ein Viertel der Beute nimmt, was seine Religion nicht erlaubt"
+    },
+    "explanation": {
+      "bs": "Resulullah ﷺ je upitao Adija: 'Zar nisi uzimao četvrtinu plijena svoga naroda?' Adij je potvrdio. Resulullah ﷺ mu je rekao: 'Ali, to ti ne dozvoljava tvoja kršćanska vjera.' Adij je tada shvatio da je Resulullah ﷺ pravi Poslanik jer zna ono što drugi ne znaju, pa je primio islam.",
+      "de": "Der Gesandte Allahs ﷺ fragte Adiy: 'Hast du nicht ein Viertel der Beute deines Volkes genommen?' Adiy bestätigte dies. Der Gesandte Allahs ﷺ sagte ihm: 'Aber deine christliche Religion erlaubt dir das nicht.' Adiy erkannte dann, dass der Gesandte Allahs ﷺ ein wahrer Prophet war, weil er wusste, was andere nicht wissen, und nahm den Islam an."
+    }
+  },
+  {
+    "quiz_id": 10,
+    "question_id": 7,
+    "type": "multiple_choice",
+    "difficulty": "hard",
+    "source_section": "Adij bin Hatim",
+    "question": {
+      "bs": "Šta je Resulullah ﷺ prorekao Adiju bin Hatimu o budućnosti? (odaberi tri tačna)",
+      "de": "Was prophezeite der Gesandte Allahs ﷺ Adiy bin Hatim über die Zukunft? (wähle drei richtige)"
+    },
+    "options": {
+      "bs": [
+        "Žene će putovati iz Hire u Meku same, ne bojeći se nikoga osim Allaha",
+        "Ljudi će imati pune ruke zlata i srebra bez kome da ga daju",
+        "Otvorit će se riznice perzijskog Kisre",
+        "Muslimani će osvojiti Rim"
+      ],
+      "de": [
+        "Frauen werden allein von Hira nach Mekka reisen, ohne jemanden ausser Allah zu fürchten",
+        "Menschen werden Hände voll Gold und Silber haben ohne jemanden, dem sie es geben können",
+        "Die Schatzkammern des persischen Kisra werden geöffnet",
+        "Muslime werden Rom erobern"
+      ]
+    },
+    "correct": {
+      "bs": [
+        "Žene će putovati iz Hire u Meku same, ne bojeći se nikoga osim Allaha",
+        "Otvorit će se riznice perzijskog Kisre",
+        "Ljudi će imati pune ruke zlata i srebra bez kome da ga daju"
+      ],
+      "de": [
+        "Frauen werden allein von Hira nach Mekka reisen, ohne jemanden ausser Allah zu fürchten",
+        "Die Schatzkammern des persischen Kisra werden geöffnet",
+        "Menschen werden Hände voll Gold und Silber haben ohne jemanden, dem sie es geben können"
+      ]
+    },
+    "explanation": {
+      "bs": "Resulullah ﷺ je prorekao Adiju tri stvari: 1) Žene će putovati iz Hire u Meku same, bez straha, 2) Otvorit će se riznice Kisre, 3) Ljudi će imati toliko zlata i srebra da ga neće imati kome dati. Adij je dočekao da vidi prve dvije stvari ostvarene za svog života.",
+      "de": "Der Gesandte Allahs ﷺ prophezeite Adiy drei Dinge: 1) Frauen werden allein von Hira nach Mekka reisen, ohne Angst, 2) Die Schatzkammern von Kisra werden geöffnet, 3) Menschen werden so viel Gold und Silber haben, dass sie niemanden haben werden, dem sie es geben können. Adiy erlebte, wie die ersten beiden Dinge zu seinen Lebzeiten eintrafen."
+    }
+  },
+  {
+    "quiz_id": 10,
+    "question_id": 8,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Bitka na Tebuku - uzrok",
+    "question": {
+      "bs": "Koji je bio glavni uzrok bitke na Tebuku?",
+      "de": "Was war der Hauptgrund für die Schlacht von Tabuk?"
+    },
+    "options": {
+      "bs": [
+        "Pleme Gassan je napalo Medinu",
+        "Muslimani su htjeli osvojiti Šam",
+        "Trgovački karavan je opljačkan",
+        "Bizantija je pripremala vojsku da uništi muslimane"
+      ],
+      "de": [
+        "Der Stamm Ghassan griff Medina an",
+        "Die Muslime wollten Schams erobern",
+        "Eine Handelskarawane wurde geplündert",
+        "Byzanz bereitete eine Armee vor, um die Muslime zu vernichten"
+      ]
+    },
+    "correct": {
+      "bs": "Bizantija je pripremala vojsku da uništi muslimane",
+      "de": "Byzanz bereitete eine Armee vor, um die Muslime zu vernichten"
+    },
+    "explanation": {
+      "bs": "Car Heraklije nije mogao zaboraviti sukob na Mu'ti koji je proslavio muslimane. Bojeći se da muslimani ne postanu sila koju neće moći pokoriti, odlučio je uništiti ih. Cijelu godinu je pripremao vojsku od Bizantinaca i arapskih plemena pod njegovom vlašću, posebno Gasanija.",
+      "de": "Kaiser Heraklius konnte den Konflikt bei Mu'ta nicht vergessen, der die Muslime berühmt machte. Aus Angst, dass die Muslime zu einer Macht werden könnten, die er nicht unterwerfen kann, beschloss er, sie zu vernichten. Ein ganzes Jahr lang bereitete er eine Armee aus Byzantinern und arabischen Stämmen unter seiner Herrschaft vor, besonders den Ghassaniden."
+    }
+  },
+  {
+    "quiz_id": 10,
+    "question_id": 9,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "source_section": "Bitka na Tebuku",
+    "question": {
+      "bs": "U kojem mjesecu se desila bitka na Tebuku?",
+      "de": "In welchem Monat fand die Schlacht von Tabuk statt?"
+    },
+    "options": {
+      "bs": [
+        "Ševal 9. g.H.",
+        "Muharrem 9. g.H.",
+        "Redžep 9. g.H.",
+        "Ramazan 8. g.H."
+      ],
+      "de": [
+        "Schawwal 9 n.H.",
+        "Muharram 9 n.H.",
+        "Radschab 9 n.H.",
+        "Ramadan 8 n.H."
+      ]
+    },
+    "correct": {
+      "bs": "Redžep 9. g.H.",
+      "de": "Radschab 9 n.H."
+    },
+    "explanation": {
+      "bs": "Bitka na Tebuku se desila u mjesecu redžepu 9. godine po Hidžri. Ovo je bio najveći i najudaljeniji vojni pohod koji je Resulullah ﷺ predvodio. Vojska je krenula u teškim uslovima - po velikoj vrućini i u vrijeme dozrijevanja plodova.",
+      "de": "Die Schlacht von Tabuk fand im Monat Radschab des 9. Jahres nach der Hidschra statt. Dies war der grösste und am weitesten entfernte Feldzug, den der Gesandte Allahs ﷺ anführte. Die Armee brach unter schwierigen Bedingungen auf - bei grosser Hitze und zur Zeit der Reifung der Früchte."
+    }
+  },
+  {
+    "quiz_id": 10,
+    "question_id": 10,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Bitka na Tebuku",
+    "question": {
+      "bs": "Resulullah ﷺ je obavijestio vojsku o cilju pohoda na Tebuk unaprijed, za razliku od drugih pohoda.",
+      "de": "Der Gesandte Allahs ﷺ informierte die Armee im Voraus über das Ziel des Feldzugs nach Tabuk, anders als bei anderen Feldzügen."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Za razliku od prijašnjih pohoda gdje je Resulullah ﷺ skrivao pravi cilj, ovaj put je jasno objavio da ide na Tebuk protiv Bizantinaca. Razlog je bila velika udaljenost, teški uslovi putovanja i potreba da se muslimani dobro pripreme.",
+      "de": "Richtig! Anders als bei früheren Feldzügen, bei denen der Gesandte Allahs ﷺ das wahre Ziel verbarg, verkündete er diesmal klar, dass er nach Tabuk gegen die Byzantiner zieht. Der Grund war die grosse Entfernung, die schwierigen Reisebedingungen und die Notwendigkeit, dass sich die Muslime gut vorbereiten."
+    }
+  },
+  {
+    "quiz_id": 10,
+    "question_id": 11,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Bitka na Tebuku - vojska tegleća",
+    "question": {
+      "bs": "Kako se zvala muslimanska vojska na Tebuku zbog velikog siromaštva?",
+      "de": "Wie wurde die muslimische Armee bei Tabuk wegen der grossen Armut genannt?"
+    },
+    "options": {
+      "bs": [
+        "Vojska vjere",
+        "Vojska pobjede",
+        "Vojska osvete",
+        "Vojska tegleća (džejšul-usre)"
+      ],
+      "de": [
+        "Armee des Glaubens",
+        "Armee des Sieges",
+        "Armee der Rache",
+        "Armee der Mühsal (Dschaysch al-Usra)"
+      ]
+    },
+    "correct": {
+      "bs": "Vojska tegleća (džejšul-usre)",
+      "de": "Armee der Mühsal (Dschaysch al-Usra)"
+    },
+    "explanation": {
+      "bs": "Vojska koja je krenula na Tebuk nazvana je 'vojska tegleća' (džejšul-usre) zbog velikog siromaštva i teškoća s kojima se suočavala. Vojnici su imali malo hrane, vode i jahalica. Mnogi su dijelili jednu devu, a neki su išli pješice. Unatoč tome, oko 30.000 muslimana se odazvalo pozivu.",
+      "de": "Die Armee, die nach Tabuk aufbrach, wurde 'Armee der Mühsal' (Dschaysch al-Usra) genannt wegen der grossen Armut und Schwierigkeiten, mit denen sie konfrontiert war. Die Soldaten hatten wenig Nahrung, Wasser und Reittiere. Viele teilten sich ein Kamel, und einige gingen zu Fuss. Trotzdem folgten etwa 30.000 Muslime dem Ruf."
+    }
+  },
+  {
+    "quiz_id": 10,
+    "question_id": 12,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Bitka na Tebuku - donacije",
+    "question": {
+      "bs": "Koliko je Osman r.a. donirao za opremanje vojske na Tebuku?",
+      "de": "Wie viel spendete Uthman r.a. für die Ausrüstung der Armee bei Tabuk?"
+    },
+    "options": {
+      "bs": [
+        "100 deva",
+        "50 konja",
+        "500 dinara",
+        "300 deva opremljenih i 1000 dinara"
+      ],
+      "de": [
+        "100 Kamele",
+        "50 Pferde",
+        "500 Dinar",
+        "300 ausgerüstete Kamele und 1000 Dinar"
+      ]
+    },
+    "correct": {
+      "bs": "300 deva opremljenih i 1000 dinara",
+      "de": "300 ausgerüstete Kamele und 1000 Dinar"
+    },
+    "explanation": {
+      "bs": "Osman r.a. je bio najdarežljiviji donator za pohod na Tebuk. Donirao je 300 potpuno opremljenih deva i 1000 zlatnih dinara. Resulullah ﷺ je rekao o njemu: 'Osmanu neće nauditi ništa što učini poslije ovoga.'",
+      "de": "Uthman r.a. war der grosszügigste Spender für den Feldzug nach Tabuk. Er spendete 300 vollständig ausgerüstete Kamele und 1000 Golddinare. Der Gesandte Allahs ﷺ sagte über ihn: 'Uthman wird nichts schaden, was er nach diesem tut.'"
+    }
+  },
+  {
+    "quiz_id": 10,
+    "question_id": 13,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Bitka na Tebuku - donacije",
+    "question": {
+      "bs": "Koliko je Ebu Bekr r.a. donio kada je Resulullah ﷺ pozvao na donacije za Tebuk?",
+      "de": "Wie viel brachte Abu Bakr r.a., als der Gesandte Allahs ﷺ zu Spenden für Tabuk aufrief?"
+    },
+    "options": {
+      "bs": [
+        "Pola svog imetka",
+        "Trećinu svog imetka",
+        "Četvrtinu svog imetka",
+        "Sav svoj imetak"
+      ],
+      "de": [
+        "Die Hälfte seines Vermögens",
+        "Ein Drittel seines Vermögens",
+        "Ein Viertel seines Vermögens",
+        "Sein gesamtes Vermögen"
+      ]
+    },
+    "correct": {
+      "bs": "Sav svoj imetak",
+      "de": "Sein gesamtes Vermögen"
+    },
+    "explanation": {
+      "bs": "Ebu Bekr r.a. je donio sav svoj imetak za pohod na Tebuk. Kada ga je Resulullah ﷺ upitao šta je ostavio porodici, odgovorio je: 'Ostavio sam im Allaha i Njegovog Poslanika.' Omer r.a. je donio pola svog imetka misleći da će nadmašiti Ebu Bekra, ali kada je čuo njegov odgovor, rekao je: 'Nikada ga neću moći nadmašiti.'",
+      "de": "Abu Bakr r.a. brachte sein gesamtes Vermögen für den Feldzug nach Tabuk. Als der Gesandte Allahs ﷺ ihn fragte, was er seiner Familie gelassen habe, antwortete er: 'Ich habe ihnen Allah und Seinen Gesandten gelassen.' Omar r.a. brachte die Hälfte seines Vermögens und dachte, er würde Abu Bakr übertreffen, aber als er seine Antwort hörte, sagte er: 'Ich werde ihn nie übertreffen können.'"
+    }
+  },
+  {
+    "quiz_id": 10,
+    "question_id": 14,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Bitka na Tebuku",
+    "question": {
+      "bs": "Na Tebuku je došlo do direktnog sukoba između muslimanske i bizantijske vojske.",
+      "de": "Bei Tabuk kam es zu einem direkten Zusammenstoss zwischen der muslimischen und der byzantinischen Armee."
+    },
+    "correct": false,
+    "explanation": {
+      "bs": "Netačno! Na Tebuku nije došlo do direktnog sukoba. Kada su Bizantinci čuli za dolazak muslimanske vojske od 30.000 vojnika, povukli su se bez borbe. Muslimani su ostali na Tebuku oko dvadeset dana, sklapajući ugovore s lokalnim plemenom i pokazujući snagu islamske države.",
+      "de": "Falsch! Bei Tabuk kam es zu keinem direkten Zusammenstoss. Als die Byzantiner von der Ankunft der muslimischen Armee von 30.000 Soldaten hörten, zogen sie sich ohne Kampf zurück. Die Muslime blieben etwa zwanzig Tage in Tabuk, schlossen Verträge mit lokalen Stämmen und zeigten die Stärke des islamischen Staates."
+    }
+  },
+  {
+    "quiz_id": 10,
+    "question_id": 15,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Bitka na Tebuku - munafici",
+    "question": {
+      "bs": "Šta je Allah naredio u vezi s munaficima (licemjerima) nakon pohoda na Tebuk?",
+      "de": "Was befahl Allah in Bezug auf die Munafiqun (Heuchler) nach dem Feldzug nach Tabuk?"
+    },
+    "options": {
+      "bs": [
+        "Da se protjeraju iz Medine",
+        "Da se pogube",
+        "Da im se oprosti",
+        "Da se pojača pritisak na njih - ne prima zekat od njih, ne klanja im dženaza"
+      ],
+      "de": [
+        "Sie aus Medina zu vertreiben",
+        "Sie hinzurichten",
+        "Ihnen zu vergeben",
+        "Den Druck auf sie zu erhöhen - keine Zakat von ihnen anzunehmen, kein Totengebet für sie"
+      ]
+    },
+    "correct": {
+      "bs": "Da se pojača pritisak na njih - ne prima zekat od njih, ne klanja im dženaza",
+      "de": "Den Druck auf sie zu erhöhen - keine Zakat von ihnen anzunehmen, kein Totengebet für sie"
+    },
+    "explanation": {
+      "bs": "Allah je naredio da se pritisak na licemjere pojača: da se od njih ne prima zekat, da im se ne klanja dženaza, da se za njih ne traži oprost od Allaha. Također je naredio da se sruši njihova džamija koju su sagradili kao 'gnijezdo za kovaje zavjere' - mesdžid dirar.",
+      "de": "Allah befahl, den Druck auf die Heuchler zu erhöhen: keine Zakat von ihnen anzunehmen, kein Totengebet für sie zu beten, keine Vergebung für sie bei Allah zu erbitten. Er befahl auch, ihre Moschee abzureissen, die sie als 'Nest für Verschwörungen' gebaut hatten - Masdschid Dirar."
+    }
+  },
+  {
+    "quiz_id": 10,
+    "question_id": 16,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Bitka na Tebuku - Ka'b bin Malik",
+    "question": {
+      "bs": "Koliko je dana trajao bojkot trojice ashaba koji su ostali bez opravdanja kada je vojska krenula na Tebuk?",
+      "de": "Wie viele Tage dauerte der Boykott der drei Gefährten, die ohne Entschuldigung zurückblieben, als die Armee nach Tabuk aufbrach?"
+    },
+    "options": {
+      "bs": [
+        "60 dana",
+        "30 dana",
+        "50 dana",
+        "40 dana"
+      ],
+      "de": [
+        "60 Tage",
+        "30 Tage",
+        "50 Tage",
+        "40 Tage"
+      ]
+    },
+    "correct": {
+      "bs": "50 dana",
+      "de": "50 Tage"
+    },
+    "explanation": {
+      "bs": "Ka'b bin Malik, Murare bin er-Rebi'a i Hilal bin Umejje su bili iskreni ashabi koji su ostali bez opravdanja. Resulullah ﷺ je naredio bojkot - da im niko ne govori 50 dana. Na kraju je Allah objavio ajete koji su potvrdili primanje njihovog pokajanja, što je bila jedna od najradosnijih vijesti u njihovom životu.",
+      "de": "Ka'b bin Malik, Murara bin ar-Rabi'a und Hilal bin Umayya waren aufrichtige Gefährten, die ohne Entschuldigung zurückblieben. Der Gesandte Allahs ﷺ befahl einen Boykott - dass niemand 50 Tage lang mit ihnen spreche. Am Ende offenbarte Allah Verse, die die Annahme ihrer Reue bestätigten, was eine der freudigsten Nachrichten in ihrem Leben war."
+    }
+  },
+  {
+    "quiz_id": 10,
+    "question_id": 17,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Bitka na Tebuku - rezultati",
+    "question": {
+      "bs": "Šta je Resulullah ﷺ rekao vojnicima koji su ostali u Medini zbog bolesti ili spriječenosti?",
+      "de": "Was sagte der Gesandte Allahs ﷺ über die Soldaten, die wegen Krankheit oder Verhinderung in Medina geblieben waren?"
+    },
+    "options": {
+      "bs": [
+        "'Vi niste ni jednu dolinu prešli, a da oni nisu bili s vama'",
+        "'Oni su grešnici'",
+        "'Neka poste mjesec dana'",
+        "'Moraju dati sadaku'"
+      ],
+      "de": [
+        "'Ihr habt kein Tal durchquert, ohne dass sie mit euch waren'",
+        "'Sie sind Sünder'",
+        "'Sie sollen einen Monat fasten'",
+        "'Sie müssen Almosen geben'"
+      ]
+    },
+    "correct": {
+      "bs": "'Vi niste ni jednu dolinu prešli, a da oni nisu bili s vama'",
+      "de": "'Ihr habt kein Tal durchquert, ohne dass sie mit euch waren'"
+    },
+    "explanation": {
+      "bs": "Resulullah ﷺ je rekao o onima koji su opravdano ostali: 'U Medini ima ljudi koji nisu mogli putovati s vama, a vi niste ni jednu dolinu prešli, a da oni nisu bili s vama. Oni su ostali, opravdano spriječeni.' Ovo pokazuje da iskrena namjera ima nagradu kao i samo djelo.",
+      "de": "Der Gesandte Allahs ﷺ sagte über diejenigen, die mit Entschuldigung zurückblieben: 'In Medina gibt es Menschen, die nicht mit euch reisen konnten, und ihr habt kein Tal durchquert, ohne dass sie mit euch waren. Sie blieben zurück, rechtmässig verhindert.' Dies zeigt, dass aufrichtige Absicht genauso belohnt wird wie die Tat selbst."
+    }
+  },
+  {
+    "quiz_id": 10,
+    "question_id": 18,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Ebu Bekrov hadž",
+    "question": {
+      "bs": "U kojoj godini je Ebu Bekr r.a. predvodio hadž kao vođa muslimana?",
+      "de": "In welchem Jahr führte Abu Bakr r.a. die Hadsch als Anführer der Muslime an?"
+    },
+    "options": {
+      "bs": [
+        "11. g.H.",
+        "9. g.H.",
+        "8. g.H.",
+        "10. g.H."
+      ],
+      "de": [
+        "11 n.H.",
+        "9 n.H.",
+        "8 n.H.",
+        "10 n.H."
+      ]
+    },
+    "correct": {
+      "bs": "9. g.H.",
+      "de": "9 n.H."
+    },
+    "explanation": {
+      "bs": "U zul-kadetu ili zul-hidžetu 9. g.H. Resulullah ﷺ je poslao Ebu Bekra es-Siddika da bude vodič muslimanima u obavljanju hadžskih obreda. Ovo je bio prvi hadž pod muslimanskim vodstvom nakon oslobođenja Meke.",
+      "de": "In Dhul-Qa'da oder Dhul-Hiddscha 9 n.H. sandte der Gesandte Allahs ﷺ Abu Bakr as-Siddiq, um die Muslime bei der Durchführung der Hadsch-Riten anzuführen. Dies war die erste Hadsch unter muslimischer Führung nach der Eroberung Mekkas."
+    }
+  },
+  {
+    "quiz_id": 10,
+    "question_id": 19,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Ebu Bekrov hadž",
+    "question": {
+      "bs": "Koga je Resulullah ﷺ poslao za Ebu Bekrom r.a. da obznani početak sure El-Bera'a?",
+      "de": "Wen sandte der Gesandte Allahs ﷺ Abu Bakr r.a. hinterher, um den Beginn der Sure Al-Bara'a zu verkünden?"
+    },
+    "options": {
+      "bs": [
+        "Zubejra bin el-Avvama",
+        "Omera bin el-Hattaba",
+        "Aliju bin Ebi Taliba",
+        "Osmana bin Affana"
+      ],
+      "de": [
+        "Zubayr bin al-Awwam",
+        "Omar bin al-Khattab",
+        "Ali bin Abi Talib",
+        "Uthman bin Affan"
+      ]
+    },
+    "correct": {
+      "bs": "Aliju bin Ebi Taliba",
+      "de": "Ali bin Abi Talib"
+    },
+    "explanation": {
+      "bs": "Resulullah ﷺ je poslao Aliju bin Ebi Taliba da sustigne Ebu Bekra i obznani početak sure El-Bera'a (Et-Tevba) na dan klanja kurbana. Kad je Ebu Bekr r.a. ugledao Aliju, upitao ga je: 'Dolaziš li kao naredbodavac ili ti je naređeno da dođeš?' Alija je odgovorio: 'Naređeno mi je da dođem.'",
+      "de": "Der Gesandte Allahs ﷺ sandte Ali bin Abi Talib, um Abu Bakr einzuholen und den Beginn der Sure Al-Bara'a (At-Tawba) am Tag des Opferns zu verkünden. Als Abu Bakr r.a. Ali sah, fragte er ihn: 'Kommst du als Befehlshaber oder wurde dir befohlen zu kommen?' Ali antwortete: 'Mir wurde befohlen zu kommen.'"
+    }
+  },
+  {
+    "quiz_id": 10,
+    "question_id": 20,
+    "type": "multiple_choice",
+    "difficulty": "hard",
+    "source_section": "Ebu Bekrov hadž",
+    "question": {
+      "bs": "Šta je obznanjeno na Ebu Bekrovom hadžu? (odaberi dva tačna)",
+      "de": "Was wurde bei Abu Bakrs Hadsch verkündet? (wähle zwei richtige)"
+    },
+    "options": {
+      "bs": [
+        "Svi ugovori s mušricima su produženi na 10 godina",
+        "Niko oko Kabe tavaf ne smije činiti neodjeven",
+        "Zekat je ukinut",
+        "Poslije ove godine na hadž neće dolaziti nevjernici"
+      ],
+      "de": [
+        "Alle Verträge mit Götzenanbetern werden um 10 Jahre verlängert",
+        "Niemand darf unbekleidet um die Kaaba Tawaf machen",
+        "Die Zakat ist abgeschafft",
+        "Nach diesem Jahr werden keine Ungläubigen mehr zur Hadsch kommen"
+      ]
+    },
+    "correct": {
+      "bs": [
+        "Poslije ove godine na hadž neće dolaziti nevjernici",
+        "Niko oko Kabe tavaf ne smije činiti neodjeven"
+      ],
+      "de": [
+        "Nach diesem Jahr werden keine Ungläubigen mehr zur Hadsch kommen",
+        "Niemand darf unbekleidet um die Kaaba Tawaf machen"
+      ]
+    },
+    "explanation": {
+      "bs": "Ebu Bekr r.a. je razaslao telale da obznane: 1) Poslije ove godine na hadž neće dolaziti nevjernici, 2) Niko oko Kabe tavaf ne smije činiti neodjeven (kao što su Arapi to prije činili goli). Ovo je bila najava kraja idolopoklonstva na arapskom tlu.",
+      "de": "Abu Bakr r.a. sandte Herolde aus, um zu verkünden: 1) Nach diesem Jahr werden keine Ungläubigen mehr zur Hadsch kommen, 2) Niemand darf unbekleidet um die Kaaba Tawaf machen (wie es die Araber früher nackt taten). Dies war die Ankündigung des Endes des Götzendienstes auf arabischem Boden."
+    }
+  },
+  {
+    "quiz_id": 10,
+    "question_id": 21,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Delegacija Sekifa",
+    "question": {
+      "bs": "Šta se desilo s Urvetom bin Mesudom es-Sekafijom kada se vratio svom plemenu Sekif i pozvao ih u islam?",
+      "de": "Was geschah mit Urwa bin Mas'ud as-Thaqafi, als er zu seinem Stamm Thaqif zurückkehrte und sie zum Islam rief?"
+    },
+    "options": {
+      "bs": [
+        "Protjerali su ga",
+        "Ubili su ga strijelama",
+        "Prihvatili su islam",
+        "Zatvorili su ga"
+      ],
+      "de": [
+        "Sie vertrieben ihn",
+        "Sie töteten ihn mit Pfeilen",
+        "Sie nahmen den Islam an",
+        "Sie sperrten ihn ein"
+      ]
+    },
+    "correct": {
+      "bs": "Ubili su ga strijelama",
+      "de": "Sie töteten ihn mit Pfeilen"
+    },
+    "explanation": {
+      "bs": "Urve bin Mesud es-Sekafi je sreo Resulullaha ﷺ prilikom povratka iz bitke u Taifu, primio je islam i vratio se u svoje pleme Sekif da ih pozove u islam. Mislio je da će ga poslušati jer su ga voljeli. Međutim, osuli su na njega kišu strijela sa svih strana i ubili ga. Nekoliko mjeseci nakon njegove smrti, pleme je ipak primilo islam.",
+      "de": "Urwa bin Mas'ud as-Thaqafi traf den Gesandten Allahs ﷺ bei der Rückkehr von der Schlacht bei Taif, nahm den Islam an und kehrte zu seinem Stamm Thaqif zurück, um sie zum Islam einzuladen. Er dachte, sie würden ihm zuhören, weil sie ihn liebten. Jedoch überschütteten sie ihn von allen Seiten mit Pfeilen und töteten ihn. Einige Monate nach seinem Tod nahm der Stamm dennoch den Islam an."
+    }
+  },
+  {
+    "quiz_id": 10,
+    "question_id": 22,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Delegacija Sekifa",
+    "question": {
+      "bs": "Šta je delegacija Sekifa tražila od Resulullaha ﷺ da im dozvoli, a on je odbio?",
+      "de": "Was bat die Delegation der Thaqif vom Gesandten Allahs ﷺ zu erlauben, und er lehnte ab?"
+    },
+    "options": {
+      "bs": [
+        "Samo namaz",
+        "Samo hadž",
+        "Blud, alkohol, kamatu, ostavljanje namaza, da im se ostavi idol Lat",
+        "Samo zekat"
+      ],
+      "de": [
+        "Nur das Gebet",
+        "Nur die Hadsch",
+        "Unzucht, Alkohol, Zinsen, Unterlassung des Gebets, ihren Götzen Lat zu behalten",
+        "Nur die Zakat"
+      ]
+    },
+    "correct": {
+      "bs": "Blud, alkohol, kamatu, ostavljanje namaza, da im se ostavi idol Lat",
+      "de": "Unzucht, Alkohol, Zinsen, Unterlassung des Gebets, ihren Götzen Lat zu behalten"
+    },
+    "explanation": {
+      "bs": "Vođa delegacije Sekifa tražio je da im Resulullah ﷺ dozvoli: zinaluk (blud), pijenje alkohola, trošenje kamate, da im se ostavi božanstvo Lat, da ne klanjaju namaz i da sami ne ruše svoja božanstva. Resulullah ﷺ je odbio sve njihove zahtjeve. Na kraju su se pokorili i primili islam.",
+      "de": "Der Anführer der Thaqif-Delegation bat den Gesandten Allahs ﷺ, ihnen zu erlauben: Unzucht, Alkoholtrinken, Zinsen, ihren Götzen Lat zu behalten, das Gebet nicht zu verrichten und ihre Götzen nicht selbst zu zerstören. Der Gesandte Allahs ﷺ lehnte alle ihre Forderungen ab. Am Ende unterwarfen sie sich und nahmen den Islam an."
+    }
+  },
+  {
+    "quiz_id": 10,
+    "question_id": 23,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Delegacija Sekifa",
+    "question": {
+      "bs": "Ko je srušio idol Lat nakon što je pleme Sekif primilo islam?",
+      "de": "Wer zerstörte den Götzen Lat, nachdem der Stamm Thaqif den Islam angenommen hatte?"
+    },
+    "options": {
+      "bs": [
+        "Halid bin Velid i El-Mugire bin Šu'be",
+        "Zubejr bin el-Avvam",
+        "Amr bin el-As",
+        "Alija bin Ebi Talib"
+      ],
+      "de": [
+        "Khalid bin Walid und Al-Mughira bin Schu'ba",
+        "Zubayr bin al-Awwam",
+        "Amr bin al-As",
+        "Ali bin Abi Talib"
+      ]
+    },
+    "correct": {
+      "bs": "Halid bin Velid i El-Mugire bin Šu'be",
+      "de": "Khalid bin Walid und Al-Mughira bin Schu'ba"
+    },
+    "explanation": {
+      "bs": "Resulullah ﷺ je poslao Halida bin Velida da sruši božanstvo Lat. S njim je bio El-Mugire bin Šu'be koji se našalio s plemenom Sekif - popeo se na božanstvo, zamahnuo torbom kao krilima, skočio i pružio se po zemlji. Stanovnici su se prepali, a on im je rekao: 'To božanstvo je samo strašilo od kamena i gline.'",
+      "de": "Der Gesandte Allahs ﷺ sandte Khalid bin Walid, um den Götzen Lat zu zerstören. Mit ihm war Al-Mughira bin Schu'ba, der einen Scherz mit dem Stamm Thaqif machte - er kletterte auf den Götzen, schwang seine Tasche wie Flügel, sprang und streckte sich auf dem Boden aus. Die Einwohner erschraken, und er sagte ihnen: 'Dieser Götze ist nur ein Schreckgespenst aus Stein und Lehm.'"
+    }
+  },
+  {
+    "quiz_id": 10,
+    "question_id": 24,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Delegacija Sekifa",
+    "question": {
+      "bs": "Šta je Osman bin Ebi el-As es-Sekafi rekao svom plemenu Sekif kada su htjeli odbiti davanje zekata nakon smrti Resulullaha ﷺ?",
+      "de": "Was sagte Uthman bin Abi al-As as-Thaqafi zu seinem Stamm Thaqif, als sie die Zakat nach dem Tod des Gesandten Allahs ﷺ verweigern wollten?"
+    },
+    "options": {
+      "bs": [
+        "'Radite šta hoćete'",
+        "'Pričekajmo'",
+        "'Bili ste posljednji narod koji je primio islam, pa nemojte biti prvi koji će se odmetnuti'",
+        "'Ja vas podržavam'"
+      ],
+      "de": [
+        "'Tut was ihr wollt'",
+        "'Lasst uns warten'",
+        "'Ihr wart das letzte Volk, das den Islam annahm, also seid nicht die ersten, die abfallen'",
+        "'Ich unterstütze euch'"
+      ]
+    },
+    "correct": {
+      "bs": "'Bili ste posljednji narod koji je primio islam, pa nemojte biti prvi koji će se odmetnuti'",
+      "de": "'Ihr wart das letzte Volk, das den Islam annahm, also seid nicht die ersten, die abfallen'"
+    },
+    "explanation": {
+      "bs": "Osman bin Ebi el-As, kojeg je Resulullah ﷺ postavio za namjesnika Sekifa, rekao je svom plemenu kada su htjeli odbiti zekat: 'O narode Sekifa, bili ste posljednji narod koji je primio islam, pa nemojte biti prvi koji će se odmetnuti od islama.' Oni su tada poslušali i ostali dosljedni vjeri.",
+      "de": "Uthman bin Abi al-As, den der Gesandte Allahs ﷺ zum Statthalter der Thaqif ernannt hatte, sagte zu seinem Stamm, als sie die Zakat verweigern wollten: 'O Volk der Thaqif, ihr wart das letzte Volk, das den Islam annahm, also seid nicht die ersten, die vom Islam abfallen.' Sie gehorchten dann und blieben dem Glauben treu."
+    }
+  },
+  {
+    "quiz_id": 10,
+    "question_id": 25,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Delegacija Hemedana",
+    "question": {
+      "bs": "Ko je uspio prevesti pleme Hemedan u islam nakon što je Halid bin Velid proveo šest mjeseci bezuspješno?",
+      "de": "Wer konnte den Stamm Hamdan zum Islam bekehren, nachdem Khalid bin Walid sechs Monate erfolglos verbracht hatte?"
+    },
+    "options": {
+      "bs": [
+        "Amr bin el-As",
+        "Sa'd bin Ebi Vekkas",
+        "Muaz bin Džebel",
+        "Alija bin Ebi Talib"
+      ],
+      "de": [
+        "Amr bin al-As",
+        "Sa'd bin Abi Waqqas",
+        "Mu'adh bin Dschabal",
+        "Ali bin Abi Talib"
+      ]
+    },
+    "correct": {
+      "bs": "Alija bin Ebi Talib",
+      "de": "Ali bin Abi Talib"
+    },
+    "explanation": {
+      "bs": "Halid bin Velid je proveo šest mjeseci pozivajući pleme Hemedan u islam, ali bez uspjeha. Resulullah ﷺ je zatim poslao Aliju bin Ebi Taliba. Kada je Alija stigao i pročitao Resulullahovo ﷺ pismo, svi su se odazvali i primili islam. Kada je Resulullah ﷺ čuo vijest, pao je na sedždu i rekao: 'Mir na Hemedan, mir na Hemedan.'",
+      "de": "Khalid bin Walid verbrachte sechs Monate damit, den Stamm Hamdan zum Islam einzuladen, aber ohne Erfolg. Der Gesandte Allahs ﷺ sandte dann Ali bin Abi Talib. Als Ali ankam und den Brief des Gesandten Allahs ﷺ vorlas, antworteten alle und nahmen den Islam an. Als der Gesandte Allahs ﷺ die Nachricht hörte, fiel er in Niederwerfung und sagte: 'Frieden auf Hamdan, Frieden auf Hamdan.'"
+    }
+  },
+  {
+    "quiz_id": 10,
+    "question_id": 26,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Delegacija Jemena",
+    "question": {
+      "bs": "Resulullah ﷺ je poslao Muaza bin Džebela u Jemen da podučava narod islamu.",
+      "de": "Der Gesandte Allahs ﷺ sandte Mu'adh bin Dschabal nach Jemen, um das Volk im Islam zu unterrichten."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Resulullah ﷺ je poslao Muaza bin Džebela u Jemen kao učitelja i sudiju. Pri odlasku ga je upitao: 'Kako ćeš suditi?' Muaz je odgovorio: 'Po Allahovoj Knjizi.' 'A ako ne nađeš?' 'Po sunnetu Resulullaha.' 'A ako ni u tome ne nađeš?' 'Upotrijebit ću svoj razum.' Resulullah ﷺ je bio zadovoljan ovim odgovorom.",
+      "de": "Richtig! Der Gesandte Allahs ﷺ sandte Mu'adh bin Dschabal als Lehrer und Richter nach Jemen. Beim Abschied fragte er ihn: 'Wie wirst du urteilen?' Mu'adh antwortete: 'Nach dem Buch Allahs.' 'Und wenn du es nicht findest?' 'Nach der Sunna des Gesandten.' 'Und wenn du es auch dort nicht findest?' 'Ich werde meinen Verstand benutzen.' Der Gesandte Allahs ﷺ war mit dieser Antwort zufrieden."
+    }
+  },
+  {
+    "quiz_id": 10,
+    "question_id": 27,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Značajni događaji 9. g.H.",
+    "question": {
+      "bs": "Ko je umro u 9. godini po Hidžri, pa mu je Resulullah ﷺ klanjao dženazu u odsutnosti (lil-gaib)?",
+      "de": "Wer starb im 9. Jahr nach der Hidschra, und der Gesandte Allahs ﷺ betete das Totengebet in Abwesenheit (lil-gha'ib) für ihn?"
+    },
+    "options": {
+      "bs": [
+        "Abdullah bin Ubejj",
+        "Hamza bin Abdul-Mutalib",
+        "Nedžašija Ashamet, kralj Abesinije",
+        "Ebu Talib"
+      ],
+      "de": [
+        "Abdullah bin Ubayy",
+        "Hamza bin Abdul-Muttalib",
+        "Negus Ashama, König von Abessinien",
+        "Abu Talib"
+      ]
+    },
+    "correct": {
+      "bs": "Nedžašija Ashamet, kralj Abesinije",
+      "de": "Negus Ashama, König von Abessinien"
+    },
+    "explanation": {
+      "bs": "U 9. godini po Hidžri umro je Nedžašija Ashamet, kralj Abesinije (Etiopije), koji je primio islam i štitio muslimane u vrijeme hidžre u Abesiniju. Resulullah ﷺ mu je klanjao dženazu u odsutnosti (salatul-gaib), što je jedinstven slučaj u islamu.",
+      "de": "Im 9. Jahr nach der Hidschra starb Negus Ashama, König von Abessinien (Äthiopien), der den Islam angenommen und die Muslime während der Hidschra nach Abessinien beschützt hatte. Der Gesandte Allahs ﷺ betete das Totengebet in Abwesenheit (Salat al-Gha'ib) für ihn, was ein einzigartiger Fall im Islam ist."
+    }
+  },
+  {
+    "quiz_id": 10,
+    "question_id": 28,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Značajni događaji 9. g.H.",
+    "question": {
+      "bs": "Šta je Resulullah ﷺ rekao Osmanu r.a. nakon smrti njegove druge žene, Resullahove ﷺ kćerke Ummu Kulsum?",
+      "de": "Was sagte der Gesandte Allahs ﷺ zu Uthman r.a. nach dem Tod seiner zweiten Frau, der Tochter des Gesandten ﷺ Umm Kulthum?"
+    },
+    "options": {
+      "bs": [
+        "'Budi strpljiv'",
+        "'Oženi se ponovo'",
+        "'Posjeti njen kabur'",
+        "'Da imam treću kćerku, udao bih je za tebe'"
+      ],
+      "de": [
+        "'Sei geduldig'",
+        "'Heirate wieder'",
+        "'Besuche ihr Grab'",
+        "'Hätte ich eine dritte Tochter, würde ich sie mit dir verheiraten'"
+      ]
+    },
+    "correct": {
+      "bs": "'Da imam treću kćerku, udao bih je za tebe'",
+      "de": "'Hätte ich eine dritte Tochter, würde ich sie mit dir verheiraten'"
+    },
+    "explanation": {
+      "bs": "Osman r.a. je bio oženjen s dvije Resulullahove ﷺ kćerke - Rukijom, a nakon njene smrti s Ummu Kulsum. Kada je i Ummu Kulsum umrla u 9. godini po Hidžri, Resulullah ﷺ je rekao: 'Da imam treću kćerku, udao bih je za tebe.' Zbog toga je Osman nazvan 'Zun-Nurejn' (vlasnik dva svjetla).",
+      "de": "Uthman r.a. war mit zwei Töchtern des Gesandten Allahs ﷺ verheiratet - Ruqayya, und nach ihrem Tod mit Umm Kulthum. Als auch Umm Kulthum im 9. Jahr nach der Hidschra starb, sagte der Gesandte Allahs ﷺ: 'Hätte ich eine dritte Tochter, würde ich sie mit dir verheiraten.' Deshalb wird Uthman 'Dhun-Nurayn' (Besitzer zweier Lichter) genannt."
+    }
+  },
+  {
+    "quiz_id": 10,
+    "question_id": 29,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Značajni događaji 9. g.H.",
+    "question": {
+      "bs": "Resulullah ﷺ je klanjao dženazu vođi licemjera Abdullahu bin Ubejju bin Selulu, uprkos Omerovom protivljenju.",
+      "de": "Der Gesandte Allahs ﷺ betete das Totengebet für den Anführer der Heuchler Abdullah bin Ubayy bin Salul, trotz Omars Widerspruch."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Kada je umro Abdullah bin Ubejj bin Selul, vođa licemjera, Resulullah ﷺ mu je oprostio i klanjao dženazu. Omer r.a. se protivio govoreći da je munafik. Međutim, Kur'an je nakon toga potvrdio Omerov stav objavivši ajet koji zabranjuje klanjanje dženaze licemjerima.",
+      "de": "Richtig! Als Abdullah bin Ubayy bin Salul, der Anführer der Heuchler, starb, vergab ihm der Gesandte Allahs ﷺ und betete das Totengebet. Omar r.a. widersprach und sagte, er sei ein Heuchler. Jedoch bestätigte der Koran danach Omars Haltung, indem er einen Vers offenbarte, der das Totengebet für Heuchler verbietet."
+    }
+  },
+  {
+    "quiz_id": 10,
+    "question_id": 30,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "source_section": "Oprosni hadž",
+    "question": {
+      "bs": "Kako se naziva posljednji hadž koji je obavio Resulullah ﷺ?",
+      "de": "Wie wird die letzte Hadsch genannt, die der Gesandte Allahs ﷺ vollzog?"
+    },
+    "options": {
+      "bs": [
+        "Hadžul-islam",
+        "Oprosni hadž (Hidžetul-veda')",
+        "Hadžul-ekber",
+        "Hadžul-feth"
+      ],
+      "de": [
+        "Hadsch al-Islam",
+        "Abschiedshadsch (Hidschat al-Wada')",
+        "Hadsch al-Akbar",
+        "Hadsch al-Fath"
+      ]
+    },
+    "correct": {
+      "bs": "Oprosni hadž (Hidžetul-veda')",
+      "de": "Abschiedshadsch (Hidschat al-Wada')"
+    },
+    "explanation": {
+      "bs": "Posljednji hadž koji je obavio Resulullah ﷺ naziva se 'Oprosni hadž' (Hidžetul-veda') jer se na njemu Resulullah ﷺ opraštao od ummeta. U svom govoru je rekao: 'Ja ne znam da li ću se s vama ikada više sresti na ovom mjestu.' Obavljen je u 10. godini po Hidžri.",
+      "de": "Die letzte Hadsch, die der Gesandte Allahs ﷺ vollzog, wird 'Abschiedshadsch' (Hidschat al-Wada') genannt, weil sich der Gesandte Allahs ﷺ dort von der Umma verabschiedete. In seiner Ansprache sagte er: 'Ich weiss nicht, ob ich euch jemals wieder an diesem Ort treffen werde.' Sie wurde im 10. Jahr nach der Hidschra durchgeführt."
+    }
+  },
+  {
+    "quiz_id": 10,
+    "question_id": 31,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Oprosni hadž",
+    "question": {
+      "bs": "Kada je Resulullah ﷺ krenuo na Oprosni hadž?",
+      "de": "Wann brach der Gesandte Allahs ﷺ zur Abschiedshadsch auf?"
+    },
+    "options": {
+      "bs": [
+        "1. zul-hidžeta 10. g.H.",
+        "25. zul-kadeta 10. g.H., subota",
+        "15. zul-kadeta 10. g.H.",
+        "10. zul-hidžeta 10. g.H."
+      ],
+      "de": [
+        "1. Dhul-Hiddscha 10 n.H.",
+        "25. Dhul-Qa'da 10 n.H., Samstag",
+        "15. Dhul-Qa'da 10 n.H.",
+        "10. Dhul-Hiddscha 10 n.H."
+      ]
+    },
+    "correct": {
+      "bs": "25. zul-kadeta 10. g.H., subota",
+      "de": "25. Dhul-Qa'da 10 n.H., Samstag"
+    },
+    "explanation": {
+      "bs": "Resulullah ﷺ je krenuo na Oprosni hadž u subotu, 25. zul-kadeta 10. godine po Hidžri. Prije odlaska se okupao, obukao ihrame i klanjao podne-namaz dva rekata. Na putu je proveo osam dana i stigao u Meku u nedjelju, 4. zul-hidžeta.",
+      "de": "Der Gesandte Allahs ﷺ brach am Samstag, dem 25. Dhul-Qa'da des 10. Jahres nach der Hidschra, zur Abschiedshadsch auf. Vor der Abreise badete er, legte den Ihram an und betete das Mittagsgebet zwei Rak'at. Er verbrachte acht Tage unterwegs und erreichte Mekka am Sonntag, dem 4. Dhul-Hiddscha."
+    }
+  },
+  {
+    "quiz_id": 10,
+    "question_id": 32,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Oprosni hadž",
+    "question": {
+      "bs": "Koliko je ljudi učestvovalo na Oprosnom hadžu prema predanjima?",
+      "de": "Wie viele Menschen nahmen laut Überlieferungen an der Abschiedshadsch teil?"
+    },
+    "options": {
+      "bs": [
+        "10.000 hadžija",
+        "50.000 hadžija",
+        "30.000 hadžija",
+        "124.000 ili 144.000 hadžija"
+      ],
+      "de": [
+        "10.000 Pilger",
+        "50.000 Pilger",
+        "30.000 Pilger",
+        "124.000 oder 144.000 Pilger"
+      ]
+    },
+    "correct": {
+      "bs": "124.000 ili 144.000 hadžija",
+      "de": "124.000 oder 144.000 Pilger"
+    },
+    "explanation": {
+      "bs": "Na Arefatu se okupilo između 124.000 i 144.000 hadžija prema različitim predanjima. Ovo je bilo najveće okupljanje muslimana za života Resulullaha ﷺ i pokazalo je koliko se islam proširio za samo 23 godine od početka poslanstva.",
+      "de": "Auf Arafat versammelten sich laut verschiedenen Überlieferungen zwischen 124.000 und 144.000 Pilger. Dies war die grösste Versammlung von Muslimen zu Lebzeiten des Gesandten Allahs ﷺ und zeigte, wie sehr sich der Islam in nur 23 Jahren seit Beginn des Prophetentums ausgebreitet hatte."
+    }
+  },
+  {
+    "quiz_id": 10,
+    "question_id": 33,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Oprosni hadž - hutba",
+    "question": {
+      "bs": "Gdje je Resulullah ﷺ održao glavnu hutbu na Oprosnom hadžu?",
+      "de": "Wo hielt der Gesandte Allahs ﷺ die Hauptansprache bei der Abschiedshadsch?"
+    },
+    "options": {
+      "bs": [
+        "Na Muzdelifi",
+        "U Meki",
+        "Na Mini",
+        "Na Arefatu"
+      ],
+      "de": [
+        "In Muzdalifa",
+        "In Mekka",
+        "In Mina",
+        "Auf Arafat"
+      ]
+    },
+    "correct": {
+      "bs": "Na Arefatu",
+      "de": "Auf Arafat"
+    },
+    "explanation": {
+      "bs": "Resulullah ﷺ je održao glavnu hutbu Oprosnog hadža na Arefatu, 9. zul-hidžeta. Sjahao je sa deve usred doline Arefata i obratio se ogromnoj masi hadžija. Ovo je bila jedna od najvažnijih hutbi u historiji islama.",
+      "de": "Der Gesandte Allahs ﷺ hielt die Hauptansprache der Abschiedshadsch auf Arafat, am 9. Dhul-Hiddscha. Er stieg vom Kamel mitten im Tal von Arafat ab und wandte sich an die riesige Masse der Pilger. Dies war eine der wichtigsten Ansprachen in der Geschichte des Islam."
+    }
+  },
+  {
+    "quiz_id": 10,
+    "question_id": 34,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "source_section": "Oprosni hadž - hutba",
+    "question": {
+      "bs": "Šta je Resulullah ﷺ rekao na početku hutbe na Arefatu?",
+      "de": "Was sagte der Gesandte Allahs ﷺ zu Beginn der Ansprache auf Arafat?"
+    },
+    "options": {
+      "bs": [
+        "'Ovo je samo početak'",
+        "'Dođite ponovo sljedeće godine'",
+        "'Ja ne znam da li ću se s vama ikada više sresti na ovom mjestu'",
+        "'Ovo je moj prvi hadž'"
+      ],
+      "de": [
+        "'Dies ist nur der Anfang'",
+        "'Kommt nächstes Jahr wieder'",
+        "'Ich weiss nicht, ob ich euch jemals wieder an diesem Ort treffen werde'",
+        "'Dies ist meine erste Hadsch'"
+      ]
+    },
+    "correct": {
+      "bs": "'Ja ne znam da li ću se s vama ikada više sresti na ovom mjestu'",
+      "de": "'Ich weiss nicht, ob ich euch jemals wieder an diesem Ort treffen werde'"
+    },
+    "explanation": {
+      "bs": "Resulullah ﷺ je započeo hutbu riječima: 'O ljudi, poslušajte moj govor, jer ja ne znam da li ću se nakon ovog mog hadža više sresti s vama ikada na ovom mjestu.' Ove riječi su nagovijestile njegov skorašnji odlazak s ovog svijeta.",
+      "de": "Der Gesandte Allahs ﷺ begann die Ansprache mit den Worten: 'O ihr Menschen, hört meiner Rede zu, denn ich weiss nicht, ob ich euch nach dieser meiner Hadsch jemals wieder an diesem Ort treffen werde.' Diese Worte kündigten seinen baldigen Abschied von dieser Welt an."
+    }
+  },
+  {
+    "quiz_id": 10,
+    "question_id": 35,
+    "type": "multiple_choice",
+    "difficulty": "medium",
+    "source_section": "Oprosni hadž - hutba",
+    "question": {
+      "bs": "Šta je Resulullah ﷺ proglasio svetim u hutbi na Arefatu? (odaberi tri tačna)",
+      "de": "Was erklärte der Gesandte Allahs ﷺ in der Ansprache auf Arafat für heilig? (wähle drei richtige)"
+    },
+    "options": {
+      "bs": [
+        "Čast muslimana",
+        "Zemlju muslimana",
+        "Krv muslimana",
+        "Imetak muslimana"
+      ],
+      "de": [
+        "Die Ehre der Muslime",
+        "Das Land der Muslime",
+        "Das Blut der Muslime",
+        "Das Vermögen der Muslime"
+      ]
+    },
+    "correct": {
+      "bs": [
+        "Krv muslimana",
+        "Imetak muslimana",
+        "Čast muslimana"
+      ],
+      "de": [
+        "Das Blut der Muslime",
+        "Das Vermögen der Muslime",
+        "Die Ehre der Muslime"
+      ]
+    },
+    "explanation": {
+      "bs": "Resulullah ﷺ je rekao: 'Vaša krv i vaši imeci su vam sveti, kao što je svet ovaj vaš dan u ovom vašem mjesecu i u ovoj vašoj zemlji.' U drugom dijelu hutbe je dodao i čast (ird). Ovo su temeljna prava svakog muslimana koja se ne smiju kršiti.",
+      "de": "Der Gesandte Allahs ﷺ sagte: 'Euer Blut und euer Vermögen sind euch heilig, so wie dieser euer Tag in diesem eurem Monat und in diesem eurem Land heilig ist.' Im zweiten Teil der Ansprache fügte er auch die Ehre (Ird) hinzu. Dies sind grundlegende Rechte jedes Muslims, die nicht verletzt werden dürfen."
+    }
+  },
+  {
+    "quiz_id": 10,
+    "question_id": 36,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Oprosni hadž - hutba",
+    "question": {
+      "bs": "Koju je krvnu osvetu Resulullah ﷺ prvi poništio u hutbi na Arefatu?",
+      "de": "Welche Blutrache hob der Gesandte Allahs ﷺ in der Ansprache auf Arafat zuerst auf?"
+    },
+    "options": {
+      "bs": [
+        "Krvnu osvetu Ebu Taliba",
+        "Krvnu osvetu Ibn Rebi'at bin el-Harisa",
+        "Krvnu osvetu Hamze",
+        "Krvnu osvetu Abdullaha"
+      ],
+      "de": [
+        "Die Blutrache von Abu Talib",
+        "Die Blutrache von Ibn Rabi'at bin al-Harith",
+        "Die Blutrache von Hamza",
+        "Die Blutrache von Abdullah"
+      ]
+    },
+    "correct": {
+      "bs": "Krvnu osvetu Ibn Rebi'at bin el-Harisa",
+      "de": "Die Blutrache von Ibn Rabi'at bin al-Harith"
+    },
+    "explanation": {
+      "bs": "Resulullah ﷺ je rekao: 'I krvna osveta iz predislamskog doba oborena je. Prvu krvnu osvetu, našu krv Ibn Rebi'at bin el-Harisa, poništavam. On je bio na dojenju u plemenu Benu S'ada, a ubili su ga iz plemena Huzejl.' Time je pokazao da počinje od svoje porodice.",
+      "de": "Der Gesandte Allahs ﷺ sagte: 'Und die Blutrache aus der vorislamischen Zeit ist aufgehoben. Die erste Blutrache, unser Blut von Ibn Rabi'at bin al-Harith, hebe ich auf. Er war beim Stillen im Stamm Banu S'ad, und sie haben ihn vom Stamm Huzayl getötet.' Damit zeigte er, dass er bei seiner eigenen Familie beginnt."
+    }
+  },
+  {
+    "quiz_id": 10,
+    "question_id": 37,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Oprosni hadž - hutba",
+    "question": {
+      "bs": "Čiju je kamatu Resulullah ﷺ prvi poništio u hutbi na Arefatu?",
+      "de": "Wessen Zinsen hob der Gesandte Allahs ﷺ in der Ansprache auf Arafat zuerst auf?"
+    },
+    "options": {
+      "bs": [
+        "Kamatu Abbasa bin Abdul-Muttaliba",
+        "Kamatu Velida bin el-Mugire",
+        "Kamatu Ebu Sufjana",
+        "Kamatu Ebu Leheba"
+      ],
+      "de": [
+        "Die Zinsen von Abbas bin Abdul-Muttalib",
+        "Die Zinsen von Walid bin al-Mughira",
+        "Die Zinsen von Abu Sufyan",
+        "Die Zinsen von Abu Lahab"
+      ]
+    },
+    "correct": {
+      "bs": "Kamatu Abbasa bin Abdul-Muttaliba",
+      "de": "Die Zinsen von Abbas bin Abdul-Muttalib"
+    },
+    "explanation": {
+      "bs": "Resulullah ﷺ je rekao: 'Predislamska kamata je poništena. Prva kamata s naše strane koju odbacujemo jeste kamata Abbasa bin Abdul-Muttaliba. Sva je oborena.' Time je pokazao da islamski propisi vrijede za sve, počevši od njegove porodice.",
+      "de": "Der Gesandte Allahs ﷺ sagte: 'Die vorislamischen Zinsen sind aufgehoben. Die ersten Zinsen von unserer Seite, die wir verwerfen, sind die Zinsen von Abbas bin Abdul-Muttalib. Alle sind aufgehoben.' Damit zeigte er, dass islamische Vorschriften für alle gelten, angefangen bei seiner eigenen Familie."
+    }
+  },
+  {
+    "quiz_id": 10,
+    "question_id": 38,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Oprosni hadž - hutba",
+    "question": {
+      "bs": "Šta je Resulullah ﷺ rekao o ženama u hutbi na Arefatu?",
+      "de": "Was sagte der Gesandte Allahs ﷺ über Frauen in der Ansprache auf Arafat?"
+    },
+    "options": {
+      "bs": [
+        "'Žene ne trebaju zekat'",
+        "'Žene moraju ostati kod kuće'",
+        "'Bojte se Allaha u ponašanju sa ženama. Vi ste ih uzeli uz Allahovo povjerenje'",
+        "'Žene nemaju prava'"
+      ],
+      "de": [
+        "'Frauen brauchen keine Zakat'",
+        "'Frauen müssen zu Hause bleiben'",
+        "'Fürchtet Allah im Umgang mit den Frauen. Ihr habt sie mit Allahs Anvertrauen genommen'",
+        "'Frauen haben keine Rechte'"
+      ]
+    },
+    "correct": {
+      "bs": "'Bojte se Allaha u ponašanju sa ženama. Vi ste ih uzeli uz Allahovo povjerenje'",
+      "de": "'Fürchtet Allah im Umgang mit den Frauen. Ihr habt sie mit Allahs Anvertrauen genommen'"
+    },
+    "explanation": {
+      "bs": "Resulullah ﷺ je rekao: 'Bojte se Allaha u ponašanju sa ženama. Vi ste ih uzeli uz Allahovo povjerenje, s njima odnos imate uz Allahovo odobrenje. One imaju pravo da ih vi hranite i oblačite, kako je pravično.' Ovo je bila revolucionarna poruka o pravima žena.",
+      "de": "Der Gesandte Allahs ﷺ sagte: 'Fürchtet Allah im Umgang mit den Frauen. Ihr habt sie mit Allahs Anvertrauen genommen, mit ihnen habt ihr Beziehungen mit Allahs Erlaubnis. Sie haben das Recht, dass ihr sie ernährt und kleidet, wie es gerecht ist.' Dies war eine revolutionäre Botschaft über die Rechte der Frauen."
+    }
+  },
+  {
+    "quiz_id": 10,
+    "question_id": 39,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "source_section": "Oprosni hadž - hutba",
+    "question": {
+      "bs": "Šta je Resulullah ﷺ ostavio ummetu kao vodilju prema hutbi na Arefatu?",
+      "de": "Was hinterliess der Gesandte Allahs ﷺ der Umma als Wegweiser laut der Ansprache auf Arafat?"
+    },
+    "options": {
+      "bs": [
+        "Sav svoj imetak",
+        "Svoje potomstvo",
+        "Allahovu Knjigu (Kur'an)",
+        "Meku"
+      ],
+      "de": [
+        "Sein gesamtes Vermögen",
+        "Seine Nachkommen",
+        "Das Buch Allahs (Koran)",
+        "Mekka"
+      ]
+    },
+    "correct": {
+      "bs": "Allahovu Knjigu (Kur'an)",
+      "de": "Das Buch Allahs (Koran)"
+    },
+    "explanation": {
+      "bs": "Resulullah ﷺ je rekao: 'Vama ostavljam Allahovu Knjigu, i ako je se budete čvrsto pridržavali nećete zalutati.' Kur'an je vječna uputa koja garantira ispravnost puta za svakog ko ga slijedi s iskrenom namjerom.",
+      "de": "Der Gesandte Allahs ﷺ sagte: 'Ich hinterlasse euch das Buch Allahs, und wenn ihr euch fest daran haltet, werdet ihr nicht in die Irre gehen.' Der Koran ist die ewige Rechtleitung, die den richtigen Weg für jeden garantiert, der ihm mit aufrichtiger Absicht folgt."
+    }
+  },
+  {
+    "quiz_id": 10,
+    "question_id": 40,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Oprosni hadž - ajet",
+    "question": {
+      "bs": "Koji je ajet objavljen na Arefatu nakon hutbe Resulullaha ﷺ?",
+      "de": "Welcher Vers wurde auf Arafat nach der Ansprache des Gesandten Allahs ﷺ offenbart?"
+    },
+    "options": {
+      "bs": [
+        "'O ti umotani...' (73:1)",
+        "'Danas sam vam vašu vjeru usavršio i blagodat Svoju upotpunio...' (5:3)",
+        "'O ti pokriveni...' (74:1)",
+        "'Čitaj u ime Gospodara tvoga...' (96:1)"
+      ],
+      "de": [
+        "'O du Eingehüllter...' (73:1)",
+        "'Heute habe ich euch eure Religion vervollkommnet und Meine Gnade vollendet...' (5:3)",
+        "'O du Bedeckter...' (74:1)",
+        "'Lies im Namen deines Herrn...' (96:1)"
+      ]
+    },
+    "correct": {
+      "bs": "'Danas sam vam vašu vjeru usavršio i blagodat Svoju upotpunio...' (5:3)",
+      "de": "'Heute habe ich euch eure Religion vervollkommnet und Meine Gnade vollendet...' (5:3)"
+    },
+    "explanation": {
+      "bs": "Nakon što je Resulullah ﷺ završio govor, Allah je objavio: 'Danas sam vam vašu vjeru usavršio i blagodat Svoju prema vama upotpunio i zadovoljan sam da vam islam bude vjera.' (5:3) Kada je Omer r.a. čuo ovaj ajet, zaplakao je jer je shvatio da nakon savršenstva dolazi samo manjkanje - nagovještaj smrti Resulullaha ﷺ.",
+      "de": "Nachdem der Gesandte Allahs ﷺ seine Rede beendet hatte, offenbarte Allah: 'Heute habe ich euch eure Religion vervollkommnet und Meine Gnade an euch vollendet und bin zufrieden, dass der Islam eure Religion sei.' (5:3) Als Omar r.a. diesen Vers hörte, weinte er, weil er verstand, dass nach Vollkommenheit nur Mangel kommt - ein Hinweis auf den Tod des Gesandten Allahs ﷺ."
+    }
+  },
+  {
+    "quiz_id": 10,
+    "question_id": 41,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Oprosni hadž - obredi",
+    "question": {
+      "bs": "Ko je najjačim glasom prenosio Resulullahove ﷺ riječi prisutnima na Arefatu?",
+      "de": "Wer übertrug die Worte des Gesandten Allahs ﷺ mit der lautesten Stimme an die Anwesenden auf Arafat?"
+    },
+    "options": {
+      "bs": [
+        "Abbas bin Abdul-Mutalib",
+        "Bilal bin Rebah",
+        "Omer bin el-Hattab",
+        "Rebia bin Umejje bin Halef"
+      ],
+      "de": [
+        "Abbas bin Abdul-Muttalib",
+        "Bilal bin Rabah",
+        "Omar bin al-Khattab",
+        "Rabi'a bin Umayya bin Khalaf"
+      ]
+    },
+    "correct": {
+      "bs": "Rebia bin Umejje bin Halef",
+      "de": "Rabi'a bin Umayya bin Khalaf"
+    },
+    "explanation": {
+      "bs": "Rebia bin Umejje bin Halef je bio čovjek koji je najjačim glasom prenosio Resulullahove ﷺ riječi prisutnima na Arefatu. Zbog ogromnog broja hadžija (preko 100.000), bilo je potrebno da neko glasno ponavlja riječi kako bi svi mogli čuti.",
+      "de": "Rabi'a bin Umayya bin Khalaf war der Mann, der die Worte des Gesandten Allahs ﷺ mit der lautesten Stimme an die Anwesenden auf Arafat übertrug. Wegen der enormen Zahl der Pilger (über 100.000) war es notwendig, dass jemand die Worte laut wiederholte, damit alle sie hören konnten."
+    }
+  },
+  {
+    "quiz_id": 10,
+    "question_id": 42,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Oprosni hadž - obredi",
+    "question": {
+      "bs": "Koliko je kurbana zaklao Resulullah ﷺ na Oprosnom hadžu?",
+      "de": "Wie viele Opfertiere schlachtete der Gesandte Allahs ﷺ bei der Abschiedshadsch?"
+    },
+    "options": {
+      "bs": [
+        "30 deva",
+        "100 deva (63 svojom rukom, 37 Alija)",
+        "70 deva",
+        "50 deva"
+      ],
+      "de": [
+        "30 Kamele",
+        "100 Kamele (63 mit eigener Hand, 37 Ali)",
+        "70 Kamele",
+        "50 Kamele"
+      ]
+    },
+    "correct": {
+      "bs": "100 deva (63 svojom rukom, 37 Alija)",
+      "de": "100 Kamele (63 mit eigener Hand, 37 Ali)"
+    },
+    "explanation": {
+      "bs": "Resulullah ﷺ je zaklao ukupno 100 deva na Oprosnom hadžu. Svojom rukom je zaklao 63 deve (koliko je imao godina života), a onda je dao Aliji r.a. da zakolje ostatak - 37 deva. Alija r.a. se udružio s Resulullahom ﷺ u njegovim kurbanima.",
+      "de": "Der Gesandte Allahs ﷺ schlachtete insgesamt 100 Kamele bei der Abschiedshadsch. Mit eigener Hand schlachtete er 63 Kamele (so viele Jahre, wie er alt war), dann gab er Ali r.a. den Rest zu schlachten - 37 Kamele. Ali r.a. teilte sich mit dem Gesandten Allahs ﷺ seine Opfertiere."
+    }
+  },
+  {
+    "quiz_id": 10,
+    "question_id": 43,
+    "type": "ordering",
+    "difficulty": "hard",
+    "source_section": "Oprosni hadž - obredi",
+    "question": {
+      "bs": "Poredaj hadžske obrede Oprosnog hadža po redoslijedu:",
+      "de": "Ordne die Hadsch-Riten der Abschiedshadsch in der richtigen Reihenfolge:"
+    },
+    "options": {
+      "bs": [
+        "Bacanje kamenčića na džemreta",
+        "Stajanje na Arefatu",
+        "Boravak na Muzdelifi",
+        "Boravak na Mini (8. zul-hidže)"
+      ],
+      "de": [
+        "Werfen der Steinchen auf Dschamarat",
+        "Stehen auf Arafat",
+        "Aufenthalt in Muzdalifa",
+        "Aufenthalt in Mina (8. Dhul-Hiddscha)"
+      ]
+    },
+    "correct": {
+      "bs": [
+        "Boravak na Mini (8. zul-hidže)",
+        "Stajanje na Arefatu",
+        "Boravak na Muzdelifi",
+        "Bacanje kamenčića na džemreta"
+      ],
+      "de": [
+        "Aufenthalt in Mina (8. Dhul-Hiddscha)",
+        "Stehen auf Arafat",
+        "Aufenthalt in Muzdalifa",
+        "Werfen der Steinchen auf Dschamarat"
+      ]
+    },
+    "explanation": {
+      "bs": "Redoslijed hadžskih obreda: 1) Boravak na Mini - 8. zul-hidžeta (dan tervijeta), 2) Stajanje na Arefatu - 9. zul-hidžeta, 3) Boravak na Muzdelifi - noć uoči 10. zul-hidžeta, 4) Bacanje kamenčića na džemreta - 10. zul-hidžeta (dan Kurban-bajrama).",
+      "de": "Reihenfolge der Hadsch-Riten: 1) Aufenthalt in Mina - 8. Dhul-Hiddscha (Tag der Tarviya), 2) Stehen auf Arafat - 9. Dhul-Hiddscha, 3) Aufenthalt in Muzdalifa - Nacht vor dem 10. Dhul-Hiddscha, 4) Werfen der Steinchen auf Dschamarat - 10. Dhul-Hiddscha (Tag des Opferfestes)."
+    }
+  },
+  {
+    "quiz_id": 10,
+    "question_id": 44,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Vjesnici rastanka",
+    "question": {
+      "bs": "Koliko je dana Resulullah ﷺ proveo u i'tikafu u ramazanu 10. g.H., za razliku od prethodnih godina?",
+      "de": "Wie viele Tage verbrachte der Gesandte Allahs ﷺ im I'tikaf im Ramadan 10 n.H., anders als in den Vorjahren?"
+    },
+    "options": {
+      "bs": [
+        "10 dana",
+        "30 dana",
+        "15 dana",
+        "20 dana, dok je prije ostajao 10 dana"
+      ],
+      "de": [
+        "10 Tage",
+        "30 Tage",
+        "15 Tage",
+        "20 Tage, während er vorher 10 Tage blieb"
+      ]
+    },
+    "correct": {
+      "bs": "20 dana, dok je prije ostajao 10 dana",
+      "de": "20 Tage, während er vorher 10 Tage blieb"
+    },
+    "explanation": {
+      "bs": "U ramazanu 10. g.H. Resulullah ﷺ je proveo u i'tikafu 20 dana, dok je prethodnih godina ostajao samo 10 dana. Također je Džibril a.s. proučio Kur'an s njim dva puta umjesto jednom. Ovo su bili znaci nagovještaja skorog rastanka.",
+      "de": "Im Ramadan 10 n.H. verbrachte der Gesandte Allahs ﷺ 20 Tage im I'tikaf, während er in den Vorjahren nur 10 Tage blieb. Auch rezitierte Dschibrail a.s. den Koran zweimal mit ihm statt einmal. Dies waren Zeichen, die das baldige Scheiden ankündigten."
+    }
+  },
+  {
+    "quiz_id": 10,
+    "question_id": 45,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Vjesnici rastanka",
+    "question": {
+      "bs": "Koja je sura objavljena sredinom Kurban-bajrama, nagovještavajući Resulullahu ﷺ smrt?",
+      "de": "Welche Sure wurde in der Mitte des Opferfestes offenbart und kündigte dem Gesandten Allahs ﷺ den Tod an?"
+    },
+    "options": {
+      "bs": [
+        "Sura En-Nasr",
+        "Sura El-Fatiha",
+        "Sura El-Kafirun",
+        "Sura El-Ihlas"
+      ],
+      "de": [
+        "Sure An-Nasr",
+        "Sure Al-Fatiha",
+        "Sure Al-Kafirun",
+        "Sure Al-Ikhlas"
+      ]
+    },
+    "correct": {
+      "bs": "Sura En-Nasr",
+      "de": "Sure An-Nasr"
+    },
+    "explanation": {
+      "bs": "Sredinom Kurban-bajrama objavljena je sura En-Nasr: 'Kada Allahova pomoć i pobjeda dođu, i vidiš ljude kako u skupinama u Allahovu vjeru ulaze, ti slavi Gospodara svoga hvaleći Ga i moli Ga za oprost, On prima pokajanje.' Resulullah ﷺ je znao da je ovo nagovještaj skorog rastanka.",
+      "de": "In der Mitte des Opferfestes wurde Sure An-Nasr offenbart: 'Wenn Allahs Hilfe und der Sieg kommen, und du die Menschen in Scharen in Allahs Religion eintreten siehst, dann preise deinen Herrn und bitte Ihn um Vergebung. Er nimmt Reue an.' Der Gesandte Allahs ﷺ wusste, dass dies das baldige Scheiden ankündigte."
+    }
+  },
+  {
+    "quiz_id": 10,
+    "question_id": 46,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Posljednji dani",
+    "question": {
+      "bs": "Početkom kojeg mjeseca je Resulullah ﷺ posjetio mezarje Dženneti-bekije i molio za umrle?",
+      "de": "Zu Beginn welchen Monats besuchte der Gesandte Allahs ﷺ den Friedhof Dschannatul-Baqi und betete für die Verstorbenen?"
+    },
+    "options": {
+      "bs": [
+        "Rebiul-evela 11. g.H.",
+        "Safera 11. g.H.",
+        "Muharrema 11. g.H.",
+        "Zul-hidžeta 10. g.H."
+      ],
+      "de": [
+        "Rabi al-Awwal 11 n.H.",
+        "Safar 11 n.H.",
+        "Muharram 11 n.H.",
+        "Dhul-Hiddscha 10 n.H."
+      ]
+    },
+    "correct": {
+      "bs": "Safera 11. g.H.",
+      "de": "Safar 11 n.H."
+    },
+    "explanation": {
+      "bs": "Početkom safera 11. g.H. Resulullah ﷺ je otišao na Uhud i klanjao moleći se Allahu za šehide, opraštajući se od mrtvih i živih. Tu noć je otišao u Dženneti-bekiju (mezarje) i rekao: 'Esselamu alejkum, o stanovnici mezarja... Mi ćemo doći tamo gdje ste vi.'",
+      "de": "Zu Beginn des Safar 11 n.H. ging der Gesandte Allahs ﷺ nach Uhud und betete zu Allah für die Märtyrer, sich von den Toten und Lebenden verabschiedend. In jener Nacht ging er nach Dschannatul-Baqi (Friedhof) und sagte: 'As-Salamu Alaikum, o Bewohner des Friedhofs... Wir werden dorthin kommen, wo ihr seid.'"
+    }
+  },
+  {
+    "quiz_id": 10,
+    "question_id": 47,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Posljednji dani",
+    "question": {
+      "bs": "Kada je Resulullah ﷺ počeo osjećati simptome bolesti?",
+      "de": "Wann begann der Gesandte Allahs ﷺ, Symptome der Krankheit zu spüren?"
+    },
+    "options": {
+      "bs": [
+        "U ponedjeljak, 29. safera 11. g.H.",
+        "1. rebiul-evela 11. g.H.",
+        "15. safera 11. g.H.",
+        "10. rebiul-evela 11. g.H."
+      ],
+      "de": [
+        "Am Montag, 29. Safar 11 n.H.",
+        "1. Rabi al-Awwal 11 n.H.",
+        "15. Safar 11 n.H.",
+        "10. Rabi al-Awwal 11 n.H."
+      ]
+    },
+    "correct": {
+      "bs": "U ponedjeljak, 29. safera 11. g.H.",
+      "de": "Am Montag, 29. Safar 11 n.H."
+    },
+    "explanation": {
+      "bs": "U ponedjeljak, 29. safera 11. g.H., Resulullah ﷺ je prisustvovao jednoj dženazi u Dženneti-bekiji. Kada se vraćao kući, zaboljela ga je glava i dobio je visoku temperaturu. Bolest je trajala 13-14 dana.",
+      "de": "Am Montag, dem 29. Safar 11 n.H., nahm der Gesandte Allahs ﷺ an einem Totengebet in Dschannatul-Baqi teil. Als er nach Hause zurückkehrte, bekam er Kopfschmerzen und hohes Fieber. Die Krankheit dauerte 13-14 Tage."
+    }
+  },
+  {
+    "quiz_id": 10,
+    "question_id": 48,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Posljednji dani",
+    "question": {
+      "bs": "Kod koje je supruge Resulullah ﷺ proveo posljednju sedmicu života?",
+      "de": "Bei welcher Ehefrau verbrachte der Gesandte Allahs ﷺ die letzte Woche seines Lebens?"
+    },
+    "options": {
+      "bs": [
+        "Ummu Seleme r.a.",
+        "Hafse r.a.",
+        "Aiše r.a.",
+        "Zejnebe r.a."
+      ],
+      "de": [
+        "Umm Salama r.a.",
+        "Hafsa r.a.",
+        "Aischa r.a.",
+        "Zainab r.a."
+      ]
+    },
+    "correct": {
+      "bs": "Aiše r.a.",
+      "de": "Aischa r.a."
+    },
+    "explanation": {
+      "bs": "Resulullah ﷺ je proveo posljednju sedmicu života u kući Aiše r.a. Bolestan, pitao je svoje žene: 'Gdje sam sutra?' One su shvatile njegovu želju da bude kod Aiše, pa su dozvolile. Preselio se kod nje oslanjajući se između El-Fadla bin Abbasa i Alije r.a.",
+      "de": "Der Gesandte Allahs ﷺ verbrachte die letzte Woche seines Lebens im Haus von Aischa r.a. Krank fragte er seine Frauen: 'Wo bin ich morgen?' Sie verstanden seinen Wunsch, bei Aischa zu sein, und erlaubten es. Er zog zu ihr, gestützt zwischen Al-Fadl bin Abbas und Ali r.a."
+    }
+  },
+  {
+    "quiz_id": 10,
+    "question_id": 49,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Posljednji dani",
+    "question": {
+      "bs": "Šta je Resulullah ﷺ rekao pet dana pred preseljenje, upozoravajući na praksu jevreja i kršćana?",
+      "de": "Was sagte der Gesandte Allahs ﷺ fünf Tage vor seinem Ableben und warnte vor der Praxis der Juden und Christen?"
+    },
+    "options": {
+      "bs": [
+        "'Prokletstvo Allahovo na jevreje i kršćane, jer su grobove svojih poslanika pretvorili u bogomolje'",
+        "'Ne jedite kamatu'",
+        "'Klanjajte namaz'",
+        "'Dajite zekat'"
+      ],
+      "de": [
+        "'Allahs Fluch auf die Juden und Christen, weil sie die Gräber ihrer Propheten zu Gebetsstätten machten'",
+        "'Esst keine Zinsen'",
+        "'Verrichtet das Gebet'",
+        "'Gebt die Zakat'"
+      ]
+    },
+    "correct": {
+      "bs": "'Prokletstvo Allahovo na jevreje i kršćane, jer su grobove svojih poslanika pretvorili u bogomolje'",
+      "de": "'Allahs Fluch auf die Juden und Christen, weil sie die Gräber ihrer Propheten zu Gebetsstätten machten'"
+    },
+    "explanation": {
+      "bs": "U srijedu, pet dana pred preseljenje, Resulullah ﷺ je rekao: 'Prokletstvo Allahovo neka je na jevreje i kršćane, jer su grobove svojih poslanika pretvorili u bogomolje.' Zatim je rekao: 'Ne uzimajte moj kabur za predmet obožavanja!' Ovo je jasna zabrana pretvaranja grobova u mjesta ibadeta.",
+      "de": "Am Mittwoch, fünf Tage vor seinem Ableben, sagte der Gesandte Allahs ﷺ: 'Allahs Fluch sei auf den Juden und Christen, weil sie die Gräber ihrer Propheten zu Gebetsstätten machten.' Dann sagte er: 'Macht mein Grab nicht zum Gegenstand der Anbetung!' Dies ist ein klares Verbot, Gräber zu Gebetsstätten zu machen."
+    }
+  },
+  {
+    "quiz_id": 10,
+    "question_id": 50,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Posljednji dani",
+    "question": {
+      "bs": "Koga je Resulullah ﷺ opisao kao 'najdarežljivijeg čovjeka prema meni' i čija vrata su jedina ostala otvorena prema mesdžidu?",
+      "de": "Wen beschrieb der Gesandte Allahs ﷺ als 'den grosszügigsten Menschen mir gegenüber' und dessen Tür als einzige zur Moschee offen blieb?"
+    },
+    "options": {
+      "bs": [
+        "Aliju r.a.",
+        "Omera r.a.",
+        "Osmana r.a.",
+        "Ebu Bekra r.a."
+      ],
+      "de": [
+        "Ali r.a.",
+        "Omar r.a.",
+        "Uthman r.a.",
+        "Abu Bakr r.a."
+      ]
+    },
+    "correct": {
+      "bs": "Ebu Bekra r.a.",
+      "de": "Abu Bakr r.a."
+    },
+    "explanation": {
+      "bs": "Resulullah ﷺ je rekao: 'Najdarežljiviji čovjek prema meni, bilo u svom imetku ili druženju sa mnom, je Ebu Bekr. Kada bih tražio prisnog prijatelja mimo mog Gospodara, uzeo bih Ebu Bekra. Ali islamsko bratstvo i ljubav ostvareni su. Neka na džamiji ne ostanu ni jedna vrata, a da se ne zatvore, osim Ebu Bekrovih vrata.'",
+      "de": "Der Gesandte Allahs ﷺ sagte: 'Der grosszügigste Mensch mir gegenüber, sei es in seinem Vermögen oder in der Gesellschaft mit mir, ist Abu Bakr. Wenn ich einen engen Freund ausser meinem Herrn suchen würde, würde ich Abu Bakr nehmen. Aber die islamische Brüderlichkeit und Liebe sind verwirklicht. Lasst keine Tür zur Moschee offen, ausser der Tür von Abu Bakr.'"
+    }
+  },
+  {
+    "quiz_id": 10,
+    "question_id": 51,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Usamina vojska",
+    "question": {
+      "bs": "Koga je Resulullah ﷺ postavio za zapovjednika posljednje vojne ekspedicije?",
+      "de": "Wen ernannte der Gesandte Allahs ﷺ zum Befehlshaber der letzten Militärexpedition?"
+    },
+    "options": {
+      "bs": [
+        "Aliju bin Ebi Taliba",
+        "Ebu Bekra es-Siddika",
+        "Halida bin Velida",
+        "Usamu bin Zejda"
+      ],
+      "de": [
+        "Ali bin Abi Talib",
+        "Abu Bakr as-Siddiq",
+        "Khalid bin Walid",
+        "Usama bin Zayd"
+      ]
+    },
+    "correct": {
+      "bs": "Usamu bin Zejda",
+      "de": "Usama bin Zayd"
+    },
+    "explanation": {
+      "bs": "Resulullah ﷺ je postavio Usamu bin Zejda za zapovjednika vojne ekspedicije prema bizantijskoj granici. Neki su kritikovali zbog njegove mladosti, ali Resulullah ﷺ je rekao: 'Ne čudim se što napadate Usameov položaj, jer ste napadali i položaj njegovog oca prije toga.' Ova vojska je krenula nakon smrti Resulullaha ﷺ, u hilafetu Ebu Bekra r.a.",
+      "de": "Der Gesandte Allahs ﷺ ernannte Usama bin Zayd zum Befehlshaber der Militärexpedition gegen die byzantinische Grenze. Einige kritisierten dies wegen seines jungen Alters, aber der Gesandte Allahs ﷺ sagte: 'Ich wundere mich nicht, dass ihr Usamas Position angreift, denn ihr habt auch die Position seines Vaters zuvor angegriffen.' Diese Armee brach nach dem Tod des Gesandten Allahs ﷺ auf, während des Kalifats von Abu Bakr r.a."
+    }
+  },
+  {
+    "quiz_id": 10,
+    "question_id": 52,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Usamina vojska",
+    "question": {
+      "bs": "Gdje je Usamina vojska logorovala kada je stigla vijest o bolesti Resulullaha ﷺ?",
+      "de": "Wo lagerte Usamas Armee, als die Nachricht von der Krankheit des Gesandten Allahs ﷺ eintraf?"
+    },
+    "options": {
+      "bs": [
+        "El-Džurfi, na tri milje od Medine",
+        "U Meki",
+        "U Jemenu",
+        "Na Tebuku"
+      ],
+      "de": [
+        "Al-Dschurf, drei Meilen von Medina entfernt",
+        "In Mekka",
+        "Im Jemen",
+        "Bei Tabuk"
+      ]
+    },
+    "correct": {
+      "bs": "El-Džurfi, na tri milje od Medine",
+      "de": "Al-Dschurf, drei Meilen von Medina entfernt"
+    },
+    "explanation": {
+      "bs": "Usamina vojska je napustila Medinu i njihovo prvo odmaralište bilo je El-Džurfi, na tri milje od Medine. Tu su stigle nepovoljne vijesti o bolesti Resulullaha ﷺ, pa su se zaustavili dok ne saznaju za Allahovu odredbu. Na kraju je ovo bio prvi vojni pohod u hilafetu Ebu Bekra r.a.",
+      "de": "Usamas Armee verliess Medina und ihr erstes Rastlager war Al-Dschurf, drei Meilen von Medina entfernt. Dort erreichten sie ungünstige Nachrichten über die Krankheit des Gesandten Allahs ﷺ, also hielten sie an, bis sie Allahs Entscheidung erfuhren. Letztendlich war dies der erste Feldzug im Kalifat von Abu Bakr r.a."
+    }
+  },
+  {
+    "quiz_id": 10,
+    "question_id": 53,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Posljednji dani - četvrtak",
+    "question": {
+      "bs": "Šta je Resulullah ﷺ rekao u četvrtak, četiri dana pred preseljenje, kada je htio napisati oporuku?",
+      "de": "Was sagte der Gesandte Allahs ﷺ am Donnerstag, vier Tage vor seinem Ableben, als er ein Testament schreiben wollte?"
+    },
+    "options": {
+      "bs": [
+        "'Pozovite mi ljekara'",
+        "'Donesite mi hranu'",
+        "'Otvorite vrata'",
+        "'Hodite da vam napišem knjigu, da ne biste ponovo skrenuli s pravog puta'"
+      ],
+      "de": [
+        "'Ruft mir einen Arzt'",
+        "'Bringt mir Essen'",
+        "'Öffnet die Türen'",
+        "'Kommt, damit ich euch ein Schreiben verfasse, damit ihr nicht wieder vom rechten Weg abweicht'"
+      ]
+    },
+    "correct": {
+      "bs": "'Hodite da vam napišem knjigu, da ne biste ponovo skrenuli s pravog puta'",
+      "de": "'Kommt, damit ich euch ein Schreiben verfasse, damit ihr nicht wieder vom rechten Weg abweicht'"
+    },
+    "explanation": {
+      "bs": "U četvrtak, četiri dana pred preseljenje, Resulullah ﷺ je rekao: 'Hodite da vam napišem knjigu, da ne biste ponovo skrenuli s pravog puta.' Omer r.a. je rekao da ga je savladala bolest i da im je dovoljna Allahova knjiga. Ukućani su se podijelili u mišljenju, pa je Resulullah ﷺ rekao: 'Idite i ostavite me na miru!'",
+      "de": "Am Donnerstag, vier Tage vor seinem Ableben, sagte der Gesandte Allahs ﷺ: 'Kommt, damit ich euch ein Schreiben verfasse, damit ihr nicht wieder vom rechten Weg abweicht.' Omar r.a. sagte, die Krankheit habe ihn überwältigt und das Buch Allahs sei ihnen genug. Die Anwesenden waren unterschiedlicher Meinung, also sagte der Gesandte Allahs ﷺ: 'Geht und lasst mich in Ruhe!'"
+    }
+  },
+  {
+    "quiz_id": 10,
+    "question_id": 54,
+    "type": "multiple_choice",
+    "difficulty": "hard",
+    "source_section": "Posljednji dani - oporuke",
+    "question": {
+      "bs": "Koje je tri oporuke Resulullah ﷺ dao četiri dana pred preseljenje? (odaberi tri tačna)",
+      "de": "Welche drei Vermächtnisse gab der Gesandte Allahs ﷺ vier Tage vor seinem Ableben? (wähle drei richtige)"
+    },
+    "options": {
+      "bs": [
+        "Čvrsto vezivanje uz Kur'an i sunnet",
+        "Da se iz Arabije isele jevreji, kršćani i mnogobošci",
+        "Da se nagrade delegacije svim onim što im je obećao",
+        "Da se izgrade nove džamije"
+      ],
+      "de": [
+        "Festes Festhalten am Koran und der Sunna",
+        "Dass Juden, Christen und Götzenanbeter aus Arabien auswandern",
+        "Dass die Delegationen mit allem belohnt werden, was ihnen versprochen wurde",
+        "Dass neue Moscheen gebaut werden"
+      ]
+    },
+    "correct": {
+      "bs": [
+        "Da se iz Arabije isele jevreji, kršćani i mnogobošci",
+        "Da se nagrade delegacije svim onim što im je obećao",
+        "Čvrsto vezivanje uz Kur'an i sunnet"
+      ],
+      "de": [
+        "Dass Juden, Christen und Götzenanbeter aus Arabien auswandern",
+        "Dass die Delegationen mit allem belohnt werden, was ihnen versprochen wurde",
+        "Festes Festhalten am Koran und der Sunna"
+      ]
+    },
+    "explanation": {
+      "bs": "Resulullah ﷺ je oporučio tri stvari: 1) Da se iz Arabije isele jevreji, kršćani i mnogobošci, 2) Da se nagrade delegacije svim onim što im je obećao, 3) Treću stvar je prenosilac zaboravio - moguće čvrsto vezivanje uz Kur'an i sunnet, ili da vojska s Usamom izvrši zadatak, ili oporuka za namaz i robove.",
+      "de": "Der Gesandte Allahs ﷺ vermachte drei Dinge: 1) Dass Juden, Christen und Götzenanbeter aus Arabien auswandern, 2) Dass die Delegationen mit allem belohnt werden, was ihnen versprochen wurde, 3) Das dritte vergass der Überlieferer - möglicherweise festes Festhalten am Koran und der Sunna, oder dass die Armee mit Usama ihre Aufgabe erfüllt, oder das Vermächtnis über das Gebet und die Sklaven."
+    }
+  },
+  {
+    "quiz_id": 10,
+    "question_id": 55,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Posljednji dani - namaz",
+    "question": {
+      "bs": "Koju je suru Resulullah ﷺ učio na posljednjem namazu koji je predvodio kao imam?",
+      "de": "Welche Sure rezitierte der Gesandte Allahs ﷺ beim letzten Gebet, das er als Imam leitete?"
+    },
+    "options": {
+      "bs": [
+        "El-Murselat",
+        "El-Ihlas",
+        "Jasin",
+        "El-Fatiha"
+      ],
+      "de": [
+        "Al-Mursalat",
+        "Al-Ikhlas",
+        "Yasin",
+        "Al-Fatiha"
+      ]
+    },
+    "correct": {
+      "bs": "El-Murselat",
+      "de": "Al-Mursalat"
+    },
+    "explanation": {
+      "bs": "Posljednji namaz koji je Resulullah ﷺ klanjao u džematu kao imam bio je akšam. Učio je po običaju suru 'El-Murselat'. Oko jacije, teško stanje se pogoršalo, pa nije mogao izići u mesdžid i naredio je Ebu Bekru r.a. da bude imam.",
+      "de": "Das letzte Gebet, das der Gesandte Allahs ﷺ als Imam in der Gemeinschaft betete, war Maghrib. Er rezitierte wie üblich die Sure 'Al-Mursalat'. Gegen Ischa verschlechterte sich sein Zustand, er konnte nicht zur Moschee gehen und befahl Abu Bakr r.a., der Imam zu sein."
+    }
+  },
+  {
+    "quiz_id": 10,
+    "question_id": 56,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Posljednji dani - namaz",
+    "question": {
+      "bs": "Ko je predvodio namaze u mesdžidu u posljednjim danima Resulullaha ﷺ?",
+      "de": "Wer leitete die Gebete in der Moschee in den letzten Tagen des Gesandten Allahs ﷺ?"
+    },
+    "options": {
+      "bs": [
+        "Ebu Bekr r.a.",
+        "Osman r.a.",
+        "Omer r.a.",
+        "Alija r.a."
+      ],
+      "de": [
+        "Abu Bakr r.a.",
+        "Uthman r.a.",
+        "Omar r.a.",
+        "Ali r.a."
+      ]
+    },
+    "correct": {
+      "bs": "Ebu Bekr r.a.",
+      "de": "Abu Bakr r.a."
+    },
+    "explanation": {
+      "bs": "Resulullah ﷺ je naredio Ebu Bekru r.a. da bude imam i klanja ljudima. Aiša r.a. je pokušavala da Resulullah ﷺ promijeni imama, ali je on rekao: 'Zaista ste vi vlasnice Jusufa. Naredite Ebu Bekru neka bude imam!' Ebu Bekr r.a. je klanjao kao imam 17 vakata za života Resulullaha ﷺ.",
+      "de": "Der Gesandte Allahs ﷺ befahl Abu Bakr r.a., der Imam zu sein und mit den Menschen zu beten. Aischa r.a. versuchte, den Gesandten Allahs ﷺ zu bewegen, den Imam zu wechseln, aber er sagte: 'Ihr seid wahrlich wie die Gefährtinnen Yusufs. Befehlt Abu Bakr, der Imam zu sein!' Abu Bakr r.a. betete 17 Gebetszeiten als Imam zu Lebzeiten des Gesandten Allahs ﷺ."
+    }
+  },
+  {
+    "quiz_id": 10,
+    "question_id": 57,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Posljednji dani",
+    "question": {
+      "bs": "Dan uoči preseljenja, Resulullah ﷺ je oslobodio svoje robove i podijelio posljednjih sedam dinara koje je imao.",
+      "de": "Am Tag vor seinem Ableben befreite der Gesandte Allahs ﷺ seine Sklaven und verteilte die letzten sieben Dinar, die er hatte."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! U nedjelju, dan uoči preseljenja, Resulullah ﷺ je oslobodio svoje robove i podijelio posljednjih sedam dinara. Muslimanima je poklonio svoje oružje. Te noći je Aiša r.a. posudila ulje za svjetiljku od komšinice. Resulullahov ﷺ oklop bio je založen kod jednog jevreja za 30 mjerica pšenice.",
+      "de": "Richtig! Am Sonntag, einen Tag vor seinem Ableben, befreite der Gesandte Allahs ﷺ seine Sklaven und verteilte die letzten sieben Dinar. Er schenkte den Muslimen seine Waffen. In jener Nacht lieh Aischa r.a. Öl für die Lampe von einer Nachbarin. Der Panzer des Gesandten Allahs ﷺ war bei einem Juden für 30 Mass Weizen verpfändet."
+    }
+  },
+  {
+    "quiz_id": 10,
+    "question_id": 58,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Preseljenje",
+    "question": {
+      "bs": "Šta je Resulullah ﷺ rekao Fatimi r.a. u zadnjim satima života, zbog čega se ona prvo zaplakala, a zatim nasmiješila?",
+      "de": "Was sagte der Gesandte Allahs ﷺ zu Fatima r.a. in seinen letzten Stunden, weshalb sie erst weinte und dann lächelte?"
+    },
+    "options": {
+      "bs": [
+        "Da će dobiti veliko nasljedstvo",
+        "Da će preseliti na ahiret i da će ona biti prva iz porodice koja će ga slijediti",
+        "Da će njen sin postati halifa",
+        "Da će se udati ponovo"
+      ],
+      "de": [
+        "Dass sie ein grosses Erbe erhalten wird",
+        "Dass er ins Jenseits übergeht und sie die erste aus der Familie sein wird, die ihm folgt",
+        "Dass ihr Sohn Kalif werden wird",
+        "Dass sie wieder heiraten wird"
+      ]
+    },
+    "correct": {
+      "bs": "Da će preseliti na ahiret i da će ona biti prva iz porodice koja će ga slijediti",
+      "de": "Dass er ins Jenseits übergeht und sie die erste aus der Familie sein wird, die ihm folgt"
+    },
+    "explanation": {
+      "bs": "Resulullah ﷺ je prišapnuo Fatimi da će preseliti u ovoj bolesti - pa se ona zaplakala. Zatim joj je rekao da će ona biti prva iz porodice koja će otići za njim - pa se od dragosti nasmiješila. Resulullah ﷺ ju je također obradovao da je ona prvakinja svih žena.",
+      "de": "Der Gesandte Allahs ﷺ flüsterte Fatima zu, dass er bei dieser Krankheit sterben wird - da weinte sie. Dann sagte er ihr, dass sie die erste aus der Familie sein wird, die ihm folgt - da lächelte sie vor Freude. Der Gesandte Allahs ﷺ erfreute sie auch damit, dass sie die Führerin aller Frauen ist."
+    }
+  },
+  {
+    "quiz_id": 10,
+    "question_id": 59,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Preseljenje",
+    "question": {
+      "bs": "Šta je Resulullah ﷺ rekao u vezi s otrovom iz Hajbera na dan preseljenja?",
+      "de": "Was sagte der Gesandte Allahs ﷺ bezüglich des Giftes von Khaybar am Tag seines Ablebens?"
+    },
+    "options": {
+      "bs": [
+        "'To je bilo davno'",
+        "'Zaboravio sam na taj otrov'",
+        "'Još osjećam bol i gorčinu onog jela koje sam jeo u Hajberu. Osjećam da mi puca žila kucavica od tog otrova'",
+        "'Otrov me više ne boli'"
+      ],
+      "de": [
+        "'Das war vor langer Zeit'",
+        "'Ich habe dieses Gift vergessen'",
+        "'Ich spüre noch immer den Schmerz und die Bitterkeit jenes Essens, das ich in Khaybar ass. Ich fühle, wie meine Ader von diesem Gift reisst'",
+        "'Das Gift schmerzt mich nicht mehr'"
+      ]
+    },
+    "correct": {
+      "bs": "'Još osjećam bol i gorčinu onog jela koje sam jeo u Hajberu. Osjećam da mi puca žila kucavica od tog otrova'",
+      "de": "'Ich spüre noch immer den Schmerz und die Bitterkeit jenes Essens, das ich in Khaybar ass. Ich fühle, wie meine Ader von diesem Gift reisst'"
+    },
+    "explanation": {
+      "bs": "Resulullah ﷺ je rekao Aiši r.a.: 'O Aiša, još osjećam bol i gorčinu onog jela koje sam jeo u Hajberu. Osjećam da mi puca žila kucavica od tog otrova.' Ovo se odnosi na otrovanu ovcu koju mu je dala jevrejka Zejneba bint El-Haris na Hajberu.",
+      "de": "Der Gesandte Allahs ﷺ sagte zu Aischa r.a.: 'O Aischa, ich spüre noch immer den Schmerz und die Bitterkeit jenes Essens, das ich in Khaybar ass. Ich fühle, wie meine Ader von diesem Gift reisst.' Dies bezieht sich auf das vergiftete Schaf, das ihm die Jüdin Zainab bint al-Harith bei Khaybar gab."
+    }
+  },
+  {
+    "quiz_id": 10,
+    "question_id": 60,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "source_section": "Preseljenje",
+    "question": {
+      "bs": "Koje su bile posljednje riječi oporuke Resulullaha ﷺ?",
+      "de": "Was waren die letzten Worte des Vermächtnisses des Gesandten Allahs ﷺ?"
+    },
+    "options": {
+      "bs": [
+        "'Džihad, džihad'",
+        "'Namaz, namaz i ono što imate u svom posjedu (robovi)'",
+        "'Hadž, hadž'",
+        "'Zekat, zekat'"
+      ],
+      "de": [
+        "'Dschihad, Dschihad'",
+        "'Das Gebet, das Gebet und das, was ihr in eurem Besitz habt (Sklaven)'",
+        "'Hadsch, Hadsch'",
+        "'Zakat, Zakat'"
+      ]
+    },
+    "correct": {
+      "bs": "'Namaz, namaz i ono što imate u svom posjedu (robovi)'",
+      "de": "'Das Gebet, das Gebet und das, was ihr in eurem Besitz habt (Sklaven)'"
+    },
+    "explanation": {
+      "bs": "Resulullah ﷺ je ostavio oporuku ljudima govoreći: 'Namaz, namaz i ono što imate u svom posjedu (robovi).' To je ponovio više puta. Ovo pokazuje koliko je važan namaz u islamu i briga o onima koji su pod našom odgovornošću.",
+      "de": "Der Gesandte Allahs ﷺ hinterliess den Menschen ein Vermächtnis und sagte: 'Das Gebet, das Gebet und das, was ihr in eurem Besitz habt (Sklaven).' Dies wiederholte er mehrmals. Dies zeigt, wie wichtig das Gebet im Islam ist und die Fürsorge für diejenigen, die unter unserer Verantwortung stehen."
+    }
+  },
+  {
+    "quiz_id": 10,
+    "question_id": 61,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Preseljenje",
+    "question": {
+      "bs": "Šta je Resulullah ﷺ učinio ujutro na dan preseljenja, kada su muslimani klanjali sabah?",
+      "de": "Was tat der Gesandte Allahs ﷺ am Morgen des Tages seines Ablebens, als die Muslime das Morgengebet verrichteten?"
+    },
+    "options": {
+      "bs": [
+        "Klanjao je s njima",
+        "Odmaknuo je zavjesu, gledao ih i osmjehnuo se",
+        "Držao je hutbu",
+        "Spavao je"
+      ],
+      "de": [
+        "Er betete mit ihnen",
+        "Er schob den Vorhang zur Seite, schaute sie an und lächelte",
+        "Er hielt eine Ansprache",
+        "Er schlief"
+      ]
+    },
+    "correct": {
+      "bs": "Odmaknuo je zavjesu, gledao ih i osmjehnuo se",
+      "de": "Er schob den Vorhang zur Seite, schaute sie an und lächelte"
+    },
+    "explanation": {
+      "bs": "Dok su muslimani u ponedjeljak ujutro klanjali sabah za Ebu Bekrom, iznenadio ih je Resulullah ﷺ. Odmaknuo je zavjesu s vrata Aišine sobe i gledao ih. Osmjehnuo se i nasmijao. Ebu Bekr r.a. se htio povući misleći da će Resulullah ﷺ pristupiti namazu, ali im je on rukom dao znak da dovrše namaz.",
+      "de": "Während die Muslime am Montagmorgen das Fajr-Gebet hinter Abu Bakr verrichteten, überraschte sie der Gesandte Allahs ﷺ. Er schob den Vorhang von der Tür von Aischas Zimmer zur Seite und schaute sie an. Er lächelte und lachte. Abu Bakr r.a. wollte zurücktreten, denkend dass der Gesandte Allahs ﷺ zum Gebet kommen würde, aber er gab ihnen ein Zeichen mit der Hand, das Gebet zu beenden."
+    }
+  },
+  {
+    "quiz_id": 10,
+    "question_id": 62,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Preseljenje",
+    "question": {
+      "bs": "Koje su bile posljednje riječi Resulullaha ﷺ?",
+      "de": "Was waren die letzten Worte des Gesandten Allahs ﷺ?"
+    },
+    "options": {
+      "bs": [
+        "'Gospodaru moj, priključi me uz vjerovjesnike!' - ponovio tri puta",
+        "'La ilahe illallah'",
+        "'Ebu Bekr neka bude halifa'",
+        "'Čuvajte Medinu'"
+      ],
+      "de": [
+        "'Mein Herr, schliesse mich den Propheten an!' - dreimal wiederholt",
+        "'La ilaha illallah'",
+        "'Abu Bakr soll Kalif sein'",
+        "'Schützt Medina'"
+      ]
+    },
+    "correct": {
+      "bs": "'Gospodaru moj, priključi me uz vjerovjesnike!' - ponovio tri puta",
+      "de": "'Mein Herr, schliesse mich den Propheten an!' - dreimal wiederholt"
+    },
+    "explanation": {
+      "bs": "Kada je Resulullah ﷺ završio čišćenje zuba misvakom, podigao je ruku i uperio pogled u plafon. Njegove usne su šaptale: 'Sa onima kojima si milost Svoju darovao, poslanicima, iskrenima, šehidima i dobrima. Gospodaru moj, oprosti mi i smiluj mi se, i priključi me uz vjerovjesnike!' Posljednje riječi je ponovio tri puta.",
+      "de": "Als der Gesandte Allahs ﷺ das Reinigen seiner Zähne mit dem Miswak beendet hatte, hob er seine Hand und richtete seinen Blick zur Decke. Seine Lippen flüsterten: 'Mit denen, denen Du Deine Gnade geschenkt hast, den Propheten, den Wahrhaftigen, den Märtyrern und den Rechtschaffenen. Mein Herr, vergib mir und erbarme Dich meiner und schliesse mich den Propheten an!' Die letzten Worte wiederholte er dreimal."
+    }
+  },
+  {
+    "quiz_id": 10,
+    "question_id": 63,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "source_section": "Preseljenje",
+    "question": {
+      "bs": "Kojeg dana je Resulullah ﷺ preselio na ahiret?",
+      "de": "An welchem Tag ging der Gesandte Allahs ﷺ ins Jenseits über?"
+    },
+    "options": {
+      "bs": [
+        "U ponedjeljak, 12. rebiul-evela 11. g.H.",
+        "U nedjelju, 1. rebiul-evela 11. g.H.",
+        "U petak, 10. rebiul-evela 11. g.H.",
+        "U subotu, 15. rebiul-evela 11. g.H."
+      ],
+      "de": [
+        "Am Montag, 12. Rabi al-Awwal 11 n.H.",
+        "Am Sonntag, 1. Rabi al-Awwal 11 n.H.",
+        "Am Freitag, 10. Rabi al-Awwal 11 n.H.",
+        "Am Samstag, 15. Rabi al-Awwal 11 n.H."
+      ]
+    },
+    "correct": {
+      "bs": "U ponedjeljak, 12. rebiul-evela 11. g.H.",
+      "de": "Am Montag, 12. Rabi al-Awwal 11 n.H."
+    },
+    "explanation": {
+      "bs": "Resulullah ﷺ je preselio na ahiret u satima pred podne, u ponedjeljak 12. rebiul-evela, 11. godine po Hidžri. Imao je 63 godine i četiri dana. Ponedjeljak je bio dan njegovog rođenja i dan hidžre u Medinu.",
+      "de": "Der Gesandte Allahs ﷺ ging in den Stunden vor Mittag ins Jenseits über, am Montag, dem 12. Rabi al-Awwal des 11. Jahres nach der Hidschra. Er war 63 Jahre und vier Tage alt. Der Montag war der Tag seiner Geburt und der Tag der Hidschra nach Medina."
+    }
+  },
+  {
+    "quiz_id": 10,
+    "question_id": 64,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "source_section": "Preseljenje",
+    "question": {
+      "bs": "Koliko je godina imao Resulullah ﷺ kada je preselio na ahiret?",
+      "de": "Wie alt war der Gesandte Allahs ﷺ, als er ins Jenseits überging?"
+    },
+    "options": {
+      "bs": [
+        "60 godina",
+        "65 godina",
+        "70 godina",
+        "63 godine"
+      ],
+      "de": [
+        "60 Jahre",
+        "65 Jahre",
+        "70 Jahre",
+        "63 Jahre"
+      ]
+    },
+    "correct": {
+      "bs": "63 godine",
+      "de": "63 Jahre"
+    },
+    "explanation": {
+      "bs": "Resulullah ﷺ je napunio 63 godine i četiri dana kada je preselio na ahiret. Živio je 40 godina prije poslanstva i 23 godine kao Allahov Poslanik - 13 godina u Meki i 10 godina u Medini.",
+      "de": "Der Gesandte Allahs ﷺ war 63 Jahre und vier Tage alt, als er ins Jenseits überging. Er lebte 40 Jahre vor dem Prophetentum und 23 Jahre als Allahs Gesandter - 13 Jahre in Mekka und 10 Jahre in Medina."
+    }
+  },
+  {
+    "quiz_id": 10,
+    "question_id": 65,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Preseljenje",
+    "question": {
+      "bs": "Šta je Fatima r.a. rekla kada je Resulullah ﷺ preselio?",
+      "de": "Was sagte Fatima r.a., als der Gesandte Allahs ﷺ ins Jenseits überging?"
+    },
+    "options": {
+      "bs": [
+        "'Inna lillahi ve inna ilejhi radži'un'",
+        "'O moj oče, ti si se odazvao Gospodaru koji te pozvao. O moj oče, Džennetil-firdevs tvoje je boravište'",
+        "'Elhamdulillah'",
+        "'Subhanallah'"
+      ],
+      "de": [
+        "'Inna lillahi wa inna ilayhi radschi'un'",
+        "'O mein Vater, du hast dem Herrn geantwortet, der dich rief. O mein Vater, Dschannat al-Firdaus ist deine Wohnstätte'",
+        "'Alhamdulillah'",
+        "'Subhanallah'"
+      ]
+    },
+    "correct": {
+      "bs": "'O moj oče, ti si se odazvao Gospodaru koji te pozvao. O moj oče, Džennetil-firdevs tvoje je boravište'",
+      "de": "'O mein Vater, du hast dem Herrn geantwortet, der dich rief. O mein Vater, Dschannat al-Firdaus ist deine Wohnstätte'"
+    },
+    "explanation": {
+      "bs": "Kada je Resulullah ﷺ preselio, Fatima r.a. je rekla: 'O moj oče, ti si se odazvao Gospodaru koji te pozvao. O moj oče, Džennetil-firdevs tvoje je boravište. O moj oče, Džibrilu ćemo se požaliti.' Ovo su bile njene riječi bola i tuge za najboljim ocem.",
+      "de": "Als der Gesandte Allahs ﷺ ins Jenseits überging, sagte Fatima r.a.: 'O mein Vater, du hast dem Herrn geantwortet, der dich rief. O mein Vater, Dschannat al-Firdaus ist deine Wohnstätte. O mein Vater, wir werden uns bei Dschibril beschweren.' Dies waren ihre Worte des Schmerzes und der Trauer über den besten Vater."
+    }
+  },
+  {
+    "quiz_id": 10,
+    "question_id": 66,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Reakcija ashaba",
+    "question": {
+      "bs": "Šta je Omer r.a. rekao kada je čuo vijest o preseljenju Resulullaha ﷺ?",
+      "de": "Was sagte Omar r.a., als er die Nachricht vom Ableben des Gesandten Allahs ﷺ hörte?"
+    },
+    "options": {
+      "bs": [
+        "'Resulullah nije umro. On je otišao kod svog Gospodara kao Musa a.s. Vratit će se...'",
+        "'Moramo izabrati halifu'",
+        "'Inna lillahi ve inna ilejhi radži'un'",
+        "'Allah je htio tako'"
+      ],
+      "de": [
+        "'Der Gesandte Allahs ist nicht gestorben. Er ist zu seinem Herrn gegangen wie Musa a.s. Er wird zurückkehren...'",
+        "'Wir müssen einen Kalifen wählen'",
+        "'Inna lillahi wa inna ilayhi radschi'un'",
+        "'Allah wollte es so'"
+      ]
+    },
+    "correct": {
+      "bs": "'Resulullah nije umro. On je otišao kod svog Gospodara kao Musa a.s. Vratit će se...'",
+      "de": "'Der Gesandte Allahs ist nicht gestorben. Er ist zu seinem Herrn gegangen wie Musa a.s. Er wird zurückkehren...'"
+    },
+    "explanation": {
+      "bs": "Omer r.a. je bio toliko šokiran viješću da je razum mu se pomutio. Rekao je: 'Licemjeri misle da je Resulullah ﷺ umro. Neka znaju da nije umro. On je otišao kod svog Gospodara, kao što je otišao Musa a.s. Vratit će se Resulullah ﷺ, pa će odsjeći ruke i noge ljudima koji misle da je umro.'",
+      "de": "Omar r.a. war so schockiert von der Nachricht, dass sein Verstand verwirrt wurde. Er sagte: 'Die Heuchler denken, der Gesandte Allahs ﷺ sei gestorben. Sie sollen wissen, er ist nicht gestorben. Er ist zu seinem Herrn gegangen, wie Musa a.s. ging. Der Gesandte Allahs ﷺ wird zurückkehren und die Hände und Füsse derer abschneiden, die denken, er sei gestorben.'"
+    }
+  },
+  {
+    "quiz_id": 10,
+    "question_id": 67,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Reakcija ashaba",
+    "question": {
+      "bs": "Koji je ajet Ebu Bekr r.a. proučio da smiri Omera r.a. i ashabe?",
+      "de": "Welchen Vers rezitierte Abu Bakr r.a., um Omar r.a. und die Gefährten zu beruhigen?"
+    },
+    "options": {
+      "bs": [
+        "'On vas je od jednog čovjeka stvorio' (4:1)",
+        "'Muhammed je samo poslanik, a i prije njega su poslanici smrt doživjeli...' (3:144)",
+        "'Mi smo te kao svjedoka poslali' (48:8)",
+        "'Svaka duša će smrt okusiti' (3:185)"
+      ],
+      "de": [
+        "'Er hat euch aus einem Menschen erschaffen' (4:1)",
+        "'Muhammad ist nur ein Gesandter, vor ihm sind auch andere Gesandte gestorben...' (3:144)",
+        "'Wir haben dich als Zeugen gesandt' (48:8)",
+        "'Jede Seele wird den Tod kosten' (3:185)"
+      ]
+    },
+    "correct": {
+      "bs": "'Muhammed je samo poslanik, a i prije njega su poslanici smrt doživjeli...' (3:144)",
+      "de": "'Muhammad ist nur ein Gesandter, vor ihm sind auch andere Gesandte gestorben...' (3:144)"
+    },
+    "explanation": {
+      "bs": "Ebu Bekr r.a. je proučio ajet: 'Muhammed je samo poslanik, a i prije njega su poslanici smrt doživjeli. Ako bi on umro ili bio ubijen, zar biste se vi na petama vratili?' Zatim je rekao: 'Ko je obožavao Muhammeda, neka zna da je Muhammed umro. A ko je obožavao Allaha, neka zna da je Allah živ i da nikad neće umrijeti.'",
+      "de": "Abu Bakr r.a. rezitierte den Vers: 'Muhammad ist nur ein Gesandter, vor ihm sind auch andere Gesandte gestorben. Wenn er stirbt oder getötet wird, werdet ihr dann auf euren Fersen umkehren?' Dann sagte er: 'Wer Muhammad angebetet hat, soll wissen, dass Muhammad gestorben ist. Wer aber Allah angebetet hat, soll wissen, dass Allah lebt und niemals sterben wird.'"
+    }
+  },
+  {
+    "quiz_id": 10,
+    "question_id": 68,
+    "type": "ordering",
+    "difficulty": "hard",
+    "source_section": "Ukop",
+    "question": {
+      "bs": "Poredaj događaje nakon preseljenja Resulullaha ﷺ po redoslijedu:",
+      "de": "Ordne die Ereignisse nach dem Ableben des Gesandten Allahs ﷺ in der richtigen Reihenfolge:"
+    },
+    "options": {
+      "bs": [
+        "Izbor Ebu Bekra r.a. za halifu",
+        "Gasulenje tijela",
+        "Ukop u noći",
+        "Klanjanje dženaze"
+      ],
+      "de": [
+        "Wahl von Abu Bakr r.a. zum Kalifen",
+        "Waschung des Körpers",
+        "Beerdigung in der Nacht",
+        "Totengebet"
+      ]
+    },
+    "correct": {
+      "bs": [
+        "Izbor Ebu Bekra r.a. za halifu",
+        "Gasulenje tijela",
+        "Klanjanje dženaze",
+        "Ukop u noći"
+      ],
+      "de": [
+        "Wahl von Abu Bakr r.a. zum Kalifen",
+        "Waschung des Körpers",
+        "Totengebet",
+        "Beerdigung in der Nacht"
+      ]
+    },
+    "explanation": {
+      "bs": "Redoslijed događaja: 1) Izbor Ebu Bekra r.a. za halifu u sekifi Benu Saideta - u ponedjeljak i tokom noći, 2) Gasulenje tijela u utorak, 3) Klanjanje dženaze kroz utorak - po grupama bez imama, 4) Ukop u noći uoči srijede, na mjestu gdje je preselio.",
+      "de": "Reihenfolge der Ereignisse: 1) Wahl von Abu Bakr r.a. zum Kalifen in Saqifa Bani Sa'ida - am Montag und während der Nacht, 2) Waschung des Körpers am Dienstag, 3) Totengebet während des Dienstags - in Gruppen ohne Imam, 4) Beerdigung in der Nacht vor Mittwoch, an dem Ort, wo er starb."
+    }
+  },
+  {
+    "quiz_id": 10,
+    "question_id": 69,
+    "type": "multiple_choice",
+    "difficulty": "hard",
+    "source_section": "Ukop",
+    "question": {
+      "bs": "Ko je učestvovao u gasulenju Resulullaha ﷺ? (odaberi četiri tačna)",
+      "de": "Wer nahm an der Waschung des Gesandten Allahs ﷺ teil? (wähle vier richtige)"
+    },
+    "options": {
+      "bs": [
+        "Abbas",
+        "Usama bin Zejd",
+        "Ebu Bekr",
+        "Alija",
+        "El-Fadl bin Abbas"
+      ],
+      "de": [
+        "Abbas",
+        "Usama bin Zayd",
+        "Abu Bakr",
+        "Ali",
+        "Al-Fadl bin Abbas"
+      ]
+    },
+    "correct": {
+      "bs": [
+        "Abbas",
+        "Alija",
+        "El-Fadl bin Abbas",
+        "Usama bin Zejd"
+      ],
+      "de": [
+        "Abbas",
+        "Ali",
+        "Al-Fadl bin Abbas",
+        "Usama bin Zayd"
+      ]
+    },
+    "explanation": {
+      "bs": "Resulullaha ﷺ su gasulili: Abbas, Alija, dva Abbasova sina (Kusum i El-Fadl), Šukran (rob Resulullaha ﷺ), Usama bin Zejd i Evs bin Havli. Abbas, El-Fadl i Kusum su ga okretali, Usama i Šukran polijevali vodu, a Alija ga je gasulio. Evs ga je naslonio na svoje grudi.",
+      "de": "Den Gesandten Allahs ﷺ wuschen: Abbas, Ali, zwei Söhne von Abbas (Qusam und Al-Fadl), Schukran (der Diener des Gesandten Allahs ﷺ), Usama bin Zayd und Aws bin Khawli. Abbas, Al-Fadl und Qusam drehten ihn um, Usama und Schukran gossen Wasser, und Ali führte die Waschung durch. Aws stützte ihn an seine Brust."
+    }
+  },
+  {
+    "quiz_id": 10,
+    "question_id": 70,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Ukop",
+    "question": {
+      "bs": "Kako je klanjana dženaza Resulullahu ﷺ?",
+      "de": "Wie wurde das Totengebet für den Gesandten Allahs ﷺ verrichtet?"
+    },
+    "options": {
+      "bs": [
+        "Samo muhadžiri",
+        "Samo porodica",
+        "Po grupama (10 ljudi), bez imama, pojedinačno",
+        "Svi zajedno s Ebu Bekrom kao imamom"
+      ],
+      "de": [
+        "Nur die Muhadschirin",
+        "Nur die Familie",
+        "In Gruppen (10 Personen), ohne Imam, einzeln",
+        "Alle zusammen mit Abu Bakr als Imam"
+      ]
+    },
+    "correct": {
+      "bs": "Po grupama (10 ljudi), bez imama, pojedinačno",
+      "de": "In Gruppen (10 Personen), ohne Imam, einzeln"
+    },
+    "explanation": {
+      "bs": "U Resulullahovu ﷺ prostoriju ulazilo je po deset ljudi da klanjaju dženazu. Niko nije bio imam. Prvo je porodica klanjala, pa muhadžiri, zatim ensarije. Žene su klanjale poslije muškaraca, a najzad su klanjala djeca. Tako je protekao čitav utorak.",
+      "de": "In das Zimmer des Gesandten Allahs ﷺ traten jeweils zehn Menschen ein, um das Totengebet zu verrichten. Niemand war Imam. Zuerst betete die Familie, dann die Muhadschirin, dann die Ansar. Frauen beteten nach den Männern, und schliesslich beteten die Kinder. So verging der ganze Dienstag."
+    }
+  },
+  {
+    "quiz_id": 10,
+    "question_id": 71,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Ukop",
+    "question": {
+      "bs": "Gdje je ukopan Resulullah ﷺ?",
+      "de": "Wo wurde der Gesandte Allahs ﷺ begraben?"
+    },
+    "options": {
+      "bs": [
+        "Na mjestu gdje je preselio - u Aišinoj sobi",
+        "U Meki",
+        "Na Uhudu",
+        "U Dženneti-bekiji"
+      ],
+      "de": [
+        "An dem Ort, wo er starb - in Aischas Zimmer",
+        "In Mekka",
+        "Bei Uhud",
+        "In Dschannatul-Baqi"
+      ]
+    },
+    "correct": {
+      "bs": "Na mjestu gdje je preselio - u Aišinoj sobi",
+      "de": "An dem Ort, wo er starb - in Aischas Zimmer"
+    },
+    "explanation": {
+      "bs": "Bilo je razmimoilaženja gdje da se ukopa Resulullah ﷺ. Ebu Bekr r.a. je rekao da je čuo Resulullaha ﷺ kako kaže: 'Nijedan poslanik nije zakopan negdje drugdje, osim na mjestu gdje je umro.' Ebu Talha je iskopao kabur na mjestu gdje je Resulullah ﷺ preselio - u Aišinoj sobi.",
+      "de": "Es gab Meinungsverschiedenheiten darüber, wo der Gesandte Allahs ﷺ begraben werden sollte. Abu Bakr r.a. sagte, er habe den Gesandten Allahs ﷺ sagen hören: 'Kein Prophet wurde anderswo begraben als an dem Ort, wo er starb.' Abu Talha grub das Grab an dem Ort aus, wo der Gesandte Allahs ﷺ starb - in Aischas Zimmer."
+    }
+  },
+  {
+    "quiz_id": 10,
+    "question_id": 72,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Ukop",
+    "question": {
+      "bs": "Resulullah ﷺ je ukopan u noći uoči srijede.",
+      "de": "Der Gesandte Allahs ﷺ wurde in der Nacht vor Mittwoch begraben."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Aiša r.a. je rekla: 'Nismo znali za Resulullahovo ﷺ kopanje dok nismo čuli zvuk lopate u noći nastupajuće srijede.' Resulullah ﷺ je preselio u ponedjeljak, utorak je bilo gasulenje i klanjanje dženaze, a ukop je bio u noći uoči srijede.",
+      "de": "Richtig! Aischa r.a. sagte: 'Wir wussten nichts von der Beerdigung des Gesandten Allahs ﷺ, bis wir das Geräusch der Schaufel in der Nacht vor Mittwoch hörten.' Der Gesandte Allahs ﷺ starb am Montag, am Dienstag war die Waschung und das Totengebet, und die Beerdigung war in der Nacht vor Mittwoch."
+    }
+  },
+  {
+    "quiz_id": 10,
+    "question_id": 73,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Resulullahove žene",
+    "question": {
+      "bs": "Koliko je žena imao Resulullah ﷺ s kojima je sklopio brak?",
+      "de": "Wie viele Frauen hatte der Gesandte Allahs ﷺ, mit denen er die Ehe einging?"
+    },
+    "options": {
+      "bs": [
+        "13 žena",
+        "9 žena",
+        "15 žena",
+        "11 žena"
+      ],
+      "de": [
+        "13 Frauen",
+        "9 Frauen",
+        "15 Frauen",
+        "11 Frauen"
+      ]
+    },
+    "correct": {
+      "bs": "13 žena",
+      "de": "13 Frauen"
+    },
+    "explanation": {
+      "bs": "Resulullah ﷺ je sklopio brak s 13 žena. S 11 je imao bračni život. Dvije su umrle za njegovog života (Hatidža r.a. i Zejneb bint Huzejme - 'Majka siromaha'), a devet je ostalo živih nakon njega. S dvije žene nije imao bračni odnos.",
+      "de": "Der Gesandte Allahs ﷺ schloss die Ehe mit 13 Frauen. Mit 11 führte er ein Eheleben. Zwei starben zu seinen Lebzeiten (Khadidscha r.a. und Zainab bint Khuzayma - 'Mutter der Armen'), und neun blieben nach ihm am Leben. Mit zwei Frauen hatte er keine ehelichen Beziehungen."
+    }
+  },
+  {
+    "quiz_id": 10,
+    "question_id": 74,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "source_section": "Resulullahove žene",
+    "question": {
+      "bs": "Ko je bila prva žena Resulullaha ﷺ?",
+      "de": "Wer war die erste Frau des Gesandten Allahs ﷺ?"
+    },
+    "options": {
+      "bs": [
+        "Aiša r.a.",
+        "Hafsa r.a.",
+        "Sevda r.a.",
+        "Hatidža r.a."
+      ],
+      "de": [
+        "Aischa r.a.",
+        "Hafsa r.a.",
+        "Sawda r.a.",
+        "Khadidscha r.a."
+      ]
+    },
+    "correct": {
+      "bs": "Hatidža r.a.",
+      "de": "Khadidscha r.a."
+    },
+    "explanation": {
+      "bs": "Hatidža bint Huvejlid r.a. je bila prva žena Resulullaha ﷺ. Oženio se njom sa 25 godina, a ona je imala 40. Za njenog života nije se ženio drugom ženom. S njom je dobio sve svoje sinove i kćerke: Zejnebu, Rukajju, Ummu Kulsum i Fatimu.",
+      "de": "Khadidscha bint Khuwaylid r.a. war die erste Frau des Gesandten Allahs ﷺ. Er heiratete sie mit 25 Jahren, und sie war 40. Zu ihren Lebzeiten heiratete er keine andere Frau. Mit ihr bekam er alle seine Söhne und Töchter: Zainab, Ruqayya, Umm Kulthum und Fatima."
+    }
+  },
+  {
+    "quiz_id": 10,
+    "question_id": 75,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Resulullahove žene",
+    "question": {
+      "bs": "Koja je žena Resulullaha ﷺ bila jedina djevica kada se oženio njome?",
+      "de": "Welche Frau des Gesandten Allahs ﷺ war die einzige Jungfrau, als er sie heiratete?"
+    },
+    "options": {
+      "bs": [
+        "Aiša r.a.",
+        "Hatidža r.a.",
+        "Ummu Seleme r.a.",
+        "Hafsa r.a."
+      ],
+      "de": [
+        "Aischa r.a.",
+        "Khadidscha r.a.",
+        "Umm Salama r.a.",
+        "Hafsa r.a."
+      ]
+    },
+    "correct": {
+      "bs": "Aiša r.a.",
+      "de": "Aischa r.a."
+    },
+    "explanation": {
+      "bs": "Aiša bint Ebi Bekr r.a. je bila jedina djevica od svih Resulullahovih ﷺ žena. Oženio se njom u šesnaestoj godini nakon Hatidžine smrti. Bila je najdraža osoba Resulullahu ﷺ i najobrazovanija muslimanka, prenijela je mnogo hadisa.",
+      "de": "Aischa bint Abi Bakr r.a. war die einzige Jungfrau unter allen Frauen des Gesandten Allahs ﷺ. Er heiratete sie im sechzehnten Jahr nach Khadidschas Tod. Sie war die liebste Person für den Gesandten Allahs ﷺ und die gebildetste Muslimin, sie überlieferte viele Hadithe."
+    }
+  },
+  {
+    "quiz_id": 10,
+    "question_id": 76,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Resulullahove žene",
+    "question": {
+      "bs": "Koja je žena Resulullaha ﷺ imala nadimak 'Majka siromaha'?",
+      "de": "Welche Frau des Gesandten Allahs ﷺ hatte den Beinamen 'Mutter der Armen'?"
+    },
+    "options": {
+      "bs": [
+        "Safija",
+        "Džuvejrijja",
+        "Zejneb bint Huzejme",
+        "Ummu Seleme"
+      ],
+      "de": [
+        "Safiyya",
+        "Dschuwairiya",
+        "Zainab bint Khuzayma",
+        "Umm Salama"
+      ]
+    },
+    "correct": {
+      "bs": "Zejneb bint Huzejme",
+      "de": "Zainab bint Khuzayma"
+    },
+    "explanation": {
+      "bs": "Zejneb bint Huzejme iz plemena Benu Hilal imala je nadimak 'Majka siromaha' (Ummul-mesakin) zbog milosti i nježnosti prema siromašnima. Bila je udata za Abdullaha bin Džahša koji je poginuo na Uhudu. Resulullah ﷺ se oženio njom, ali je umrla dva ili tri mjeseca nakon udaje.",
+      "de": "Zainab bint Khuzayma vom Stamm Banu Hilal hatte den Beinamen 'Mutter der Armen' (Umm al-Masakin) wegen ihrer Barmherzigkeit und Zärtlichkeit gegenüber den Armen. Sie war mit Abdullah bin Dschahsch verheiratet, der bei Uhud fiel. Der Gesandte Allahs ﷺ heiratete sie, aber sie starb zwei oder drei Monate nach der Heirat."
+    }
+  },
+  {
+    "quiz_id": 10,
+    "question_id": 77,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Resulullahove žene",
+    "question": {
+      "bs": "Udaja za koju ženu je bila razlogom oslobađanja stotinu kuća zarobljenika?",
+      "de": "Die Heirat mit welcher Frau war der Grund für die Befreiung von hundert Häusern an Gefangenen?"
+    },
+    "options": {
+      "bs": [
+        "Safija bint Hujejj",
+        "Mejmuna",
+        "Ummu Habiba",
+        "Džuvejrijja bint el-Haris"
+      ],
+      "de": [
+        "Safiyya bint Huyayy",
+        "Maymuna",
+        "Umm Habiba",
+        "Dschuwairiya bint al-Harith"
+      ]
+    },
+    "correct": {
+      "bs": "Džuvejrijja bint el-Haris",
+      "de": "Dschuwairiya bint al-Harith"
+    },
+    "explanation": {
+      "bs": "Džuvejrijja bint el-Haris je bila kćerka poglavara plemena Benu Mustalak. Kada se Resulullah ﷺ oženio njome, ashabi su oslobodili zarobljenike iz oko 100 kuća, rekavši: 'To je tazbina Resulullahova ﷺ.' Tako je njena udaja donijela blagoslov cijelom plemenu.",
+      "de": "Dschuwairiya bint al-Harith war die Tochter des Häuptlings des Stammes Banu Mustaliq. Als der Gesandte Allahs ﷺ sie heiratete, befreiten die Gefährten Gefangene aus etwa 100 Häusern und sagten: 'Das ist die Verwandtschaft des Gesandten Allahs ﷺ durch Heirat.' So brachte ihre Heirat Segen für den ganzen Stamm."
+    }
+  },
+  {
+    "quiz_id": 10,
+    "question_id": 78,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Resulullahove žene",
+    "question": {
+      "bs": "Ko je bila kćerka Ebu Sufjana koju je Resulullah ﷺ oženio?",
+      "de": "Wer war die Tochter von Abu Sufyan, die der Gesandte Allahs ﷺ heiratete?"
+    },
+    "options": {
+      "bs": [
+        "Hafsa",
+        "Ummu Habiba",
+        "Mejmuna",
+        "Sevda"
+      ],
+      "de": [
+        "Hafsa",
+        "Umm Habiba",
+        "Maymuna",
+        "Sawda"
+      ]
+    },
+    "correct": {
+      "bs": "Ummu Habiba",
+      "de": "Umm Habiba"
+    },
+    "explanation": {
+      "bs": "Ummu Habiba (Remla) bint Ebi Sufjan je bila kćerka Ebu Sufjana. Bila je udata za Ubejdullaha bin Džahša, koji se odmetnuo od islama i umro u Abesiniji. Resulullah ﷺ ju je zaprosio preko Amra bin Umejjeta, a Nedžašija ju je poslao u Medinu. Nakon ovog braka Ebu Sufjan više nije pokretao neprijateljstvo protiv muslimana.",
+      "de": "Umm Habiba (Ramla) bint Abi Sufyan war die Tochter von Abu Sufyan. Sie war mit Ubaydullah bin Dschahsch verheiratet, der vom Islam abfiel und in Abessinien starb. Der Gesandte Allahs ﷺ warb über Amr bin Umayya um sie, und der Negus sandte sie nach Medina. Nach dieser Heirat begann Abu Sufyan keine Feindseligkeiten mehr gegen die Muslime."
+    }
+  },
+  {
+    "quiz_id": 10,
+    "question_id": 79,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Resulullahove žene",
+    "question": {
+      "bs": "Brak s kojom ženom je bio razlogom objave ajeta o posinku (33:37)?",
+      "de": "Die Ehe mit welcher Frau war der Anlass für die Offenbarung des Verses über die Adoption (33:37)?"
+    },
+    "options": {
+      "bs": [
+        "Safija",
+        "Hafsa",
+        "Zejneb bint Džahš",
+        "Aiša"
+      ],
+      "de": [
+        "Safiyya",
+        "Hafsa",
+        "Zainab bint Dschahsch",
+        "Aischa"
+      ]
+    },
+    "correct": {
+      "bs": "Zejneb bint Džahš",
+      "de": "Zainab bint Dschahsch"
+    },
+    "explanation": {
+      "bs": "Zejneb bint Džahš je bila kćerka Resulullahove ﷺ tetke i bila je udata za Zejda bin Harisa, kojeg je Resulullah ﷺ posinio. Nakon njihovog razvoda, Allah je naredio Resulullahu ﷺ da se oženi njome kako bi se poništio predislamski običaj posinovljenja. Objavljen je ajet: 'I pošto je Zejd s njom živio i od nje se razveo, Mi smo je za tebe udali...' (33:37)",
+      "de": "Zainab bint Dschahsch war die Tochter der Tante des Gesandten Allahs ﷺ und war mit Zayd bin Haritha verheiratet, den der Gesandte Allahs ﷺ adoptiert hatte. Nach ihrer Scheidung befahl Allah dem Gesandten Allahs ﷺ, sie zu heiraten, um die vorislamische Sitte der Adoption aufzuheben. Der Vers wurde offenbart: 'Und nachdem Zayd mit ihr gelebt hatte und sich von ihr schied, verheirateten Wir sie mit dir...' (33:37)"
+    }
+  },
+  {
+    "quiz_id": 10,
+    "question_id": 80,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Resulullahove žene",
+    "question": {
+      "bs": "Koja je robinja rodila Resulullahu ﷺ sina Ibrahima?",
+      "de": "Welche Sklavin gebar dem Gesandten Allahs ﷺ den Sohn Ibrahim?"
+    },
+    "options": {
+      "bs": [
+        "Marija Koptkinja",
+        "Zejneb",
+        "Džemila",
+        "Rejhana"
+      ],
+      "de": [
+        "Maria die Koptin",
+        "Zainab",
+        "Dschamila",
+        "Rayhana"
+      ]
+    },
+    "correct": {
+      "bs": "Marija Koptkinja",
+      "de": "Maria die Koptin"
+    },
+    "explanation": {
+      "bs": "Marija Koptkinja je bila robinja koju je Resulullahu ﷺ poklonio egipatski vladar Mukavkis. Ona mu je rodila sina Ibrahima, koji je umro kao dijete u Medini, 28. ili 29. ševala 10. g.H., za života Resulullaha ﷺ.",
+      "de": "Maria die Koptin war eine Sklavin, die der ägyptische Herrscher Muqawqis dem Gesandten Allahs ﷺ schenkte. Sie gebar ihm den Sohn Ibrahim, der als Kind in Medina starb, am 28. oder 29. Schawwal 10 n.H., zu Lebzeiten des Gesandten Allahs ﷺ."
+    }
+  },
+  {
+    "quiz_id": 10,
+    "question_id": 81,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "source_section": "Resulullahova djeca",
+    "question": {
+      "bs": "Koliko je Resulullah ﷺ imao kćerki?",
+      "de": "Wie viele Töchter hatte der Gesandte Allahs ﷺ?"
+    },
+    "options": {
+      "bs": [
+        "3 kćerke",
+        "4 kćerke",
+        "2 kćerke",
+        "5 kćerki"
+      ],
+      "de": [
+        "3 Töchter",
+        "4 Töchter",
+        "2 Töchter",
+        "5 Töchter"
+      ]
+    },
+    "correct": {
+      "bs": "4 kćerke",
+      "de": "4 Töchter"
+    },
+    "explanation": {
+      "bs": "Resulullah ﷺ je imao četiri kćerke, sve od Hatidže r.a.: Zejnebu (udanu za Ebu el-Asa), Rukajju (udanu za Osmana), Ummu Kulsum (također udanu za Osmana nakon Rukajjine smrti) i Fatimu (udanu za Aliju r.a.).",
+      "de": "Der Gesandte Allahs ﷺ hatte vier Töchter, alle von Khadidscha r.a.: Zainab (verheiratet mit Abu al-As), Ruqayya (verheiratet mit Uthman), Umm Kulthum (ebenfalls verheiratet mit Uthman nach Ruqayyas Tod) und Fatima (verheiratet mit Ali r.a.)."
+    }
+  },
+  {
+    "quiz_id": 10,
+    "question_id": 82,
+    "type": "multiple_choice",
+    "difficulty": "medium",
+    "source_section": "Resulullahova djeca",
+    "question": {
+      "bs": "Ko su bili unuci Resulullaha ﷺ od Fatime r.a.? (odaberi sve tačne)",
+      "de": "Wer waren die Enkelkinder des Gesandten Allahs ﷺ von Fatima r.a.? (wähle alle richtigen)"
+    },
+    "options": {
+      "bs": [
+        "Abdullah",
+        "Ummu Kulsum",
+        "El-Hasan",
+        "Zejneb",
+        "El-Husejn"
+      ],
+      "de": [
+        "Abdullah",
+        "Umm Kulthum",
+        "Al-Hasan",
+        "Zainab",
+        "Al-Husayn"
+      ]
+    },
+    "correct": {
+      "bs": [
+        "El-Hasan",
+        "El-Husejn",
+        "Zejneb",
+        "Ummu Kulsum"
+      ],
+      "de": [
+        "Al-Hasan",
+        "Al-Husayn",
+        "Zainab",
+        "Umm Kulthum"
+      ]
+    },
+    "explanation": {
+      "bs": "Fatima r.a. je rodila Aliji r.a. četvero djece: dva sina - El-Hasana i El-Husejna, i dvije kćerke - Zejnebu i Ummu Kulsum. El-Hasan i El-Husejn su bili veoma dragi Resulullahu ﷺ.",
+      "de": "Fatima r.a. gebar Ali r.a. vier Kinder: zwei Söhne - Al-Hasan und Al-Husayn, und zwei Töchter - Zainab und Umm Kulthum. Al-Hasan und Al-Husayn waren dem Gesandten Allahs ﷺ sehr lieb."
+    }
+  },
+  {
+    "quiz_id": 10,
+    "question_id": 83,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Resulullahova svojstva",
+    "question": {
+      "bs": "Enes r.a. je rekao da nikada nije dotaknuo svilu mekšu od Resulullahove ﷺ ruke.",
+      "de": "Anas r.a. sagte, er habe nie Seide berührt, die weicher war als die Hand des Gesandten Allahs ﷺ."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Enes r.a. je rekao: 'Nisam nikada dotaknuo ni svilu ni kadifu mekšu od Resulullahove ﷺ ruke. Nikada nisam osjetio miris znoja, niti kakvog zadaha.' U drugoj predaji stoji: 'Ni amber ni misk nisu bolje mirisali od mirisa Resulullahove ﷺ kože.'",
+      "de": "Richtig! Anas r.a. sagte: 'Ich habe nie Seide oder Samt berührt, die weicher waren als die Hand des Gesandten Allahs ﷺ. Ich habe nie den Geruch von Schweiss oder irgendeinen üblen Geruch wahrgenommen.' In einer anderen Überlieferung heisst es: 'Weder Amber noch Moschus rochen besser als der Duft der Haut des Gesandten Allahs ﷺ.'"
+    }
+  },
+  {
+    "quiz_id": 10,
+    "question_id": 84,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Resulullahova svojstva",
+    "question": {
+      "bs": "Kako je Ummu Me'bed el-Huzaijja opisala Resulullaha ﷺ?",
+      "de": "Wie beschrieb Umm Ma'bad al-Khuza'iyya den Gesandten Allahs ﷺ?"
+    },
+    "options": {
+      "bs": [
+        "'Običan čovjek'",
+        "'Nenadmašna čistoća. Plemenitog, svijetlog i vedrog lica. Kad šuti, nadmašuje ga dostojanstvo, a kada govori nadahnjuje ga blistavost'",
+        "'Nizak i punačak'",
+        "'Visok i mršav'"
+      ],
+      "de": [
+        "'Ein gewöhnlicher Mann'",
+        "'Unübertroffene Reinheit. Von edlem, hellem und heiterem Gesicht. Wenn er schweigt, überragt ihn Würde, und wenn er spricht, inspiriert ihn Brillanz'",
+        "'Klein und pummelig'",
+        "'Gross und dünn'"
+      ]
+    },
+    "correct": {
+      "bs": "'Nenadmašna čistoća. Plemenitog, svijetlog i vedrog lica. Kad šuti, nadmašuje ga dostojanstvo, a kada govori nadahnjuje ga blistavost'",
+      "de": "'Unübertroffene Reinheit. Von edlem, hellem und heiterem Gesicht. Wenn er schweigt, überragt ihn Würde, und wenn er spricht, inspiriert ihn Brillanz'"
+    },
+    "explanation": {
+      "bs": "Ummu Me'bed el-Huzaijja je opisala Resulullaha ﷺ svome mužu kada je prošao pokraj njenog šatora u vrijeme Hidžre: 'Nenadmašna čistoća. Plemenitog, svijetlog i vedrog lica. Najljepši čovjek iz daljine, a još ljepši iz blizine. Dar govora kao niska perli. Od trojice najoćitiji.'",
+      "de": "Umm Ma'bad al-Khuza'iyya beschrieb den Gesandten Allahs ﷺ ihrem Ehemann, als er während der Hidschra an ihrem Zelt vorbeikam: 'Unübertroffene Reinheit. Von edlem, hellem und heiterem Gesicht. Der schönste Mann aus der Ferne und noch schöner aus der Nähe. Die Gabe der Rede wie eine Perlenkette. Von dreien der auffälligste.'"
+    }
+  },
+  {
+    "quiz_id": 10,
+    "question_id": 85,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Resulullahova svojstva",
+    "question": {
+      "bs": "Šta je El-Berra r.a. rekao kada je upitan da li je Resulullahovo ﷺ lice bilo kao sablja (sjajno)?",
+      "de": "Was sagte Al-Bara' r.a., als er gefragt wurde, ob das Gesicht des Gesandten Allahs ﷺ wie ein Schwert (glänzend) war?"
+    },
+    "options": {
+      "bs": [
+        "'Ne, već kao mjesec'",
+        "'Kao zvijezda'",
+        "'Da, kao sablja'",
+        "'Kao sunce'"
+      ],
+      "de": [
+        "'Nein, sondern wie der Mond'",
+        "'Wie ein Stern'",
+        "'Ja, wie ein Schwert'",
+        "'Wie die Sonne'"
+      ]
+    },
+    "correct": {
+      "bs": "'Ne, već kao mjesec'",
+      "de": "'Nein, sondern wie der Mond'"
+    },
+    "explanation": {
+      "bs": "El-Berra r.a. je rekao: 'Resulullah ﷺ je imao najljepše lice i najljepše vladanje.' Kada je upitan: 'Da li je imao lice kao sablja (sjajno)?', odgovorio je: 'Ne, već kao mjesec.' U drugoj verziji stoji: 'Imao je zaobljeno lice.'",
+      "de": "Al-Bara' r.a. sagte: 'Der Gesandte Allahs ﷺ hatte das schönste Gesicht und das beste Benehmen.' Als er gefragt wurde: 'War sein Gesicht wie ein Schwert (glänzend)?', antwortete er: 'Nein, sondern wie der Mond.' In einer anderen Version heisst es: 'Er hatte ein rundes Gesicht.'"
+    }
+  },
+  {
+    "quiz_id": 10,
+    "question_id": 86,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Resulullahova svojstva",
+    "question": {
+      "bs": "Šta je Resulullah ﷺ imao između pleća?",
+      "de": "Was hatte der Gesandte Allahs ﷺ zwischen seinen Schulterblättern?"
+    },
+    "options": {
+      "bs": [
+        "Poslanički pečat (hatemu-n-nubuvve)",
+        "Madež",
+        "Ništa posebno",
+        "Ožiljak"
+      ],
+      "de": [
+        "Das Siegel des Prophetentums (Khatam an-Nubuwwa)",
+        "Ein Muttermal",
+        "Nichts Besonderes",
+        "Eine Narbe"
+      ]
+    },
+    "correct": {
+      "bs": "Poslanički pečat (hatemu-n-nubuvve)",
+      "de": "Das Siegel des Prophetentums (Khatam an-Nubuwwa)"
+    },
+    "explanation": {
+      "bs": "Alija r.a. je opisao: 'Između pleća imao je poslanički biljeg - pečat, isti kao što su imali prethodni poslanici.' Bio je u veličini golubijeg jajeta, boje tijela, bliže lijevoj pleći, poput malo veće leblebije. Ovo je bio fizički znak poslanstva.",
+      "de": "Ali r.a. beschrieb: 'Zwischen seinen Schulterblättern hatte er das Prophetenzeichen - das Siegel, dasselbe wie es frühere Propheten hatten.' Es war so gross wie ein Taubenei, hautfarben, näher am linken Schulterblatt, wie eine etwas grössere Kichererbse. Dies war das physische Zeichen des Prophetentums."
+    }
+  },
+  {
+    "quiz_id": 10,
+    "question_id": 87,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Resulullahova svojstva",
+    "question": {
+      "bs": "Resulullah ﷺ je govorio s arapskim plemenima na njihovim dijalektima.",
+      "de": "Der Gesandte Allahs ﷺ sprach mit den arabischen Stämmen in ihren Dialekten."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Resulullah ﷺ se odlikovao čistim arapskim lijepim izražavanjem. Poznavao je arapske dijalekte i svakom plemenu se obraćao na njegovom jeziku. Raspravljao bi s njima na njihovom jeziku. Govor mu je bio rječit, jasan, originalan i mudar.",
+      "de": "Richtig! Der Gesandte Allahs ﷺ zeichnete sich durch einen reinen, schönen arabischen Ausdruck aus. Er kannte die arabischen Dialekte und wandte sich an jeden Stamm in seiner Sprache. Er diskutierte mit ihnen in ihrer Sprache. Seine Rede war eloquent, klar, originell und weise."
+    }
+  },
+  {
+    "quiz_id": 10,
+    "question_id": 88,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Resulullahova etika",
+    "question": {
+      "bs": "Šta je Resulullah ﷺ činio kada bi se naljutio?",
+      "de": "Was tat der Gesandte Allahs ﷺ, wenn er wütend wurde?"
+    },
+    "options": {
+      "bs": [
+        "Vikao bi",
+        "Lice bi mu pocrvenjelo, ali se suzdržavao",
+        "Šutio bi danima",
+        "Udarao bi"
+      ],
+      "de": [
+        "Er würde schreien",
+        "Sein Gesicht würde rot werden, aber er beherrschte sich",
+        "Er würde tagelang schweigen",
+        "Er würde schlagen"
+      ]
+    },
+    "correct": {
+      "bs": "Lice bi mu pocrvenjelo, ali se suzdržavao",
+      "de": "Sein Gesicht würde rot werden, aber er beherrschte sich"
+    },
+    "explanation": {
+      "bs": "Kada bi se Resulullah ﷺ naljutio, lice bi mu pocrvenjelo, kao da je nar istisnuo na njegove obraze boju. Međutim, suzdržavao se od ružnih riječi i postupaka. Kada bi se obradovao, obarao bi pogled. Osmijehom je uvijek pobjeđivao smijeh.",
+      "de": "Wenn der Gesandte Allahs ﷺ wütend wurde, rötete sich sein Gesicht, als hätte ein Granatapfel Farbe auf seine Wangen gedrückt. Jedoch hielt er sich von hässlichen Worten und Taten zurück. Wenn er sich freute, senkte er den Blick. Mit einem Lächeln besiegte er immer das Lachen."
+    }
+  },
+  {
+    "quiz_id": 10,
+    "question_id": 89,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Resulullahova etika",
+    "question": {
+      "bs": "Kako se Resulullah ﷺ ponašao prema svojim drugovima na sjedeljkama?",
+      "de": "Wie verhielt sich der Gesandte Allahs ﷺ gegenüber seinen Gefährten bei Zusammenkünften?"
+    },
+    "options": {
+      "bs": [
+        "Sjedio bi na prvo prazno mjesto i uvaŽavao svakoga podjednako",
+        "Sjedio bi na posebno mjesto",
+        "Stajao bi",
+        "Odlazio bi odmah"
+      ],
+      "de": [
+        "Er setzte sich auf den ersten freien Platz und würdigte jeden gleichermassen",
+        "Er setzte sich auf einen besonderen Platz",
+        "Er stand",
+        "Er ging sofort"
+      ]
+    },
+    "correct": {
+      "bs": "Sjedio bi na prvo prazno mjesto i uvaŽavao svakoga podjednako",
+      "de": "Er setzte sich auf den ersten freien Platz und würdigte jeden gleichermassen"
+    },
+    "explanation": {
+      "bs": "Resulullah ﷺ nije imao određeno mjesto za sjedenje. Kada dođe u neko društvo, sjeo bi na prvo prazno mjesto. Tako je naređivao i drugima. Uvaažavao je svakoga na sjedeljci i svakom posvećivao dužnu pažnju, da ne bi ko pomislio da je manje važan od drugog.",
+      "de": "Der Gesandte Allahs ﷺ hatte keinen bestimmten Platz zum Sitzen. Wenn er zu einer Versammlung kam, setzte er sich auf den ersten freien Platz. So befahl er auch anderen. Er würdigte jeden bei der Versammlung und schenkte jedem gebührende Aufmerksamkeit, damit niemand denke, er sei weniger wichtig als ein anderer."
+    }
+  },
+  {
+    "quiz_id": 10,
+    "question_id": 90,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Resulullahova etika",
+    "question": {
+      "bs": "Šta je Resulullah ﷺ rekao o gostoprimstvu prema Ebu ed-Dabibu iz plemena Belijja?",
+      "de": "Was sagte der Gesandte Allahs ﷺ über Gastfreundschaft zu Abu ad-Dabib vom Stamm Baliyya?"
+    },
+    "options": {
+      "bs": [
+        "'Mjesec dana'",
+        "'Tri dana' je trajanje gostoprimstva, a sve dobročinstvo je sadaka",
+        "'Sedam dana'",
+        "'Jedan dan'"
+      ],
+      "de": [
+        "'Ein Monat'",
+        "'Drei Tage' ist die Dauer der Gastfreundschaft, und jede gute Tat ist Sadaqa",
+        "'Sieben Tage'",
+        "'Ein Tag'"
+      ]
+    },
+    "correct": {
+      "bs": "'Tri dana' je trajanje gostoprimstva, a sve dobročinstvo je sadaka",
+      "de": "'Drei Tage' ist die Dauer der Gastfreundschaft, und jede gute Tat ist Sadaqa"
+    },
+    "explanation": {
+      "bs": "Delegacija Belijja je došla u Medinu u rebiul-evelu 9. g.H. Njihov poglavar Ebu ed-Dabib je pitao: 'Da li za gostoprimstvo postoji nagrada?' Resulullah ﷺ je odgovorio: 'Da, a i svako dobročinstvo koje učiniš, bilo prema bogatom ili siromašnom, sadaka je.' Na pitanje koliko traje gostoprimstvo, odgovorio je: 'Tri dana.'",
+      "de": "Die Delegation der Baliyya kam im Rabi al-Awwal 9 n.H. nach Medina. Ihr Häuptling Abu ad-Dabib fragte: 'Gibt es eine Belohnung für Gastfreundschaft?' Der Gesandte Allahs ﷺ antwortete: 'Ja, und jede gute Tat, die du tust, sei es gegenüber dem Reichen oder dem Armen, ist Sadaqa.' Auf die Frage, wie lange Gastfreundschaft dauert, antwortete er: 'Drei Tage.'"
+    }
+  },
+  {
+    "quiz_id": 10,
+    "question_id": 91,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "source_section": "Kur'anski opis",
+    "question": {
+      "bs": "Koji ajet opisuje Resulullahov ﷺ ahlak (ćud)?",
+      "de": "Welcher Vers beschreibt den Charakter (Akhlaq) des Gesandten Allahs ﷺ?"
+    },
+    "options": {
+      "bs": [
+        "'Hvala Allahu, Gospodaru svjetova' (1:2)",
+        "'Čitaj u ime Gospodara tvoga' (96:1)",
+        "'Ti si, zaista, najljepše ćudi' (68:4)",
+        "'Reci: On je Allah, Jedan' (112:1)"
+      ],
+      "de": [
+        "'Lob sei Allah, dem Herrn der Welten' (1:2)",
+        "'Lies im Namen deines Herrn' (96:1)",
+        "'Du besitzt wahrlich grossartige Charaktereigenschaften' (68:4)",
+        "'Sprich: Er ist Allah, der Eine' (112:1)"
+      ]
+    },
+    "correct": {
+      "bs": "'Ti si, zaista, najljepše ćudi' (68:4)",
+      "de": "'Du besitzt wahrlich grossartige Charaktereigenschaften' (68:4)"
+    },
+    "explanation": {
+      "bs": "Allah opisuje Resulullaha ﷺ u Kur'anu: 'Ti si, zaista, najljepše ćudi.' (68:4) Ovo pokazuje da je Resulullahov ﷺ ahlak (karakter) bio na najvišem stepenu. Odgojio ga je njegov Gospodar najljepšim odgojem.",
+      "de": "Allah beschreibt den Gesandten Allahs ﷺ im Koran: 'Du besitzt wahrlich grossartige Charaktereigenschaften.' (68:4) Dies zeigt, dass der Charakter (Akhlaq) des Gesandten Allahs ﷺ auf der höchsten Stufe war. Sein Herr erzog ihn mit der besten Erziehung."
+    }
+  },
+  {
+    "quiz_id": 10,
+    "question_id": 92,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Život Resulullaha",
+    "question": {
+      "bs": "Aiša r.a. je rekla da se u Resulullahovu ﷺ kući rijetko palila vatra za kuhanje - možda dva, tri puta u dva mjeseca.",
+      "de": "Aischa r.a. sagte, dass im Haus des Gesandten Allahs ﷺ selten Feuer zum Kochen angezündet wurde - vielleicht zwei oder dreimal in zwei Monaten."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Aiša r.a. je rekla: 'U Resulullahove ﷺ kuće vatra se rijetko palila, možda dva, tri puta u dva mjeseca.' Kada je Urve upitao čime ih je hranio, odgovorila je: 'Datule i voda.' Enes r.a. je dodao da Resulullah ﷺ nikada nije vidio mekku pogaču ili cijelu pečenu ovcu.",
+      "de": "Richtig! Aischa r.a. sagte: 'Im Haus des Gesandten Allahs ﷺ wurde selten Feuer angezündet, vielleicht zwei oder dreimal in zwei Monaten.' Als Urwa fragte, womit er sie ernährte, antwortete sie: 'Datteln und Wasser.' Anas r.a. fügte hinzu, dass der Gesandte Allahs ﷺ nie ein weiches Brot oder ein ganzes gebratenes Schaf gesehen hatte."
+    }
+  },
+  {
+    "quiz_id": 10,
+    "question_id": 93,
+    "type": "ordering",
+    "difficulty": "hard",
+    "source_section": "Pregled sire",
+    "question": {
+      "bs": "Poredaj faze života Resulullaha ﷺ po redoslijedu:",
+      "de": "Ordne die Lebensphasen des Gesandten Allahs ﷺ in der richtigen Reihenfolge:"
+    },
+    "options": {
+      "bs": [
+        "Mekanski period poslanstva (40-53)",
+        "Djetinjstvo i mladost (0-40)",
+        "Medinski period poslanstva (53-63)",
+        "Oprosni hadž i preseljenje"
+      ],
+      "de": [
+        "Mekkanische Periode des Prophetentums (40-53)",
+        "Kindheit und Jugend (0-40)",
+        "Medinensische Periode des Prophetentums (53-63)",
+        "Abschiedshadsch und Ableben"
+      ]
+    },
+    "correct": {
+      "bs": [
+        "Djetinjstvo i mladost (0-40)",
+        "Mekanski period poslanstva (40-53)",
+        "Medinski period poslanstva (53-63)",
+        "Oprosni hadž i preseljenje"
+      ],
+      "de": [
+        "Kindheit und Jugend (0-40)",
+        "Mekkanische Periode des Prophetentums (40-53)",
+        "Medinensische Periode des Prophetentums (53-63)",
+        "Abschiedshadsch und Ableben"
+      ]
+    },
+    "explanation": {
+      "bs": "Život Resulullaha ﷺ se dijeli na: 1) Djetinjstvo i mladost - prvih 40 godina prije poslanstva, 2) Mekanski period - 13 godina pozivanja u islam u Meki (40-53 godine), 3) Medinski period - 10 godina u Medini (53-63 godine), 4) Oprosni hadž i preseljenje u 63. godini.",
+      "de": "Das Leben des Gesandten Allahs ﷺ teilt sich in: 1) Kindheit und Jugend - die ersten 40 Jahre vor dem Prophetentum, 2) Mekkanische Periode - 13 Jahre des Rufes zum Islam in Mekka (40-53 Jahre), 3) Medinensische Periode - 10 Jahre in Medina (53-63 Jahre), 4) Abschiedshadsch und Ableben im 63. Lebensjahr."
+    }
+  },
+  {
+    "quiz_id": 10,
+    "question_id": 94,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Pregled sire",
+    "question": {
+      "bs": "Koliko je Resulullah ﷺ proveo kao poslanik u Meki i Medini?",
+      "de": "Wie lange war der Gesandte Allahs ﷺ als Prophet in Mekka und Medina?"
+    },
+    "options": {
+      "bs": [
+        "13 godina u Meki, 10 godina u Medini",
+        "20 godina u Meki, 3 godine u Medini",
+        "10 godina u Meki, 13 godina u Medini",
+        "15 godina u Meki, 8 godina u Medini"
+      ],
+      "de": [
+        "13 Jahre in Mekka, 10 Jahre in Medina",
+        "20 Jahre in Mekka, 3 Jahre in Medina",
+        "10 Jahre in Mekka, 13 Jahre in Medina",
+        "15 Jahre in Mekka, 8 Jahre in Medina"
+      ]
+    },
+    "correct": {
+      "bs": "13 godina u Meki, 10 godina u Medini",
+      "de": "13 Jahre in Mekka, 10 Jahre in Medina"
+    },
+    "explanation": {
+      "bs": "Resulullah ﷺ je proveo 13 godina kao poslanik u Meki (od 40. do 53. godine života) i 10 godina u Medini (od 53. do 63. godine života). Ukupno je trajanje poslanstva bilo 23 godine.",
+      "de": "Der Gesandte Allahs ﷺ verbrachte 13 Jahre als Prophet in Mekka (vom 40. bis zum 53. Lebensjahr) und 10 Jahre in Medina (vom 53. bis zum 63. Lebensjahr). Die Gesamtdauer des Prophetentums betrug 23 Jahre."
+    }
+  },
+  {
+    "quiz_id": 10,
+    "question_id": 95,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Statistika bitaka",
+    "question": {
+      "bs": "U koliko je vojnih pohoda (gazva) lično učestvovao Resulullah ﷺ?",
+      "de": "An wie vielen Feldzügen (Ghazwa) nahm der Gesandte Allahs ﷺ persönlich teil?"
+    },
+    "options": {
+      "bs": [
+        "10 pohoda",
+        "40 pohoda",
+        "27 pohoda",
+        "15 pohoda"
+      ],
+      "de": [
+        "10 Feldzüge",
+        "40 Feldzüge",
+        "27 Feldzüge",
+        "15 Feldzüge"
+      ]
+    },
+    "correct": {
+      "bs": "27 pohoda",
+      "de": "27 Feldzüge"
+    },
+    "explanation": {
+      "bs": "Resulullah ﷺ je lično učestvovao u 27 vojnih pohoda (gazva). U 9 od njih je došlo do direktnog sukoba. Pored toga, slao je mnoge izvidnice (serijje) kojima nije lično prisustvovao.",
+      "de": "Der Gesandte Allahs ﷺ nahm persönlich an 27 Feldzügen (Ghazwa) teil. In 9 davon kam es zu direkten Kämpfen. Darüber hinaus sandte er viele Erkundungstrupps (Sariyya), an denen er nicht persönlich teilnahm."
+    }
+  },
+  {
+    "quiz_id": 10,
+    "question_id": 96,
+    "type": "single_choice",
+    "difficulty": "hard",
+    "source_section": "Statistika",
+    "question": {
+      "bs": "U koliko je bitaka Resulullah ﷺ direktno ratovao?",
+      "de": "In wie vielen Schlachten kämpfte der Gesandte Allahs ﷺ direkt?"
+    },
+    "options": {
+      "bs": [
+        "9 bitaka",
+        "5 bitaka",
+        "27 bitaka",
+        "15 bitaka"
+      ],
+      "de": [
+        "9 Schlachten",
+        "5 Schlachten",
+        "27 Schlachten",
+        "15 Schlachten"
+      ]
+    },
+    "correct": {
+      "bs": "9 bitaka",
+      "de": "9 Schlachten"
+    },
+    "explanation": {
+      "bs": "Od 27 vojnih pohoda u kojima je Resulullah ﷺ lično učestvovao, u 9 je došlo do direktnog sukoba: Bedr, Uhud, Hendek (Ahzab), Benu Kurejza, Benu Mustalak, Hajber, oslobođenje Meke, Hunejn i Taif.",
+      "de": "Von den 27 Feldzügen, an denen der Gesandte Allahs ﷺ persönlich teilnahm, kam es in 9 zu direkten Kämpfen: Badr, Uhud, Khandaq (Ahzab), Banu Quraiza, Banu Mustaliq, Khaybar, Eroberung Mekkas, Hunayn und Taif."
+    }
+  },
+  {
+    "quiz_id": 10,
+    "question_id": 97,
+    "type": "true_false",
+    "difficulty": "medium",
+    "source_section": "Zaključak sire",
+    "question": {
+      "bs": "Allah je usavršio vjeru islam na dan Arefata na Oprosnom hadžu.",
+      "de": "Allah vervollkommnete die Religion des Islam am Tag von Arafat bei der Abschiedshadsch."
+    },
+    "correct": true,
+    "explanation": {
+      "bs": "Tačno! Na dan Arefata, 9. zul-hidžeta 10. g.H., Allah je objavio: 'Danas sam vam vašu vjeru usavršio i blagodat Svoju prema vama upotpunio i zadovoljan sam da vam islam bude vjera.' (5:3) Ovo je bio znak da je misija Resulullaha ﷺ završena.",
+      "de": "Richtig! Am Tag von Arafat, dem 9. Dhul-Hiddscha 10 n.H., offenbarte Allah: 'Heute habe ich euch eure Religion vervollkommnet und Meine Gnade an euch vollendet und bin zufrieden, dass der Islam eure Religion sei.' (5:3) Dies war ein Zeichen, dass die Mission des Gesandten Allahs ﷺ vollendet war."
+    }
+  },
+  {
+    "quiz_id": 10,
+    "question_id": 98,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Zaključak sire",
+    "question": {
+      "bs": "Šta je znak uspjeha Resulullahove ﷺ misije nakon samo 23 godine poslanstva?",
+      "de": "Was ist das Zeichen des Erfolgs der Mission des Gesandten Allahs ﷺ nach nur 23 Jahren Prophetentum?"
+    },
+    "options": {
+      "bs": [
+        "Bogatstvo muslimana",
+        "Osvajanje Perzije",
+        "Osvajanje Rima",
+        "124.000-144.000 hadžija na Oprosnom hadžu, islam dominantan na cijelom Arapskom poluotoku"
+      ],
+      "de": [
+        "Reichtum der Muslime",
+        "Eroberung Persiens",
+        "Eroberung Roms",
+        "124.000-144.000 Pilger bei der Abschiedshadsch, Islam dominant auf der gesamten Arabischen Halbinsel"
+      ]
+    },
+    "correct": {
+      "bs": "124.000-144.000 hadžija na Oprosnom hadžu, islam dominantan na cijelom Arapskom poluotoku",
+      "de": "124.000-144.000 Pilger bei der Abschiedshadsch, Islam dominant auf der gesamten Arabischen Halbinsel"
+    },
+    "explanation": {
+      "bs": "Za samo 23 godine, od početka poslanstva do Oprosnog hadža, islam se proširio cijelim Arapskim poluotokom. Na Oprosnom hadžu je bilo između 124.000 i 144.000 hadžija. Ljudi su ulazili u islam u skupinama, kao što je Allah rekao u suri En-Nasr.",
+      "de": "In nur 23 Jahren, vom Beginn des Prophetentums bis zur Abschiedshadsch, breitete sich der Islam über die gesamte Arabische Halbinsel aus. Bei der Abschiedshadsch gab es zwischen 124.000 und 144.000 Pilger. Die Menschen traten in Scharen in den Islam ein, wie Allah in Sure An-Nasr sagte."
+    }
+  },
+  {
+    "quiz_id": 10,
+    "question_id": 99,
+    "type": "single_choice",
+    "difficulty": "easy",
+    "source_section": "Zaključak sire",
+    "question": {
+      "bs": "Ko je bio prvi halifa nakon Resulullaha ﷺ?",
+      "de": "Wer war der erste Kalif nach dem Gesandten Allahs ﷺ?"
+    },
+    "options": {
+      "bs": [
+        "Omer bin el-Hattab r.a.",
+        "Alija bin Ebi Talib r.a.",
+        "Ebu Bekr es-Siddik r.a.",
+        "Osman bin Affan r.a."
+      ],
+      "de": [
+        "Omar bin al-Khattab r.a.",
+        "Ali bin Abi Talib r.a.",
+        "Abu Bakr as-Siddiq r.a.",
+        "Uthman bin Affan r.a."
+      ]
+    },
+    "correct": {
+      "bs": "Ebu Bekr es-Siddik r.a.",
+      "de": "Abu Bakr as-Siddiq r.a."
+    },
+    "explanation": {
+      "bs": "Ebu Bekr es-Siddik r.a. je bio prvi halifa nakon Resulullaha ﷺ. Izabran je u sekifi Benu Saideta na dan preseljenja Resulullaha ﷺ. Resulullah ﷺ je dao mnoge naznake o njegovoj vrlini, uključujući naređenje da on predvodi namaze i da njegova vrata budu jedina otvorena prema mesdžidu.",
+      "de": "Abu Bakr as-Siddiq r.a. war der erste Kalif nach dem Gesandten Allahs ﷺ. Er wurde in Saqifa Bani Sa'ida am Tag des Ablebens des Gesandten Allahs ﷺ gewählt. Der Gesandte Allahs ﷺ gab viele Hinweise auf seine Tugend, einschliesslich des Befehls, dass er die Gebete leiten und seine Tür die einzige zur Moschee geöffnete sein sollte."
+    }
+  },
+  {
+    "quiz_id": 10,
+    "question_id": 100,
+    "type": "single_choice",
+    "difficulty": "medium",
+    "source_section": "Zaključak sire",
+    "question": {
+      "bs": "Kako se završava salavat na Resulullaha ﷺ koji učimo u namazu?",
+      "de": "Wie endet der Segensgruss auf den Gesandten Allahs ﷺ, den wir im Gebet sprechen?"
+    },
+    "options": {
+      "bs": [
+        "'Amin'",
+        "'Subhanallah'",
+        "'Elhamdulillah'",
+        "'...kao što si blagoslovio Ibrahima a.s. i porodicu Ibrahima a.s. Ti si hvaljen i slavljen'"
+      ],
+      "de": [
+        "'Amin'",
+        "'Subhanallah'",
+        "'Alhamdulillah'",
+        "'...wie Du Ibrahim a.s. und die Familie Ibrahims a.s. gesegnet hast. Du bist gepriesen und verherrlicht'"
+      ]
+    },
+    "correct": {
+      "bs": "'...kao što si blagoslovio Ibrahima a.s. i porodicu Ibrahima a.s. Ti si hvaljen i slavljen'",
+      "de": "'...wie Du Ibrahim a.s. und die Familie Ibrahims a.s. gesegnet hast. Du bist gepriesen und verherrlicht'"
+    },
+    "explanation": {
+      "bs": "Salavat na Resulullaha ﷺ završava riječima: 'Gospodaru moj, neka je blagoslov Tvoj na Muhammeda a.s. i na porodicu Muhammeda a.s., kao što si blagoslovio Ibrahima a.s. i porodicu Ibrahima a.s. Ti si hvaljen i slavljen.' Ovo je dio tešehhuda koji učimo na svakom namazu.",
+      "de": "Der Segensgruss auf den Gesandten Allahs ﷺ endet mit den Worten: 'Mein Herr, segne Muhammad a.s. und die Familie Muhammads a.s., wie Du Ibrahim a.s. und die Familie Ibrahims a.s. gesegnet hast. Du bist gepriesen und verherrlicht.' Dies ist Teil des Taschahhud, den wir bei jedem Gebet sprechen."
+    }
+  }
+]
