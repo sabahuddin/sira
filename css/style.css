@@ -20,6 +20,10 @@
     --shadow: 0 4px 6px rgba(35, 122, 122, 0.08);
     --shadow-lg: 0 10px 25px rgba(35, 122, 122, 0.15);
     --border-radius: 16px;
+    /* Aliasi koje koriste quiz.css i flashcards.css */
+    --radius-sm: 8px;
+    --radius-md: 12px;
+    --radius-lg: 16px;
     --spacing-xs: 0.5rem;
     --spacing-sm: 0.75rem;
     --spacing-md: 1rem;
