@@ -1633,6 +1633,13 @@
 
 /* ===== RESPONSIVE ===== */
 @media (max-width: 768px) {
+    /* Spriječi da pitanja i progress traka idu do same ivice ekrana */
+    .progress-container,
+    .question-container {
+        padding-left: var(--spacing-sm);
+        padding-right: var(--spacing-sm);
+    }
+
     .quiz-header-content {
         flex-direction: column;
         gap: var(--spacing-sm);
